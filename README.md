@@ -1,6 +1,4 @@
 ## giCentre Data Repository
 
-> You can use the [editor on GitHub](https://github.com/gicentre/data/edit/master/README.md) to maintain and preview the content.
-
-> Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Data in this repo can be accessed directly with the url https://gicentre.github.io/data/XXX where `XXX` is the path to the file you wish to load.
 
