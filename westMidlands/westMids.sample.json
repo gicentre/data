@@ -1,0 +1,7 @@
+[
+{"id":"1", "region":"BEDA", "gridX":16, "gridY":5},
+{"id":"2", "region":"BEDB", "gridX":14, "gridY":4},
+{"id":"3", "region":"BEDC", "gridX":15, "gridY":5},
+{"id":"4", "region":"BEDD", "gridX":17, "gridY":6},
+{"id":"5", "region":"BEEA", "gridX":16, "gridY":10}
+]

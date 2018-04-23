@@ -1,0 +1,1741 @@
+id	gridX	gridY	NPU	opacity
+1	16	5	Birmingham East	10
+2	14	4	Birmingham East	10
+3	15	5	Birmingham East	10
+4	17	6	Birmingham East	10
+5	16	10	Birmingham East	10
+6	14	9	Birmingham East	10
+7	15	9	Birmingham East	10
+8	16	9	Birmingham East	10
+9	16	8	Birmingham East	10
+10	17	7	Birmingham East	10
+11	20	8	Birmingham East	10
+12	16	6	Birmingham East	10
+13	15	3	Birmingham East	10
+14	17	5	Birmingham East	10
+15	16	4	Birmingham East	10
+16	15	4	Birmingham East	10
+17	17	9	Birmingham East	10
+18	19	8	Birmingham East	10
+19	17	8	Birmingham East	10
+20	18	7	Birmingham East	10
+21	14	7	Birmingham West	10
+22	15	7	Birmingham West	10
+23	14	8	Birmingham West	10
+24	13	8	Birmingham West	10
+25	9	9	Birmingham West	10
+26	12	8	Birmingham West	10
+27	11	8	Birmingham West	10
+28	10	9	Birmingham West	10
+29	14	6	Birmingham West	10
+30	15	8	Birmingham West	10
+31	15	6	Birmingham West	10
+32	16	7	Birmingham West	10
+33	13	6	Birmingham West	10
+34	13	7	Birmingham West	10
+35	12	6	Birmingham West	10
+36	12	7	Birmingham West	10
+37	13	10	Birmingham West	10
+38	8	10	Birmingham West	10
+39	12	10	Birmingham West	10
+40	11	9	Birmingham West	10
+41	12	5	Birmingham West	10
+42	13	5	Birmingham West	10
+43	13	4	Birmingham West	10
+44	14	5	Birmingham West	10
+45	15	10	Birmingham West	10
+46	12	9	Birmingham West	10
+47	14	10	Birmingham West	10
+48	13	9	Birmingham West	10
+49	25	9	Coventry	10
+50	25	7	Coventry	10
+51	27	8	Coventry	10
+52	26	7	Coventry	10
+53	26	9	Coventry	10
+54	26	8	Coventry	10
+55	27	9	Coventry	10
+56	23	7	Coventry	10
+57	26	10	Coventry	10
+58	25	10	Coventry	10
+59	24	9	Coventry	10
+60	24	7	Coventry	10
+61	25	8	Coventry	10
+62	24	8	Coventry	10
+63	24	10	Coventry	10
+64	23	10	Coventry	10
+65	23	9	Coventry	10
+66	23	8	Coventry	10
+67	7	8	Dudley	10
+68	6	5	Dudley	10
+69	6	4	Dudley	10
+70	6	8	Dudley	10
+71	3	5	Dudley	10
+72	8	8	Dudley	10
+73	8	9	Dudley	10
+74	7	9	Dudley	10
+75	5	6	Dudley	10
+76	5	7	Dudley	10
+77	4	5	Dudley	10
+78	4	6	Dudley	10
+79	6	6	Dudley	10
+80	5	5	Dudley	10
+81	3	7	Dudley	10
+82	4	7	Dudley	10
+83	3	6	Dudley	10
+84	2	5	Dudley	10
+85	2	6	Dudley	10
+86	5	8	Dudley	10
+87	3	8	Dudley	10
+88	4	8	Dudley	10
+89	2	8	Dudley	10
+90	2	7	Dudley	10
+91	22	9	Solihull	10
+92	21	9	Solihull	10
+93	18	11	Solihull	10
+94	20	7	Solihull	10
+95	22	7	Solihull	10
+96	20	10	Solihull	10
+97	21	8	Solihull	10
+98	21	10	Solihull	10
+99	22	10	Solihull	10
+100	22	8	Solihull	10
+101	21	7	Solihull	10
+102	20	9	Solihull	10
+103	18	8	Solihull	10
+104	18	9	Solihull	10
+105	17	10	Solihull	10
+106	18	10	Solihull	10
+107	15	11	Solihull	10
+108	19	9	Solihull	10
+109	19	10	Solihull	10
+110	11	4	Sandwell	10
+111	10	4	Sandwell	10
+112	12	3	Sandwell	10
+113	8	5	Sandwell	10
+114	9	6	Sandwell	10
+115	10	5	Sandwell	10
+116	12	4	Sandwell	10
+117	7	4	Sandwell	10
+118	7	5	Sandwell	10
+119	9	4	Sandwell	10
+120	9	5	Sandwell	10
+121	11	5	Sandwell	10
+122	10	8	Sandwell	10
+123	8	7	Sandwell	10
+124	10	7	Sandwell	10
+125	6	7	Sandwell	10
+126	9	7	Sandwell	10
+127	9	8	Sandwell	10
+128	8	6	Sandwell	10
+129	7	7	Sandwell	10
+130	11	7	Sandwell	10
+131	11	6	Sandwell	10
+132	10	6	Sandwell	10
+133	7	6	Sandwell	10
+134	10	2	Walsall	10
+135	10	1	Walsall	10
+136	9	0	Walsall	10
+137	9	1	Walsall	10
+138	11	3	Walsall	10
+139	10	3	Walsall	10
+140	9	3	Walsall	10
+141	14	2	Walsall	10
+142	13	2	Walsall	10
+143	11	1	Walsall	10
+144	10	0	Walsall	10
+145	13	3	Walsall	10
+146	12	2	Walsall	10
+147	14	3	Walsall	10
+148	9	2	Walsall	10
+149	8	4	Walsall	10
+150	8	2	Walsall	10
+151	8	1	Walsall	10
+152	8	3	Walsall	10
+153	11	2	Walsall	10
+154	4	3	Wolverhampton	10
+155	7	3	Wolverhampton	10
+156	6	3	Wolverhampton	10
+157	3	4	Wolverhampton	10
+158	4	1	Wolverhampton	10
+159	4	2	Wolverhampton	10
+160	5	3	Wolverhampton	10
+161	5	4	Wolverhampton	10
+162	6	2	Wolverhampton	10
+163	3	3	Wolverhampton	10
+164	5	2	Wolverhampton	10
+165	2	3	Wolverhampton	10
+166	3	1	Wolverhampton	10
+167	2	2	Wolverhampton	10
+168	2	4	Wolverhampton	10
+169	4	4	Wolverhampton	10
+170	3	2	Wolverhampton	10
+171	1	2	Wolverhampton	10
+172	1	3	Wolverhampton	10
+173	7	1	Wolverhampton	10
+174	7	2	Wolverhampton	10
+1	16	5	Birmingham East	20
+2	14	4	Birmingham East	20
+3	15	5	Birmingham East	20
+4	17	6	Birmingham East	20
+5	16	10	Birmingham East	20
+6	14	9	Birmingham East	20
+7	15	9	Birmingham East	20
+8	16	9	Birmingham East	20
+9	16	8	Birmingham East	20
+10	17	7	Birmingham East	20
+11	20	8	Birmingham East	20
+12	16	6	Birmingham East	20
+13	15	3	Birmingham East	20
+14	17	5	Birmingham East	20
+15	16	4	Birmingham East	20
+16	15	4	Birmingham East	20
+17	17	9	Birmingham East	20
+18	19	8	Birmingham East	20
+19	17	8	Birmingham East	20
+20	18	7	Birmingham East	20
+21	14	7	Birmingham West	20
+22	15	7	Birmingham West	20
+23	14	8	Birmingham West	20
+24	13	8	Birmingham West	20
+25	9	9	Birmingham West	20
+26	12	8	Birmingham West	20
+27	11	8	Birmingham West	20
+28	10	9	Birmingham West	20
+29	14	6	Birmingham West	20
+30	15	8	Birmingham West	20
+31	15	6	Birmingham West	20
+32	16	7	Birmingham West	20
+33	13	6	Birmingham West	20
+34	13	7	Birmingham West	20
+35	12	6	Birmingham West	20
+36	12	7	Birmingham West	20
+37	13	10	Birmingham West	20
+38	8	10	Birmingham West	20
+39	12	10	Birmingham West	20
+40	11	9	Birmingham West	20
+41	12	5	Birmingham West	20
+42	13	5	Birmingham West	20
+43	13	4	Birmingham West	20
+44	14	5	Birmingham West	20
+45	15	10	Birmingham West	20
+46	12	9	Birmingham West	20
+47	14	10	Birmingham West	20
+48	13	9	Birmingham West	20
+49	25	9	Coventry	20
+50	25	7	Coventry	20
+51	27	8	Coventry	20
+52	26	7	Coventry	20
+53	26	9	Coventry	20
+54	26	8	Coventry	20
+55	27	9	Coventry	20
+56	23	7	Coventry	20
+57	26	10	Coventry	20
+58	25	10	Coventry	20
+59	24	9	Coventry	20
+60	24	7	Coventry	20
+61	25	8	Coventry	20
+62	24	8	Coventry	20
+63	24	10	Coventry	20
+64	23	10	Coventry	20
+65	23	9	Coventry	20
+66	23	8	Coventry	20
+67	7	8	Dudley	20
+68	6	5	Dudley	20
+69	6	4	Dudley	20
+70	6	8	Dudley	20
+71	3	5	Dudley	20
+72	8	8	Dudley	20
+73	8	9	Dudley	20
+74	7	9	Dudley	20
+75	5	6	Dudley	20
+76	5	7	Dudley	20
+77	4	5	Dudley	20
+78	4	6	Dudley	20
+79	6	6	Dudley	20
+80	5	5	Dudley	20
+81	3	7	Dudley	20
+82	4	7	Dudley	20
+83	3	6	Dudley	20
+84	2	5	Dudley	20
+85	2	6	Dudley	20
+86	5	8	Dudley	20
+87	3	8	Dudley	20
+88	4	8	Dudley	20
+89	2	8	Dudley	20
+90	2	7	Dudley	20
+91	22	9	Solihull	20
+92	21	9	Solihull	20
+93	18	11	Solihull	20
+94	20	7	Solihull	20
+95	22	7	Solihull	20
+96	20	10	Solihull	20
+97	21	8	Solihull	20
+98	21	10	Solihull	20
+99	22	10	Solihull	20
+100	22	8	Solihull	20
+101	21	7	Solihull	20
+102	20	9	Solihull	20
+103	18	8	Solihull	20
+104	18	9	Solihull	20
+105	17	10	Solihull	20
+106	18	10	Solihull	20
+107	15	11	Solihull	20
+108	19	9	Solihull	20
+109	19	10	Solihull	20
+110	11	4	Sandwell	20
+111	10	4	Sandwell	20
+112	12	3	Sandwell	20
+113	8	5	Sandwell	20
+114	9	6	Sandwell	20
+115	10	5	Sandwell	20
+116	12	4	Sandwell	20
+117	7	4	Sandwell	20
+118	7	5	Sandwell	20
+119	9	4	Sandwell	20
+120	9	5	Sandwell	20
+121	11	5	Sandwell	20
+122	10	8	Sandwell	20
+123	8	7	Sandwell	20
+124	10	7	Sandwell	20
+125	6	7	Sandwell	20
+126	9	7	Sandwell	20
+127	9	8	Sandwell	20
+128	8	6	Sandwell	20
+129	7	7	Sandwell	20
+130	11	7	Sandwell	20
+131	11	6	Sandwell	20
+132	10	6	Sandwell	20
+133	7	6	Sandwell	20
+134	10	2	Walsall	20
+135	10	1	Walsall	20
+136	9	0	Walsall	20
+137	9	1	Walsall	20
+138	11	3	Walsall	20
+139	10	3	Walsall	20
+140	9	3	Walsall	20
+141	14	2	Walsall	20
+142	13	2	Walsall	20
+143	11	1	Walsall	20
+144	10	0	Walsall	20
+145	13	3	Walsall	20
+146	12	2	Walsall	20
+147	14	3	Walsall	20
+148	9	2	Walsall	20
+149	8	4	Walsall	20
+150	8	2	Walsall	20
+151	8	1	Walsall	20
+152	8	3	Walsall	20
+153	11	2	Walsall	20
+154	4	3	Wolverhampton	20
+155	7	3	Wolverhampton	20
+156	6	3	Wolverhampton	20
+157	3	4	Wolverhampton	20
+158	4	1	Wolverhampton	20
+159	4	2	Wolverhampton	20
+160	5	3	Wolverhampton	20
+161	5	4	Wolverhampton	20
+162	6	2	Wolverhampton	20
+163	3	3	Wolverhampton	20
+164	5	2	Wolverhampton	20
+165	2	3	Wolverhampton	20
+166	3	1	Wolverhampton	20
+167	2	2	Wolverhampton	20
+168	2	4	Wolverhampton	20
+169	4	4	Wolverhampton	20
+170	3	2	Wolverhampton	20
+171	1	2	Wolverhampton	20
+172	1	3	Wolverhampton	20
+173	7	1	Wolverhampton	20
+174	7	2	Wolverhampton	20
+1	16	5	Birmingham East	30
+2	14	4	Birmingham East	30
+3	15	5	Birmingham East	30
+4	17	6	Birmingham East	30
+5	16	10	Birmingham East	30
+6	14	9	Birmingham East	30
+7	15	9	Birmingham East	30
+8	16	9	Birmingham East	30
+9	16	8	Birmingham East	30
+10	17	7	Birmingham East	30
+11	20	8	Birmingham East	30
+12	16	6	Birmingham East	30
+13	15	3	Birmingham East	30
+14	17	5	Birmingham East	30
+15	16	4	Birmingham East	30
+16	15	4	Birmingham East	30
+17	17	9	Birmingham East	30
+18	19	8	Birmingham East	30
+19	17	8	Birmingham East	30
+20	18	7	Birmingham East	30
+21	14	7	Birmingham West	30
+22	15	7	Birmingham West	30
+23	14	8	Birmingham West	30
+24	13	8	Birmingham West	30
+25	9	9	Birmingham West	30
+26	12	8	Birmingham West	30
+27	11	8	Birmingham West	30
+28	10	9	Birmingham West	30
+29	14	6	Birmingham West	30
+30	15	8	Birmingham West	30
+31	15	6	Birmingham West	30
+32	16	7	Birmingham West	30
+33	13	6	Birmingham West	30
+34	13	7	Birmingham West	30
+35	12	6	Birmingham West	30
+36	12	7	Birmingham West	30
+37	13	10	Birmingham West	30
+38	8	10	Birmingham West	30
+39	12	10	Birmingham West	30
+40	11	9	Birmingham West	30
+41	12	5	Birmingham West	30
+42	13	5	Birmingham West	30
+43	13	4	Birmingham West	30
+44	14	5	Birmingham West	30
+45	15	10	Birmingham West	30
+46	12	9	Birmingham West	30
+47	14	10	Birmingham West	30
+48	13	9	Birmingham West	30
+49	25	9	Coventry	30
+50	25	7	Coventry	30
+51	27	8	Coventry	30
+52	26	7	Coventry	30
+53	26	9	Coventry	30
+54	26	8	Coventry	30
+55	27	9	Coventry	30
+56	23	7	Coventry	30
+57	26	10	Coventry	30
+58	25	10	Coventry	30
+59	24	9	Coventry	30
+60	24	7	Coventry	30
+61	25	8	Coventry	30
+62	24	8	Coventry	30
+63	24	10	Coventry	30
+64	23	10	Coventry	30
+65	23	9	Coventry	30
+66	23	8	Coventry	30
+67	7	8	Dudley	30
+68	6	5	Dudley	30
+69	6	4	Dudley	30
+70	6	8	Dudley	30
+71	3	5	Dudley	30
+72	8	8	Dudley	30
+73	8	9	Dudley	30
+74	7	9	Dudley	30
+75	5	6	Dudley	30
+76	5	7	Dudley	30
+77	4	5	Dudley	30
+78	4	6	Dudley	30
+79	6	6	Dudley	30
+80	5	5	Dudley	30
+81	3	7	Dudley	30
+82	4	7	Dudley	30
+83	3	6	Dudley	30
+84	2	5	Dudley	30
+85	2	6	Dudley	30
+86	5	8	Dudley	30
+87	3	8	Dudley	30
+88	4	8	Dudley	30
+89	2	8	Dudley	30
+90	2	7	Dudley	30
+91	22	9	Solihull	30
+92	21	9	Solihull	30
+93	18	11	Solihull	30
+94	20	7	Solihull	30
+95	22	7	Solihull	30
+96	20	10	Solihull	30
+97	21	8	Solihull	30
+98	21	10	Solihull	30
+99	22	10	Solihull	30
+100	22	8	Solihull	30
+101	21	7	Solihull	30
+102	20	9	Solihull	30
+103	18	8	Solihull	30
+104	18	9	Solihull	30
+105	17	10	Solihull	30
+106	18	10	Solihull	30
+107	15	11	Solihull	30
+108	19	9	Solihull	30
+109	19	10	Solihull	30
+110	11	4	Sandwell	30
+111	10	4	Sandwell	30
+112	12	3	Sandwell	30
+113	8	5	Sandwell	30
+114	9	6	Sandwell	30
+115	10	5	Sandwell	30
+116	12	4	Sandwell	30
+117	7	4	Sandwell	30
+118	7	5	Sandwell	30
+119	9	4	Sandwell	30
+120	9	5	Sandwell	30
+121	11	5	Sandwell	30
+122	10	8	Sandwell	30
+123	8	7	Sandwell	30
+124	10	7	Sandwell	30
+125	6	7	Sandwell	30
+126	9	7	Sandwell	30
+127	9	8	Sandwell	30
+128	8	6	Sandwell	30
+129	7	7	Sandwell	30
+130	11	7	Sandwell	30
+131	11	6	Sandwell	30
+132	10	6	Sandwell	30
+133	7	6	Sandwell	30
+134	10	2	Walsall	30
+135	10	1	Walsall	30
+136	9	0	Walsall	30
+137	9	1	Walsall	30
+138	11	3	Walsall	30
+139	10	3	Walsall	30
+140	9	3	Walsall	30
+141	14	2	Walsall	30
+142	13	2	Walsall	30
+143	11	1	Walsall	30
+144	10	0	Walsall	30
+145	13	3	Walsall	30
+146	12	2	Walsall	30
+147	14	3	Walsall	30
+148	9	2	Walsall	30
+149	8	4	Walsall	30
+150	8	2	Walsall	30
+151	8	1	Walsall	30
+152	8	3	Walsall	30
+153	11	2	Walsall	30
+154	4	3	Wolverhampton	30
+155	7	3	Wolverhampton	30
+156	6	3	Wolverhampton	30
+157	3	4	Wolverhampton	30
+158	4	1	Wolverhampton	30
+159	4	2	Wolverhampton	30
+160	5	3	Wolverhampton	30
+161	5	4	Wolverhampton	30
+162	6	2	Wolverhampton	30
+163	3	3	Wolverhampton	30
+164	5	2	Wolverhampton	30
+165	2	3	Wolverhampton	30
+166	3	1	Wolverhampton	30
+167	2	2	Wolverhampton	30
+168	2	4	Wolverhampton	30
+169	4	4	Wolverhampton	30
+170	3	2	Wolverhampton	30
+171	1	2	Wolverhampton	30
+172	1	3	Wolverhampton	30
+173	7	1	Wolverhampton	30
+174	7	2	Wolverhampton	30
+1	16	5	Birmingham East	40
+2	14	4	Birmingham East	40
+3	15	5	Birmingham East	40
+4	17	6	Birmingham East	40
+5	16	10	Birmingham East	40
+6	14	9	Birmingham East	40
+7	15	9	Birmingham East	40
+8	16	9	Birmingham East	40
+9	16	8	Birmingham East	40
+10	17	7	Birmingham East	40
+11	20	8	Birmingham East	40
+12	16	6	Birmingham East	40
+13	15	3	Birmingham East	40
+14	17	5	Birmingham East	40
+15	16	4	Birmingham East	40
+16	15	4	Birmingham East	40
+17	17	9	Birmingham East	40
+18	19	8	Birmingham East	40
+19	17	8	Birmingham East	40
+20	18	7	Birmingham East	40
+21	14	7	Birmingham West	40
+22	15	7	Birmingham West	40
+23	14	8	Birmingham West	40
+24	13	8	Birmingham West	40
+25	9	9	Birmingham West	40
+26	12	8	Birmingham West	40
+27	11	8	Birmingham West	40
+28	10	9	Birmingham West	40
+29	14	6	Birmingham West	40
+30	15	8	Birmingham West	40
+31	15	6	Birmingham West	40
+32	16	7	Birmingham West	40
+33	13	6	Birmingham West	40
+34	13	7	Birmingham West	40
+35	12	6	Birmingham West	40
+36	12	7	Birmingham West	40
+37	13	10	Birmingham West	40
+38	8	10	Birmingham West	40
+39	12	10	Birmingham West	40
+40	11	9	Birmingham West	40
+41	12	5	Birmingham West	40
+42	13	5	Birmingham West	40
+43	13	4	Birmingham West	40
+44	14	5	Birmingham West	40
+45	15	10	Birmingham West	40
+46	12	9	Birmingham West	40
+47	14	10	Birmingham West	40
+48	13	9	Birmingham West	40
+49	25	9	Coventry	40
+50	25	7	Coventry	40
+51	27	8	Coventry	40
+52	26	7	Coventry	40
+53	26	9	Coventry	40
+54	26	8	Coventry	40
+55	27	9	Coventry	40
+56	23	7	Coventry	40
+57	26	10	Coventry	40
+58	25	10	Coventry	40
+59	24	9	Coventry	40
+60	24	7	Coventry	40
+61	25	8	Coventry	40
+62	24	8	Coventry	40
+63	24	10	Coventry	40
+64	23	10	Coventry	40
+65	23	9	Coventry	40
+66	23	8	Coventry	40
+67	7	8	Dudley	40
+68	6	5	Dudley	40
+69	6	4	Dudley	40
+70	6	8	Dudley	40
+71	3	5	Dudley	40
+72	8	8	Dudley	40
+73	8	9	Dudley	40
+74	7	9	Dudley	40
+75	5	6	Dudley	40
+76	5	7	Dudley	40
+77	4	5	Dudley	40
+78	4	6	Dudley	40
+79	6	6	Dudley	40
+80	5	5	Dudley	40
+81	3	7	Dudley	40
+82	4	7	Dudley	40
+83	3	6	Dudley	40
+84	2	5	Dudley	40
+85	2	6	Dudley	40
+86	5	8	Dudley	40
+87	3	8	Dudley	40
+88	4	8	Dudley	40
+89	2	8	Dudley	40
+90	2	7	Dudley	40
+91	22	9	Solihull	40
+92	21	9	Solihull	40
+93	18	11	Solihull	40
+94	20	7	Solihull	40
+95	22	7	Solihull	40
+96	20	10	Solihull	40
+97	21	8	Solihull	40
+98	21	10	Solihull	40
+99	22	10	Solihull	40
+100	22	8	Solihull	40
+101	21	7	Solihull	40
+102	20	9	Solihull	40
+103	18	8	Solihull	40
+104	18	9	Solihull	40
+105	17	10	Solihull	40
+106	18	10	Solihull	40
+107	15	11	Solihull	40
+108	19	9	Solihull	40
+109	19	10	Solihull	40
+110	11	4	Sandwell	40
+111	10	4	Sandwell	40
+112	12	3	Sandwell	40
+113	8	5	Sandwell	40
+114	9	6	Sandwell	40
+115	10	5	Sandwell	40
+116	12	4	Sandwell	40
+117	7	4	Sandwell	40
+118	7	5	Sandwell	40
+119	9	4	Sandwell	40
+120	9	5	Sandwell	40
+121	11	5	Sandwell	40
+122	10	8	Sandwell	40
+123	8	7	Sandwell	40
+124	10	7	Sandwell	40
+125	6	7	Sandwell	40
+126	9	7	Sandwell	40
+127	9	8	Sandwell	40
+128	8	6	Sandwell	40
+129	7	7	Sandwell	40
+130	11	7	Sandwell	40
+131	11	6	Sandwell	40
+132	10	6	Sandwell	40
+133	7	6	Sandwell	40
+134	10	2	Walsall	40
+135	10	1	Walsall	40
+136	9	0	Walsall	40
+137	9	1	Walsall	40
+138	11	3	Walsall	40
+139	10	3	Walsall	40
+140	9	3	Walsall	40
+141	14	2	Walsall	40
+142	13	2	Walsall	40
+143	11	1	Walsall	40
+144	10	0	Walsall	40
+145	13	3	Walsall	40
+146	12	2	Walsall	40
+147	14	3	Walsall	40
+148	9	2	Walsall	40
+149	8	4	Walsall	40
+150	8	2	Walsall	40
+151	8	1	Walsall	40
+152	8	3	Walsall	40
+153	11	2	Walsall	40
+154	4	3	Wolverhampton	40
+155	7	3	Wolverhampton	40
+156	6	3	Wolverhampton	40
+157	3	4	Wolverhampton	40
+158	4	1	Wolverhampton	40
+159	4	2	Wolverhampton	40
+160	5	3	Wolverhampton	40
+161	5	4	Wolverhampton	40
+162	6	2	Wolverhampton	40
+163	3	3	Wolverhampton	40
+164	5	2	Wolverhampton	40
+165	2	3	Wolverhampton	40
+166	3	1	Wolverhampton	40
+167	2	2	Wolverhampton	40
+168	2	4	Wolverhampton	40
+169	4	4	Wolverhampton	40
+170	3	2	Wolverhampton	40
+171	1	2	Wolverhampton	40
+172	1	3	Wolverhampton	40
+173	7	1	Wolverhampton	40
+174	7	2	Wolverhampton	40
+1	16	5	Birmingham East	50
+2	14	4	Birmingham East	50
+3	15	5	Birmingham East	50
+4	17	6	Birmingham East	50
+5	16	10	Birmingham East	50
+6	14	9	Birmingham East	50
+7	15	9	Birmingham East	50
+8	16	9	Birmingham East	50
+9	16	8	Birmingham East	50
+10	17	7	Birmingham East	50
+11	20	8	Birmingham East	50
+12	16	6	Birmingham East	50
+13	15	3	Birmingham East	50
+14	17	5	Birmingham East	50
+15	16	4	Birmingham East	50
+16	15	4	Birmingham East	50
+17	17	9	Birmingham East	50
+18	19	8	Birmingham East	50
+19	17	8	Birmingham East	50
+20	18	7	Birmingham East	50
+21	14	7	Birmingham West	50
+22	15	7	Birmingham West	50
+23	14	8	Birmingham West	50
+24	13	8	Birmingham West	50
+25	9	9	Birmingham West	50
+26	12	8	Birmingham West	50
+27	11	8	Birmingham West	50
+28	10	9	Birmingham West	50
+29	14	6	Birmingham West	50
+30	15	8	Birmingham West	50
+31	15	6	Birmingham West	50
+32	16	7	Birmingham West	50
+33	13	6	Birmingham West	50
+34	13	7	Birmingham West	50
+35	12	6	Birmingham West	50
+36	12	7	Birmingham West	50
+37	13	10	Birmingham West	50
+38	8	10	Birmingham West	50
+39	12	10	Birmingham West	50
+40	11	9	Birmingham West	50
+41	12	5	Birmingham West	50
+42	13	5	Birmingham West	50
+43	13	4	Birmingham West	50
+44	14	5	Birmingham West	50
+45	15	10	Birmingham West	50
+46	12	9	Birmingham West	50
+47	14	10	Birmingham West	50
+48	13	9	Birmingham West	50
+49	25	9	Coventry	50
+50	25	7	Coventry	50
+51	27	8	Coventry	50
+52	26	7	Coventry	50
+53	26	9	Coventry	50
+54	26	8	Coventry	50
+55	27	9	Coventry	50
+56	23	7	Coventry	50
+57	26	10	Coventry	50
+58	25	10	Coventry	50
+59	24	9	Coventry	50
+60	24	7	Coventry	50
+61	25	8	Coventry	50
+62	24	8	Coventry	50
+63	24	10	Coventry	50
+64	23	10	Coventry	50
+65	23	9	Coventry	50
+66	23	8	Coventry	50
+67	7	8	Dudley	50
+68	6	5	Dudley	50
+69	6	4	Dudley	50
+70	6	8	Dudley	50
+71	3	5	Dudley	50
+72	8	8	Dudley	50
+73	8	9	Dudley	50
+74	7	9	Dudley	50
+75	5	6	Dudley	50
+76	5	7	Dudley	50
+77	4	5	Dudley	50
+78	4	6	Dudley	50
+79	6	6	Dudley	50
+80	5	5	Dudley	50
+81	3	7	Dudley	50
+82	4	7	Dudley	50
+83	3	6	Dudley	50
+84	2	5	Dudley	50
+85	2	6	Dudley	50
+86	5	8	Dudley	50
+87	3	8	Dudley	50
+88	4	8	Dudley	50
+89	2	8	Dudley	50
+90	2	7	Dudley	50
+91	22	9	Solihull	50
+92	21	9	Solihull	50
+93	18	11	Solihull	50
+94	20	7	Solihull	50
+95	22	7	Solihull	50
+96	20	10	Solihull	50
+97	21	8	Solihull	50
+98	21	10	Solihull	50
+99	22	10	Solihull	50
+100	22	8	Solihull	50
+101	21	7	Solihull	50
+102	20	9	Solihull	50
+103	18	8	Solihull	50
+104	18	9	Solihull	50
+105	17	10	Solihull	50
+106	18	10	Solihull	50
+107	15	11	Solihull	50
+108	19	9	Solihull	50
+109	19	10	Solihull	50
+110	11	4	Sandwell	50
+111	10	4	Sandwell	50
+112	12	3	Sandwell	50
+113	8	5	Sandwell	50
+114	9	6	Sandwell	50
+115	10	5	Sandwell	50
+116	12	4	Sandwell	50
+117	7	4	Sandwell	50
+118	7	5	Sandwell	50
+119	9	4	Sandwell	50
+120	9	5	Sandwell	50
+121	11	5	Sandwell	50
+122	10	8	Sandwell	50
+123	8	7	Sandwell	50
+124	10	7	Sandwell	50
+125	6	7	Sandwell	50
+126	9	7	Sandwell	50
+127	9	8	Sandwell	50
+128	8	6	Sandwell	50
+129	7	7	Sandwell	50
+130	11	7	Sandwell	50
+131	11	6	Sandwell	50
+132	10	6	Sandwell	50
+133	7	6	Sandwell	50
+134	10	2	Walsall	50
+135	10	1	Walsall	50
+136	9	0	Walsall	50
+137	9	1	Walsall	50
+138	11	3	Walsall	50
+139	10	3	Walsall	50
+140	9	3	Walsall	50
+141	14	2	Walsall	50
+142	13	2	Walsall	50
+143	11	1	Walsall	50
+144	10	0	Walsall	50
+145	13	3	Walsall	50
+146	12	2	Walsall	50
+147	14	3	Walsall	50
+148	9	2	Walsall	50
+149	8	4	Walsall	50
+150	8	2	Walsall	50
+151	8	1	Walsall	50
+152	8	3	Walsall	50
+153	11	2	Walsall	50
+154	4	3	Wolverhampton	50
+155	7	3	Wolverhampton	50
+156	6	3	Wolverhampton	50
+157	3	4	Wolverhampton	50
+158	4	1	Wolverhampton	50
+159	4	2	Wolverhampton	50
+160	5	3	Wolverhampton	50
+161	5	4	Wolverhampton	50
+162	6	2	Wolverhampton	50
+163	3	3	Wolverhampton	50
+164	5	2	Wolverhampton	50
+165	2	3	Wolverhampton	50
+166	3	1	Wolverhampton	50
+167	2	2	Wolverhampton	50
+168	2	4	Wolverhampton	50
+169	4	4	Wolverhampton	50
+170	3	2	Wolverhampton	50
+171	1	2	Wolverhampton	50
+172	1	3	Wolverhampton	50
+173	7	1	Wolverhampton	50
+174	7	2	Wolverhampton	50
+1	16	5	Birmingham East	60
+2	14	4	Birmingham East	60
+3	15	5	Birmingham East	60
+4	17	6	Birmingham East	60
+5	16	10	Birmingham East	60
+6	14	9	Birmingham East	60
+7	15	9	Birmingham East	60
+8	16	9	Birmingham East	60
+9	16	8	Birmingham East	60
+10	17	7	Birmingham East	60
+11	20	8	Birmingham East	60
+12	16	6	Birmingham East	60
+13	15	3	Birmingham East	60
+14	17	5	Birmingham East	60
+15	16	4	Birmingham East	60
+16	15	4	Birmingham East	60
+17	17	9	Birmingham East	60
+18	19	8	Birmingham East	60
+19	17	8	Birmingham East	60
+20	18	7	Birmingham East	60
+21	14	7	Birmingham West	60
+22	15	7	Birmingham West	60
+23	14	8	Birmingham West	60
+24	13	8	Birmingham West	60
+25	9	9	Birmingham West	60
+26	12	8	Birmingham West	60
+27	11	8	Birmingham West	60
+28	10	9	Birmingham West	60
+29	14	6	Birmingham West	60
+30	15	8	Birmingham West	60
+31	15	6	Birmingham West	60
+32	16	7	Birmingham West	60
+33	13	6	Birmingham West	60
+34	13	7	Birmingham West	60
+35	12	6	Birmingham West	60
+36	12	7	Birmingham West	60
+37	13	10	Birmingham West	60
+38	8	10	Birmingham West	60
+39	12	10	Birmingham West	60
+40	11	9	Birmingham West	60
+41	12	5	Birmingham West	60
+42	13	5	Birmingham West	60
+43	13	4	Birmingham West	60
+44	14	5	Birmingham West	60
+45	15	10	Birmingham West	60
+46	12	9	Birmingham West	60
+47	14	10	Birmingham West	60
+48	13	9	Birmingham West	60
+49	25	9	Coventry	60
+50	25	7	Coventry	60
+51	27	8	Coventry	60
+52	26	7	Coventry	60
+53	26	9	Coventry	60
+54	26	8	Coventry	60
+55	27	9	Coventry	60
+56	23	7	Coventry	60
+57	26	10	Coventry	60
+58	25	10	Coventry	60
+59	24	9	Coventry	60
+60	24	7	Coventry	60
+61	25	8	Coventry	60
+62	24	8	Coventry	60
+63	24	10	Coventry	60
+64	23	10	Coventry	60
+65	23	9	Coventry	60
+66	23	8	Coventry	60
+67	7	8	Dudley	60
+68	6	5	Dudley	60
+69	6	4	Dudley	60
+70	6	8	Dudley	60
+71	3	5	Dudley	60
+72	8	8	Dudley	60
+73	8	9	Dudley	60
+74	7	9	Dudley	60
+75	5	6	Dudley	60
+76	5	7	Dudley	60
+77	4	5	Dudley	60
+78	4	6	Dudley	60
+79	6	6	Dudley	60
+80	5	5	Dudley	60
+81	3	7	Dudley	60
+82	4	7	Dudley	60
+83	3	6	Dudley	60
+84	2	5	Dudley	60
+85	2	6	Dudley	60
+86	5	8	Dudley	60
+87	3	8	Dudley	60
+88	4	8	Dudley	60
+89	2	8	Dudley	60
+90	2	7	Dudley	60
+91	22	9	Solihull	60
+92	21	9	Solihull	60
+93	18	11	Solihull	60
+94	20	7	Solihull	60
+95	22	7	Solihull	60
+96	20	10	Solihull	60
+97	21	8	Solihull	60
+98	21	10	Solihull	60
+99	22	10	Solihull	60
+100	22	8	Solihull	60
+101	21	7	Solihull	60
+102	20	9	Solihull	60
+103	18	8	Solihull	60
+104	18	9	Solihull	60
+105	17	10	Solihull	60
+106	18	10	Solihull	60
+107	15	11	Solihull	60
+108	19	9	Solihull	60
+109	19	10	Solihull	60
+110	11	4	Sandwell	60
+111	10	4	Sandwell	60
+112	12	3	Sandwell	60
+113	8	5	Sandwell	60
+114	9	6	Sandwell	60
+115	10	5	Sandwell	60
+116	12	4	Sandwell	60
+117	7	4	Sandwell	60
+118	7	5	Sandwell	60
+119	9	4	Sandwell	60
+120	9	5	Sandwell	60
+121	11	5	Sandwell	60
+122	10	8	Sandwell	60
+123	8	7	Sandwell	60
+124	10	7	Sandwell	60
+125	6	7	Sandwell	60
+126	9	7	Sandwell	60
+127	9	8	Sandwell	60
+128	8	6	Sandwell	60
+129	7	7	Sandwell	60
+130	11	7	Sandwell	60
+131	11	6	Sandwell	60
+132	10	6	Sandwell	60
+133	7	6	Sandwell	60
+134	10	2	Walsall	60
+135	10	1	Walsall	60
+136	9	0	Walsall	60
+137	9	1	Walsall	60
+138	11	3	Walsall	60
+139	10	3	Walsall	60
+140	9	3	Walsall	60
+141	14	2	Walsall	60
+142	13	2	Walsall	60
+143	11	1	Walsall	60
+144	10	0	Walsall	60
+145	13	3	Walsall	60
+146	12	2	Walsall	60
+147	14	3	Walsall	60
+148	9	2	Walsall	60
+149	8	4	Walsall	60
+150	8	2	Walsall	60
+151	8	1	Walsall	60
+152	8	3	Walsall	60
+153	11	2	Walsall	60
+154	4	3	Wolverhampton	60
+155	7	3	Wolverhampton	60
+156	6	3	Wolverhampton	60
+157	3	4	Wolverhampton	60
+158	4	1	Wolverhampton	60
+159	4	2	Wolverhampton	60
+160	5	3	Wolverhampton	60
+161	5	4	Wolverhampton	60
+162	6	2	Wolverhampton	60
+163	3	3	Wolverhampton	60
+164	5	2	Wolverhampton	60
+165	2	3	Wolverhampton	60
+166	3	1	Wolverhampton	60
+167	2	2	Wolverhampton	60
+168	2	4	Wolverhampton	60
+169	4	4	Wolverhampton	60
+170	3	2	Wolverhampton	60
+171	1	2	Wolverhampton	60
+172	1	3	Wolverhampton	60
+173	7	1	Wolverhampton	60
+174	7	2	Wolverhampton	60
+1	16	5	Birmingham East	70
+2	14	4	Birmingham East	70
+3	15	5	Birmingham East	70
+4	17	6	Birmingham East	70
+5	16	10	Birmingham East	70
+6	14	9	Birmingham East	70
+7	15	9	Birmingham East	70
+8	16	9	Birmingham East	70
+9	16	8	Birmingham East	70
+10	17	7	Birmingham East	70
+11	20	8	Birmingham East	70
+12	16	6	Birmingham East	70
+13	15	3	Birmingham East	70
+14	17	5	Birmingham East	70
+15	16	4	Birmingham East	70
+16	15	4	Birmingham East	70
+17	17	9	Birmingham East	70
+18	19	8	Birmingham East	70
+19	17	8	Birmingham East	70
+20	18	7	Birmingham East	70
+21	14	7	Birmingham West	70
+22	15	7	Birmingham West	70
+23	14	8	Birmingham West	70
+24	13	8	Birmingham West	70
+25	9	9	Birmingham West	70
+26	12	8	Birmingham West	70
+27	11	8	Birmingham West	70
+28	10	9	Birmingham West	70
+29	14	6	Birmingham West	70
+30	15	8	Birmingham West	70
+31	15	6	Birmingham West	70
+32	16	7	Birmingham West	70
+33	13	6	Birmingham West	70
+34	13	7	Birmingham West	70
+35	12	6	Birmingham West	70
+36	12	7	Birmingham West	70
+37	13	10	Birmingham West	70
+38	8	10	Birmingham West	70
+39	12	10	Birmingham West	70
+40	11	9	Birmingham West	70
+41	12	5	Birmingham West	70
+42	13	5	Birmingham West	70
+43	13	4	Birmingham West	70
+44	14	5	Birmingham West	70
+45	15	10	Birmingham West	70
+46	12	9	Birmingham West	70
+47	14	10	Birmingham West	70
+48	13	9	Birmingham West	70
+49	25	9	Coventry	70
+50	25	7	Coventry	70
+51	27	8	Coventry	70
+52	26	7	Coventry	70
+53	26	9	Coventry	70
+54	26	8	Coventry	70
+55	27	9	Coventry	70
+56	23	7	Coventry	70
+57	26	10	Coventry	70
+58	25	10	Coventry	70
+59	24	9	Coventry	70
+60	24	7	Coventry	70
+61	25	8	Coventry	70
+62	24	8	Coventry	70
+63	24	10	Coventry	70
+64	23	10	Coventry	70
+65	23	9	Coventry	70
+66	23	8	Coventry	70
+67	7	8	Dudley	70
+68	6	5	Dudley	70
+69	6	4	Dudley	70
+70	6	8	Dudley	70
+71	3	5	Dudley	70
+72	8	8	Dudley	70
+73	8	9	Dudley	70
+74	7	9	Dudley	70
+75	5	6	Dudley	70
+76	5	7	Dudley	70
+77	4	5	Dudley	70
+78	4	6	Dudley	70
+79	6	6	Dudley	70
+80	5	5	Dudley	70
+81	3	7	Dudley	70
+82	4	7	Dudley	70
+83	3	6	Dudley	70
+84	2	5	Dudley	70
+85	2	6	Dudley	70
+86	5	8	Dudley	70
+87	3	8	Dudley	70
+88	4	8	Dudley	70
+89	2	8	Dudley	70
+90	2	7	Dudley	70
+91	22	9	Solihull	70
+92	21	9	Solihull	70
+93	18	11	Solihull	70
+94	20	7	Solihull	70
+95	22	7	Solihull	70
+96	20	10	Solihull	70
+97	21	8	Solihull	70
+98	21	10	Solihull	70
+99	22	10	Solihull	70
+100	22	8	Solihull	70
+101	21	7	Solihull	70
+102	20	9	Solihull	70
+103	18	8	Solihull	70
+104	18	9	Solihull	70
+105	17	10	Solihull	70
+106	18	10	Solihull	70
+107	15	11	Solihull	70
+108	19	9	Solihull	70
+109	19	10	Solihull	70
+110	11	4	Sandwell	70
+111	10	4	Sandwell	70
+112	12	3	Sandwell	70
+113	8	5	Sandwell	70
+114	9	6	Sandwell	70
+115	10	5	Sandwell	70
+116	12	4	Sandwell	70
+117	7	4	Sandwell	70
+118	7	5	Sandwell	70
+119	9	4	Sandwell	70
+120	9	5	Sandwell	70
+121	11	5	Sandwell	70
+122	10	8	Sandwell	70
+123	8	7	Sandwell	70
+124	10	7	Sandwell	70
+125	6	7	Sandwell	70
+126	9	7	Sandwell	70
+127	9	8	Sandwell	70
+128	8	6	Sandwell	70
+129	7	7	Sandwell	70
+130	11	7	Sandwell	70
+131	11	6	Sandwell	70
+132	10	6	Sandwell	70
+133	7	6	Sandwell	70
+134	10	2	Walsall	70
+135	10	1	Walsall	70
+136	9	0	Walsall	70
+137	9	1	Walsall	70
+138	11	3	Walsall	70
+139	10	3	Walsall	70
+140	9	3	Walsall	70
+141	14	2	Walsall	70
+142	13	2	Walsall	70
+143	11	1	Walsall	70
+144	10	0	Walsall	70
+145	13	3	Walsall	70
+146	12	2	Walsall	70
+147	14	3	Walsall	70
+148	9	2	Walsall	70
+149	8	4	Walsall	70
+150	8	2	Walsall	70
+151	8	1	Walsall	70
+152	8	3	Walsall	70
+153	11	2	Walsall	70
+154	4	3	Wolverhampton	70
+155	7	3	Wolverhampton	70
+156	6	3	Wolverhampton	70
+157	3	4	Wolverhampton	70
+158	4	1	Wolverhampton	70
+159	4	2	Wolverhampton	70
+160	5	3	Wolverhampton	70
+161	5	4	Wolverhampton	70
+162	6	2	Wolverhampton	70
+163	3	3	Wolverhampton	70
+164	5	2	Wolverhampton	70
+165	2	3	Wolverhampton	70
+166	3	1	Wolverhampton	70
+167	2	2	Wolverhampton	70
+168	2	4	Wolverhampton	70
+169	4	4	Wolverhampton	70
+170	3	2	Wolverhampton	70
+171	1	2	Wolverhampton	70
+172	1	3	Wolverhampton	70
+173	7	1	Wolverhampton	70
+174	7	2	Wolverhampton	70
+1	16	5	Birmingham East	80
+2	14	4	Birmingham East	80
+3	15	5	Birmingham East	80
+4	17	6	Birmingham East	80
+5	16	10	Birmingham East	80
+6	14	9	Birmingham East	80
+7	15	9	Birmingham East	80
+8	16	9	Birmingham East	80
+9	16	8	Birmingham East	80
+10	17	7	Birmingham East	80
+11	20	8	Birmingham East	80
+12	16	6	Birmingham East	80
+13	15	3	Birmingham East	80
+14	17	5	Birmingham East	80
+15	16	4	Birmingham East	80
+16	15	4	Birmingham East	80
+17	17	9	Birmingham East	80
+18	19	8	Birmingham East	80
+19	17	8	Birmingham East	80
+20	18	7	Birmingham East	80
+21	14	7	Birmingham West	80
+22	15	7	Birmingham West	80
+23	14	8	Birmingham West	80
+24	13	8	Birmingham West	80
+25	9	9	Birmingham West	80
+26	12	8	Birmingham West	80
+27	11	8	Birmingham West	80
+28	10	9	Birmingham West	80
+29	14	6	Birmingham West	80
+30	15	8	Birmingham West	80
+31	15	6	Birmingham West	80
+32	16	7	Birmingham West	80
+33	13	6	Birmingham West	80
+34	13	7	Birmingham West	80
+35	12	6	Birmingham West	80
+36	12	7	Birmingham West	80
+37	13	10	Birmingham West	80
+38	8	10	Birmingham West	80
+39	12	10	Birmingham West	80
+40	11	9	Birmingham West	80
+41	12	5	Birmingham West	80
+42	13	5	Birmingham West	80
+43	13	4	Birmingham West	80
+44	14	5	Birmingham West	80
+45	15	10	Birmingham West	80
+46	12	9	Birmingham West	80
+47	14	10	Birmingham West	80
+48	13	9	Birmingham West	80
+49	25	9	Coventry	80
+50	25	7	Coventry	80
+51	27	8	Coventry	80
+52	26	7	Coventry	80
+53	26	9	Coventry	80
+54	26	8	Coventry	80
+55	27	9	Coventry	80
+56	23	7	Coventry	80
+57	26	10	Coventry	80
+58	25	10	Coventry	80
+59	24	9	Coventry	80
+60	24	7	Coventry	80
+61	25	8	Coventry	80
+62	24	8	Coventry	80
+63	24	10	Coventry	80
+64	23	10	Coventry	80
+65	23	9	Coventry	80
+66	23	8	Coventry	80
+67	7	8	Dudley	80
+68	6	5	Dudley	80
+69	6	4	Dudley	80
+70	6	8	Dudley	80
+71	3	5	Dudley	80
+72	8	8	Dudley	80
+73	8	9	Dudley	80
+74	7	9	Dudley	80
+75	5	6	Dudley	80
+76	5	7	Dudley	80
+77	4	5	Dudley	80
+78	4	6	Dudley	80
+79	6	6	Dudley	80
+80	5	5	Dudley	80
+81	3	7	Dudley	80
+82	4	7	Dudley	80
+83	3	6	Dudley	80
+84	2	5	Dudley	80
+85	2	6	Dudley	80
+86	5	8	Dudley	80
+87	3	8	Dudley	80
+88	4	8	Dudley	80
+89	2	8	Dudley	80
+90	2	7	Dudley	80
+91	22	9	Solihull	80
+92	21	9	Solihull	80
+93	18	11	Solihull	80
+94	20	7	Solihull	80
+95	22	7	Solihull	80
+96	20	10	Solihull	80
+97	21	8	Solihull	80
+98	21	10	Solihull	80
+99	22	10	Solihull	80
+100	22	8	Solihull	80
+101	21	7	Solihull	80
+102	20	9	Solihull	80
+103	18	8	Solihull	80
+104	18	9	Solihull	80
+105	17	10	Solihull	80
+106	18	10	Solihull	80
+107	15	11	Solihull	80
+108	19	9	Solihull	80
+109	19	10	Solihull	80
+110	11	4	Sandwell	80
+111	10	4	Sandwell	80
+112	12	3	Sandwell	80
+113	8	5	Sandwell	80
+114	9	6	Sandwell	80
+115	10	5	Sandwell	80
+116	12	4	Sandwell	80
+117	7	4	Sandwell	80
+118	7	5	Sandwell	80
+119	9	4	Sandwell	80
+120	9	5	Sandwell	80
+121	11	5	Sandwell	80
+122	10	8	Sandwell	80
+123	8	7	Sandwell	80
+124	10	7	Sandwell	80
+125	6	7	Sandwell	80
+126	9	7	Sandwell	80
+127	9	8	Sandwell	80
+128	8	6	Sandwell	80
+129	7	7	Sandwell	80
+130	11	7	Sandwell	80
+131	11	6	Sandwell	80
+132	10	6	Sandwell	80
+133	7	6	Sandwell	80
+134	10	2	Walsall	80
+135	10	1	Walsall	80
+136	9	0	Walsall	80
+137	9	1	Walsall	80
+138	11	3	Walsall	80
+139	10	3	Walsall	80
+140	9	3	Walsall	80
+141	14	2	Walsall	80
+142	13	2	Walsall	80
+143	11	1	Walsall	80
+144	10	0	Walsall	80
+145	13	3	Walsall	80
+146	12	2	Walsall	80
+147	14	3	Walsall	80
+148	9	2	Walsall	80
+149	8	4	Walsall	80
+150	8	2	Walsall	80
+151	8	1	Walsall	80
+152	8	3	Walsall	80
+153	11	2	Walsall	80
+154	4	3	Wolverhampton	80
+155	7	3	Wolverhampton	80
+156	6	3	Wolverhampton	80
+157	3	4	Wolverhampton	80
+158	4	1	Wolverhampton	80
+159	4	2	Wolverhampton	80
+160	5	3	Wolverhampton	80
+161	5	4	Wolverhampton	80
+162	6	2	Wolverhampton	80
+163	3	3	Wolverhampton	80
+164	5	2	Wolverhampton	80
+165	2	3	Wolverhampton	80
+166	3	1	Wolverhampton	80
+167	2	2	Wolverhampton	80
+168	2	4	Wolverhampton	80
+169	4	4	Wolverhampton	80
+170	3	2	Wolverhampton	80
+171	1	2	Wolverhampton	80
+172	1	3	Wolverhampton	80
+173	7	1	Wolverhampton	80
+174	7	2	Wolverhampton	80
+1	16	5	Birmingham East	90
+2	14	4	Birmingham East	90
+3	15	5	Birmingham East	90
+4	17	6	Birmingham East	90
+5	16	10	Birmingham East	90
+6	14	9	Birmingham East	90
+7	15	9	Birmingham East	90
+8	16	9	Birmingham East	90
+9	16	8	Birmingham East	90
+10	17	7	Birmingham East	90
+11	20	8	Birmingham East	90
+12	16	6	Birmingham East	90
+13	15	3	Birmingham East	90
+14	17	5	Birmingham East	90
+15	16	4	Birmingham East	90
+16	15	4	Birmingham East	90
+17	17	9	Birmingham East	90
+18	19	8	Birmingham East	90
+19	17	8	Birmingham East	90
+20	18	7	Birmingham East	90
+21	14	7	Birmingham West	90
+22	15	7	Birmingham West	90
+23	14	8	Birmingham West	90
+24	13	8	Birmingham West	90
+25	9	9	Birmingham West	90
+26	12	8	Birmingham West	90
+27	11	8	Birmingham West	90
+28	10	9	Birmingham West	90
+29	14	6	Birmingham West	90
+30	15	8	Birmingham West	90
+31	15	6	Birmingham West	90
+32	16	7	Birmingham West	90
+33	13	6	Birmingham West	90
+34	13	7	Birmingham West	90
+35	12	6	Birmingham West	90
+36	12	7	Birmingham West	90
+37	13	10	Birmingham West	90
+38	8	10	Birmingham West	90
+39	12	10	Birmingham West	90
+40	11	9	Birmingham West	90
+41	12	5	Birmingham West	90
+42	13	5	Birmingham West	90
+43	13	4	Birmingham West	90
+44	14	5	Birmingham West	90
+45	15	10	Birmingham West	90
+46	12	9	Birmingham West	90
+47	14	10	Birmingham West	90
+48	13	9	Birmingham West	90
+49	25	9	Coventry	90
+50	25	7	Coventry	90
+51	27	8	Coventry	90
+52	26	7	Coventry	90
+53	26	9	Coventry	90
+54	26	8	Coventry	90
+55	27	9	Coventry	90
+56	23	7	Coventry	90
+57	26	10	Coventry	90
+58	25	10	Coventry	90
+59	24	9	Coventry	90
+60	24	7	Coventry	90
+61	25	8	Coventry	90
+62	24	8	Coventry	90
+63	24	10	Coventry	90
+64	23	10	Coventry	90
+65	23	9	Coventry	90
+66	23	8	Coventry	90
+67	7	8	Dudley	90
+68	6	5	Dudley	90
+69	6	4	Dudley	90
+70	6	8	Dudley	90
+71	3	5	Dudley	90
+72	8	8	Dudley	90
+73	8	9	Dudley	90
+74	7	9	Dudley	90
+75	5	6	Dudley	90
+76	5	7	Dudley	90
+77	4	5	Dudley	90
+78	4	6	Dudley	90
+79	6	6	Dudley	90
+80	5	5	Dudley	90
+81	3	7	Dudley	90
+82	4	7	Dudley	90
+83	3	6	Dudley	90
+84	2	5	Dudley	90
+85	2	6	Dudley	90
+86	5	8	Dudley	90
+87	3	8	Dudley	90
+88	4	8	Dudley	90
+89	2	8	Dudley	90
+90	2	7	Dudley	90
+91	22	9	Solihull	90
+92	21	9	Solihull	90
+93	18	11	Solihull	90
+94	20	7	Solihull	90
+95	22	7	Solihull	90
+96	20	10	Solihull	90
+97	21	8	Solihull	90
+98	21	10	Solihull	90
+99	22	10	Solihull	90
+100	22	8	Solihull	90
+101	21	7	Solihull	90
+102	20	9	Solihull	90
+103	18	8	Solihull	90
+104	18	9	Solihull	90
+105	17	10	Solihull	90
+106	18	10	Solihull	90
+107	15	11	Solihull	90
+108	19	9	Solihull	90
+109	19	10	Solihull	90
+110	11	4	Sandwell	90
+111	10	4	Sandwell	90
+112	12	3	Sandwell	90
+113	8	5	Sandwell	90
+114	9	6	Sandwell	90
+115	10	5	Sandwell	90
+116	12	4	Sandwell	90
+117	7	4	Sandwell	90
+118	7	5	Sandwell	90
+119	9	4	Sandwell	90
+120	9	5	Sandwell	90
+121	11	5	Sandwell	90
+122	10	8	Sandwell	90
+123	8	7	Sandwell	90
+124	10	7	Sandwell	90
+125	6	7	Sandwell	90
+126	9	7	Sandwell	90
+127	9	8	Sandwell	90
+128	8	6	Sandwell	90
+129	7	7	Sandwell	90
+130	11	7	Sandwell	90
+131	11	6	Sandwell	90
+132	10	6	Sandwell	90
+133	7	6	Sandwell	90
+134	10	2	Walsall	90
+135	10	1	Walsall	90
+136	9	0	Walsall	90
+137	9	1	Walsall	90
+138	11	3	Walsall	90
+139	10	3	Walsall	90
+140	9	3	Walsall	90
+141	14	2	Walsall	90
+142	13	2	Walsall	90
+143	11	1	Walsall	90
+144	10	0	Walsall	90
+145	13	3	Walsall	90
+146	12	2	Walsall	90
+147	14	3	Walsall	90
+148	9	2	Walsall	90
+149	8	4	Walsall	90
+150	8	2	Walsall	90
+151	8	1	Walsall	90
+152	8	3	Walsall	90
+153	11	2	Walsall	90
+154	4	3	Wolverhampton	90
+155	7	3	Wolverhampton	90
+156	6	3	Wolverhampton	90
+157	3	4	Wolverhampton	90
+158	4	1	Wolverhampton	90
+159	4	2	Wolverhampton	90
+160	5	3	Wolverhampton	90
+161	5	4	Wolverhampton	90
+162	6	2	Wolverhampton	90
+163	3	3	Wolverhampton	90
+164	5	2	Wolverhampton	90
+165	2	3	Wolverhampton	90
+166	3	1	Wolverhampton	90
+167	2	2	Wolverhampton	90
+168	2	4	Wolverhampton	90
+169	4	4	Wolverhampton	90
+170	3	2	Wolverhampton	90
+171	1	2	Wolverhampton	90
+172	1	3	Wolverhampton	90
+173	7	1	Wolverhampton	90
+174	7	2	Wolverhampton	90
+1	16	5	Birmingham East	100
+2	14	4	Birmingham East	100
+3	15	5	Birmingham East	100
+4	17	6	Birmingham East	100
+5	16	10	Birmingham East	100
+6	14	9	Birmingham East	100
+7	15	9	Birmingham East	100
+8	16	9	Birmingham East	100
+9	16	8	Birmingham East	100
+10	17	7	Birmingham East	100
+11	20	8	Birmingham East	100
+12	16	6	Birmingham East	100
+13	15	3	Birmingham East	100
+14	17	5	Birmingham East	100
+15	16	4	Birmingham East	100
+16	15	4	Birmingham East	100
+17	17	9	Birmingham East	100
+18	19	8	Birmingham East	100
+19	17	8	Birmingham East	100
+20	18	7	Birmingham East	100
+21	14	7	Birmingham West	100
+22	15	7	Birmingham West	100
+23	14	8	Birmingham West	100
+24	13	8	Birmingham West	100
+25	9	9	Birmingham West	100
+26	12	8	Birmingham West	100
+27	11	8	Birmingham West	100
+28	10	9	Birmingham West	100
+29	14	6	Birmingham West	100
+30	15	8	Birmingham West	100
+31	15	6	Birmingham West	100
+32	16	7	Birmingham West	100
+33	13	6	Birmingham West	100
+34	13	7	Birmingham West	100
+35	12	6	Birmingham West	100
+36	12	7	Birmingham West	100
+37	13	10	Birmingham West	100
+38	8	10	Birmingham West	100
+39	12	10	Birmingham West	100
+40	11	9	Birmingham West	100
+41	12	5	Birmingham West	100
+42	13	5	Birmingham West	100
+43	13	4	Birmingham West	100
+44	14	5	Birmingham West	100
+45	15	10	Birmingham West	100
+46	12	9	Birmingham West	100
+47	14	10	Birmingham West	100
+48	13	9	Birmingham West	100
+49	25	9	Coventry	100
+50	25	7	Coventry	100
+51	27	8	Coventry	100
+52	26	7	Coventry	100
+53	26	9	Coventry	100
+54	26	8	Coventry	100
+55	27	9	Coventry	100
+56	23	7	Coventry	100
+57	26	10	Coventry	100
+58	25	10	Coventry	100
+59	24	9	Coventry	100
+60	24	7	Coventry	100
+61	25	8	Coventry	100
+62	24	8	Coventry	100
+63	24	10	Coventry	100
+64	23	10	Coventry	100
+65	23	9	Coventry	100
+66	23	8	Coventry	100
+67	7	8	Dudley	100
+68	6	5	Dudley	100
+69	6	4	Dudley	100
+70	6	8	Dudley	100
+71	3	5	Dudley	100
+72	8	8	Dudley	100
+73	8	9	Dudley	100
+74	7	9	Dudley	100
+75	5	6	Dudley	100
+76	5	7	Dudley	100
+77	4	5	Dudley	100
+78	4	6	Dudley	100
+79	6	6	Dudley	100
+80	5	5	Dudley	100
+81	3	7	Dudley	100
+82	4	7	Dudley	100
+83	3	6	Dudley	100
+84	2	5	Dudley	100
+85	2	6	Dudley	100
+86	5	8	Dudley	100
+87	3	8	Dudley	100
+88	4	8	Dudley	100
+89	2	8	Dudley	100
+90	2	7	Dudley	100
+91	22	9	Solihull	100
+92	21	9	Solihull	100
+93	18	11	Solihull	100
+94	20	7	Solihull	100
+95	22	7	Solihull	100
+96	20	10	Solihull	100
+97	21	8	Solihull	100
+98	21	10	Solihull	100
+99	22	10	Solihull	100
+100	22	8	Solihull	100
+101	21	7	Solihull	100
+102	20	9	Solihull	100
+103	18	8	Solihull	100
+104	18	9	Solihull	100
+105	17	10	Solihull	100
+106	18	10	Solihull	100
+107	15	11	Solihull	100
+108	19	9	Solihull	100
+109	19	10	Solihull	100
+110	11	4	Sandwell	100
+111	10	4	Sandwell	100
+112	12	3	Sandwell	100
+113	8	5	Sandwell	100
+114	9	6	Sandwell	100
+115	10	5	Sandwell	100
+116	12	4	Sandwell	100
+117	7	4	Sandwell	100
+118	7	5	Sandwell	100
+119	9	4	Sandwell	100
+120	9	5	Sandwell	100
+121	11	5	Sandwell	100
+122	10	8	Sandwell	100
+123	8	7	Sandwell	100
+124	10	7	Sandwell	100
+125	6	7	Sandwell	100
+126	9	7	Sandwell	100
+127	9	8	Sandwell	100
+128	8	6	Sandwell	100
+129	7	7	Sandwell	100
+130	11	7	Sandwell	100
+131	11	6	Sandwell	100
+132	10	6	Sandwell	100
+133	7	6	Sandwell	100
+134	10	2	Walsall	100
+135	10	1	Walsall	100
+136	9	0	Walsall	100
+137	9	1	Walsall	100
+138	11	3	Walsall	100
+139	10	3	Walsall	100
+140	9	3	Walsall	100
+141	14	2	Walsall	100
+142	13	2	Walsall	100
+143	11	1	Walsall	100
+144	10	0	Walsall	100
+145	13	3	Walsall	100
+146	12	2	Walsall	100
+147	14	3	Walsall	100
+148	9	2	Walsall	100
+149	8	4	Walsall	100
+150	8	2	Walsall	100
+151	8	1	Walsall	100
+152	8	3	Walsall	100
+153	11	2	Walsall	100
+154	4	3	Wolverhampton	100
+155	7	3	Wolverhampton	100
+156	6	3	Wolverhampton	100
+157	3	4	Wolverhampton	100
+158	4	1	Wolverhampton	100
+159	4	2	Wolverhampton	100
+160	5	3	Wolverhampton	100
+161	5	4	Wolverhampton	100
+162	6	2	Wolverhampton	100
+163	3	3	Wolverhampton	100
+164	5	2	Wolverhampton	100
+165	2	3	Wolverhampton	100
+166	3	1	Wolverhampton	100
+167	2	2	Wolverhampton	100
+168	2	4	Wolverhampton	100
+169	4	4	Wolverhampton	100
+170	3	2	Wolverhampton	100
+171	1	2	Wolverhampton	100
+172	1	3	Wolverhampton	100
+173	7	1	Wolverhampton	100
+174	7	2	Wolverhampton	100
