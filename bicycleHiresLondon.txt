@@ -1,0 +1,6 @@
+bicycleHiresLondon.csv
+----------------------
+
+Monthly London (Santander) public bicycle hires and average length of hire in minutes.
+
+Source: London Data Store / Transport for London (TfL) : https://data.london.gov.uk/dataset/number-bicycle-hires
