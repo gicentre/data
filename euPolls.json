@@ -1,918 +1,918 @@
 [
   {
-    "Date": "2019-01-11 00:00",
+    "Date": "2019/01/11 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 47
   },
   {
-    "Date": "2019-01-11 00:00",
+    "Date": "2019/01/11 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 45
   },
   {
-    "Date": "2019-01-11 00:00",
+    "Date": "2019/01/11 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 8
   },
   {
-    "Date": "2018-12-07 00:00",
+    "Date": "2018/12/07 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 52
   },
   {
-    "Date": "2018-12-07 00:00",
+    "Date": "2018/12/07 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 40
   },
   {
-    "Date": "2018-12-07 00:00",
+    "Date": "2018/12/07 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 8
   },
   {
-    "Date": "2018-11-15 00:00",
+    "Date": "2018/11/15 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 50
   },
   {
-    "Date": "2018-11-15 00:00",
+    "Date": "2018/11/15 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 45
   },
   {
-    "Date": "2018-11-15 00:00",
+    "Date": "2018/11/15 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 5
   },
   {
-    "Date": "2018-11-09 00:00",
+    "Date": "2018/11/09 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 49
   },
   {
-    "Date": "2018-11-09 00:00",
+    "Date": "2018/11/09 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 42
   },
   {
-    "Date": "2018-11-09 00:00",
+    "Date": "2018/11/09 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 9
   },
   {
-    "Date": "2018-11-02 00:00",
+    "Date": "2018/11/02 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 50
   },
   {
-    "Date": "2018-11-02 00:00",
+    "Date": "2018/11/02 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 44
   },
   {
-    "Date": "2018-11-02 00:00",
+    "Date": "2018/11/02 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 6
   },
   {
-    "Date": "2018-10-05 00:00",
+    "Date": "2018/10/05 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 48
   },
   {
-    "Date": "2018-10-05 00:00",
+    "Date": "2018/10/05 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 41
   },
   {
-    "Date": "2018-10-05 00:00",
+    "Date": "2018/10/05 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 11
   },
   {
-    "Date": "2018-09-29 00:00",
+    "Date": "2018/09/29 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 47
   },
   {
-    "Date": "2018-09-29 00:00",
+    "Date": "2018/09/29 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 43
   },
   {
-    "Date": "2018-09-29 00:00",
+    "Date": "2018/09/29 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 10
   },
   {
-    "Date": "2018-09-22 00:00",
+    "Date": "2018/09/22 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 48
   },
   {
-    "Date": "2018-09-22 00:00",
+    "Date": "2018/09/22 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 42
   },
   {
-    "Date": "2018-09-22 00:00",
+    "Date": "2018/09/22 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 10
   },
   {
-    "Date": "2018-09-07 01:00",
+    "Date": "2018/09/07 01:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 47
   },
   {
-    "Date": "2018-09-07 01:00",
+    "Date": "2018/09/07 01:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 43
   },
   {
-    "Date": "2018-09-07 01:00",
+    "Date": "2018/09/07 01:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 10
   },
   {
-    "Date": "2018-09-07 00:00",
+    "Date": "2018/09/07 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 47
   },
   {
-    "Date": "2018-09-07 00:00",
+    "Date": "2018/09/07 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 46
   },
   {
-    "Date": "2018-09-07 00:00",
+    "Date": "2018/09/07 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 7
   },
   {
-    "Date": "2018-09-01 00:00",
+    "Date": "2018/09/01 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 47
   },
   {
-    "Date": "2018-09-01 00:00",
+    "Date": "2018/09/01 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 47
   },
   {
-    "Date": "2018-09-01 00:00",
+    "Date": "2018/09/01 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 6
   },
   {
-    "Date": "2018-08-10 00:00",
+    "Date": "2018/08/10 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 49
   },
   {
-    "Date": "2018-08-10 00:00",
+    "Date": "2018/08/10 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 41
   },
   {
-    "Date": "2018-08-10 00:00",
+    "Date": "2018/08/10 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 10
   },
   {
-    "Date": "2018-07-26 00:00",
+    "Date": "2018/07/26 00:00",
     "Pollster": "YouGov",
     "Answer": "remain",
     "Percent": 45
   },
   {
-    "Date": "2018-07-26 00:00",
+    "Date": "2018/07/26 00:00",
     "Pollster": "YouGov",
     "Answer": "leave",
     "Percent": 42
   },
   {
-    "Date": "2018-07-26 00:00",
+    "Date": "2018/07/26 00:00",
     "Pollster": "YouGov",
     "Answer": "no answer / don't know",
     "Percent": 13
   },
   {
-    "Date": "2018-07-20 00:00",
+    "Date": "2018/07/20 00:00",
     "Pollster": "YouGov",
     "Answer": "remain",
     "Percent": 44
   },
   {
-    "Date": "2018-07-20 00:00",
+    "Date": "2018/07/20 00:00",
     "Pollster": "YouGov",
     "Answer": "leave",
     "Percent": 40
   },
   {
-    "Date": "2018-07-20 00:00",
+    "Date": "2018/07/20 00:00",
     "Pollster": "YouGov",
     "Answer": "no answer / don't know",
     "Percent": 16
   },
   {
-    "Date": "2018-07-07 00:00",
+    "Date": "2018/07/07 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 49
   },
   {
-    "Date": "2018-07-07 00:00",
+    "Date": "2018/07/07 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 45
   },
   {
-    "Date": "2018-07-07 00:00",
+    "Date": "2018/07/07 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 6
   },
   {
-    "Date": "2018-07-05 00:00",
+    "Date": "2018/07/05 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 49
   },
   {
-    "Date": "2018-07-05 00:00",
+    "Date": "2018/07/05 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 43
   },
   {
-    "Date": "2018-07-05 00:00",
+    "Date": "2018/07/05 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 8
   },
   {
-    "Date": "2018-06-20 00:00",
+    "Date": "2018/06/20 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 50
   },
   {
-    "Date": "2018-06-20 00:00",
+    "Date": "2018/06/20 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 44
   },
   {
-    "Date": "2018-06-20 00:00",
+    "Date": "2018/06/20 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 6
   },
   {
-    "Date": "2018-06-08 00:00",
+    "Date": "2018/06/08 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 46
   },
   {
-    "Date": "2018-06-08 00:00",
+    "Date": "2018/06/08 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 43
   },
   {
-    "Date": "2018-06-08 00:00",
+    "Date": "2018/06/08 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 11
   },
   {
-    "Date": "2018-06-04 00:00",
+    "Date": "2018/06/04 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 48
   },
   {
-    "Date": "2018-06-04 00:00",
+    "Date": "2018/06/04 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 47
   },
   {
-    "Date": "2018-06-04 00:00",
+    "Date": "2018/06/04 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 5
   },
   {
-    "Date": "2018-05-10 00:00",
+    "Date": "2018/05/10 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 47
   },
   {
-    "Date": "2018-05-10 00:00",
+    "Date": "2018/05/10 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 47
   },
   {
-    "Date": "2018-05-10 00:00",
+    "Date": "2018/05/10 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 6
   },
   {
-    "Date": "2018-05-04 00:00",
+    "Date": "2018/05/04 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 47
   },
   {
-    "Date": "2018-05-04 00:00",
+    "Date": "2018/05/04 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 43
   },
   {
-    "Date": "2018-05-04 00:00",
+    "Date": "2018/05/04 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 10
   },
   {
-    "Date": "2018-04-14 00:00",
+    "Date": "2018/04/14 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 47
   },
   {
-    "Date": "2018-04-14 00:00",
+    "Date": "2018/04/14 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 46
   },
   {
-    "Date": "2018-04-14 00:00",
+    "Date": "2018/04/14 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 7
   },
   {
-    "Date": "2018-04-13 00:00",
+    "Date": "2018/04/13 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 49
   },
   {
-    "Date": "2018-04-13 00:00",
+    "Date": "2018/04/13 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 40
   },
   {
-    "Date": "2018-04-13 00:00",
+    "Date": "2018/04/13 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 11
   },
   {
-    "Date": "2018-03-16 00:00",
+    "Date": "2018/03/16 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 49
   },
   {
-    "Date": "2018-03-16 00:00",
+    "Date": "2018/03/16 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 42
   },
   {
-    "Date": "2018-03-16 00:00",
+    "Date": "2018/03/16 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 9
   },
   {
-    "Date": "2018-02-09 00:00",
+    "Date": "2018/02/09 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 47
   },
   {
-    "Date": "2018-02-09 00:00",
+    "Date": "2018/02/09 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 44
   },
   {
-    "Date": "2018-02-09 00:00",
+    "Date": "2018/02/09 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 9
   },
   {
-    "Date": "2018-01-29 00:00",
+    "Date": "2018/01/29 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 49
   },
   {
-    "Date": "2018-01-29 00:00",
+    "Date": "2018/01/29 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 46
   },
   {
-    "Date": "2018-01-29 00:00",
+    "Date": "2018/01/29 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 5
   },
   {
-    "Date": "2018-01-12 00:00",
+    "Date": "2018/01/12 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 48
   },
   {
-    "Date": "2018-01-12 00:00",
+    "Date": "2018/01/12 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 44
   },
   {
-    "Date": "2018-01-12 00:00",
+    "Date": "2018/01/12 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 8
   },
   {
-    "Date": "2017-12-08 00:00",
+    "Date": "2017/12/08 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 51
   },
   {
-    "Date": "2017-12-08 00:00",
+    "Date": "2017/12/08 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 41
   },
   {
-    "Date": "2017-12-08 00:00",
+    "Date": "2017/12/08 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 8
   },
   {
-    "Date": "2017-12-01 00:00",
+    "Date": "2017/12/01 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 48
   },
   {
-    "Date": "2017-12-01 00:00",
+    "Date": "2017/12/01 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 44
   },
   {
-    "Date": "2017-12-01 00:00",
+    "Date": "2017/12/01 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 8
   },
   {
-    "Date": "2017-11-17 00:00",
+    "Date": "2017/11/17 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 45
   },
   {
-    "Date": "2017-11-17 00:00",
+    "Date": "2017/11/17 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 45
   },
   {
-    "Date": "2017-11-17 00:00",
+    "Date": "2017/11/17 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 10
   },
   {
-    "Date": "2017-10-20 00:00",
+    "Date": "2017/10/20 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 47
   },
   {
-    "Date": "2017-10-20 00:00",
+    "Date": "2017/10/20 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 44
   },
   {
-    "Date": "2017-10-20 00:00",
+    "Date": "2017/10/20 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 9
   },
   {
-    "Date": "2017-10-05 00:00",
+    "Date": "2017/10/05 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 49
   },
   {
-    "Date": "2017-10-05 00:00",
+    "Date": "2017/10/05 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 45
   },
   {
-    "Date": "2017-10-05 00:00",
+    "Date": "2017/10/05 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 6
   },
   {
-    "Date": "2017-09-23 00:00",
+    "Date": "2017/09/23 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 46
   },
   {
-    "Date": "2017-09-23 00:00",
+    "Date": "2017/09/23 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 47
   },
   {
-    "Date": "2017-09-23 00:00",
+    "Date": "2017/09/23 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 7
   },
   {
-    "Date": "2017-09-20 00:00",
+    "Date": "2017/09/20 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 47
   },
   {
-    "Date": "2017-09-20 00:00",
+    "Date": "2017/09/20 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 47
   },
   {
-    "Date": "2017-09-20 00:00",
+    "Date": "2017/09/20 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 6
   },
   {
-    "Date": "2017-09-15 00:00",
+    "Date": "2017/09/15 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 47
   },
   {
-    "Date": "2017-09-15 00:00",
+    "Date": "2017/09/15 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 43
   },
   {
-    "Date": "2017-09-15 00:00",
+    "Date": "2017/09/15 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 10
   },
   {
-    "Date": "2017-08-11 00:00",
+    "Date": "2017/08/11 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 46
   },
   {
-    "Date": "2017-08-11 00:00",
+    "Date": "2017/08/11 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 45
   },
   {
-    "Date": "2017-08-11 00:00",
+    "Date": "2017/08/11 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 9
   },
   {
-    "Date": "2017-07-15 00:00",
+    "Date": "2017/07/15 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 47
   },
   {
-    "Date": "2017-07-15 00:00",
+    "Date": "2017/07/15 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 48
   },
   {
-    "Date": "2017-07-15 00:00",
+    "Date": "2017/07/15 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 5
   },
   {
-    "Date": "2017-07-14 00:00",
+    "Date": "2017/07/14 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 46
   },
   {
-    "Date": "2017-07-14 00:00",
+    "Date": "2017/07/14 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 45
   },
   {
-    "Date": "2017-07-14 00:00",
+    "Date": "2017/07/14 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 9
   },
   {
-    "Date": "2017-06-30 00:00",
+    "Date": "2017/06/30 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 51
   },
   {
-    "Date": "2017-06-30 00:00",
+    "Date": "2017/06/30 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 44
   },
   {
-    "Date": "2017-06-30 00:00",
+    "Date": "2017/06/30 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 5
   },
   {
-    "Date": "2017-06-17 00:00",
+    "Date": "2017/06/17 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 50
   },
   {
-    "Date": "2017-06-17 00:00",
+    "Date": "2017/06/17 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 48
   },
   {
-    "Date": "2017-06-17 00:00",
+    "Date": "2017/06/17 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 2
   },
   {
-    "Date": "2017-06-10 00:00",
+    "Date": "2017/06/10 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
     "Percent": 48
   },
   {
-    "Date": "2017-06-10 00:00",
+    "Date": "2017/06/10 00:00",
     "Pollster": "Survation",
     "Answer": "leave",
     "Percent": 46
   },
   {
-    "Date": "2017-06-10 00:00",
+    "Date": "2017/06/10 00:00",
     "Pollster": "Survation",
     "Answer": "no answer / don't know",
     "Percent": 6
   },
   {
-    "Date": "2017-06-05 00:00",
+    "Date": "2017/06/05 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 47
   },
   {
-    "Date": "2017-06-05 00:00",
+    "Date": "2017/06/05 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 44
   },
   {
-    "Date": "2017-06-05 00:00",
+    "Date": "2017/06/05 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 9
   },
   {
-    "Date": "2017-05-22 00:00",
+    "Date": "2017/05/22 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 45
   },
   {
-    "Date": "2017-05-22 00:00",
+    "Date": "2017/05/22 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 45
   },
   {
-    "Date": "2017-05-22 00:00",
+    "Date": "2017/05/22 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 10
   },
   {
-    "Date": "2017-04-24 00:00",
+    "Date": "2017/04/24 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 45
   },
   {
-    "Date": "2017-04-24 00:00",
+    "Date": "2017/04/24 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 45
   },
   {
-    "Date": "2017-04-24 00:00",
+    "Date": "2017/04/24 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 10
   },
   {
-    "Date": "2017-03-31 00:00",
+    "Date": "2017/03/31 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 46
   },
   {
-    "Date": "2017-03-31 00:00",
+    "Date": "2017/03/31 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 46
   },
   {
-    "Date": "2017-03-31 00:00",
+    "Date": "2017/03/31 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 8
   },
   {
-    "Date": "2017-02-24 00:00",
+    "Date": "2017/02/24 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 45
   },
   {
-    "Date": "2017-02-24 00:00",
+    "Date": "2017/02/24 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 46
   },
   {
-    "Date": "2017-02-24 00:00",
+    "Date": "2017/02/24 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 9
   },
   {
-    "Date": "2017-01-09 00:00",
+    "Date": "2017/01/09 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 44
   },
   {
-    "Date": "2017-01-09 00:00",
+    "Date": "2017/01/09 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 45
   },
   {
-    "Date": "2017-01-09 00:00",
+    "Date": "2017/01/09 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 11
   },
   {
-    "Date": "2016-12-09 00:00",
+    "Date": "2016/12/09 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 43
   },
   {
-    "Date": "2016-12-09 00:00",
+    "Date": "2016/12/09 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 46
   },
   {
-    "Date": "2016-12-09 00:00",
+    "Date": "2016/12/09 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 11
   },
   {
-    "Date": "2016-11-27 00:00",
+    "Date": "2016/11/27 00:00",
     "Pollster": "ComRes",
     "Answer": "remain",
     "Percent": 46
   },
   {
-    "Date": "2016-11-27 00:00",
+    "Date": "2016/11/27 00:00",
     "Pollster": "ComRes",
     "Answer": "leave",
     "Percent": 47
   },
   {
-    "Date": "2016-11-27 00:00",
+    "Date": "2016/11/27 00:00",
     "Pollster": "ComRes",
     "Answer": "no answer / don't know",
     "Percent": 7
   },
   {
-    "Date": "2016-11-25 00:00",
+    "Date": "2016/11/25 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 43
   },
   {
-    "Date": "2016-11-25 00:00",
+    "Date": "2016/11/25 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 43
   },
   {
-    "Date": "2016-11-25 00:00",
+    "Date": "2016/11/25 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 14
   },
   {
-    "Date": "2016-10-24 00:00",
+    "Date": "2016/10/24 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
     "Percent": 45
   },
   {
-    "Date": "2016-10-24 00:00",
+    "Date": "2016/10/24 00:00",
     "Pollster": "BMG Research",
     "Answer": "leave",
     "Percent": 43
   },
   {
-    "Date": "2016-10-24 00:00",
+    "Date": "2016/10/24 00:00",
     "Pollster": "BMG Research",
     "Answer": "no answer / don't know",
     "Percent": 12
