@@ -1,151 +1,154 @@
-﻿Date,Pollster,Answer,Count
-2019-01-11,Survation,remain,47
-2019-01-11,Survation,leave,45
-2019-01-11,Survation,no answer / don't know,8
-2018-12-07,BMG Research,remain,52
-2018-12-07,BMG Research,leave,40
-2018-12-07,BMG Research,no answer / don't know,8
-2018-11-15,Survation,remain,50
-2018-11-15,Survation,leave,45
-2018-11-15,Survation,no answer / don't know,5
-2018-11-09,BMG Research,remain,49
-2018-11-09,BMG Research,leave,42
-2018-11-09,BMG Research,no answer / don't know,9
-2018-11-02,Survation,remain,50
-2018-11-02,Survation,leave,44
-2018-11-02,Survation,no answer / don't know,6
-2018-10-05,BMG Research,remain,48
-2018-10-05,BMG Research,leave,41
-2018-10-05,BMG Research,no answer / don't know,11
-2018-09-29,BMG Research,remain,47
-2018-09-29,BMG Research,leave,43
-2018-09-29,BMG Research,no answer / don't know,10
-2018-09-22,BMG Research,remain,48
-2018-09-22,BMG Research,leave,42
-2018-09-22,BMG Research,no answer / don't know,10
-2018-09-07,BMG Research,remain,47
-2018-09-07,BMG Research,leave,43
-2018-09-07,BMG Research,no answer / don't know,10
-2018-09-01,Survation,remain,47
-2018-09-01,Survation,leave,47
-2018-09-01,Survation,no answer / don't know,6
-2018-08-10,BMG Research,remain,49
-2018-08-10,BMG Research,leave,41
-2018-08-10,BMG Research,no answer / don't know,10
-2018-07-26,YouGov,remain,45
-2018-07-26,YouGov,leave,42
-2018-07-26,YouGov,no answer / don't know,13
-2018-07-20,YouGov,remain,44
-2018-07-20,YouGov,leave,40
-2018-07-20,YouGov,no answer / don't know,16
-2018-07-07,Survation,remain,49
-2018-07-07,Survation,leave,45
-2018-07-07,Survation,no answer / don't know,6
-2018-07-05,BMG Research,remain,49
-2018-07-05,BMG Research,leave,43
-2018-07-05,BMG Research,no answer / don't know,8
-2018-06-20,Survation,remain,50
-2018-06-20,Survation,leave,44
-2018-06-20,Survation,no answer / don't know,6
-2018-06-08,BMG Research,remain,46
-2018-06-08,BMG Research,leave,43
-2018-06-08,BMG Research,no answer / don't know,11
-2018-06-04,Survation,remain,48
-2018-06-04,Survation,leave,47
-2018-06-04,Survation,no answer / don't know,5
-2018-05-10,Survation,remain,47
-2018-05-10,Survation,leave,47
-2018-05-10,Survation,no answer / don't know,6
-2018-05-04,BMG Research,remain,47
-2018-05-04,BMG Research,leave,43
-2018-05-04,BMG Research,no answer / don't know,10
-2018-04-14,Survation,remain,47
-2018-04-14,Survation,leave,46
-2018-04-14,Survation,no answer / don't know,7
-2018-04-13,BMG Research,remain,49
-2018-04-13,BMG Research,leave,40
-2018-04-13,BMG Research,no answer / don't know,11
-2018-03-16,BMG Research,remain,49
-2018-03-16,BMG Research,leave,42
-2018-03-16,BMG Research,no answer / don't know,9
-2018-02-09,BMG Research,remain,47
-2018-02-09,BMG Research,leave,44
-2018-02-09,BMG Research,no answer / don't know,9
-2018-01-29,Survation,remain,49
-2018-01-29,Survation,leave,46
-2018-01-29,Survation,no answer / don't know,5
-2018-01-12,BMG Research,remain,48
-2018-01-12,BMG Research,leave,44
-2018-01-12,BMG Research,no answer / don't know,8
-2017-12-08,BMG Research,remain,51
-2017-12-08,BMG Research,leave,41
-2017-12-08,BMG Research,no answer / don't know,8
-2017-12-01,Survation,remain,48
-2017-12-01,Survation,leave,44
-2017-12-01,Survation,no answer / don't know,8
-2017-11-17,BMG Research,remain,45
-2017-11-17,BMG Research,leave,45
-2017-11-17,BMG Research,no answer / don't know,10
-2017-10-20,BMG Research,remain,47
-2017-10-20,BMG Research,leave,44
-2017-10-20,BMG Research,no answer / don't know,9
-2017-10-05,Survation,remain,49
-2017-10-05,Survation,leave,45
-2017-10-05,Survation,no answer / don't know,6
-2017-09-23,Survation,remain,46
-2017-09-23,Survation,leave,47
-2017-09-23,Survation,no answer / don't know,7
-2017-09-20,Survation,remain,47
-2017-09-20,Survation,leave,47
-2017-09-20,Survation,no answer / don't know,6
-2017-09-15,BMG Research,remain,47
-2017-09-15,BMG Research,leave,43
-2017-09-15,BMG Research,no answer / don't know,10
-2017-08-11,BMG Research,remain,46
-2017-08-11,BMG Research,leave,45
-2017-08-11,BMG Research,no answer / don't know,9
-2017-07-15,Survation,remain,47
-2017-07-15,Survation,leave,48
-2017-07-15,Survation,no answer / don't know,5
-2017-07-14,BMG Research,remain,46
-2017-07-14,BMG Research,leave,45
-2017-07-14,BMG Research,no answer / don't know,9
-2017-06-30,Survation,remain,51
-2017-06-30,Survation,leave,44
-2017-06-30,Survation,no answer / don't know,5
-2017-06-17,Survation,remain,50
-2017-06-17,Survation,leave,48
-2017-06-17,Survation,no answer / don't know,2
-2017-06-10,Survation,remain,48
-2017-06-10,Survation,leave,46
-2017-06-10,Survation,no answer / don't know,6
-2017-06-05,BMG Research,remain,47
-2017-06-05,BMG Research,leave,44
-2017-06-05,BMG Research,no answer / don't know,9
-2017-05-22,BMG Research,remain,45
-2017-05-22,BMG Research,leave,45
-2017-05-22,BMG Research,no answer / don't know,10
-2017-04-24,BMG Research,remain,45
-2017-04-24,BMG Research,leave,45
-2017-04-24,BMG Research,no answer / don't know,10
-2017-03-31,BMG Research,remain,46
-2017-03-31,BMG Research,leave,46
-2017-03-31,BMG Research,no answer / don't know,8
-2017-02-24,BMG Research,remain,45
-2017-02-24,BMG Research,leave,46
-2017-02-24,BMG Research,no answer / don't know,9
-2017-01-09,BMG Research,remain,44
-2017-01-09,BMG Research,leave,45
-2017-01-09,BMG Research,no answer / don't know,11
-2016-12-09,BMG Research,remain,43
-2016-12-09,BMG Research,leave,46
-2016-12-09,BMG Research,no answer / don't know,11
-2016-11-27,ComRes,remain,46
-2016-11-27,ComRes,leave,47
-2016-11-27,ComRes,no answer / don't know,7
-2016-11-25,BMG Research,remain,43
-2016-11-25,BMG Research,leave,43
-2016-11-25,BMG Research,no answer / don't know,14
-2016-10-24,BMG Research,remain,45
-2016-10-24,BMG Research,leave,43
-2016-10-24,BMG Research,no answer / don't know,12
+﻿Date,Pollster,Answer,Percent
+2019-01-11 00:00,Survation,remain,47.0
+2019-01-11 00:00,Survation,leave,45.0
+2019-01-11 00:00,Survation,no answer / don't know,8.0
+2018-12-07 00:00,BMG Research,remain,52.0
+2018-12-07 00:00,BMG Research,leave,40.0
+2018-12-07 00:00,BMG Research,no answer / don't know,8.0
+2018-11-15 00:00,Survation,remain,50.0
+2018-11-15 00:00,Survation,leave,45.0
+2018-11-15 00:00,Survation,no answer / don't know,5.0
+2018-11-09 00:00,BMG Research,remain,49.0
+2018-11-09 00:00,BMG Research,leave,42.0
+2018-11-09 00:00,BMG Research,no answer / don't know,9.0
+2018-11-02 00:00,Survation,remain,50.0
+2018-11-02 00:00,Survation,leave,44.0
+2018-11-02 00:00,Survation,no answer / don't know,6.0
+2018-10-05 00:00,BMG Research,remain,48.0
+2018-10-05 00:00,BMG Research,leave,41.0
+2018-10-05 00:00,BMG Research,no answer / don't know,11.0
+2018-09-29 00:00,BMG Research,remain,47.0
+2018-09-29 00:00,BMG Research,leave,43.0
+2018-09-29 00:00,BMG Research,no answer / don't know,10.0
+2018-09-22 00:00,BMG Research,remain,48.0
+2018-09-22 00:00,BMG Research,leave,42.0
+2018-09-22 00:00,BMG Research,no answer / don't know,10.0
+2018-09-07 01:00,BMG Research,remain,47.0
+2018-09-07 01:00,BMG Research,leave,43.0
+2018-09-07 01:00,BMG Research,no answer / don't know,10.0
+2018-09-07 00:00,Survation,remain,47.0
+2018-09-07 00:00,Survation,leave,46.0
+2018-09-07 00:00,Survation,no answer / don't know,7.0
+2018-09-01 00:00,Survation,remain,47.0
+2018-09-01 00:00,Survation,leave,47.0
+2018-09-01 00:00,Survation,no answer / don't know,6.0
+2018-08-10 00:00,BMG Research,remain,49.0
+2018-08-10 00:00,BMG Research,leave,41.0
+2018-08-10 00:00,BMG Research,no answer / don't know,10.0
+2018-07-26 00:00,YouGov,remain,45.0
+2018-07-26 00:00,YouGov,leave,42.0
+2018-07-26 00:00,YouGov,no answer / don't know,13.0
+2018-07-20 00:00,YouGov,remain,44.0
+2018-07-20 00:00,YouGov,leave,40.0
+2018-07-20 00:00,YouGov,no answer / don't know,16.0
+2018-07-07 00:00,Survation,remain,49.0
+2018-07-07 00:00,Survation,leave,45.0
+2018-07-07 00:00,Survation,no answer / don't know,6.0
+2018-07-05 00:00,BMG Research,remain,49.0
+2018-07-05 00:00,BMG Research,leave,43.0
+2018-07-05 00:00,BMG Research,no answer / don't know,8.0
+2018-06-20 00:00,Survation,remain,50.0
+2018-06-20 00:00,Survation,leave,44.0
+2018-06-20 00:00,Survation,no answer / don't know,6.0
+2018-06-08 00:00,BMG Research,remain,46.0
+2018-06-08 00:00,BMG Research,leave,43.0
+2018-06-08 00:00,BMG Research,no answer / don't know,11.0
+2018-06-04 00:00,Survation,remain,48.0
+2018-06-04 00:00,Survation,leave,47.0
+2018-06-04 00:00,Survation,no answer / don't know,5.0
+2018-05-10 00:00,Survation,remain,47.0
+2018-05-10 00:00,Survation,leave,47.0
+2018-05-10 00:00,Survation,no answer / don't know,6.0
+2018-05-04 00:00,BMG Research,remain,47.0
+2018-05-04 00:00,BMG Research,leave,43.0
+2018-05-04 00:00,BMG Research,no answer / don't know,10.0
+2018-04-14 00:00,Survation,remain,47.0
+2018-04-14 00:00,Survation,leave,46.0
+2018-04-14 00:00,Survation,no answer / don't know,7.0
+2018-04-13 00:00,BMG Research,remain,49.0
+2018-04-13 00:00,BMG Research,leave,40.0
+2018-04-13 00:00,BMG Research,no answer / don't know,11.0
+2018-03-16 00:00,BMG Research,remain,49.0
+2018-03-16 00:00,BMG Research,leave,42.0
+2018-03-16 00:00,BMG Research,no answer / don't know,9.0
+2018-02-09 00:00,BMG Research,remain,47.0
+2018-02-09 00:00,BMG Research,leave,44.0
+2018-02-09 00:00,BMG Research,no answer / don't know,9.0
+2018-01-29 00:00,Survation,remain,49.0
+2018-01-29 00:00,Survation,leave,46.0
+2018-01-29 00:00,Survation,no answer / don't know,5.0
+2018-01-12 00:00,BMG Research,remain,48.0
+2018-01-12 00:00,BMG Research,leave,44.0
+2018-01-12 00:00,BMG Research,no answer / don't know,8.0
+2017-12-08 00:00,BMG Research,remain,51.0
+2017-12-08 00:00,BMG Research,leave,41.0
+2017-12-08 00:00,BMG Research,no answer / don't know,8.0
+2017-12-01 00:00,Survation,remain,48.0
+2017-12-01 00:00,Survation,leave,44.0
+2017-12-01 00:00,Survation,no answer / don't know,8.0
+2017-11-17 00:00,BMG Research,remain,45.0
+2017-11-17 00:00,BMG Research,leave,45.0
+2017-11-17 00:00,BMG Research,no answer / don't know,10.0
+2017-10-20 00:00,BMG Research,remain,47.0
+2017-10-20 00:00,BMG Research,leave,44.0
+2017-10-20 00:00,BMG Research,no answer / don't know,9.0
+2017-10-05 00:00,Survation,remain,49.0
+2017-10-05 00:00,Survation,leave,45.0
+2017-10-05 00:00,Survation,no answer / don't know,6.0
+2017-09-23 00:00,Survation,remain,46.0
+2017-09-23 00:00,Survation,leave,47.0
+2017-09-23 00:00,Survation,no answer / don't know,7.0
+2017-09-20 00:00,Survation,remain,47.0
+2017-09-20 00:00,Survation,leave,47.0
+2017-09-20 00:00,Survation,no answer / don't know,6.0
+2017-09-15 00:00,BMG Research,remain,47.0
+2017-09-15 00:00,BMG Research,leave,43.0
+2017-09-15 00:00,BMG Research,no answer / don't know,10.0
+2017-08-11 00:00,BMG Research,remain,46.0
+2017-08-11 00:00,BMG Research,leave,45.0
+2017-08-11 00:00,BMG Research,no answer / don't know,9.0
+2017-07-15 00:00,Survation,remain,47.0
+2017-07-15 00:00,Survation,leave,48.0
+2017-07-15 00:00,Survation,no answer / don't know,5.0
+2017-07-14 00:00,BMG Research,remain,46.0
+2017-07-14 00:00,BMG Research,leave,45.0
+2017-07-14 00:00,BMG Research,no answer / don't know,9.0
+2017-06-30 00:00,Survation,remain,51.0
+2017-06-30 00:00,Survation,leave,44.0
+2017-06-30 00:00,Survation,no answer / don't know,5.0
+2017-06-17 00:00,Survation,remain,50.0
+2017-06-17 00:00,Survation,leave,48.0
+2017-06-17 00:00,Survation,no answer / don't know,2.0
+2017-06-10 00:00,Survation,remain,48.0
+2017-06-10 00:00,Survation,leave,46.0
+2017-06-10 00:00,Survation,no answer / don't know,6.0
+2017-06-05 00:00,BMG Research,remain,47.0
+2017-06-05 00:00,BMG Research,leave,44.0
+2017-06-05 00:00,BMG Research,no answer / don't know,9.0
+2017-05-22 00:00,BMG Research,remain,45.0
+2017-05-22 00:00,BMG Research,leave,45.0
+2017-05-22 00:00,BMG Research,no answer / don't know,10.0
+2017-04-24 00:00,BMG Research,remain,45.0
+2017-04-24 00:00,BMG Research,leave,45.0
+2017-04-24 00:00,BMG Research,no answer / don't know,10.0
+2017-03-31 00:00,BMG Research,remain,46.0
+2017-03-31 00:00,BMG Research,leave,46.0
+2017-03-31 00:00,BMG Research,no answer / don't know,8.0
+2017-02-24 00:00,BMG Research,remain,45.0
+2017-02-24 00:00,BMG Research,leave,46.0
+2017-02-24 00:00,BMG Research,no answer / don't know,9.0
+2017-01-09 00:00,BMG Research,remain,44.0
+2017-01-09 00:00,BMG Research,leave,45.0
+2017-01-09 00:00,BMG Research,no answer / don't know,11.0
+2016-12-09 00:00,BMG Research,remain,43.0
+2016-12-09 00:00,BMG Research,leave,46.0
+2016-12-09 00:00,BMG Research,no answer / don't know,11.0
+2016-11-27 00:00,ComRes,remain,46.0
+2016-11-27 00:00,ComRes,leave,47.0
+2016-11-27 00:00,ComRes,no answer / don't know,7.0
+2016-11-25 00:00,BMG Research,remain,43.0
+2016-11-25 00:00,BMG Research,leave,43.0
+2016-11-25 00:00,BMG Research,no answer / don't know,14.0
+2016-10-24 00:00,BMG Research,remain,45.0
+2016-10-24 00:00,BMG Research,leave,43.0
+2016-10-24 00:00,BMG Research,no answer / don't know,12.0
