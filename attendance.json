@@ -1,0 +1,7082 @@
+[
+  {
+    "id": 1,
+    "cohort": "PG Cyber Sec",
+    "session": 1,
+    "attendance": 0
+  },
+  {
+    "id": 1,
+    "cohort": "PG Cyber Sec",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 1,
+    "cohort": "PG Cyber Sec",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 1,
+    "cohort": "PG Cyber Sec",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 1,
+    "cohort": "PG Cyber Sec",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 1,
+    "cohort": "PG Cyber Sec",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 1,
+    "cohort": "PG Cyber Sec",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 1,
+    "cohort": "PG Cyber Sec",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 1,
+    "cohort": "PG Cyber Sec",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 1,
+    "cohort": "PG Cyber Sec",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 2,
+    "cohort": "PG Cyber Sec",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 2,
+    "cohort": "PG Cyber Sec",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 2,
+    "cohort": "PG Cyber Sec",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 2,
+    "cohort": "PG Cyber Sec",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 2,
+    "cohort": "PG Cyber Sec",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 2,
+    "cohort": "PG Cyber Sec",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 2,
+    "cohort": "PG Cyber Sec",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 2,
+    "cohort": "PG Cyber Sec",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 2,
+    "cohort": "PG Cyber Sec",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 2,
+    "cohort": "PG Cyber Sec",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 3,
+    "cohort": "PG Cyber Sec",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 3,
+    "cohort": "PG Cyber Sec",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 3,
+    "cohort": "PG Cyber Sec",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 3,
+    "cohort": "PG Cyber Sec",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 3,
+    "cohort": "PG Cyber Sec",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 3,
+    "cohort": "PG Cyber Sec",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 3,
+    "cohort": "PG Cyber Sec",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 3,
+    "cohort": "PG Cyber Sec",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 3,
+    "cohort": "PG Cyber Sec",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 3,
+    "cohort": "PG Cyber Sec",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 4,
+    "cohort": "PG Cyber Sec",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 4,
+    "cohort": "PG Cyber Sec",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 4,
+    "cohort": "PG Cyber Sec",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 4,
+    "cohort": "PG Cyber Sec",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 4,
+    "cohort": "PG Cyber Sec",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 4,
+    "cohort": "PG Cyber Sec",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 4,
+    "cohort": "PG Cyber Sec",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 4,
+    "cohort": "PG Cyber Sec",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 4,
+    "cohort": "PG Cyber Sec",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 4,
+    "cohort": "PG Cyber Sec",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 5,
+    "cohort": "PG Cyber Sec",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 5,
+    "cohort": "PG Cyber Sec",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 5,
+    "cohort": "PG Cyber Sec",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 5,
+    "cohort": "PG Cyber Sec",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 5,
+    "cohort": "PG Cyber Sec",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 5,
+    "cohort": "PG Cyber Sec",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 5,
+    "cohort": "PG Cyber Sec",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 5,
+    "cohort": "PG Cyber Sec",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 5,
+    "cohort": "PG Cyber Sec",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 5,
+    "cohort": "PG Cyber Sec",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 6,
+    "cohort": "PG Cyber Sec",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 6,
+    "cohort": "PG Cyber Sec",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 6,
+    "cohort": "PG Cyber Sec",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 6,
+    "cohort": "PG Cyber Sec",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 6,
+    "cohort": "PG Cyber Sec",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 6,
+    "cohort": "PG Cyber Sec",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 6,
+    "cohort": "PG Cyber Sec",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 6,
+    "cohort": "PG Cyber Sec",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 6,
+    "cohort": "PG Cyber Sec",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 6,
+    "cohort": "PG Cyber Sec",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 7,
+    "cohort": "PG Cyber Sec",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 7,
+    "cohort": "PG Cyber Sec",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 7,
+    "cohort": "PG Cyber Sec",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 7,
+    "cohort": "PG Cyber Sec",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 7,
+    "cohort": "PG Cyber Sec",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 7,
+    "cohort": "PG Cyber Sec",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 7,
+    "cohort": "PG Cyber Sec",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 7,
+    "cohort": "PG Cyber Sec",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 7,
+    "cohort": "PG Cyber Sec",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 7,
+    "cohort": "PG Cyber Sec",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 8,
+    "cohort": "PG Cyber Sec",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 8,
+    "cohort": "PG Cyber Sec",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 8,
+    "cohort": "PG Cyber Sec",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 8,
+    "cohort": "PG Cyber Sec",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 8,
+    "cohort": "PG Cyber Sec",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 8,
+    "cohort": "PG Cyber Sec",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 8,
+    "cohort": "PG Cyber Sec",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 8,
+    "cohort": "PG Cyber Sec",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 8,
+    "cohort": "PG Cyber Sec",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 8,
+    "cohort": "PG Cyber Sec",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 9,
+    "cohort": "PG Cyber Sec",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 9,
+    "cohort": "PG Cyber Sec",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 9,
+    "cohort": "PG Cyber Sec",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 9,
+    "cohort": "PG Cyber Sec",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 9,
+    "cohort": "PG Cyber Sec",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 9,
+    "cohort": "PG Cyber Sec",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 9,
+    "cohort": "PG Cyber Sec",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 9,
+    "cohort": "PG Cyber Sec",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 9,
+    "cohort": "PG Cyber Sec",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 9,
+    "cohort": "PG Cyber Sec",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 10,
+    "cohort": "PG Cyber Sec",
+    "session": 1,
+    "attendance": 0
+  },
+  {
+    "id": 10,
+    "cohort": "PG Cyber Sec",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 10,
+    "cohort": "PG Cyber Sec",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 10,
+    "cohort": "PG Cyber Sec",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 10,
+    "cohort": "PG Cyber Sec",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 10,
+    "cohort": "PG Cyber Sec",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 10,
+    "cohort": "PG Cyber Sec",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 10,
+    "cohort": "PG Cyber Sec",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 10,
+    "cohort": "PG Cyber Sec",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 10,
+    "cohort": "PG Cyber Sec",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 11,
+    "cohort": "PG Cyber Sec",
+    "session": 1,
+    "attendance": 0
+  },
+  {
+    "id": 11,
+    "cohort": "PG Cyber Sec",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 11,
+    "cohort": "PG Cyber Sec",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 11,
+    "cohort": "PG Cyber Sec",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 11,
+    "cohort": "PG Cyber Sec",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 11,
+    "cohort": "PG Cyber Sec",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 11,
+    "cohort": "PG Cyber Sec",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 11,
+    "cohort": "PG Cyber Sec",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 11,
+    "cohort": "PG Cyber Sec",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 11,
+    "cohort": "PG Cyber Sec",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 12,
+    "cohort": "PG Cyber Sec",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 12,
+    "cohort": "PG Cyber Sec",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 12,
+    "cohort": "PG Cyber Sec",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 12,
+    "cohort": "PG Cyber Sec",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 12,
+    "cohort": "PG Cyber Sec",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 12,
+    "cohort": "PG Cyber Sec",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 12,
+    "cohort": "PG Cyber Sec",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 12,
+    "cohort": "PG Cyber Sec",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 12,
+    "cohort": "PG Cyber Sec",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 12,
+    "cohort": "PG Cyber Sec",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 13,
+    "cohort": "PG Cyber Sec",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 13,
+    "cohort": "PG Cyber Sec",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 13,
+    "cohort": "PG Cyber Sec",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 13,
+    "cohort": "PG Cyber Sec",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 13,
+    "cohort": "PG Cyber Sec",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 13,
+    "cohort": "PG Cyber Sec",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 13,
+    "cohort": "PG Cyber Sec",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 13,
+    "cohort": "PG Cyber Sec",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 13,
+    "cohort": "PG Cyber Sec",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 13,
+    "cohort": "PG Cyber Sec",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 14,
+    "cohort": "PG Cyber Sec",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 14,
+    "cohort": "PG Cyber Sec",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 14,
+    "cohort": "PG Cyber Sec",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 14,
+    "cohort": "PG Cyber Sec",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 14,
+    "cohort": "PG Cyber Sec",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 14,
+    "cohort": "PG Cyber Sec",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 14,
+    "cohort": "PG Cyber Sec",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 14,
+    "cohort": "PG Cyber Sec",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 14,
+    "cohort": "PG Cyber Sec",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 14,
+    "cohort": "PG Cyber Sec",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 15,
+    "cohort": "PG Cyber Sec",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 15,
+    "cohort": "PG Cyber Sec",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 15,
+    "cohort": "PG Cyber Sec",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 15,
+    "cohort": "PG Cyber Sec",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 15,
+    "cohort": "PG Cyber Sec",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 15,
+    "cohort": "PG Cyber Sec",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 15,
+    "cohort": "PG Cyber Sec",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 15,
+    "cohort": "PG Cyber Sec",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 15,
+    "cohort": "PG Cyber Sec",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 15,
+    "cohort": "PG Cyber Sec",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 16,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 16,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 16,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 16,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 16,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 16,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 16,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 16,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 16,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 16,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 17,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 17,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 17,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 17,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 17,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 17,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 17,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 17,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 17,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 17,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 18,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 18,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 18,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 18,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 18,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 18,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 18,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 18,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 18,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 18,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 19,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 19,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 19,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 19,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 19,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 19,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 19,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 19,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 19,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 19,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 20,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 0
+  },
+  {
+    "id": 20,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 20,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 20,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 20,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 20,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 20,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 20,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 20,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 20,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 21,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 21,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 21,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 21,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 21,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 21,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 21,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 21,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 21,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 21,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 22,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 22,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 22,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 22,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 22,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 22,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 22,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 22,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 22,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 22,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 23,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 23,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 23,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 23,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 23,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 23,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 23,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 23,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 23,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 23,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 24,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 24,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 24,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 24,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 24,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 24,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 24,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 24,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 24,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 24,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 25,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 25,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 25,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 25,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 25,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 25,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 25,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 25,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 25,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 25,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 26,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 26,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 26,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 26,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 26,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 26,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 26,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 26,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 26,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 26,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 27,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 27,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 27,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 27,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 27,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 27,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 27,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 27,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 27,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 27,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 28,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 28,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 28,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 28,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 28,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 28,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 28,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 28,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 28,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 28,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 29,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 29,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 29,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 29,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 29,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 29,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 29,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 29,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 29,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 29,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 30,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 0
+  },
+  {
+    "id": 30,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 30,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 30,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 30,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 30,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 30,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 30,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 30,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 30,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 31,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 0
+  },
+  {
+    "id": 31,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 31,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 31,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 31,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 31,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 31,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 31,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 31,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 31,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 32,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 32,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 32,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 32,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 32,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 32,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 32,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 32,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 32,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 32,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 33,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 33,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 33,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 33,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 33,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 33,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 33,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 33,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 33,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 33,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 34,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 34,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 34,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 34,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 34,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 34,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 34,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 34,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 34,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 34,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 35,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 35,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 35,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 35,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 35,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 35,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 35,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 35,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 35,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 35,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 36,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 36,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 36,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 36,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 36,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 36,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 36,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 36,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 36,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 36,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 37,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 37,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 37,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 37,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 37,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 37,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 37,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 37,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 37,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 37,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 38,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 38,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 38,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 38,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 38,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 38,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 38,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 38,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 38,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 38,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 39,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 39,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 39,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 39,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 39,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 39,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 39,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 39,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 39,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 39,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 40,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 0
+  },
+  {
+    "id": 40,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 40,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 40,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 40,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 40,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 40,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 40,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 40,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 40,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 41,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 41,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 41,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 41,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 41,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 41,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 41,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 41,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 41,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 41,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 42,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 42,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 42,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 42,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 42,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 42,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 42,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 42,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 42,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 42,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 43,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 43,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 43,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 43,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 43,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 43,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 43,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 43,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 43,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 43,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 44,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 44,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 44,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 44,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 44,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 44,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 44,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 44,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 44,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 44,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 45,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 0
+  },
+  {
+    "id": 45,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 45,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 45,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 45,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 45,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 45,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 45,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 45,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 45,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 46,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 46,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 46,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 46,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 46,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 46,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 46,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 46,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 46,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 46,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 47,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 47,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 47,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 47,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 47,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 47,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 47,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 47,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 47,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 47,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 48,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 48,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 48,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 48,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 48,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 48,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 48,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 48,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 48,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 48,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 49,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 49,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 49,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 49,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 49,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 49,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 49,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 49,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 49,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 49,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 50,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 50,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 50,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 50,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 50,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 50,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 50,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 50,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 50,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 50,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 51,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 51,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 51,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 51,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 51,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 51,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 51,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 51,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 51,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 51,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 52,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 52,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 52,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 52,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 52,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 52,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 52,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 52,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 52,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 52,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 53,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 53,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 53,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 53,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 53,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 53,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 53,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 53,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 53,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 53,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 54,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 54,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 54,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 54,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 54,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 54,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 54,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 54,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 54,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 54,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 55,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 55,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 55,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 55,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 55,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 55,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 55,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 55,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 55,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 55,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 56,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 56,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 56,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 56,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 56,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 56,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 56,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 56,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 56,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 56,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 57,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 57,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 57,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 57,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 57,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 57,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 57,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 57,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 57,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 57,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 58,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 58,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 58,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 58,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 58,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 58,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 58,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 58,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 58,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 58,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 59,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 59,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 59,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 59,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 59,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 59,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 59,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 59,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 59,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 59,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 60,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 60,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 60,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 60,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 60,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 60,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 60,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 60,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 60,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 60,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 61,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 61,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 61,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 61,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 61,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 61,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 61,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 61,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 61,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 61,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 62,
+    "cohort": "PG Data Sci",
+    "session": 1,
+    "attendance": 0
+  },
+  {
+    "id": 62,
+    "cohort": "PG Data Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 62,
+    "cohort": "PG Data Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 62,
+    "cohort": "PG Data Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 62,
+    "cohort": "PG Data Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 62,
+    "cohort": "PG Data Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 62,
+    "cohort": "PG Data Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 62,
+    "cohort": "PG Data Sci",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 62,
+    "cohort": "PG Data Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 62,
+    "cohort": "PG Data Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 63,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 63,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 63,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 63,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 63,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 63,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 63,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 63,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 63,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 63,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 64,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 0
+  },
+  {
+    "id": 64,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 64,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 64,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 64,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 64,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 64,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 64,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 64,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 64,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 65,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 65,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 65,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 65,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 65,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 65,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 65,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 65,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 65,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 65,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 66,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 66,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 66,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 66,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 66,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 66,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 66,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 66,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 66,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 66,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 67,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 67,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 67,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 67,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 67,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 67,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 67,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 67,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 67,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 67,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 68,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 68,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 68,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 68,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 68,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 68,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 68,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 68,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 68,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 68,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 69,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 69,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 69,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 69,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 69,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 69,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 69,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 69,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 69,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 69,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 70,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 70,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 70,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 70,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 70,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 70,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 70,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 70,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 70,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 70,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 71,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 71,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 71,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 71,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 71,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 71,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 71,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 71,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 71,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 71,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 72,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 72,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 72,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 72,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 72,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 72,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 72,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 72,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 72,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 72,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 73,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 73,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 73,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 73,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 73,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 73,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 73,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 73,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 73,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 73,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 74,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 74,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 74,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 74,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 74,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 74,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 74,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 74,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 74,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 74,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 75,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 75,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 75,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 75,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 75,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 75,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 75,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 75,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 75,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 75,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 76,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 76,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 76,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 76,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 76,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 76,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 76,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 76,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 76,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 76,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 77,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 77,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 77,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 77,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 77,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 77,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 77,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 77,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 77,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 77,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 78,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 78,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 78,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 78,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 78,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 78,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 78,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 78,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 78,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 78,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 79,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 0
+  },
+  {
+    "id": 79,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 79,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 79,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 79,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 79,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 79,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 79,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 79,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 79,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 80,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 80,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 80,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 80,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 80,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 80,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 80,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 80,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 80,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 80,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 81,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 0
+  },
+  {
+    "id": 81,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 81,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 81,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 81,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 81,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 81,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 81,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 81,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 81,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 82,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 0
+  },
+  {
+    "id": 82,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 82,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 82,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 82,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 82,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 82,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 82,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 82,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 82,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 83,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 83,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 83,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 83,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 83,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 83,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 83,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 83,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 83,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 83,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 84,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 84,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 84,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 84,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 84,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 84,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 84,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 84,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 84,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 84,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 85,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 85,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 85,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 85,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 85,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 85,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 85,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 85,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 85,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 85,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 86,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 86,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 86,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 86,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 86,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 86,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 86,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 86,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 86,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 86,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 87,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 87,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 87,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 87,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 87,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 87,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 87,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 87,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 87,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 87,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 88,
+    "cohort": "PG HCID",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 88,
+    "cohort": "PG HCID",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 88,
+    "cohort": "PG HCID",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 88,
+    "cohort": "PG HCID",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 88,
+    "cohort": "PG HCID",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 88,
+    "cohort": "PG HCID",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 88,
+    "cohort": "PG HCID",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 88,
+    "cohort": "PG HCID",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 88,
+    "cohort": "PG HCID",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 88,
+    "cohort": "PG HCID",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 89,
+    "cohort": "PG Info Sci",
+    "session": 1,
+    "attendance": 0
+  },
+  {
+    "id": 89,
+    "cohort": "PG Info Sci",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 89,
+    "cohort": "PG Info Sci",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 89,
+    "cohort": "PG Info Sci",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 89,
+    "cohort": "PG Info Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 89,
+    "cohort": "PG Info Sci",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 89,
+    "cohort": "PG Info Sci",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 89,
+    "cohort": "PG Info Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 89,
+    "cohort": "PG Info Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 89,
+    "cohort": "PG Info Sci",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 90,
+    "cohort": "PG Info Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 90,
+    "cohort": "PG Info Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 90,
+    "cohort": "PG Info Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 90,
+    "cohort": "PG Info Sci",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 90,
+    "cohort": "PG Info Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 90,
+    "cohort": "PG Info Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 90,
+    "cohort": "PG Info Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 90,
+    "cohort": "PG Info Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 90,
+    "cohort": "PG Info Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 90,
+    "cohort": "PG Info Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 91,
+    "cohort": "PG Info Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 91,
+    "cohort": "PG Info Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 91,
+    "cohort": "PG Info Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 91,
+    "cohort": "PG Info Sci",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 91,
+    "cohort": "PG Info Sci",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 91,
+    "cohort": "PG Info Sci",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 91,
+    "cohort": "PG Info Sci",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 91,
+    "cohort": "PG Info Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 91,
+    "cohort": "PG Info Sci",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 91,
+    "cohort": "PG Info Sci",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 92,
+    "cohort": "PG Info Sci",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 92,
+    "cohort": "PG Info Sci",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 92,
+    "cohort": "PG Info Sci",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 92,
+    "cohort": "PG Info Sci",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 92,
+    "cohort": "PG Info Sci",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 92,
+    "cohort": "PG Info Sci",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 92,
+    "cohort": "PG Info Sci",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 92,
+    "cohort": "PG Info Sci",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 92,
+    "cohort": "PG Info Sci",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 92,
+    "cohort": "PG Info Sci",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 93,
+    "cohort": "PG IST",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 93,
+    "cohort": "PG IST",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 93,
+    "cohort": "PG IST",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 93,
+    "cohort": "PG IST",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 93,
+    "cohort": "PG IST",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 93,
+    "cohort": "PG IST",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 93,
+    "cohort": "PG IST",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 93,
+    "cohort": "PG IST",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 93,
+    "cohort": "PG IST",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 93,
+    "cohort": "PG IST",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 94,
+    "cohort": "PG SE",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 94,
+    "cohort": "PG SE",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 94,
+    "cohort": "PG SE",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 94,
+    "cohort": "PG SE",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 94,
+    "cohort": "PG SE",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 94,
+    "cohort": "PG SE",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 94,
+    "cohort": "PG SE",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 94,
+    "cohort": "PG SE",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 94,
+    "cohort": "PG SE",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 94,
+    "cohort": "PG SE",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 95,
+    "cohort": "PG SE",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 95,
+    "cohort": "PG SE",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 95,
+    "cohort": "PG SE",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 95,
+    "cohort": "PG SE",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 95,
+    "cohort": "PG SE",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 95,
+    "cohort": "PG SE",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 95,
+    "cohort": "PG SE",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 95,
+    "cohort": "PG SE",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 95,
+    "cohort": "PG SE",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 95,
+    "cohort": "PG SE",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 96,
+    "cohort": "PG SE",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 96,
+    "cohort": "PG SE",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 96,
+    "cohort": "PG SE",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 96,
+    "cohort": "PG SE",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 96,
+    "cohort": "PG SE",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 96,
+    "cohort": "PG SE",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 96,
+    "cohort": "PG SE",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 96,
+    "cohort": "PG SE",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 96,
+    "cohort": "PG SE",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 96,
+    "cohort": "PG SE",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 97,
+    "cohort": "PG SE",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 97,
+    "cohort": "PG SE",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 97,
+    "cohort": "PG SE",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 97,
+    "cohort": "PG SE",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 97,
+    "cohort": "PG SE",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 97,
+    "cohort": "PG SE",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 97,
+    "cohort": "PG SE",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 97,
+    "cohort": "PG SE",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 97,
+    "cohort": "PG SE",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 97,
+    "cohort": "PG SE",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 98,
+    "cohort": "PG SE",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 98,
+    "cohort": "PG SE",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 98,
+    "cohort": "PG SE",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 98,
+    "cohort": "PG SE",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 98,
+    "cohort": "PG SE",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 98,
+    "cohort": "PG SE",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 98,
+    "cohort": "PG SE",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 98,
+    "cohort": "PG SE",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 98,
+    "cohort": "PG SE",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 98,
+    "cohort": "PG SE",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 99,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 99,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 99,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 99,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 99,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 99,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 99,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 99,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 99,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 99,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 100,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 100,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 100,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 100,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 100,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 100,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 100,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 100,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 100,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 100,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 101,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 101,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 101,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 101,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 101,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 101,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 101,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 101,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 101,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 101,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 102,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 102,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 102,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 102,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 102,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 102,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 102,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 102,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 102,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 102,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 103,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 103,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 103,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 103,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 103,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 103,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 103,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 103,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 103,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 103,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 104,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 104,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 104,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 104,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 104,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 104,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 104,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 104,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 104,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 104,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 105,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 105,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 105,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 105,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 105,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 105,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 105,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 105,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 105,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 105,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 106,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 0
+  },
+  {
+    "id": 106,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 106,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 106,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 106,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 106,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 106,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 106,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 106,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 106,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 107,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 0
+  },
+  {
+    "id": 107,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 107,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 107,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 107,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 107,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 107,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 107,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 107,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 107,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 108,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 108,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 108,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 108,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 108,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 108,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 108,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 108,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 108,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 108,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 109,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 109,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 109,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 109,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 109,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 109,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 109,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 109,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 109,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 109,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 110,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 110,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 110,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 110,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 110,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 110,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 110,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 110,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 110,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 110,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 111,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 111,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 111,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 111,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 111,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 111,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 111,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 111,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 111,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 111,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 112,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 112,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 112,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 112,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 112,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 112,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 112,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 112,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 112,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 112,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 113,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 113,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 113,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 113,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 113,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 113,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 1
+  },
+  {
+    "id": 113,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 113,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 113,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 1
+  },
+  {
+    "id": 113,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 114,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 0
+  },
+  {
+    "id": 114,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 114,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 114,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 114,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 114,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 114,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 114,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 114,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 114,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 115,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 115,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 115,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 115,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 115,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 0
+  },
+  {
+    "id": 115,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 115,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 115,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 115,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 115,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 0
+  },
+  {
+    "id": 116,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 0
+  },
+  {
+    "id": 116,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 116,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 116,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 116,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 116,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 116,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 116,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 116,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 116,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 117,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 117,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 1
+  },
+  {
+    "id": 117,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 1
+  },
+  {
+    "id": 117,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 1
+  },
+  {
+    "id": 117,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 117,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 117,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 1
+  },
+  {
+    "id": 117,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 1
+  },
+  {
+    "id": 117,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 117,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 1
+  },
+  {
+    "id": 118,
+    "cohort": "UG",
+    "session": 1,
+    "attendance": 1
+  },
+  {
+    "id": 118,
+    "cohort": "UG",
+    "session": 2,
+    "attendance": 0
+  },
+  {
+    "id": 118,
+    "cohort": "UG",
+    "session": 3,
+    "attendance": 0
+  },
+  {
+    "id": 118,
+    "cohort": "UG",
+    "session": 4,
+    "attendance": 0
+  },
+  {
+    "id": 118,
+    "cohort": "UG",
+    "session": 5,
+    "attendance": 1
+  },
+  {
+    "id": 118,
+    "cohort": "UG",
+    "session": 6,
+    "attendance": 0
+  },
+  {
+    "id": 118,
+    "cohort": "UG",
+    "session": 7,
+    "attendance": 0
+  },
+  {
+    "id": 118,
+    "cohort": "UG",
+    "session": 8,
+    "attendance": 0
+  },
+  {
+    "id": 118,
+    "cohort": "UG",
+    "session": 9,
+    "attendance": 0
+  },
+  {
+    "id": 118,
+    "cohort": "UG",
+    "session": 10,
+    "attendance": 0
+  }
+]
