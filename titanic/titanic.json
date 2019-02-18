@@ -210,7 +210,7 @@
   {
     "pclass": 1,
     "survived": 1,
-    "name": "Barber, Miss. Ellen \"Nellie",
+    "name": "Barber, Miss. Ellen 'Nellie'",
     "sex": "female",
     "age": 26,
     "sibsp": 0,
@@ -594,7 +594,7 @@
   {
     "pclass": 1,
     "survived": 1,
-    "name": "Bradley, Mr. George (\"George Arthur Brayton\")",
+    "name": "Bradley, Mr. George ('George Arthur Brayton')",
     "sex": "male",
     "age": "",
     "sibsp": 0,
@@ -1586,7 +1586,7 @@
   {
     "pclass": 1,
     "survived": 1,
-    "name": "Duff Gordon, Lady. (Lucille Christiana Sutherland) (\"Mrs Morgan\")",
+    "name": "Duff Gordon, Lady. (Lucille Christiana Sutherland) ('Mrs Morgan')",
     "sex": "female",
     "age": 48,
     "sibsp": 1,
@@ -1602,7 +1602,7 @@
   {
     "pclass": 1,
     "survived": 1,
-    "name": "Duff Gordon, Sir. Cosmo Edmund (\"Mr Morgan\")",
+    "name": "Duff Gordon, Sir. Cosmo Edmund ('Mr Morgan')",
     "sex": "male",
     "age": 49,
     "sibsp": 1,
@@ -1746,7 +1746,7 @@
   {
     "pclass": 1,
     "survived": 1,
-    "name": "Flynn, Mr. John Irwin (\"Irving\")",
+    "name": "Flynn, Mr. John Irwin ('Irving')",
     "sex": "male",
     "age": 36,
     "sibsp": 0,
@@ -2626,7 +2626,7 @@
   {
     "pclass": 1,
     "survived": 1,
-    "name": "Homer, Mr. Harry (\"Mr E Haven\")",
+    "name": "Homer, Mr. Harry ('Mr E Haven')",
     "sex": "male",
     "age": 35,
     "sibsp": 0,
@@ -2962,7 +2962,7 @@
   {
     "pclass": 1,
     "survived": 0,
-    "name": "Lindeberg-Lind, Mr. Erik Gustaf (\"Mr Edward Lingrey\")",
+    "name": "Lindeberg-Lind, Mr. Erik Gustaf ('Mr Edward Lingrey')",
     "sex": "male",
     "age": 42,
     "sibsp": 0,
@@ -3186,7 +3186,7 @@
   {
     "pclass": 1,
     "survived": 1,
-    "name": "Mayne, Mlle. Berthe Antonine (\"Mrs de Villiers\")",
+    "name": "Mayne, Mlle. Berthe Antonine ('Mrs de Villiers')",
     "sex": "female",
     "age": 24,
     "sibsp": 0,
@@ -3842,7 +3842,7 @@
   {
     "pclass": 1,
     "survived": 1,
-    "name": "Romaine, Mr. Charles Hallace (\"Mr C Rolmane\")",
+    "name": "Romaine, Mr. Charles Hallace ('Mr C Rolmane')",
     "sex": "male",
     "age": 45,
     "sibsp": 0,
@@ -3890,7 +3890,7 @@
   {
     "pclass": 1,
     "survived": 0,
-    "name": "Rosenshine, Mr. George (\"Mr George Thorne\")",
+    "name": "Rosenshine, Mr. George ('Mr George Thorne')",
     "sex": "male",
     "age": 46,
     "sibsp": 0,
@@ -4018,7 +4018,7 @@
   {
     "pclass": 1,
     "survived": 1,
-    "name": "Ryerson, Miss. Susan Parker \"Suzette",
+    "name": "Ryerson, Miss. Susan Parker 'Suzette'",
     "sex": "female",
     "age": 21,
     "sibsp": 2,
@@ -5266,7 +5266,7 @@
   {
     "pclass": 2,
     "survived": 1,
-    "name": "Angle, Mrs. William A (Florence \"Mary\" Agnes Hughes)",
+    "name": "Angle, Mrs. William A (Florence 'Mary' Agnes Hughes)",
     "sex": "female",
     "age": 36,
     "sibsp": 1,
@@ -5586,7 +5586,7 @@
   {
     "pclass": 2,
     "survived": 1,
-    "name": "Brown, Miss. Amelia \"Mildred",
+    "name": "Brown, Miss. Amelia 'Mildred'",
     "sex": "female",
     "age": 24,
     "sibsp": 0,
@@ -6034,7 +6034,7 @@
   {
     "pclass": 2,
     "survived": 1,
-    "name": "Collyer, Miss. Marjorie \"Lottie",
+    "name": "Collyer, Miss. Marjorie 'Lottie'",
     "sex": "female",
     "age": 8,
     "sibsp": 0,
@@ -6130,7 +6130,7 @@
   {
     "pclass": 2,
     "survived": 0,
-    "name": "Cotterill, Mr. Henry \"Harry",
+    "name": "Cotterill, Mr. Henry 'Harry'",
     "sex": "male",
     "age": 21,
     "sibsp": 0,
@@ -6562,7 +6562,7 @@
   {
     "pclass": 2,
     "survived": 0,
-    "name": "Frost, Mr. Anthony Wood \"Archie",
+    "name": "Frost, Mr. Anthony Wood 'Archie'",
     "sex": "male",
     "age": "",
     "sibsp": 0,
@@ -6882,7 +6882,7 @@
   {
     "pclass": 2,
     "survived": 1,
-    "name": "Harper, Miss. Annie Jessie \"Nina",
+    "name": "Harper, Miss. Annie Jessie 'Nina'",
     "sex": "female",
     "age": 6,
     "sibsp": 0,
@@ -7138,7 +7138,7 @@
   {
     "pclass": 2,
     "survived": 1,
-    "name": "Hocking, Miss. Ellen \"Nellie",
+    "name": "Hocking, Miss. Ellen 'Nellie'",
     "sex": "female",
     "age": 20,
     "sibsp": 2,
@@ -7538,7 +7538,7 @@
   {
     "pclass": 2,
     "survived": 1,
-    "name": "Kelly, Mrs. Florence \"Fannie",
+    "name": "Kelly, Mrs. Florence 'Fannie'",
     "sex": "female",
     "age": 45,
     "sibsp": 0,
@@ -8146,7 +8146,7 @@
   {
     "pclass": 2,
     "survived": 0,
-    "name": "Morley, Mr. Henry Samuel (\"Mr Henry Marshall\")",
+    "name": "Morley, Mr. Henry Samuel ('Mr Henry Marshall')",
     "sex": "male",
     "age": 39,
     "sibsp": 0,
@@ -8258,7 +8258,7 @@
   {
     "pclass": 2,
     "survived": 0,
-    "name": "Navratil, Mr. Michel (\"Louis M Hoffman\")",
+    "name": "Navratil, Mr. Michel ('Louis M Hoffman')",
     "sex": "male",
     "age": 36.5,
     "sibsp": 0,
@@ -8322,7 +8322,7 @@
   {
     "pclass": 2,
     "survived": 1,
-    "name": "Nourney, Mr. Alfred (\"Baron von Drachstedt\")",
+    "name": "Nourney, Mr. Alfred ('Baron von Drachstedt')",
     "sex": "male",
     "age": 20,
     "sibsp": 0,
@@ -8450,7 +8450,7 @@
   {
     "pclass": 2,
     "survived": 0,
-    "name": "Parkes, Mr. Francis \"Frank",
+    "name": "Parkes, Mr. Francis 'Frank'",
     "sex": "male",
     "age": "",
     "sibsp": 0,
@@ -8546,7 +8546,7 @@
   {
     "pclass": 2,
     "survived": 1,
-    "name": "Phillips, Miss. Kate Florence (\"Mrs Kate Louise Phillips Marshall\")",
+    "name": "Phillips, Miss. Kate Florence ('Mrs Kate Louise Phillips Marshall')",
     "sex": "female",
     "age": 19,
     "sibsp": 0,
@@ -9170,7 +9170,7 @@
   {
     "pclass": 2,
     "survived": 1,
-    "name": "Troutt, Miss. Edwina Celia \"Winnie",
+    "name": "Troutt, Miss. Edwina Celia 'Winnie'",
     "sex": "female",
     "age": 27,
     "sibsp": 0,
@@ -9330,7 +9330,7 @@
   {
     "pclass": 2,
     "survived": 1,
-    "name": "Watt, Mrs. James (Elizabeth \"Bessie\" Inglis Milne)",
+    "name": "Watt, Mrs. James (Elizabeth 'Bessie' Inglis Milne)",
     "sex": "female",
     "age": 40,
     "sibsp": 0,
@@ -9426,7 +9426,7 @@
   {
     "pclass": 2,
     "survived": 1,
-    "name": "Wells, Mrs. Arthur Henry (\"Addie\" Dart Trevaskis)",
+    "name": "Wells, Mrs. Arthur Henry ('Addie' Dart Trevaskis)",
     "sex": "female",
     "age": 29,
     "sibsp": 0,
@@ -9522,7 +9522,7 @@
   {
     "pclass": 2,
     "survived": 0,
-    "name": "Wheeler, Mr. Edwin \"Frederick",
+    "name": "Wheeler, Mr. Edwin 'Frederick'",
     "sex": "male",
     "age": "",
     "sibsp": 0,
@@ -9586,7 +9586,7 @@
   {
     "pclass": 2,
     "survived": 0,
-    "name": "Yrois, Miss. Henriette (\"Mrs Harbeck\")",
+    "name": "Yrois, Miss. Henriette ('Mrs Harbeck')",
     "sex": "female",
     "age": 24,
     "sibsp": 0,
@@ -10082,7 +10082,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Andersson, Mr. August Edvard (\"Wennerstrom\")",
+    "name": "Andersson, Mr. August Edvard ('Wennerstrom')",
     "sex": "male",
     "age": 27,
     "sibsp": 0,
@@ -10354,7 +10354,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Assaf Khalil, Mrs. Mariana (\"Miriam\")",
+    "name": "Assaf Khalil, Mrs. Mariana ('Miriam')",
     "sex": "female",
     "age": 45,
     "sibsp": 0,
@@ -10962,7 +10962,7 @@
   {
     "pclass": 3,
     "survived": 0,
-    "name": "Bowen, Mr. David John \"Dai",
+    "name": "Bowen, Mr. David John 'Dai'",
     "sex": "male",
     "age": 21,
     "sibsp": 0,
@@ -11346,7 +11346,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Carr, Miss. Helen \"Ellen",
+    "name": "Carr, Miss. Helen 'Ellen'",
     "sex": "female",
     "age": 16,
     "sibsp": 0,
@@ -11506,7 +11506,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Cohen, Mr. Gurshon \"Gus",
+    "name": "Cohen, Mr. Gurshon 'Gus'",
     "sex": "male",
     "age": 18,
     "sibsp": 0,
@@ -11730,7 +11730,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Coutts, Master. Eden Leslie \"Neville",
+    "name": "Coutts, Master. Eden Leslie 'Neville'",
     "sex": "male",
     "age": 9,
     "sibsp": 1,
@@ -11746,7 +11746,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Coutts, Master. William Loch \"William",
+    "name": "Coutts, Master. William Loch 'William'",
     "sex": "male",
     "age": 3,
     "sibsp": 1,
@@ -11762,7 +11762,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Coutts, Mrs. William (Winnie \"Minnie\" Treanor)",
+    "name": "Coutts, Mrs. William (Winnie 'Minnie' Treanor)",
     "sex": "female",
     "age": 36,
     "sibsp": 0,
@@ -11922,7 +11922,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Daly, Miss. Margaret Marcella \"Maggie",
+    "name": "Daly, Miss. Margaret Marcella 'Maggie'",
     "sex": "female",
     "age": 30,
     "sibsp": 0,
@@ -12210,7 +12210,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Dean, Miss. Elizabeth Gladys \"Millvina",
+    "name": "Dean, Miss. Elizabeth Gladys 'Millvina'",
     "sex": "female",
     "age": 0.1667,
     "sibsp": 1,
@@ -12898,7 +12898,7 @@
   {
     "pclass": 3,
     "survived": 0,
-    "name": "Ford, Miss. Doolina Margaret \"Daisy",
+    "name": "Ford, Miss. Doolina Margaret 'Daisy'",
     "sex": "female",
     "age": 21,
     "sibsp": 2,
@@ -12914,7 +12914,7 @@
   {
     "pclass": 3,
     "survived": 0,
-    "name": "Ford, Miss. Robina Maggie \"Ruby",
+    "name": "Ford, Miss. Robina Maggie 'Ruby'",
     "sex": "female",
     "age": 9,
     "sibsp": 2,
@@ -13090,7 +13090,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Gilnagh, Miss. Katherine \"Katie",
+    "name": "Gilnagh, Miss. Katherine 'Katie'",
     "sex": "female",
     "age": 16,
     "sibsp": 0,
@@ -13122,7 +13122,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Goldsmith, Master. Frank John William \"Frankie",
+    "name": "Goldsmith, Master. Frank John William 'Frankie'",
     "sex": "male",
     "age": 9,
     "sibsp": 0,
@@ -13698,7 +13698,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Healy, Miss. Hanora \"Nora",
+    "name": "Healy, Miss. Hanora 'Nora'",
     "sex": "female",
     "age": "",
     "sibsp": 0,
@@ -13746,7 +13746,7 @@
   {
     "pclass": 3,
     "survived": 0,
-    "name": "Hegarty, Miss. Hanora \"Nora",
+    "name": "Hegarty, Miss. Hanora 'Nora'",
     "sex": "female",
     "age": 18,
     "sibsp": 0,
@@ -14402,7 +14402,7 @@
   {
     "pclass": 3,
     "survived": 0,
-    "name": "Johnston, Master. William Arthur \"Willie",
+    "name": "Johnston, Master. William Arthur 'Willie'",
     "sex": "male",
     "age": "",
     "sibsp": 1,
@@ -14418,7 +14418,7 @@
   {
     "pclass": 3,
     "survived": 0,
-    "name": "Johnston, Miss. Catherine Helen \"Carrie",
+    "name": "Johnston, Miss. Catherine Helen 'Carrie'",
     "sex": "female",
     "age": "",
     "sibsp": 1,
@@ -14450,7 +14450,7 @@
   {
     "pclass": 3,
     "survived": 0,
-    "name": "Johnston, Mrs. Andrew G (Elizabeth \"Lily\" Watson)",
+    "name": "Johnston, Mrs. Andrew G (Elizabeth 'Lily' Watson)",
     "sex": "female",
     "age": "",
     "sibsp": 1,
@@ -14706,7 +14706,7 @@
   {
     "pclass": 3,
     "survived": 0,
-    "name": "Katavelas, Mr. Vassilios (\"Catavelas Vassilios\")",
+    "name": "Katavelas, Mr. Vassilios ('Catavelas Vassilios')",
     "sex": "male",
     "age": 18.5,
     "sibsp": 0,
@@ -14722,7 +14722,7 @@
   {
     "pclass": 3,
     "survived": 0,
-    "name": "Keane, Mr. Andrew \"Andy",
+    "name": "Keane, Mr. Andrew 'Andy'",
     "sex": "male",
     "age": "",
     "sibsp": 0,
@@ -14754,7 +14754,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Kelly, Miss. Anna Katherine \"Annie Kate",
+    "name": "Kelly, Miss. Anna Katherine 'Annie Kate'",
     "sex": "female",
     "age": "",
     "sibsp": 0,
@@ -14850,7 +14850,7 @@
   {
     "pclass": 3,
     "survived": 0,
-    "name": "Khalil, Mrs. Betros (Zahie \"Maria\" Elias)",
+    "name": "Khalil, Mrs. Betros (Zahie 'Maria' Elias)",
     "sex": "female",
     "age": "",
     "sibsp": 1,
@@ -15250,7 +15250,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Leeni, Mr. Fahim (\"Philip Zenni\")",
+    "name": "Leeni, Mr. Fahim ('Philip Zenni')",
     "sex": "male",
     "age": 22,
     "sibsp": 0,
@@ -15634,7 +15634,7 @@
   {
     "pclass": 3,
     "survived": 0,
-    "name": "Lovell, Mr. John Hall (\"Henry\")",
+    "name": "Lovell, Mr. John Hall ('Henry')",
     "sex": "male",
     "age": 20.5,
     "sibsp": 0,
@@ -15746,7 +15746,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Madigan, Miss. Margaret \"Maggie",
+    "name": "Madigan, Miss. Margaret 'Maggie'",
     "sex": "female",
     "age": "",
     "sibsp": 0,
@@ -15986,7 +15986,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "McCarthy, Miss. Catherine \"Katie",
+    "name": "McCarthy, Miss. Catherine 'Katie'",
     "sex": "female",
     "age": "",
     "sibsp": 0,
@@ -16114,7 +16114,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "McGowan, Miss. Anna \"Annie",
+    "name": "McGowan, Miss. Anna 'Annie'",
     "sex": "female",
     "age": 15,
     "sibsp": 0,
@@ -16370,7 +16370,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Mockler, Miss. Helen Mary \"Ellie",
+    "name": "Mockler, Miss. Helen Mary 'Ellie'",
     "sex": "female",
     "age": "",
     "sibsp": 0,
@@ -16562,7 +16562,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Moubarek, Master. Halim Gonios (\"William George\")",
+    "name": "Moubarek, Master. Halim Gonios ('William George')",
     "sex": "male",
     "age": "",
     "sibsp": 1,
@@ -16578,7 +16578,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Moubarek, Mrs. George (Omine \"Amenia\" Alexander)",
+    "name": "Moubarek, Mrs. George (Omine 'Amenia' Alexander)",
     "sex": "female",
     "age": "",
     "sibsp": 0,
@@ -16626,7 +16626,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Mullens, Miss. Katherine \"Katie",
+    "name": "Mullens, Miss. Katherine 'Katie'",
     "sex": "female",
     "age": "",
     "sibsp": 0,
@@ -16674,7 +16674,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Murphy, Miss. Katherine \"Kate",
+    "name": "Murphy, Miss. Katherine 'Kate'",
     "sex": "female",
     "age": "",
     "sibsp": 1,
@@ -16754,7 +16754,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Najib, Miss. Adele Kiamie \"Jane",
+    "name": "Najib, Miss. Adele Kiamie 'Jane'",
     "sex": "female",
     "age": 15,
     "sibsp": 0,
@@ -16770,7 +16770,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Nakid, Miss. Maria (\"Mary\")",
+    "name": "Nakid, Miss. Maria ('Mary')",
     "sex": "female",
     "age": 1,
     "sibsp": 0,
@@ -16802,7 +16802,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Nakid, Mrs. Said (Waika \"Mary\" Mowad)",
+    "name": "Nakid, Mrs. Said (Waika 'Mary' Mowad)",
     "sex": "female",
     "age": 19,
     "sibsp": 1,
@@ -17138,7 +17138,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "O'Brien, Mrs. Thomas (Johanna \"Hannah\" Godfrey)",
+    "name": "O'Brien, Mrs. Thomas (Johanna 'Hannah' Godfrey)",
     "sex": "female",
     "age": "",
     "sibsp": 1,
@@ -17250,7 +17250,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "O'Dwyer, Miss. Ellen \"Nellie",
+    "name": "O'Dwyer, Miss. Ellen 'Nellie'",
     "sex": "female",
     "age": "",
     "sibsp": 0,
@@ -17298,7 +17298,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "O'Leary, Miss. Hanora \"Norah",
+    "name": "O'Leary, Miss. Hanora 'Norah'",
     "sex": "female",
     "age": "",
     "sibsp": 0,
@@ -18050,7 +18050,7 @@
   {
     "pclass": 3,
     "survived": 0,
-    "name": "Petroff, Mr. Pastcho (\"Pentcho\")",
+    "name": "Petroff, Mr. Pastcho ('Pentcho')",
     "sex": "male",
     "age": "",
     "sibsp": 0,
@@ -18354,7 +18354,7 @@
   {
     "pclass": 3,
     "survived": 0,
-    "name": "Riihivouri, Miss. Susanna Juhantytar \"Sanni",
+    "name": "Riihivouri, Miss. Susanna Juhantytar 'Sanni'",
     "sex": "female",
     "age": 22,
     "sibsp": 0,
@@ -18386,7 +18386,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Riordan, Miss. Johanna \"Hannah",
+    "name": "Riordan, Miss. Johanna 'Hannah'",
     "sex": "female",
     "age": "",
     "sibsp": 0,
@@ -18786,7 +18786,7 @@
   {
     "pclass": 3,
     "survived": 0,
-    "name": "Sage, Miss. Dorothy Edith \"Dolly",
+    "name": "Sage, Miss. Dorothy Edith 'Dolly'",
     "sex": "female",
     "age": "",
     "sibsp": 8,
@@ -19906,7 +19906,7 @@
   {
     "pclass": 3,
     "survived": 1,
-    "name": "Thomas, Mrs. Alexander (Thamine \"Thelma\")",
+    "name": "Thomas, Mrs. Alexander (Thamine 'Thelma')",
     "sex": "female",
     "age": 16,
     "sibsp": 1,
@@ -20658,7 +20658,7 @@
   {
     "pclass": 3,
     "survived": 0,
-    "name": "Willer, Mr. Aaron (\"Abi Weller\")",
+    "name": "Willer, Mr. Aaron ('Abi Weller')",
     "sex": "male",
     "age": "",
     "sibsp": 0,
@@ -20690,7 +20690,7 @@
   {
     "pclass": 3,
     "survived": 0,
-    "name": "Williams, Mr. Howard Hugh \"Harry",
+    "name": "Williams, Mr. Howard Hugh 'Harry'",
     "sex": "male",
     "age": "",
     "sibsp": 0,
