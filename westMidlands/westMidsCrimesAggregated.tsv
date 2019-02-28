@@ -1,0 +1,417 @@
+date	crimeType	numReportedCrimes
+2011-01	Anti-social behaviour	8406
+2011-02	Anti-social behaviour	8728
+2011-03	Anti-social behaviour	10329
+2011-04	Anti-social behaviour	13753
+2011-05	Anti-social behaviour	11814
+2011-06	Anti-social behaviour	11741
+2011-07	Anti-social behaviour	12847
+2011-08	Anti-social behaviour	11992
+2011-09	Anti-social behaviour	8389
+2011-10	Anti-social behaviour	8301
+2011-11	Anti-social behaviour	6600
+2011-12	Anti-social behaviour	6015
+2012-01	Anti-social behaviour	5840
+2012-02	Anti-social behaviour	6403
+2012-03	Anti-social behaviour	7262
+2012-04	Anti-social behaviour	6193
+2012-05	Anti-social behaviour	7266
+2012-06	Anti-social behaviour	6694
+2012-07	Anti-social behaviour	8157
+2012-08	Anti-social behaviour	8342
+2012-09	Anti-social behaviour	6879
+2012-10	Anti-social behaviour	6479
+2012-11	Anti-social behaviour	5503
+2012-12	Anti-social behaviour	5318
+2013-01	Anti-social behaviour	6863
+2013-02	Anti-social behaviour	5142
+2013-03	Anti-social behaviour	5468
+2013-04	Anti-social behaviour	6155
+2013-05	Anti-social behaviour	6445
+2013-06	Anti-social behaviour	6648
+2013-07	Anti-social behaviour	8792
+2013-08	Anti-social behaviour	7971
+2013-09	Anti-social behaviour	5955
+2013-10	Anti-social behaviour	5914
+2013-11	Anti-social behaviour	5159
+2013-12	Anti-social behaviour	4749
+2014-01	Anti-social behaviour	4510
+2014-02	Anti-social behaviour	4285
+2014-03	Anti-social behaviour	5685
+2014-04	Anti-social behaviour	6081
+2014-05	Anti-social behaviour	6296
+2014-06	Anti-social behaviour	7099
+2014-07	Anti-social behaviour	7742
+2014-08	Anti-social behaviour	6695
+2014-09	Anti-social behaviour	6422
+2014-10	Anti-social behaviour	5923
+2014-11	Anti-social behaviour	4962
+2014-12	Anti-social behaviour	4188
+2015-01	Anti-social behaviour	4438
+2015-02	Anti-social behaviour	4217
+2015-03	Anti-social behaviour	4778
+2015-04	Anti-social behaviour	5484
+2015-05	Anti-social behaviour	5388
+2015-06	Anti-social behaviour	6207
+2015-07	Anti-social behaviour	6066
+2015-08	Anti-social behaviour	5865
+2015-09	Anti-social behaviour	5248
+2015-10	Anti-social behaviour	5515
+2015-11	Anti-social behaviour	4398
+2015-12	Anti-social behaviour	4074
+2016-01	Anti-social behaviour	3993
+2016-02	Anti-social behaviour	4158
+2016-03	Anti-social behaviour	4687
+2016-04	Anti-social behaviour	4885
+2016-05	Anti-social behaviour	5643
+2016-06	Anti-social behaviour	5653
+2016-07	Anti-social behaviour	6306
+2016-08	Anti-social behaviour	5879
+2016-09	Anti-social behaviour	5228
+2016-10	Anti-social behaviour	5647
+2016-11	Anti-social behaviour	4003
+2016-12	Anti-social behaviour	3935
+2011-01	Burglary	2667
+2011-02	Burglary	2444
+2011-03	Burglary	2559
+2011-04	Burglary	2387
+2011-05	Burglary	2423
+2011-06	Burglary	2325
+2011-07	Burglary	2268
+2011-08	Burglary	2485
+2011-09	Burglary	2094
+2011-10	Burglary	2217
+2011-11	Burglary	2596
+2011-12	Burglary	2314
+2012-01	Burglary	2544
+2012-02	Burglary	2235
+2012-03	Burglary	2377
+2012-04	Burglary	2011
+2012-05	Burglary	2032
+2012-06	Burglary	2049
+2012-07	Burglary	1969
+2012-08	Burglary	1955
+2012-09	Burglary	1874
+2012-10	Burglary	2236
+2012-11	Burglary	2330
+2012-12	Burglary	2077
+2013-01	Burglary	2144
+2013-02	Burglary	2035
+2013-03	Burglary	1955
+2013-04	Burglary	1961
+2013-05	Burglary	1949
+2013-06	Burglary	1841
+2013-07	Burglary	1894
+2013-08	Burglary	2028
+2013-09	Burglary	2047
+2013-10	Burglary	2045
+2013-11	Burglary	2087
+2013-12	Burglary	2025
+2014-01	Burglary	2169
+2014-02	Burglary	2049
+2014-03	Burglary	1908
+2014-04	Burglary	1885
+2014-05	Burglary	1827
+2014-06	Burglary	1688
+2014-07	Burglary	1842
+2014-08	Burglary	2104
+2014-09	Burglary	1857
+2014-10	Burglary	1903
+2014-11	Burglary	2073
+2014-12	Burglary	1928
+2015-01	Burglary	1924
+2015-02	Burglary	1595
+2015-03	Burglary	1843
+2015-04	Burglary	1685
+2015-05	Burglary	1719
+2015-06	Burglary	1683
+2015-07	Burglary	1778
+2015-08	Burglary	1769
+2015-09	Burglary	1574
+2015-10	Burglary	1895
+2015-11	Burglary	2099
+2015-12	Burglary	1926
+2016-01	Burglary	2079
+2016-02	Burglary	1969
+2016-03	Burglary	2136
+2016-04	Burglary	1764
+2016-05	Burglary	1697
+2016-06	Burglary	1632
+2016-07	Burglary	1709
+2016-08	Burglary	1960
+2016-09	Burglary	2090
+2016-10	Burglary	2117
+2016-11	Burglary	2386
+2016-12	Burglary	2207
+2011-09	Criminal damage and arson	2485
+2011-10	Criminal damage and arson	2610
+2011-11	Criminal damage and arson	2487
+2011-12	Criminal damage and arson	2282
+2012-01	Criminal damage and arson	2183
+2012-02	Criminal damage and arson	2201
+2012-03	Criminal damage and arson	2385
+2012-04	Criminal damage and arson	2055
+2012-05	Criminal damage and arson	2161
+2012-06	Criminal damage and arson	1938
+2012-07	Criminal damage and arson	2139
+2012-08	Criminal damage and arson	2197
+2012-09	Criminal damage and arson	2117
+2012-10	Criminal damage and arson	2150
+2012-11	Criminal damage and arson	1997
+2012-12	Criminal damage and arson	2074
+2013-01	Criminal damage and arson	1954
+2013-02	Criminal damage and arson	1910
+2013-03	Criminal damage and arson	1812
+2013-04	Criminal damage and arson	2194
+2013-05	Criminal damage and arson	2143
+2013-06	Criminal damage and arson	2180
+2013-07	Criminal damage and arson	2205
+2013-08	Criminal damage and arson	2200
+2013-09	Criminal damage and arson	1998
+2013-10	Criminal damage and arson	2085
+2013-11	Criminal damage and arson	2097
+2013-12	Criminal damage and arson	2085
+2014-01	Criminal damage and arson	2028
+2014-02	Criminal damage and arson	1824
+2014-03	Criminal damage and arson	2102
+2014-04	Criminal damage and arson	2045
+2014-05	Criminal damage and arson	2006
+2014-06	Criminal damage and arson	2006
+2014-07	Criminal damage and arson	2037
+2014-08	Criminal damage and arson	2066
+2014-09	Criminal damage and arson	2159
+2014-10	Criminal damage and arson	2069
+2014-11	Criminal damage and arson	2108
+2014-12	Criminal damage and arson	1881
+2015-01	Criminal damage and arson	2010
+2015-02	Criminal damage and arson	1885
+2015-03	Criminal damage and arson	2144
+2015-04	Criminal damage and arson	1976
+2015-05	Criminal damage and arson	2161
+2015-06	Criminal damage and arson	2084
+2015-07	Criminal damage and arson	2055
+2015-08	Criminal damage and arson	1980
+2015-09	Criminal damage and arson	2059
+2015-10	Criminal damage and arson	2104
+2015-11	Criminal damage and arson	2077
+2015-12	Criminal damage and arson	2093
+2016-01	Criminal damage and arson	1934
+2016-02	Criminal damage and arson	1981
+2016-03	Criminal damage and arson	2098
+2016-04	Criminal damage and arson	2009
+2016-05	Criminal damage and arson	2189
+2016-06	Criminal damage and arson	1971
+2016-07	Criminal damage and arson	2149
+2016-08	Criminal damage and arson	2147
+2016-09	Criminal damage and arson	2030
+2016-10	Criminal damage and arson	2321
+2016-11	Criminal damage and arson	2144
+2016-12	Criminal damage and arson	2203
+2011-09	Drugs	652
+2011-10	Drugs	820
+2011-11	Drugs	790
+2011-12	Drugs	693
+2012-01	Drugs	676
+2012-02	Drugs	707
+2012-03	Drugs	719
+2012-04	Drugs	691
+2012-05	Drugs	833
+2012-06	Drugs	705
+2012-07	Drugs	762
+2012-08	Drugs	813
+2012-09	Drugs	601
+2012-10	Drugs	728
+2012-11	Drugs	712
+2012-12	Drugs	601
+2013-01	Drugs	598
+2013-02	Drugs	629
+2013-03	Drugs	646
+2013-04	Drugs	693
+2013-05	Drugs	693
+2013-06	Drugs	671
+2013-07	Drugs	627
+2013-08	Drugs	578
+2013-09	Drugs	552
+2013-10	Drugs	556
+2013-11	Drugs	557
+2013-12	Drugs	628
+2014-01	Drugs	509
+2014-02	Drugs	459
+2014-03	Drugs	594
+2014-04	Drugs	521
+2014-05	Drugs	553
+2014-06	Drugs	523
+2014-07	Drugs	451
+2014-08	Drugs	443
+2014-09	Drugs	453
+2014-10	Drugs	498
+2014-11	Drugs	531
+2014-12	Drugs	474
+2015-01	Drugs	485
+2015-02	Drugs	414
+2015-03	Drugs	474
+2015-04	Drugs	493
+2015-05	Drugs	476
+2015-06	Drugs	503
+2015-07	Drugs	452
+2015-08	Drugs	443
+2015-09	Drugs	459
+2015-10	Drugs	486
+2015-11	Drugs	422
+2015-12	Drugs	507
+2016-01	Drugs	496
+2016-02	Drugs	435
+2016-03	Drugs	522
+2016-04	Drugs	478
+2016-05	Drugs	452
+2016-06	Drugs	440
+2016-07	Drugs	393
+2016-08	Drugs	334
+2016-09	Drugs	365
+2016-10	Drugs	388
+2016-11	Drugs	358
+2016-12	Drugs	311
+2011-01	Robbery	798
+2011-02	Robbery	807
+2011-03	Robbery	817
+2011-04	Robbery	712
+2011-05	Robbery	737
+2011-06	Robbery	726
+2011-07	Robbery	649
+2011-08	Robbery	644
+2011-09	Robbery	529
+2011-10	Robbery	581
+2011-11	Robbery	578
+2011-12	Robbery	531
+2012-01	Robbery	562
+2012-02	Robbery	501
+2012-03	Robbery	555
+2012-04	Robbery	512
+2012-05	Robbery	487
+2012-06	Robbery	453
+2012-07	Robbery	415
+2012-08	Robbery	428
+2012-09	Robbery	429
+2012-10	Robbery	444
+2012-11	Robbery	461
+2012-12	Robbery	468
+2013-01	Robbery	471
+2013-02	Robbery	460
+2013-03	Robbery	455
+2013-04	Robbery	448
+2013-05	Robbery	460
+2013-06	Robbery	459
+2013-07	Robbery	431
+2013-08	Robbery	445
+2013-09	Robbery	426
+2013-10	Robbery	451
+2013-11	Robbery	396
+2013-12	Robbery	481
+2014-01	Robbery	496
+2014-02	Robbery	477
+2014-03	Robbery	471
+2014-04	Robbery	376
+2014-05	Robbery	398
+2014-06	Robbery	404
+2014-07	Robbery	373
+2014-08	Robbery	395
+2014-09	Robbery	473
+2014-10	Robbery	398
+2014-11	Robbery	461
+2014-12	Robbery	434
+2015-01	Robbery	421
+2015-02	Robbery	370
+2015-03	Robbery	418
+2015-04	Robbery	334
+2015-05	Robbery	414
+2015-06	Robbery	366
+2015-07	Robbery	396
+2015-08	Robbery	384
+2015-09	Robbery	408
+2015-10	Robbery	442
+2015-11	Robbery	417
+2015-12	Robbery	435
+2016-01	Robbery	472
+2016-02	Robbery	417
+2016-03	Robbery	446
+2016-04	Robbery	431
+2016-05	Robbery	453
+2016-06	Robbery	428
+2016-07	Robbery	450
+2016-08	Robbery	499
+2016-09	Robbery	425
+2016-10	Robbery	562
+2016-11	Robbery	496
+2016-12	Robbery	511
+2011-01	Vehicle crime	2473
+2011-02	Vehicle crime	2358
+2011-03	Vehicle crime	2347
+2011-04	Vehicle crime	2081
+2011-05	Vehicle crime	2456
+2011-06	Vehicle crime	2132
+2011-07	Vehicle crime	1987
+2011-08	Vehicle crime	2030
+2011-09	Vehicle crime	2313
+2011-10	Vehicle crime	2238
+2011-11	Vehicle crime	2199
+2011-12	Vehicle crime	1928
+2012-01	Vehicle crime	1937
+2012-02	Vehicle crime	1786
+2012-03	Vehicle crime	2033
+2012-04	Vehicle crime	1914
+2012-05	Vehicle crime	1868
+2012-06	Vehicle crime	1737
+2012-07	Vehicle crime	1837
+2012-08	Vehicle crime	1902
+2012-09	Vehicle crime	2016
+2012-10	Vehicle crime	2042
+2012-11	Vehicle crime	2063
+2012-12	Vehicle crime	1869
+2013-01	Vehicle crime	1806
+2013-02	Vehicle crime	1690
+2013-03	Vehicle crime	2001
+2013-04	Vehicle crime	1966
+2013-05	Vehicle crime	1867
+2013-06	Vehicle crime	1933
+2013-07	Vehicle crime	1864
+2013-08	Vehicle crime	1895
+2013-09	Vehicle crime	1928
+2013-10	Vehicle crime	2176
+2013-11	Vehicle crime	2021
+2013-12	Vehicle crime	1927
+2014-01	Vehicle crime	1946
+2014-02	Vehicle crime	1824
+2014-03	Vehicle crime	2159
+2014-04	Vehicle crime	1825
+2014-05	Vehicle crime	1854
+2014-06	Vehicle crime	1926
+2014-07	Vehicle crime	1896
+2014-08	Vehicle crime	1946
+2014-09	Vehicle crime	2092
+2014-10	Vehicle crime	2302
+2014-11	Vehicle crime	2278
+2014-12	Vehicle crime	2168
+2015-01	Vehicle crime	2195
+2015-02	Vehicle crime	1964
+2015-03	Vehicle crime	1949
+2015-04	Vehicle crime	1817
+2015-05	Vehicle crime	2087
+2015-06	Vehicle crime	2040
+2015-07	Vehicle crime	2122
+2015-08	Vehicle crime	2058
+2015-09	Vehicle crime	2210
+2015-10	Vehicle crime	2179
+2015-11	Vehicle crime	2264
+2015-12	Vehicle crime	2192
+2016-01	Vehicle crime	2263
+2016-02	Vehicle crime	2018
+2016-03	Vehicle crime	2218
+2016-04	Vehicle crime	2046
+2016-05	Vehicle crime	2158
+2016-06	Vehicle crime	2102
+2016-07	Vehicle crime	2358
+2016-08	Vehicle crime	2488
+2016-09	Vehicle crime	2753
+2016-10	Vehicle crime	2966
+2016-11	Vehicle crime	2963
+2016-12	Vehicle crime	2773
