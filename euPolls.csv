@@ -1,4 +1,16 @@
-﻿Date,Pollster,Answer,Percent
+Date,Pollster,Answer,Percent
+2019-04-05 00:00,BMG Research,remain,51
+2019-04-05 00:00,BMG Research,leave,42
+2019-04-05 00:00,BMG Research,no answer / don't know,7
+2019-03-15 00:00,Survation,remain,51
+2019-03-15 00:00,Survation,leave,45
+2019-03-15 00:00,Survation,no answer / don't know,4
+2019-02-18 00:00,Survation,remain,47
+2019-02-18 00:00,Survation,leave,44
+2019-02-18 00:00,Survation,no answer / don't know,9
+2019-01-30 00:00,Survation,remain,52
+2019-01-30 00:00,Survation,leave,43
+2019-01-30 00:00,Survation,no answer / don't know,5
 2019-01-11 00:00,Survation,remain,47.0
 2019-01-11 00:00,Survation,leave,45.0
 2019-01-11 00:00,Survation,no answer / don't know,8.0
