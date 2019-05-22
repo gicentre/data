@@ -1,5 +1,23 @@
 [
   {
+    "Date": "2019-05-17 00:00",
+    "Pollster": "Survation",
+    "Answer": "remain",
+    "Percent": 49
+  },
+  {
+    "Date": "2019-05-17 00:00",
+    "Pollster": "Survation",
+    "Answer": "leave",
+    "Percent": 47
+  },
+  {
+    "Date": "2019-05-17 00:00",
+    "Pollster": "Survation",
+    "Answer": "no answer / don't know",
+    "Percent": 4
+  },
+  {
     "Date": "2019-04-05 00:00",
     "Pollster": "BMG Research",
     "Answer": "remain",
