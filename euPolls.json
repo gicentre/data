@@ -1,5 +1,23 @@
 [
   {
+    "Date": "2019-08-11 00:00",
+    "Pollster": "Survation",
+    "Answer": "remain",
+    "Percent": 52
+  },
+  {
+    "Date": "2019-08-11 00:00",
+    "Pollster": "Survation",
+    "Answer": "leave",
+    "Percent": 43
+  },
+  {
+    "Date": "2019-08-11 00:00",
+    "Pollster": "Survation",
+    "Answer": "no answer / don't know",
+    "Percent": 5
+  },
+  {
     "Date": "2019-06-20 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
