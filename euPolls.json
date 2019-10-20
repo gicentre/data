@@ -1,5 +1,59 @@
 [
   {
+    "Date": "2019-10-18 00:00",
+    "Pollster": "Survation",
+    "Answer": "remain",
+    "Percent": 49
+  },
+  {
+    "Date": "2019-10-18 00:00",
+    "Pollster": "Survation",
+    "Answer": "leave",
+    "Percent": 46
+  },
+  {
+    "Date": "2019-10-18 00:00",
+    "Pollster": "Survation",
+    "Answer": "no answer / don't know",
+    "Percent": 5
+  },
+  {
+    "Date": "2019-10-04 00:00",
+    "Pollster": "BMG Research",
+    "Answer": "remain",
+    "Percent": 49
+  },
+  {
+    "Date": "2019-10-04 00:00",
+    "Pollster": "BMG Research",
+    "Answer": "leave",
+    "Percent": 44
+  },
+  {
+    "Date": "2019-10-04 00:00",
+    "Pollster": "BMG Research",
+    "Answer": "no answer / don't know",
+    "Percent": 7
+  },
+  {
+    "Date": "2019-09-25 00:00",
+    "Pollster": "Survation",
+    "Answer": "remain",
+    "Percent": 51
+  },
+  {
+    "Date": "2019-09-25 00:00",
+    "Pollster": "Survation",
+    "Answer": "leave",
+    "Percent": 45
+  },
+  {
+    "Date": "2019-09-25 00:00",
+    "Pollster": "Survation",
+    "Answer": "no answer / don't know",
+    "Percent": 4
+  },
+  {
     "Date": "2019-09-06 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
