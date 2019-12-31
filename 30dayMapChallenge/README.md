@@ -16,3 +16,8 @@
 
 - [`bloomsburyBuildings.json`](bloomsburyBuildings.json): Derived from [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274)
 - [`bloomsburyFootways.json`](bloomsburyFootways.json): Derived from [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274)
+
+### Day 4
+
+- [ukConstituenciesHex.csv](ukConstituenciesHex.csv): Converted from data in hexjson format from [ODI Leeds](https://odileeds.org/projects/hexmaps/constituencies/)
+- [geResults2017.csv](geResults2017.csv): Extracted from data provided by the [House of Commons Library](https://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7979)
