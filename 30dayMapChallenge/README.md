@@ -4,8 +4,8 @@
 
 ### Day 1
 
-- centralLondonTrafficSignals.csv: [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274)
-- londonRegionTrafficSignals.csv: [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274)
+- [`centralLondonTrafficSignals.csv`](centralLondonTrafficSignals.csv): Extracted from [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274)
+- [`londonRegionTrafficSignals.csv`](londonRegionTrafficSignals.csv): Extracted from [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274)
 - Monoton Font: [Google Fonts](https://fonts.google.com/specimen/Monoton)
 
 ### Day 2
@@ -14,5 +14,5 @@
 
 ### Day 3
 
-- bloomsburyBuildings.json: Derived from [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274)
-- bloomsburyFootways.json: Derived from [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274)
+- [`bloomsburyBuildings.json`](bloomsburyBuildings.json): Derived from [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274)
+- [`bloomsburyFootways.json`](bloomsburyFootways.json): Derived from [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274)
