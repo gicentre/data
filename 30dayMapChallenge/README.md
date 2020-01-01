@@ -35,7 +35,8 @@
 
 ### Day 7
 
-- xxx
+- [`gbCoastlineOSGB.json`](gbCoastlineOSGB.json) derived from [ONS electoral boundaries](https://geoportal.statistics.gov.uk/datasets/european-electoral-regions-december-2016-full-clipped-boundaries-in-great-britain)
+- [`gbRedDensity.csv`](gbRedDensity.csv), [`gbRedNames.tsv`](gbRedNames.tsv), [`gbCochDensity.csv`](gbCochDensity.csv), [`gbCochNames.tsv`](gbCochNames.tsv), [`gbDeargDensity.csv`](gbDeargDensity.csv) and [`gbDeargNames.tsv`](gbDeargNames.tsv), derived from [Ordnance Survey Open Names dataset](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPNAME) (public sector information licensed under the Open Government Licence v3.0.)
 
 ### Day 8
 
