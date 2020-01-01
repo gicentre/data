@@ -29,7 +29,9 @@
 
 ### Day 6
 
-- xxx
+- [`wales.json`](wales.json) derived from [ONS electoral boundaries](https://geoportal.statistics.gov.uk/datasets/european-electoral-regions-december-2016-full-clipped-boundaries-in-great-britain)
+- [`walesBlueLines.json`](walesBlueLines.json) and [`walesStreamNodes.csv`](walesStreamNodes.csv) derived from [Ordnance Survey Open Rivers dataset](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPRVRS) (public sector information licensed under the Open Government Licence v3.0.)
+- Cinzel Font: [Google Fonts](https://fonts.google.com/specimen/Cinzel).
 
 ### Day 7
 
