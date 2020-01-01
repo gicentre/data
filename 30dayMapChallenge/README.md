@@ -30,17 +30,20 @@
 ### Day 6
 
 - [`wales.json`](wales.json) derived from [ONS electoral boundaries](https://geoportal.statistics.gov.uk/datasets/european-electoral-regions-december-2016-full-clipped-boundaries-in-great-britain)
-- [`walesBlueLines.json`](walesBlueLines.json) and [`walesStreamNodes.csv`](walesStreamNodes.csv) derived from [Ordnance Survey Open Rivers dataset](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPRVRS) (public sector information licensed under the Open Government Licence v3.0.)
+- [`walesBlueLines.json`](walesBlueLines.json) and [`walesStreamNodes.csv`](walesStreamNodes.csv) derived from [Ordnance Survey Open Rivers dataset](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPRVRS) (public sector information licensed under the Open Government Licence v3.0).
 - Cinzel Font: [Google Fonts](https://fonts.google.com/specimen/Cinzel).
 
 ### Day 7
 
 - [`gbCoastlineOSGB.json`](gbCoastlineOSGB.json) derived from [ONS electoral boundaries](https://geoportal.statistics.gov.uk/datasets/european-electoral-regions-december-2016-full-clipped-boundaries-in-great-britain)
-- [`gbRedDensity.csv`](gbRedDensity.csv), [`gbRedNames.tsv`](gbRedNames.tsv), [`gbCochDensity.csv`](gbCochDensity.csv), [`gbCochNames.tsv`](gbCochNames.tsv), [`gbDeargDensity.csv`](gbDeargDensity.csv) and [`gbDeargNames.tsv`](gbDeargNames.tsv), derived from [Ordnance Survey Open Names dataset](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPNAME) (public sector information licensed under the Open Government Licence v3.0.)
+- [`gbRedDensity.csv`](gbRedDensity.csv), [`gbRedNames.tsv`](gbRedNames.tsv), [`gbCochDensity.csv`](gbCochDensity.csv), [`gbCochNames.tsv`](gbCochNames.tsv), [`gbDeargDensity.csv`](gbDeargDensity.csv) and [`gbDeargNames.tsv`](gbDeargNames.tsv), derived from [Ordnance Survey Open Names dataset](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPNAME) (public sector information licensed under the Open Government Licence v3.0).
+- Fjalla One Font: [Google Fonts](https://fonts.google.com/specimen/Fjalla+One).
 
 ### Day 8
 
-- xxx
+- [`londonBoroughCentroids`](londonBoroughCentroids) calculated from [London Borough boundaries](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london) from the London Datastore.
+- [`greenBoroughs.csv`](greenBoroughs.csv) derived from the Ordance Survey [Open Greenspace dataset](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPGRSP) (public sector information licensed under the Open Government Licence v3.0).
+- Roboto Condensed Font: [Google Fonts](https://fonts.google.com/specimen/Roboto+Condensed).
 
 ### Day 9
 
