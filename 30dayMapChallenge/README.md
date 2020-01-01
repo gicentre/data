@@ -47,7 +47,8 @@
 
 ### Day 9
 
-- xxx
+- [`solarDNI.csv`](solarDNI.csv) derived from the [NREL Direct Normal Incidence Solar Radiation model](https://www.nrel.gov/gis/data-solar.html).
+- Alfa Slab One Font: [Google Fonts](https://fonts.google.com/specimen/Alfa+Slab+One).
 
 ### Day 10
 
