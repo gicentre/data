@@ -19,8 +19,8 @@
 
 ### Day 4
 
-- [ukConstituenciesHex.csv](ukConstituenciesHex.csv): Converted from data in hexjson format from [ODI Leeds](https://odileeds.org/projects/hexmaps/constituencies/).
-- [geResults2017.csv](geResults2017.csv): Extracted from data provided by the [House of Commons Library](https://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7979).
+- [`ukConstituenciesHex.csv`](ukConstituenciesHex.csv): Converted from data in hexjson format from [ODI Leeds](https://odileeds.org/projects/hexmaps/constituencies/).
+- [`geResults2017.csv`](geResults2017.csv): Extracted from data provided by the [House of Commons Library](https://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7979).
 
 ### Day 5
 
@@ -52,11 +52,11 @@
 
 ### Day 10
 
-- xxx
+- [`gbCoastlineOSGB.json`](gbCoastlineOSGB.json) derived from [ONS electoral boundaries](https://geoportal.statistics.gov.uk/datasets/european-electoral-regions-december-2016-full-clipped-boundaries-in-great-britain)
+- [`abrahamDayPoints.csv`](abrahamDayPoints.csv) and [`abrahamNightPoints`](abrahamNightPoints.csv) derived from Strava GPS tracks.
+- Roboto Font: [Google Fonts](https://fonts.google.com/specimen/Roboto).
 
 ### Day 11
-
-- xxx
 
 ### Day 12
 
