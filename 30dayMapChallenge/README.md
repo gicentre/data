@@ -64,7 +64,8 @@
 
 ### Day 12
 
-- xxx
+- [`usGridmap`](usGridmap) derived from [the arrangement described by Jonathan Schwabish](https://policyviz.com/2016/04/13/tile-grid-maps-in-excel/)
+- [`usStateMigration.csv`](usStateMigration.csv) derived from the [US Census Bureau's migration data](https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html).
 
 ### Day 13
 
