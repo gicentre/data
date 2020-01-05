@@ -58,6 +58,10 @@
 
 ### Day 11
 
+- [`highFellsElevation.csv`](highFellsElevation.csv) derived from selected elevation data in [Ordnance Survey Terrain 50](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#TERR50) (public sector information licensed under the Open Government Licence v3.0).
+
+- FatFont-Rotunda and FatFont7 Font: [FatFonts](http://fatfonts.org).
+
 ### Day 12
 
 - xxx
