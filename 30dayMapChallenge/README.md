@@ -132,4 +132,4 @@
 
 ### Day 30
 
-- xxx
+- [`homeProfiles.csv`](homeProfiles.csv) derived from selected elevation data in [Ordnance Survey Terrain 50](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#TERR50) (public sector information licensed under the Open Government Licence v3.0).
