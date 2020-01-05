@@ -69,7 +69,7 @@
 
 ### Day 13
 
-- xxx
+- [`cycleRides.csv`](cycleRides.csv) generated and aggregated from my own GPS tracking data (Garmin Geko).
 
 ### Day 14
 
