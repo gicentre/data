@@ -1,5 +1,113 @@
 [
   {
+    "Date": "2019-12-12 00:00",
+    "Pollster": "BMG Research",
+    "Answer": "remain",
+    "Percent": 49
+  },
+  {
+    "Date": "2019-12-12 00:00",
+    "Pollster": "BMG Research",
+    "Answer": "leave",
+    "Percent": 41
+  },
+  {
+    "Date": "2019-12-12 00:00",
+    "Pollster": "BMG Research",
+    "Answer": "no answer / don't know",
+    "Percent": 19
+  },
+  {
+    "Date": "2019-12-06 00:00",
+    "Pollster": "BMG Research",
+    "Answer": "remain",
+    "Percent": 51
+  },
+  {
+    "Date": "2019-12-06 00:00",
+    "Pollster": "BMG Research",
+    "Answer": "leave",
+    "Percent": 42
+  },
+  {
+    "Date": "2019-12-06 00:00",
+    "Pollster": "BMG Research",
+    "Answer": "no answer / don't know",
+    "Percent": 7
+  },
+  {
+    "Date": "2019-11-29 00:00",
+    "Pollster": "BMG Research",
+    "Answer": "remain",
+    "Percent": 50
+  },
+  {
+    "Date": "2019-11-29 00:00",
+    "Pollster": "BMG Research",
+    "Answer": "leave",
+    "Percent": 42
+  },
+  {
+    "Date": "2019-11-29 00:00",
+    "Pollster": "BMG Research",
+    "Answer": "no answer / don't know",
+    "Percent": 8
+  },
+  {
+    "Date": "2019-11-21 00:00",
+    "Pollster": "BMG Research",
+    "Answer": "remain",
+    "Percent": 51
+  },
+  {
+    "Date": "2019-11-21 00:00",
+    "Pollster": "BMG Research",
+    "Answer": "leave",
+    "Percent": 43
+  },
+  {
+    "Date": "2019-11-21 00:00",
+    "Pollster": "BMG Research",
+    "Answer": "no answer / don't know",
+    "Percent": 6
+  },
+  {
+    "Date": "2019-11-15 00:00",
+    "Pollster": "BMG Research",
+    "Answer": "remain",
+    "Percent": 50
+  },
+  {
+    "Date": "2019-11-15 00:00",
+    "Pollster": "BMG Research",
+    "Answer": "leave",
+    "Percent": 42
+  },
+  {
+    "Date": "2019-11-15 00:00",
+    "Pollster": "BMG Research",
+    "Answer": "no answer / don't know",
+    "Percent": 8
+  },
+  {
+    "Date": "2019-10-30 00:00",
+    "Pollster": "Survation",
+    "Answer": "remain",
+    "Percent": 52
+  },
+  {
+    "Date": "2019-10-30 00:00",
+    "Pollster": "Survation",
+    "Answer": "leave",
+    "Percent": 45
+  },
+  {
+    "Date": "2019-10-30 00:00",
+    "Pollster": "Survation",
+    "Answer": "no answer / don't know",
+    "Percent": 3
+  },
+  {
     "Date": "2019-10-18 00:00",
     "Pollster": "Survation",
     "Answer": "remain",
