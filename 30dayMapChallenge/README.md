@@ -93,7 +93,9 @@
 
 ### Day 17
 
-- xxx
+- [`antarctica.json`](antarctica.json) extracted from Johan Sundström's [world country boundaries](https://github.com/johan/world.geo.json/blob/master/countries.geo.json)
+- [`emperor.png`](emperor.png), author's own.
+- Cinzel Font: [Google Fonts](https://fonts.google.com/specimen/Cinzel).
 
 ### Day 18
 
