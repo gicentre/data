@@ -78,7 +78,10 @@
 
 ### Day 15
 
-- xxx
+- [`londonVoting2010.csv`](londonVoting2010.csv) extracted from various Local Authority web sites. For details see [Wood et al, 2011](https://openaccess.city.ac.uk/436/).
+- [`londonBoroughCentroidsNoCity`](londonBoroughCentroidsNoCity) adapted from the [After the Flood grid layout](https://aftertheflood.com/journal/we-created-a-new-data-service-to-benefit-citizens-for-future-cities-catapult/)
+- Roboto Condensed Font: [Google Fonts](https://fonts.google.com/specimen/Roboto+Condensed).
+- Fjalla One Font: [Google Fonts](https://fonts.google.com/specimen/Fjalla+One).
 
 ### Day 16
 
