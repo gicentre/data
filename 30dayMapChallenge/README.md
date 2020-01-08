@@ -85,7 +85,11 @@
 
 ### Day 16
 
-- xxx
+- [`world1981.json`](world1981.json) and [`coastlines1981.json`](coastlines1981.json) adapted from [project linework](http://www.projectlinework.org).
+- [`complete.csv`](complete.csv)
+- [`countryCentroids.csv`](countryCentroids.csv) scraped from Google Autocompletion via now defunct API.
+- Stint Ultra Condensed Font: [Google Fonts](https://fonts.google.com/specimen/Stint+Ultra+Condensed).
+- Cinzel Font: [Google Fonts](https://fonts.google.com/specimen/Cinzel).
 
 ### Day 17
 
