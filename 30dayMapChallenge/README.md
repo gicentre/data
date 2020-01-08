@@ -99,7 +99,8 @@
 
 ### Day 18
 
-- xxx
+- [`worldCountries.json`](worldCountries.json) from [world-110m.json](https://gicentre.github.io/data/geoTutorials/world-110m.json)
+- [`england.json`](england.json) extracted from [ukConstituencies.json](https://github.com/gicentre/data/blob/master/uk/ukConstituencies.json)
 
 ### Day 19
 
