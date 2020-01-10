@@ -162,7 +162,7 @@
 
 ### Day 27
 
-- [`isotypeProfiles.csv`](isotypeProfiles.csv), [`isotypePoints.csv`](isotypePoints.csv), [`isotypeCoast.json`](isotypeCoast.json), [`isotypeBorders.json`](isotypeBorders.json) and [`isotypeLabels.csv`](isotypeLabels.csv) digitized from [Altitude and Vegetation across the United States](http://www.thomwhite.co.uk/wp-content/uploads/2013/05/isotype_p11_only_an_ocean_between_l_s_florence.jpg)
+- [`isotypeProfiles.csv`](isotypeProfiles.csv), [`isotypePoints.csv`](isotypePoints.csv), [`isotypeCoast.json`](isotypeCoast.json), [`isotypeBorders.json`](isotypeBorders.json) and [`isotypeLabels.csv`](isotypeLabels.csv) digitized from [Altitude and Vegetation across the United States](http://www.thomwhite.co.uk/wp-content/uploads/2013/05/isotype_p11_only_an_ocean_between_l_s_florence.jpg).
 
 ### Day 28
 
