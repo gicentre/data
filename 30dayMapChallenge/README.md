@@ -149,7 +149,9 @@
 
 ### Day 25
 
-- xxx
+- [`eastCoastPoly.json`](eastCoastPoly.json) derived from [Ordnance Survey Boundary-Line dataset](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#BDLINE) (public sector information licensed under the Open Government Licence v3.0).
+- [`eastCoastContours.json`](eastCoastContours.json) derived from [Ordnance Survey terrain 50 vector contour dataset](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#TERR50) (public sector information licensed under the Open Government Licence v3.0).
+- Cinzel Font: [Google Fonts](https://fonts.google.com/specimen/Cinzel).
 
 ### Day 26
 
