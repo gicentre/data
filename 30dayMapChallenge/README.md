@@ -135,7 +135,11 @@
 
 ### Day 23
 
-- xxx
+- President images derived from official presidential photographs e.g. [Richard Nixon](https://en.wikipedia.org/wiki/Richard_Nixon#/media/File:Richard_Nixon_presidential_portrait.jpg)
+- [`usGastner2014Population.json`](usGastner2014Population.json) from https://github.com/deldersveld/topojson
+- [`usStates.json`](usStates.json) from https://vega.github.io/vega-lite/data/us-10m.json
+- [`usElectionResults.csv`](usElectionResults.csv) extracted from [list of US election results](https://en.wikipedia.org/wiki/List_of_United_States_presidential_election_results_by_state)
+- Cinzel Font: [Google Fonts](https://fonts.google.com/specimen/Cinzel).
 
 ### Day 24
 
