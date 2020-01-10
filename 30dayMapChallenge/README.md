@@ -171,7 +171,9 @@
 
 ### Day 29
 
-- xxx
+- [`experimentalContoursTerrain.csv`](experimentalContoursTerrain.csv) derived from [Ordnance Survey Terrain 50](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#TERR50) (public sector information licensed under the Open Government Licence v3.0).
+- [`experimentalContoursBeckett.csv`](experimentalContoursBeckett.csv) derived from Jane Bown's [portrait of Samuel Beckett](https://www.npg.org.uk/collections/search/portrait/mw07089/Samuel-Beckett) © The Jane Bown Literary Estate / National Portrait Gallery.
+- [`experimentalContoursJWO.csv`](experimentalContoursJWO.csv) author's own.
 
 ### Day 30
 
