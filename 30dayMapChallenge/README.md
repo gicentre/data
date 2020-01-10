@@ -155,7 +155,10 @@
 
 ### Day 26
 
-- xxx
+- [`swLakeDistrictFlows.json`](swLakeDistrictFlows.json) and [`swLakeDistrictRelief.csv`](swLakeDistrictRelief.csv) derived from [Ordnance Survey Terrain 50](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#TERR50) (public sector information licensed under the Open Government Licence v3.0).
+- [`swLakeDistrictStreams.json`](swLakeDistrictStreams.json) extracted from Ordnance Survey [OpenRivers dataset](https://www.ordnancesurvey.co.uk/opendatadownload/products.html) (public sector information licensed under the Open Government Licence v3.0).
+- [`wastwater.json`](wastwater.json) extracted from from [OS Vectormap District](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#VMDVEC) (public sector information licensed under the Open Government Licence v3.0).
+- Cinzel Font: [Google Fonts](https://fonts.google.com/specimen/Cinzel).
 
 ### Day 27
 
