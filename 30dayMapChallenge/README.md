@@ -143,7 +143,9 @@
 
 ### Day 24
 
-- xxx
+- [`madeup.csv`](madeup.csv) mined from twitter 2007-2017 and combined with location data from [OS OpenNames](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPNAME) (public sector information licensed under the Open Government Licence v3.0).
+- Fjalla One Font: [Google Fonts](https://fonts.google.com/specimen/Fjalla+One).
+- Roboto Condensed Font: [Google Fonts](https://fonts.google.com/specimen/Roboto+Condensed).
 
 ### Day 25
 
