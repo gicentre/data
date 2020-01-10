@@ -109,7 +109,15 @@
 
 ### Day 20
 
-- xxx
+- [`cumbriaRelief.csv`](cumbriaRelief.csv), [`peakContours1.json`](peakContours1.json), [`peakContours2.json`](peakContours2.json), [`peakContours3.json`](peakContours3.json) and [`peakContours4.json`](peakContours4.json) derived from [Ordnance Survey Terrain 50](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#TERR50) (public sector information licensed under the Open Government Licence v3.0).
+
+- [`wainwrights.csv`](wainwrights.csv) author's own.
+
+- [`lakes.json`](lakes.json) extracted from [OS Vectormap District](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#VMDVEC).
+- [`cumbriaCoast.json`](cumbriaCoast.json) derived from [OS Boundary-Line](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#BDLINE) (public sector information licensed under the Open Government Licence v3.0).
+
+- Fjalla One Font: [Google Fonts](https://fonts.google.com/specimen/Fjalla+One).
+- Stint Ultra Condensed Font: [Google Fonts](https://fonts.google.com/specimen/Stint+Ultra+Condensed).
 
 ### Day 21
 
