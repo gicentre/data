@@ -4,27 +4,27 @@
 
 ### Day 1
 
-- [`centralLondonTrafficSignals.csv`](centralLondonTrafficSignals.csv): Extracted from [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274).
-- [`londonRegionTrafficSignals.csv`](londonRegionTrafficSignals.csv): Extracted from [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274).
+- [`centralLondonTrafficSignals.csv`](centralLondonTrafficSignals.csv) extracted from [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274).
+- [`londonRegionTrafficSignals.csv`](londonRegionTrafficSignals.csv) extracted from [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274).
 - Monoton Font: [Google Fonts](https://fonts.google.com/specimen/Monoton).
 
 ### Day 2
 
-- Coastal vertices dervied from exterior boundaries of [ONS electoral regions ](https://geoportal.statistics.gov.uk/datasets/european-electoral-regions-december-2016-full-clipped-boundaries-in-great-britain).
+- Coastal vertices derived from exterior boundaries of [ONS electoral regions ](https://geoportal.statistics.gov.uk/datasets/european-electoral-regions-december-2016-full-clipped-boundaries-in-great-britain).
 
 ### Day 3
 
-- [`bloomsburyBuildings.json`](bloomsburyBuildings.json): Derived from [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274).
-- [`bloomsburyFootways.json`](bloomsburyFootways.json): Derived from [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274).
+- [`bloomsburyBuildings.json`](bloomsburyBuildings.json) derived from [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274).
+- [`bloomsburyFootways.json`](bloomsburyFootways.json) derived from [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274).
 
 ### Day 4
 
-- [`ukConstituenciesHex.csv`](ukConstituenciesHex.csv): Converted from data in hexjson format from [ODI Leeds](https://odileeds.org/projects/hexmaps/constituencies/).
-- [`geResults2017.csv`](geResults2017.csv): Extracted from data provided by the [House of Commons Library](https://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7979).
+- [`ukConstituenciesHex.csv`](ukConstituenciesHex.csv) converted from data in hexjson format from [ODI Leeds](https://odileeds.org/projects/hexmaps/constituencies/).
+- [`geResults2017.csv`](geResults2017.csv) extracted from data provided by the [House of Commons Library](https://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7979).
 
 ### Day 5
 
-- [`worldGridmap.csv`](worldGridmap.csv): Derived and adapted from this [tile gridmap](https://github.com/mustafasaifee42/Tile-Grid-Map), which was converted from [Jonathan Schwabish's World Grid layout](https://policyviz.com/2017/10/12/the-world-tile-grid-map/).
+- [`worldGridmap.csv`](worldGridmap.csv) derived and adapted from this [tile gridmap](https://github.com/mustafasaifee42/Tile-Grid-Map), which was converted from [Jonathan Schwabish's World Grid layout](https://policyviz.com/2017/10/12/the-world-tile-grid-map/).
 - Compact labelling font: [Iosevka](https://github.com/be5invis/Iosevka).
 
 ### Day 6
@@ -36,7 +36,7 @@
 ### Day 7
 
 - [`gbCoastlineOSGB.json`](gbCoastlineOSGB.json) derived from [ONS electoral boundaries](https://geoportal.statistics.gov.uk/datasets/european-electoral-regions-december-2016-full-clipped-boundaries-in-great-britain)
-- [`gbRedDensity.csv`](gbRedDensity.csv), [`gbRedNames.tsv`](gbRedNames.tsv), [`gbCochDensity.csv`](gbCochDensity.csv), [`gbCochNames.tsv`](gbCochNames.tsv), [`gbDeargDensity.csv`](gbDeargDensity.csv) and [`gbDeargNames.tsv`](gbDeargNames.tsv), derived from [Ordnance Survey Open Names dataset](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPNAME) (public sector information licensed under the Open Government Licence v3.0).
+- [`gbRedDensity.csv`](gbRedDensity.csv), [`gbRedNames.tsv`](gbRedNames.tsv), [`gbCochDensity.csv`](gbCochDensity.csv), [`gbCochNames.tsv`](gbCochNames.tsv), [`gbDeargDensity.csv`](gbDeargDensity.csv) and [`gbDeargNames.tsv`](gbDeargNames.tsv) derived from [Ordnance Survey Open Names dataset](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPNAME) (public sector information licensed under the Open Government Licence v3.0).
 - Fjalla One Font: [Google Fonts](https://fonts.google.com/specimen/Fjalla+One).
 
 ### Day 8
@@ -104,7 +104,8 @@
 
 ### Day 19
 
-- xxx
+- [`ukDead.csv`](ukDead.csv) derived from [Open Street Map](https://www.openstreetmap.org).
+- Fredericka the Great Font: [Google Fonts](https://fonts.google.com/specimen/Fredericka+the+Great).
 
 ### Day 20
 
