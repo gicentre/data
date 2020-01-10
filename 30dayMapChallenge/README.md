@@ -70,6 +70,7 @@
 ### Day 13
 
 - [`cycleRides.csv`](cycleRides.csv) generated and aggregated from my own GPS tracking data (Garmin Geko).
+- Raleway Font: [Google Fonts](https://fonts.google.com/specimen/Raleway).
 
 ### Day 14
 
@@ -121,7 +122,9 @@
 
 ### Day 21
 
-- xxx
+- [`londonBoundary.json`](londonBoundary.json) derived from [London Borough boundaries](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london) from the London Datastore.
+- [`londonHighwayPoints.csv`](londonHighwayPoints.csv) extracted from [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274).
+- Raleway Font: [Google Fonts](https://fonts.google.com/specimen/Raleway).
 
 ### Day 22
 
