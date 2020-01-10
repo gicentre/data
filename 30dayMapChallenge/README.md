@@ -128,7 +128,10 @@
 
 ### Day 22
 
-- xxx
+- [`clerkenwell1805Polys.json`](clerkenwell1805Polys.json), [`clerkenwell1805BuildingsOffset.json`](clerkenwell1805BuildingsOffset.json), [`clerkenwell1805Boundary.json`](clerkenwell1805Boundary.json) and [`riverFleet.json`](riverFleet.json) derived from digitized boundaries in [Tyrer's Clerkenwell map](http://www.bl.uk/onlinegallery/onlineex/crace/c/zoomify88267.html) from the British Library.
+- [`clerkenwell2019Polys.json`](clerkenwell2019Polys.json) extracted from [Open Street Map](https://www.openstreetmap.org/search?query=london#map=11/51.5077/-0.1274).
+- Jacques Francois Shadow Font: [Google Fonts](https://fonts.google.com/specimen/Jacques+Francois+Shadow).
+- Raleway Font: [Google Fonts](https://fonts.google.com/specimen/Raleway).
 
 ### Day 23
 
