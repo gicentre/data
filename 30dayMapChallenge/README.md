@@ -10,7 +10,7 @@
 
 ### Day 2
 
-- Coastal vertices derived from exterior boundaries of [ONS electoral regions ](https://geoportal.statistics.gov.uk/datasets/european-electoral-regions-december-2016-full-clipped-boundaries-in-great-britain).
+- Coastal vertices derived from exterior boundaries of [ONS electoral regions](https://geoportal.statistics.gov.uk/datasets/european-electoral-regions-december-2016-full-clipped-boundaries-in-great-britain).
 
 ### Day 3
 
@@ -42,7 +42,7 @@
 ### Day 8
 
 - [`londonBoroughCentroids`](londonBoroughCentroids) calculated from [London Borough boundaries](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london) from the London Datastore.
-- [`greenBoroughs.csv`](greenBoroughs.csv) derived from the Ordance Survey [Open Greenspace dataset](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPGRSP) (public sector information licensed under the Open Government Licence v3.0).
+- [`greenBoroughs.csv`](greenBoroughs.csv) derived from the Ordnance Survey [Open Greenspace dataset](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPGRSP) (public sector information licensed under the Open Government Licence v3.0).
 - Roboto Condensed Font: [Google Fonts](https://fonts.google.com/specimen/Roboto+Condensed).
 
 ### Day 9
@@ -136,8 +136,8 @@
 ### Day 23
 
 - President images derived from official presidential photographs e.g. [Richard Nixon](https://en.wikipedia.org/wiki/Richard_Nixon#/media/File:Richard_Nixon_presidential_portrait.jpg)
-- [`usGastner2014Population.json`](usGastner2014Population.json) from https://github.com/deldersveld/topojson
-- [`usStates.json`](usStates.json) from https://vega.github.io/vega-lite/data/us-10m.json
+- [`usGastner2014Population.json`](usGastner2014Population.json) from [@deldersveld/topojson](https://github.com/deldersveld/topojson)
+- [`usStates.json`](usStates.json) derived from [@vega/data/us-10m.json](https://vega.github.io/vega-lite/data/us-10m.json)
 - [`usElectionResults.csv`](usElectionResults.csv) extracted from [list of US election results](https://en.wikipedia.org/wiki/List_of_United_States_presidential_election_results_by_state)
 - Cinzel Font: [Google Fonts](https://fonts.google.com/specimen/Cinzel).
 
