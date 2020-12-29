@@ -1,1531 +1,1531 @@
-week,qType,rank,question,relFreq
-2020-01-05,how,1,How to make a face mask,0
-2020-01-12,how,1,How to make a face mask,0.37
-2020-01-19,how,1,How to make a face mask,0
-2020-01-26,how,1,How to make a face mask,0.57
-2020-02-02,how,1,How to make a face mask,0.30
-2020-02-09,how,1,How to make a face mask,1
-2020-02-16,how,1,How to make a face mask,0.49
-2020-02-23,how,1,How to make a face mask,1
-2020-03-01,how,1,How to make a face mask,2
-2020-03-08,how,1,How to make a face mask,1
-2020-03-15,how,1,How to make a face mask,4
-2020-03-22,how,1,How to make a face mask,11
-2020-03-29,how,1,How to make a face mask,19
-2020-04-05,how,1,How to make a face mask,13
-2020-04-12,how,1,How to make a face mask,25
-2020-04-19,how,1,How to make a face mask,45
-2020-04-26,how,1,How to make a face mask,52
-2020-05-03,how,1,How to make a face mask,42
-2020-05-10,how,1,How to make a face mask,100
-2020-05-17,how,1,How to make a face mask,38
-2020-05-24,how,1,How to make a face mask,21
-2020-05-31,how,1,How to make a face mask,50
-2020-06-07,how,1,How to make a face mask,39
-2020-06-14,how,1,How to make a face mask,32
-2020-06-21,how,1,How to make a face mask,17
-2020-06-28,how,1,How to make a face mask,15
-2020-07-05,how,1,How to make a face mask,19
-2020-07-12,how,1,How to make a face mask,54
-2020-07-19,how,1,How to make a face mask,31
-2020-07-26,how,1,How to make a face mask,20
-2020-08-02,how,1,How to make a face mask,13
-2020-08-09,how,1,How to make a face mask,6
-2020-08-16,how,1,How to make a face mask,7
-2020-08-23,how,1,How to make a face mask,6
-2020-08-30,how,1,How to make a face mask,8
-2020-09-06,how,1,How to make a face mask,4
-2020-09-13,how,1,How to make a face mask,5
-2020-09-20,how,1,How to make a face mask,5
-2020-09-27,how,1,How to make a face mask,4
-2020-10-04,how,1,How to make a face mask,4
-2020-10-11,how,1,How to make a face mask,3
-2020-10-18,how,1,How to make a face mask,3
-2020-10-25,how,1,How to make a face mask,3
-2020-11-01,how,1,How to make a face mask,4
-2020-11-08,how,1,How to make a face mask,4
-2020-11-15,how,1,How to make a face mask,1
-2020-11-22,how,1,How to make a face mask,2
-2020-11-29,how,1,How to make a face mask,1
-2020-12-06,how,1,How to make a face mask,1
-2020-12-13,how,1,How to make a face mask,2
-2020-12-20,how,1,How to make a face mask,1
-2020-01-05,how,2,How to make hand sanitizer,0
-2020-01-12,how,2,How to make hand sanitizer,0
-2020-01-19,how,2,How to make hand sanitizer,0
-2020-01-26,how,2,How to make hand sanitizer,0
-2020-02-02,how,2,How to make hand sanitizer,0
-2020-02-09,how,2,How to make hand sanitizer,0
-2020-02-16,how,2,How to make hand sanitizer,0
-2020-02-23,how,2,How to make hand sanitizer,2
-2020-03-01,how,2,How to make hand sanitizer,49
-2020-03-08,how,2,How to make hand sanitizer,84
-2020-03-15,how,2,How to make hand sanitizer,100
-2020-03-22,how,2,How to make hand sanitizer,25
-2020-03-29,how,2,How to make hand sanitizer,18
-2020-04-05,how,2,How to make hand sanitizer,7
-2020-04-12,how,2,How to make hand sanitizer,4
-2020-04-19,how,2,How to make hand sanitizer,4
-2020-04-26,how,2,How to make hand sanitizer,2
-2020-05-03,how,2,How to make hand sanitizer,2
-2020-05-10,how,2,How to make hand sanitizer,1
-2020-05-17,how,2,How to make hand sanitizer,1
-2020-05-24,how,2,How to make hand sanitizer,2
-2020-05-31,how,2,How to make hand sanitizer,1
-2020-06-07,how,2,How to make hand sanitizer,1
-2020-06-14,how,2,How to make hand sanitizer,1
-2020-06-21,how,2,How to make hand sanitizer,0.46
-2020-06-28,how,2,How to make hand sanitizer,1
-2020-07-05,how,2,How to make hand sanitizer,2
-2020-07-12,how,2,How to make hand sanitizer,0.24
-2020-07-19,how,2,How to make hand sanitizer,1
-2020-07-26,how,2,How to make hand sanitizer,1
-2020-08-02,how,2,How to make hand sanitizer,1
-2020-08-09,how,2,How to make hand sanitizer,1
-2020-08-16,how,2,How to make hand sanitizer,0
-2020-08-23,how,2,How to make hand sanitizer,1
-2020-08-30,how,2,How to make hand sanitizer,1
-2020-09-06,how,2,How to make hand sanitizer,0.38
-2020-09-13,how,2,How to make hand sanitizer,1
-2020-09-20,how,2,How to make hand sanitizer,1
-2020-09-27,how,2,How to make hand sanitizer,0.17
-2020-10-04,how,2,How to make hand sanitizer,0
-2020-10-11,how,2,How to make hand sanitizer,1
-2020-10-18,how,2,How to make hand sanitizer,0
-2020-10-25,how,2,How to make hand sanitizer,0
-2020-11-01,how,2,How to make hand sanitizer,0.50
-2020-11-08,how,2,How to make hand sanitizer,0
-2020-11-15,how,2,How to make hand sanitizer,0.44
-2020-11-22,how,2,How to make hand sanitizer,1
-2020-11-29,how,2,How to make hand sanitizer,1
-2020-12-06,how,2,How to make hand sanitizer,0.32
-2020-12-13,how,2,How to make hand sanitizer,0.33
-2020-12-20,how,2,How to make hand sanitizer,0
-2020-01-05,how,3,How to make bread,10
-2020-01-12,how,3,How to make bread,8
-2020-01-19,how,3,How to make bread,13
-2020-01-26,how,3,How to make bread,13
-2020-02-02,how,3,How to make bread,13
-2020-02-09,how,3,How to make bread,16
-2020-02-16,how,3,How to make bread,17
-2020-02-23,how,3,How to make bread,12
-2020-03-01,how,3,How to make bread,15
-2020-03-08,how,3,How to make bread,25
-2020-03-15,how,3,How to make bread,71
-2020-03-22,how,3,How to make bread,92
-2020-03-29,how,3,How to make bread,100
-2020-04-05,how,3,How to make bread,79
-2020-04-12,how,3,How to make bread,73
-2020-04-19,how,3,How to make bread,59
-2020-04-26,how,3,How to make bread,63
-2020-05-03,how,3,How to make bread,56
-2020-05-10,how,3,How to make bread,48
-2020-05-17,how,3,How to make bread,36
-2020-05-24,how,3,How to make bread,30
-2020-05-31,how,3,How to make bread,29
-2020-06-07,how,3,How to make bread,27
-2020-06-14,how,3,How to make bread,25
-2020-06-21,how,3,How to make bread,18
-2020-06-28,how,3,How to make bread,21
-2020-07-05,how,3,How to make bread,22
-2020-07-12,how,3,How to make bread,17
-2020-07-19,how,3,How to make bread,20
-2020-07-26,how,3,How to make bread,16
-2020-08-02,how,3,How to make bread,14
-2020-08-09,how,3,How to make bread,11
-2020-08-16,how,3,How to make bread,15
-2020-08-23,how,3,How to make bread,13
-2020-08-30,how,3,How to make bread,15
-2020-09-06,how,3,How to make bread,12
-2020-09-13,how,3,How to make bread,13
-2020-09-20,how,3,How to make bread,13
-2020-09-27,how,3,How to make bread,13
-2020-10-04,how,3,How to make bread,16
-2020-10-11,how,3,How to make bread,21
-2020-10-18,how,3,How to make bread,16
-2020-10-25,how,3,How to make bread,16
-2020-11-01,how,3,How to make bread,18
-2020-11-08,how,3,How to make bread,21
-2020-11-15,how,3,How to make bread,19
-2020-11-22,how,3,How to make bread,19
-2020-11-29,how,3,How to make bread,14
-2020-12-06,how,3,How to make bread,14
-2020-12-13,how,3,How to make bread,14
-2020-12-20,how,3,How to make bread,25
-2020-01-05,how,4,How to get tested for coronavirus,0
-2020-01-12,how,4,How to get tested for coronavirus,0
-2020-01-19,how,4,How to get tested for coronavirus,0
-2020-01-26,how,4,How to get tested for coronavirus,1
-2020-02-02,how,4,How to get tested for coronavirus,1
-2020-02-09,how,4,How to get tested for coronavirus,3
-2020-02-16,how,4,How to get tested for coronavirus,0
-2020-02-23,how,4,How to get tested for coronavirus,4
-2020-03-01,how,4,How to get tested for coronavirus,17
-2020-03-08,how,4,How to get tested for coronavirus,100
-2020-03-15,how,4,How to get tested for coronavirus,94
-2020-03-22,how,4,How to get tested for coronavirus,32
-2020-03-29,how,4,How to get tested for coronavirus,12
-2020-04-05,how,4,How to get tested for coronavirus,9
-2020-04-12,how,4,How to get tested for coronavirus,7
-2020-04-19,how,4,How to get tested for coronavirus,11
-2020-04-26,how,4,How to get tested for coronavirus,17
-2020-05-03,how,4,How to get tested for coronavirus,13
-2020-05-10,how,4,How to get tested for coronavirus,12
-2020-05-17,how,4,How to get tested for coronavirus,10
-2020-05-24,how,4,How to get tested for coronavirus,6
-2020-05-31,how,4,How to get tested for coronavirus,9
-2020-06-07,how,4,How to get tested for coronavirus,4
-2020-06-14,how,4,How to get tested for coronavirus,3
-2020-06-21,how,4,How to get tested for coronavirus,4
-2020-06-28,how,4,How to get tested for coronavirus,4
-2020-07-05,how,4,How to get tested for coronavirus,3
-2020-07-12,how,4,How to get tested for coronavirus,1
-2020-07-19,how,4,How to get tested for coronavirus,3
-2020-07-26,how,4,How to get tested for coronavirus,1
-2020-08-02,how,4,How to get tested for coronavirus,3
-2020-08-09,how,4,How to get tested for coronavirus,1
-2020-08-16,how,4,How to get tested for coronavirus,2
-2020-08-23,how,4,How to get tested for coronavirus,3
-2020-08-30,how,4,How to get tested for coronavirus,6
-2020-09-06,how,4,How to get tested for coronavirus,10
-2020-09-13,how,4,How to get tested for coronavirus,4
-2020-09-20,how,4,How to get tested for coronavirus,5
-2020-09-27,how,4,How to get tested for coronavirus,1
-2020-10-04,how,4,How to get tested for coronavirus,1
-2020-10-11,how,4,How to get tested for coronavirus,1
-2020-10-18,how,4,How to get tested for coronavirus,1
-2020-10-25,how,4,How to get tested for coronavirus,2
-2020-11-01,how,4,How to get tested for coronavirus,2
-2020-11-08,how,4,How to get tested for coronavirus,2
-2020-11-15,how,4,How to get tested for coronavirus,1
-2020-11-22,how,4,How to get tested for coronavirus,3
-2020-11-29,how,4,How to get tested for coronavirus,1
-2020-12-06,how,4,How to get tested for coronavirus,1
-2020-12-13,how,4,How to get tested for coronavirus,0
-2020-12-20,how,4,How to get tested for coronavirus,2
-2020-01-05,how,5,How to cut your own hair,5
-2020-01-12,how,5,How to cut your own hair,9
-2020-01-19,how,5,How to cut your own hair,6
-2020-01-26,how,5,How to cut your own hair,6
-2020-02-02,how,5,How to cut your own hair,6
-2020-02-09,how,5,How to cut your own hair,4
-2020-02-16,how,5,How to cut your own hair,5
-2020-02-23,how,5,How to cut your own hair,4
-2020-03-01,how,5,How to cut your own hair,4
-2020-03-08,how,5,How to cut your own hair,5
-2020-03-15,how,5,How to cut your own hair,16
-2020-03-22,how,5,How to cut your own hair,71
-2020-03-29,how,5,How to cut your own hair,100
-2020-04-05,how,5,How to cut your own hair,90
-2020-04-12,how,5,How to cut your own hair,100
-2020-04-19,how,5,How to cut your own hair,74
-2020-04-26,how,5,How to cut your own hair,83
-2020-05-03,how,5,How to cut your own hair,58
-2020-05-10,how,5,How to cut your own hair,69
-2020-05-17,how,5,How to cut your own hair,59
-2020-05-24,how,5,How to cut your own hair,49
-2020-05-31,how,5,How to cut your own hair,40
-2020-06-07,how,5,How to cut your own hair,37
-2020-06-14,how,5,How to cut your own hair,29
-2020-06-21,how,5,How to cut your own hair,28
-2020-06-28,how,5,How to cut your own hair,21
-2020-07-05,how,5,How to cut your own hair,17
-2020-07-12,how,5,How to cut your own hair,9
-2020-07-19,how,5,How to cut your own hair,11
-2020-07-26,how,5,How to cut your own hair,11
-2020-08-02,how,5,How to cut your own hair,7
-2020-08-09,how,5,How to cut your own hair,9
-2020-08-16,how,5,How to cut your own hair,8
-2020-08-23,how,5,How to cut your own hair,10
-2020-08-30,how,5,How to cut your own hair,9
-2020-09-06,how,5,How to cut your own hair,8
-2020-09-13,how,5,How to cut your own hair,7
-2020-09-20,how,5,How to cut your own hair,6
-2020-09-27,how,5,How to cut your own hair,5
-2020-10-04,how,5,How to cut your own hair,6
-2020-10-11,how,5,How to cut your own hair,8
-2020-10-18,how,5,How to cut your own hair,8
-2020-10-25,how,5,How to cut your own hair,6
-2020-11-01,how,5,How to cut your own hair,15
-2020-11-08,how,5,How to cut your own hair,11
-2020-11-15,how,5,How to cut your own hair,13
-2020-11-22,how,5,How to cut your own hair,11
-2020-11-29,how,5,How to cut your own hair,10
-2020-12-06,how,5,How to cut your own hair,8
-2020-12-13,how,5,How to cut your own hair,10
-2020-12-20,how,5,How to cut your own hair,12
-2020-01-05,how,6,How to cook eel,0
-2020-01-12,how,6,How to cook eel,0
-2020-01-19,how,6,How to cook eel,0
-2020-01-26,how,6,How to cook eel,0
-2020-02-02,how,6,How to cook eel,0
-2020-02-09,how,6,How to cook eel,0
-2020-02-16,how,6,How to cook eel,0
-2020-02-23,how,6,How to cook eel,0
-2020-03-01,how,6,How to cook eel,0
-2020-03-08,how,6,How to cook eel,0
-2020-03-15,how,6,How to cook eel,0
-2020-03-22,how,6,How to cook eel,1
-2020-03-29,how,6,How to cook eel,0
-2020-04-05,how,6,How to cook eel,0
-2020-04-12,how,6,How to cook eel,0
-2020-04-19,how,6,How to cook eel,0
-2020-04-26,how,6,How to cook eel,0
-2020-05-03,how,6,How to cook eel,1
-2020-05-10,how,6,How to cook eel,0
-2020-05-17,how,6,How to cook eel,0
-2020-05-24,how,6,How to cook eel,0
-2020-05-31,how,6,How to cook eel,0
-2020-06-07,how,6,How to cook eel,0
-2020-06-14,how,6,How to cook eel,0
-2020-06-21,how,6,How to cook eel,0
-2020-06-28,how,6,How to cook eel,0
-2020-07-05,how,6,How to cook eel,0
-2020-07-12,how,6,How to cook eel,0
-2020-07-19,how,6,How to cook eel,0
-2020-07-26,how,6,How to cook eel,0
-2020-08-02,how,6,How to cook eel,0
-2020-08-09,how,6,How to cook eel,0
-2020-08-16,how,6,How to cook eel,0
-2020-08-23,how,6,How to cook eel,0
-2020-08-30,how,6,How to cook eel,1
-2020-09-06,how,6,How to cook eel,0
-2020-09-13,how,6,How to cook eel,0
-2020-09-20,how,6,How to cook eel,0
-2020-09-27,how,6,How to cook eel,0
-2020-10-04,how,6,How to cook eel,0
-2020-10-11,how,6,How to cook eel,0
-2020-10-18,how,6,How to cook eel,0
-2020-10-25,how,6,How to cook eel,0
-2020-11-01,how,6,How to cook eel,0
-2020-11-08,how,6,How to cook eel,0
-2020-11-15,how,6,How to cook eel,100
-2020-11-22,how,6,How to cook eel,0
-2020-11-29,how,6,How to cook eel,0
-2020-12-06,how,6,How to cook eel,1
-2020-12-13,how,6,How to cook eel,1
-2020-12-20,how,6,How to cook eel,1
-2020-01-05,how,7,How to cut men's hair,0
-2020-01-12,how,7,How to cut men's hair,3
-2020-01-19,how,7,How to cut men's hair,3
-2020-01-26,how,7,How to cut men's hair,0
-2020-02-02,how,7,How to cut men's hair,3
-2020-02-09,how,7,How to cut men's hair,0
-2020-02-16,how,7,How to cut men's hair,0
-2020-02-23,how,7,How to cut men's hair,3
-2020-03-01,how,7,How to cut men's hair,3
-2020-03-08,how,7,How to cut men's hair,0
-2020-03-15,how,7,How to cut men's hair,8
-2020-03-22,how,7,How to cut men's hair,42
-2020-03-29,how,7,How to cut men's hair,61
-2020-04-05,how,7,How to cut men's hair,100
-2020-04-12,how,7,How to cut men's hair,93
-2020-04-19,how,7,How to cut men's hair,64
-2020-04-26,how,7,How to cut men's hair,88
-2020-05-03,how,7,How to cut men's hair,44
-2020-05-10,how,7,How to cut men's hair,87
-2020-05-17,how,7,How to cut men's hair,90
-2020-05-24,how,7,How to cut men's hair,83
-2020-05-31,how,7,How to cut men's hair,31
-2020-06-07,how,7,How to cut men's hair,23
-2020-06-14,how,7,How to cut men's hair,24
-2020-06-21,how,7,How to cut men's hair,12
-2020-06-28,how,7,How to cut men's hair,21
-2020-07-05,how,7,How to cut men's hair,10
-2020-07-12,how,7,How to cut men's hair,3
-2020-07-19,how,7,How to cut men's hair,3
-2020-07-26,how,7,How to cut men's hair,3
-2020-08-02,how,7,How to cut men's hair,5
-2020-08-09,how,7,How to cut men's hair,3
-2020-08-16,how,7,How to cut men's hair,5
-2020-08-23,how,7,How to cut men's hair,3
-2020-08-30,how,7,How to cut men's hair,0
-2020-09-06,how,7,How to cut men's hair,5
-2020-09-13,how,7,How to cut men's hair,5
-2020-09-20,how,7,How to cut men's hair,5
-2020-09-27,how,7,How to cut men's hair,0
-2020-10-04,how,7,How to cut men's hair,0
-2020-10-11,how,7,How to cut men's hair,0
-2020-10-18,how,7,How to cut men's hair,0
-2020-10-25,how,7,How to cut men's hair,6
-2020-11-01,how,7,How to cut men's hair,0
-2020-11-08,how,7,How to cut men's hair,3
-2020-11-15,how,7,How to cut men's hair,5
-2020-11-22,how,7,How to cut men's hair,3
-2020-11-29,how,7,How to cut men's hair,3
-2020-12-06,how,7,How to cut men's hair,17
-2020-12-13,how,7,How to cut men's hair,3
-2020-12-20,how,7,How to cut men's hair,11
-2020-01-05,how,8,How to boost immune system,8
-2020-01-12,how,8,How to boost immune system,8
-2020-01-19,how,8,How to boost immune system,14
-2020-01-26,how,8,How to boost immune system,16
-2020-02-02,how,8,How to boost immune system,10
-2020-02-09,how,8,How to boost immune system,12
-2020-02-16,how,8,How to boost immune system,4
-2020-02-23,how,8,How to boost immune system,25
-2020-03-01,how,8,How to boost immune system,34
-2020-03-08,how,8,How to boost immune system,72
-2020-03-15,how,8,How to boost immune system,100
-2020-03-22,how,8,How to boost immune system,35
-2020-03-29,how,8,How to boost immune system,33
-2020-04-05,how,8,How to boost immune system,18
-2020-04-12,how,8,How to boost immune system,18
-2020-04-19,how,8,How to boost immune system,7
-2020-04-26,how,8,How to boost immune system,10
-2020-05-03,how,8,How to boost immune system,12
-2020-05-10,how,8,How to boost immune system,9
-2020-05-17,how,8,How to boost immune system,7
-2020-05-24,how,8,How to boost immune system,11
-2020-05-31,how,8,How to boost immune system,0
-2020-06-07,how,8,How to boost immune system,0
-2020-06-14,how,8,How to boost immune system,3
-2020-06-21,how,8,How to boost immune system,4
-2020-06-28,how,8,How to boost immune system,7
-2020-07-05,how,8,How to boost immune system,0
-2020-07-12,how,8,How to boost immune system,6
-2020-07-19,how,8,How to boost immune system,11
-2020-07-26,how,8,How to boost immune system,4
-2020-08-02,how,8,How to boost immune system,4
-2020-08-09,how,8,How to boost immune system,2
-2020-08-16,how,8,How to boost immune system,4
-2020-08-23,how,8,How to boost immune system,11
-2020-08-30,how,8,How to boost immune system,14
-2020-09-06,how,8,How to boost immune system,10
-2020-09-13,how,8,How to boost immune system,12
-2020-09-20,how,8,How to boost immune system,10
-2020-09-27,how,8,How to boost immune system,6
-2020-10-04,how,8,How to boost immune system,8
-2020-10-11,how,8,How to boost immune system,2
-2020-10-18,how,8,How to boost immune system,8
-2020-10-25,how,8,How to boost immune system,4
-2020-11-01,how,8,How to boost immune system,2
-2020-11-08,how,8,How to boost immune system,2
-2020-11-15,how,8,How to boost immune system,8
-2020-11-22,how,8,How to boost immune system,4
-2020-11-29,how,8,How to boost immune system,8
-2020-12-06,how,8,How to boost immune system,2
-2020-12-13,how,8,How to boost immune system,0
-2020-12-20,how,8,How to boost immune system,3
-2020-01-05,how,9,How to self isolate,0
-2020-01-12,how,9,How to self isolate,0
-2020-01-19,how,9,How to self isolate,0
-2020-01-26,how,9,How to self isolate,0
-2020-02-02,how,9,How to self isolate,0.29
-2020-02-09,how,9,How to self isolate,0
-2020-02-16,how,9,How to self isolate,0.31
-2020-02-23,how,9,How to self isolate,3
-2020-03-01,how,9,How to self isolate,7
-2020-03-08,how,9,How to self isolate,42
-2020-03-15,how,9,How to self isolate,100
-2020-03-22,how,9,How to self isolate,64
-2020-03-29,how,9,How to self isolate,24
-2020-04-05,how,9,How to self isolate,14
-2020-04-12,how,9,How to self isolate,9
-2020-04-19,how,9,How to self isolate,4
-2020-04-26,how,9,How to self isolate,6
-2020-05-03,how,9,How to self isolate,4
-2020-05-10,how,9,How to self isolate,4
-2020-05-17,how,9,How to self isolate,4
-2020-05-24,how,9,How to self isolate,6
-2020-05-31,how,9,How to self isolate,3
-2020-06-07,how,9,How to self isolate,3
-2020-06-14,how,9,How to self isolate,3
-2020-06-21,how,9,How to self isolate,3
-2020-06-28,how,9,How to self isolate,3
-2020-07-05,how,9,How to self isolate,5
-2020-07-12,how,9,How to self isolate,4
-2020-07-19,how,9,How to self isolate,6
-2020-07-26,how,9,How to self isolate,8
-2020-08-02,how,9,How to self isolate,6
-2020-08-09,how,9,How to self isolate,5
-2020-08-16,how,9,How to self isolate,10
-2020-08-23,how,9,How to self isolate,9
-2020-08-30,how,9,How to self isolate,10
-2020-09-06,how,9,How to self isolate,14
-2020-09-13,how,9,How to self isolate,17
-2020-09-20,how,9,How to self isolate,19
-2020-09-27,how,9,How to self isolate,21
-2020-10-04,how,9,How to self isolate,25
-2020-10-11,how,9,How to self isolate,26
-2020-10-18,how,9,How to self isolate,27
-2020-10-25,how,9,How to self isolate,34
-2020-11-01,how,9,How to self isolate,21
-2020-11-08,how,9,How to self isolate,28
-2020-11-15,how,9,How to self isolate,23
-2020-11-22,how,9,How to self isolate,14
-2020-11-29,how,9,How to self isolate,17
-2020-12-06,how,9,How to self isolate,31
-2020-12-13,how,9,How to self isolate,43
-2020-12-20,how,9,How to self isolate,39
-2020-01-05,how,10,How to treat coronavirus,0
-2020-01-12,how,10,How to treat coronavirus,0
-2020-01-19,how,10,How to treat coronavirus,9
-2020-01-26,how,10,How to treat coronavirus,10
-2020-02-02,how,10,How to treat coronavirus,3
-2020-02-09,how,10,How to treat coronavirus,13
-2020-02-16,how,10,How to treat coronavirus,1
-2020-02-23,how,10,How to treat coronavirus,31
-2020-03-01,how,10,How to treat coronavirus,31
-2020-03-08,how,10,How to treat coronavirus,100
-2020-03-15,how,10,How to treat coronavirus,63
-2020-03-22,how,10,How to treat coronavirus,57
-2020-03-29,how,10,How to treat coronavirus,40
-2020-04-05,how,10,How to treat coronavirus,16
-2020-04-12,how,10,How to treat coronavirus,26
-2020-04-19,how,10,How to treat coronavirus,9
-2020-04-26,how,10,How to treat coronavirus,3
-2020-05-03,how,10,How to treat coronavirus,6
-2020-05-10,how,10,How to treat coronavirus,8
-2020-05-17,how,10,How to treat coronavirus,3
-2020-05-24,how,10,How to treat coronavirus,3
-2020-05-31,how,10,How to treat coronavirus,6
-2020-06-07,how,10,How to treat coronavirus,4
-2020-06-14,how,10,How to treat coronavirus,5
-2020-06-21,how,10,How to treat coronavirus,1
-2020-06-28,how,10,How to treat coronavirus,4
-2020-07-05,how,10,How to treat coronavirus,5
-2020-07-12,how,10,How to treat coronavirus,8
-2020-07-19,how,10,How to treat coronavirus,3
-2020-07-26,how,10,How to treat coronavirus,4
-2020-08-02,how,10,How to treat coronavirus,4
-2020-08-09,how,10,How to treat coronavirus,0
-2020-08-16,how,10,How to treat coronavirus,1
-2020-08-23,how,10,How to treat coronavirus,1
-2020-08-30,how,10,How to treat coronavirus,3
-2020-09-06,how,10,How to treat coronavirus,6
-2020-09-13,how,10,How to treat coronavirus,6
-2020-09-20,how,10,How to treat coronavirus,1
-2020-09-27,how,10,How to treat coronavirus,4
-2020-10-04,how,10,How to treat coronavirus,4
-2020-10-11,how,10,How to treat coronavirus,6
-2020-10-18,how,10,How to treat coronavirus,3
-2020-10-25,how,10,How to treat coronavirus,3
-2020-11-01,how,10,How to treat coronavirus,3
-2020-11-08,how,10,How to treat coronavirus,1
-2020-11-15,how,10,How to treat coronavirus,7
-2020-11-22,how,10,How to treat coronavirus,0
-2020-11-29,how,10,How to treat coronavirus,1
-2020-12-06,how,10,How to treat coronavirus,1
-2020-12-13,how,10,How to treat coronavirus,0
-2020-12-20,how,10,How to treat coronavirus,4
-2020-01-05,when,1,When will lockdown end?,0
-2020-01-12,when,1,When will lockdown end?,0
-2020-01-19,when,1,When will lockdown end?,0
-2020-01-26,when,1,When will lockdown end?,0
-2020-02-02,when,1,When will lockdown end?,0
-2020-02-09,when,1,When will lockdown end?,0
-2020-02-16,when,1,When will lockdown end?,0
-2020-02-23,when,1,When will lockdown end?,0
-2020-03-01,when,1,When will lockdown end?,0
-2020-03-08,when,1,When will lockdown end?,1
-2020-03-15,when,1,When will lockdown end?,2
-2020-03-22,when,1,When will lockdown end?,14
-2020-03-29,when,1,When will lockdown end?,41
-2020-04-05,when,1,When will lockdown end?,74
-2020-04-12,when,1,When will lockdown end?,92
-2020-04-19,when,1,When will lockdown end?,81
-2020-04-26,when,1,When will lockdown end?,100
-2020-05-03,when,1,When will lockdown end?,73
-2020-05-10,when,1,When will lockdown end?,21
-2020-05-17,when,1,When will lockdown end?,22
-2020-05-24,when,1,When will lockdown end?,22
-2020-05-31,when,1,When will lockdown end?,10
-2020-06-07,when,1,When will lockdown end?,13
-2020-06-14,when,1,When will lockdown end?,8
-2020-06-21,when,1,When will lockdown end?,8
-2020-06-28,when,1,When will lockdown end?,6
-2020-07-05,when,1,When will lockdown end?,5
-2020-07-12,when,1,When will lockdown end?,3
-2020-07-19,when,1,When will lockdown end?,1
-2020-07-26,when,1,When will lockdown end?,1
-2020-08-02,when,1,When will lockdown end?,1
-2020-08-09,when,1,When will lockdown end?,2
-2020-08-16,when,1,When will lockdown end?,2
-2020-08-23,when,1,When will lockdown end?,1
-2020-08-30,when,1,When will lockdown end?,1
-2020-09-06,when,1,When will lockdown end?,0.22
-2020-09-13,when,1,When will lockdown end?,1
-2020-09-20,when,1,When will lockdown end?,2
-2020-09-27,when,1,When will lockdown end?,1
-2020-10-04,when,1,When will lockdown end?,3
-2020-10-11,when,1,When will lockdown end?,1
-2020-10-18,when,1,When will lockdown end?,1
-2020-10-25,when,1,When will lockdown end?,1
-2020-11-01,when,1,When will lockdown end?,7
-2020-11-08,when,1,When will lockdown end?,7
-2020-11-15,when,1,When will lockdown end?,13
-2020-11-22,when,1,When will lockdown end?,10
-2020-11-29,when,1,When will lockdown end?,6
-2020-12-06,when,1,When will lockdown end?,2
-2020-12-13,when,1,When will lockdown end?,3
-2020-12-20,when,1,When will lockdown end?,7
-2020-01-05,when,2,When will gyms reopen?,0
-2020-01-12,when,2,When will gyms reopen?,0
-2020-01-19,when,2,When will gyms reopen?,0
-2020-01-26,when,2,When will gyms reopen?,0
-2020-02-02,when,2,When will gyms reopen?,0
-2020-02-09,when,2,When will gyms reopen?,0
-2020-02-16,when,2,When will gyms reopen?,0
-2020-02-23,when,2,When will gyms reopen?,0
-2020-03-01,when,2,When will gyms reopen?,0
-2020-03-08,when,2,When will gyms reopen?,0
-2020-03-15,when,2,When will gyms reopen?,2
-2020-03-22,when,2,When will gyms reopen?,4
-2020-03-29,when,2,When will gyms reopen?,5
-2020-04-05,when,2,When will gyms reopen?,1
-2020-04-12,when,2,When will gyms reopen?,8
-2020-04-19,when,2,When will gyms reopen?,20
-2020-04-26,when,2,When will gyms reopen?,18
-2020-05-03,when,2,When will gyms reopen?,32
-2020-05-10,when,2,When will gyms reopen?,31
-2020-05-17,when,2,When will gyms reopen?,31
-2020-05-24,when,2,When will gyms reopen?,67
-2020-05-31,when,2,When will gyms reopen?,68
-2020-06-07,when,2,When will gyms reopen?,72
-2020-06-14,when,2,When will gyms reopen?,82
-2020-06-21,when,2,When will gyms reopen?,82
-2020-06-28,when,2,When will gyms reopen?,69
-2020-07-05,when,2,When will gyms reopen?,100
-2020-07-12,when,2,When will gyms reopen?,11
-2020-07-19,when,2,When will gyms reopen?,13
-2020-07-26,when,2,When will gyms reopen?,7
-2020-08-02,when,2,When will gyms reopen?,2
-2020-08-09,when,2,When will gyms reopen?,1
-2020-08-16,when,2,When will gyms reopen?,2
-2020-08-23,when,2,When will gyms reopen?,1
-2020-08-30,when,2,When will gyms reopen?,3
-2020-09-06,when,2,When will gyms reopen?,2
-2020-09-13,when,2,When will gyms reopen?,1
-2020-09-20,when,2,When will gyms reopen?,1
-2020-09-27,when,2,When will gyms reopen?,0
-2020-10-04,when,2,When will gyms reopen?,1
-2020-10-11,when,2,When will gyms reopen?,2
-2020-10-18,when,2,When will gyms reopen?,2
-2020-10-25,when,2,When will gyms reopen?,0
-2020-11-01,when,2,When will gyms reopen?,0
-2020-11-08,when,2,When will gyms reopen?,2
-2020-11-15,when,2,When will gyms reopen?,4
-2020-11-22,when,2,When will gyms reopen?,4
-2020-11-29,when,2,When will gyms reopen?,2
-2020-12-06,when,2,When will gyms reopen?,0
-2020-12-13,when,2,When will gyms reopen?,1
-2020-12-20,when,2,When will gyms reopen?,2
-2020-01-05,when,3,When does lockdown start?,0
-2020-01-12,when,3,When does lockdown start?,0
-2020-01-19,when,3,When does lockdown start?,0
-2020-01-26,when,3,When does lockdown start?,0
-2020-02-02,when,3,When does lockdown start?,0
-2020-02-09,when,3,When does lockdown start?,0
-2020-02-16,when,3,When does lockdown start?,0
-2020-02-23,when,3,When does lockdown start?,0
-2020-03-01,when,3,When does lockdown start?,0
-2020-03-08,when,3,When does lockdown start?,0.31
-2020-03-15,when,3,When does lockdown start?,1
-2020-03-22,when,3,When does lockdown start?,7
-2020-03-29,when,3,When does lockdown start?,1
-2020-04-05,when,3,When does lockdown start?,1
-2020-04-12,when,3,When does lockdown start?,1
-2020-04-19,when,3,When does lockdown start?,1
-2020-04-26,when,3,When does lockdown start?,1
-2020-05-03,when,3,When does lockdown start?,1
-2020-05-10,when,3,When does lockdown start?,0.52
-2020-05-17,when,3,When does lockdown start?,0.57
-2020-05-24,when,3,When does lockdown start?,1
-2020-05-31,when,3,When does lockdown start?,0.30
-2020-06-07,when,3,When does lockdown start?,0.53
-2020-06-14,when,3,When does lockdown start?,0.22
-2020-06-21,when,3,When does lockdown start?,0
-2020-06-28,when,3,When does lockdown start?,0.37
-2020-07-05,when,3,When does lockdown start?,1
-2020-07-12,when,3,When does lockdown start?,0.42
-2020-07-19,when,3,When does lockdown start?,0.44
-2020-07-26,when,3,When does lockdown start?,0
-2020-08-02,when,3,When does lockdown start?,0.46
-2020-08-09,when,3,When does lockdown start?,0
-2020-08-16,when,3,When does lockdown start?,0.52
-2020-08-23,when,3,When does lockdown start?,0.55
-2020-08-30,when,3,When does lockdown start?,0
-2020-09-06,when,3,When does lockdown start?,0.30
-2020-09-13,when,3,When does lockdown start?,3
-2020-09-20,when,3,When does lockdown start?,1
-2020-09-27,when,3,When does lockdown start?,2
-2020-10-04,when,3,When does lockdown start?,0.40
-2020-10-11,when,3,When does lockdown start?,4
-2020-10-18,when,3,When does lockdown start?,2
-2020-10-25,when,3,When does lockdown start?,12
-2020-11-01,when,3,When does lockdown start?,100
-2020-11-08,when,3,When does lockdown start?,1
-2020-11-15,when,3,When does lockdown start?,2
-2020-11-22,when,3,When does lockdown start?,2
-2020-11-29,when,3,When does lockdown start?,2
-2020-12-06,when,3,When does lockdown start?,1
-2020-12-13,when,3,When does lockdown start?,9
-2020-12-20,when,3,When does lockdown start?,7
-2020-01-05,when,4,When will schools reopen?,0
-2020-01-12,when,4,When will schools reopen?,0
-2020-01-19,when,4,When will schools reopen?,0
-2020-01-26,when,4,When will schools reopen?,0
-2020-02-02,when,4,When will schools reopen?,0
-2020-02-09,when,4,When will schools reopen?,0
-2020-02-16,when,4,When will schools reopen?,0
-2020-02-23,when,4,When will schools reopen?,0
-2020-03-01,when,4,When will schools reopen?,1
-2020-03-08,when,4,When will schools reopen?,1
-2020-03-15,when,4,When will schools reopen?,27
-2020-03-22,when,4,When will schools reopen?,23
-2020-03-29,when,4,When will schools reopen?,33
-2020-04-05,when,4,When will schools reopen?,31
-2020-04-12,when,4,When will schools reopen?,88
-2020-04-19,when,4,When will schools reopen?,83
-2020-04-26,when,4,When will schools reopen?,80
-2020-05-03,when,4,When will schools reopen?,100
-2020-05-10,when,4,When will schools reopen?,58
-2020-05-17,when,4,When will schools reopen?,35
-2020-05-24,when,4,When will schools reopen?,37
-2020-05-31,when,4,When will schools reopen?,17
-2020-06-07,when,4,When will schools reopen?,21
-2020-06-14,when,4,When will schools reopen?,11
-2020-06-21,when,4,When will schools reopen?,11
-2020-06-28,when,4,When will schools reopen?,5
-2020-07-05,when,4,When will schools reopen?,2
-2020-07-12,when,4,When will schools reopen?,4
-2020-07-19,when,4,When will schools reopen?,2
-2020-07-26,when,4,When will schools reopen?,4
-2020-08-02,when,4,When will schools reopen?,2
-2020-08-09,when,4,When will schools reopen?,3
-2020-08-16,when,4,When will schools reopen?,6
-2020-08-23,when,4,When will schools reopen?,4
-2020-08-30,when,4,When will schools reopen?,3
-2020-09-06,when,4,When will schools reopen?,0
-2020-09-13,when,4,When will schools reopen?,0
-2020-09-20,when,4,When will schools reopen?,0
-2020-09-27,when,4,When will schools reopen?,0
-2020-10-04,when,4,When will schools reopen?,0
-2020-10-11,when,4,When will schools reopen?,0
-2020-10-18,when,4,When will schools reopen?,1
-2020-10-25,when,4,When will schools reopen?,1
-2020-11-01,when,4,When will schools reopen?,0
-2020-11-08,when,4,When will schools reopen?,0
-2020-11-15,when,4,When will schools reopen?,0
-2020-11-22,when,4,When will schools reopen?,1
-2020-11-29,when,4,When will schools reopen?,0
-2020-12-06,when,4,When will schools reopen?,0
-2020-12-13,when,4,When will schools reopen?,1
-2020-12-20,when,4,When will schools reopen?,4
-2020-01-05,when,5,When does furlough end?,0
-2020-01-12,when,5,When does furlough end?,0
-2020-01-19,when,5,When does furlough end?,0
-2020-01-26,when,5,When does furlough end?,0
-2020-02-02,when,5,When does furlough end?,0
-2020-02-09,when,5,When does furlough end?,0
-2020-02-16,when,5,When does furlough end?,0
-2020-02-23,when,5,When does furlough end?,0
-2020-03-01,when,5,When does furlough end?,0
-2020-03-08,when,5,When does furlough end?,0
-2020-03-15,when,5,When does furlough end?,0
-2020-03-22,when,5,When does furlough end?,1
-2020-03-29,when,5,When does furlough end?,6
-2020-04-05,when,5,When does furlough end?,4
-2020-04-12,when,5,When does furlough end?,18
-2020-04-19,when,5,When does furlough end?,12
-2020-04-26,when,5,When does furlough end?,36
-2020-05-03,when,5,When does furlough end?,59
-2020-05-10,when,5,When does furlough end?,100
-2020-05-17,when,5,When does furlough end?,25
-2020-05-24,when,5,When does furlough end?,34
-2020-05-31,when,5,When does furlough end?,19
-2020-06-07,when,5,When does furlough end?,31
-2020-06-14,when,5,When does furlough end?,30
-2020-06-21,when,5,When does furlough end?,51
-2020-06-28,when,5,When does furlough end?,57
-2020-07-05,when,5,When does furlough end?,60
-2020-07-12,when,5,When does furlough end?,57
-2020-07-19,when,5,When does furlough end?,63
-2020-07-26,when,5,When does furlough end?,66
-2020-08-02,when,5,When does furlough end?,45
-2020-08-09,when,5,When does furlough end?,49
-2020-08-16,when,5,When does furlough end?,38
-2020-08-23,when,5,When does furlough end?,82
-2020-08-30,when,5,When does furlough end?,59
-2020-09-06,when,5,When does furlough end?,73
-2020-09-13,when,5,When does furlough end?,99
-2020-09-20,when,5,When does furlough end?,90
-2020-09-27,when,5,When does furlough end?,46
-2020-10-04,when,5,When does furlough end?,40
-2020-10-11,when,5,When does furlough end?,25
-2020-10-18,when,5,When does furlough end?,26
-2020-10-25,when,5,When does furlough end?,32
-2020-11-01,when,5,When does furlough end?,12
-2020-11-08,when,5,When does furlough end?,3
-2020-11-15,when,5,When does furlough end?,8
-2020-11-22,when,5,When does furlough end?,15
-2020-11-29,when,5,When does furlough end?,12
-2020-12-06,when,5,When does furlough end?,6
-2020-12-13,when,5,When does furlough end?,13
-2020-12-20,when,5,When does furlough end?,8
-2020-01-05,when,6,When will pubs reopen?,0
-2020-01-12,when,6,When will pubs reopen?,0
-2020-01-19,when,6,When will pubs reopen?,0
-2020-01-26,when,6,When will pubs reopen?,0
-2020-02-02,when,6,When will pubs reopen?,0
-2020-02-09,when,6,When will pubs reopen?,0
-2020-02-16,when,6,When will pubs reopen?,0
-2020-02-23,when,6,When will pubs reopen?,0
-2020-03-01,when,6,When will pubs reopen?,0
-2020-03-08,when,6,When will pubs reopen?,0
-2020-03-15,when,6,When will pubs reopen?,4
-2020-03-22,when,6,When will pubs reopen?,7
-2020-03-29,when,6,When will pubs reopen?,18
-2020-04-05,when,6,When will pubs reopen?,16
-2020-04-12,when,6,When will pubs reopen?,26
-2020-04-19,when,6,When will pubs reopen?,77
-2020-04-26,when,6,When will pubs reopen?,46
-2020-05-03,when,6,When will pubs reopen?,49
-2020-05-10,when,6,When will pubs reopen?,34
-2020-05-17,when,6,When will pubs reopen?,45
-2020-05-24,when,6,When will pubs reopen?,87
-2020-05-31,when,6,When will pubs reopen?,78
-2020-06-07,when,6,When will pubs reopen?,100
-2020-06-14,when,6,When will pubs reopen?,84
-2020-06-21,when,6,When will pubs reopen?,46
-2020-06-28,when,6,When will pubs reopen?,13
-2020-07-05,when,6,When will pubs reopen?,7
-2020-07-12,when,6,When will pubs reopen?,3
-2020-07-19,when,6,When will pubs reopen?,1
-2020-07-26,when,6,When will pubs reopen?,0
-2020-08-02,when,6,When will pubs reopen?,1
-2020-08-09,when,6,When will pubs reopen?,0
-2020-08-16,when,6,When will pubs reopen?,1
-2020-08-23,when,6,When will pubs reopen?,1
-2020-08-30,when,6,When will pubs reopen?,0
-2020-09-06,when,6,When will pubs reopen?,1
-2020-09-13,when,6,When will pubs reopen?,1
-2020-09-20,when,6,When will pubs reopen?,0
-2020-09-27,when,6,When will pubs reopen?,0
-2020-10-04,when,6,When will pubs reopen?,0
-2020-10-11,when,6,When will pubs reopen?,0
-2020-10-18,when,6,When will pubs reopen?,1
-2020-10-25,when,6,When will pubs reopen?,0
-2020-11-01,when,6,When will pubs reopen?,2
-2020-11-08,when,6,When will pubs reopen?,5
-2020-11-15,when,6,When will pubs reopen?,14
-2020-11-22,when,6,When will pubs reopen?,6
-2020-11-29,when,6,When will pubs reopen?,9
-2020-12-06,when,6,When will pubs reopen?,5
-2020-12-13,when,6,When will pubs reopen?,2
-2020-12-20,when,6,When will pubs reopen?,3
-2020-01-05,when,7,When does Eat Out to Help Out end?,0
-2020-01-12,when,7,When does Eat Out to Help Out end?,0
-2020-01-19,when,7,When does Eat Out to Help Out end?,0
-2020-01-26,when,7,When does Eat Out to Help Out end?,0
-2020-02-02,when,7,When does Eat Out to Help Out end?,0
-2020-02-09,when,7,When does Eat Out to Help Out end?,0
-2020-02-16,when,7,When does Eat Out to Help Out end?,0
-2020-02-23,when,7,When does Eat Out to Help Out end?,0
-2020-03-01,when,7,When does Eat Out to Help Out end?,0
-2020-03-08,when,7,When does Eat Out to Help Out end?,0
-2020-03-15,when,7,When does Eat Out to Help Out end?,0
-2020-03-22,when,7,When does Eat Out to Help Out end?,0
-2020-03-29,when,7,When does Eat Out to Help Out end?,0
-2020-04-05,when,7,When does Eat Out to Help Out end?,0
-2020-04-12,when,7,When does Eat Out to Help Out end?,0
-2020-04-19,when,7,When does Eat Out to Help Out end?,0
-2020-04-26,when,7,When does Eat Out to Help Out end?,0
-2020-05-03,when,7,When does Eat Out to Help Out end?,0
-2020-05-10,when,7,When does Eat Out to Help Out end?,0
-2020-05-17,when,7,When does Eat Out to Help Out end?,0
-2020-05-24,when,7,When does Eat Out to Help Out end?,0
-2020-05-31,when,7,When does Eat Out to Help Out end?,0
-2020-06-07,when,7,When does Eat Out to Help Out end?,0
-2020-06-14,when,7,When does Eat Out to Help Out end?,0
-2020-06-21,when,7,When does Eat Out to Help Out end?,0
-2020-06-28,when,7,When does Eat Out to Help Out end?,0
-2020-07-05,when,7,When does Eat Out to Help Out end?,0
-2020-07-12,when,7,When does Eat Out to Help Out end?,0
-2020-07-19,when,7,When does Eat Out to Help Out end?,0
-2020-07-26,when,7,When does Eat Out to Help Out end?,0
-2020-08-02,when,7,When does Eat Out to Help Out end?,2
-2020-08-09,when,7,When does Eat Out to Help Out end?,8
-2020-08-16,when,7,When does Eat Out to Help Out end?,22
-2020-08-23,when,7,When does Eat Out to Help Out end?,100
-2020-08-30,when,7,When does Eat Out to Help Out end?,30
-2020-09-06,when,7,When does Eat Out to Help Out end?,2
-2020-09-13,when,7,When does Eat Out to Help Out end?,1
-2020-09-20,when,7,When does Eat Out to Help Out end?,1
-2020-09-27,when,7,When does Eat Out to Help Out end?,0
-2020-10-04,when,7,When does Eat Out to Help Out end?,0
-2020-10-11,when,7,When does Eat Out to Help Out end?,0
-2020-10-18,when,7,When does Eat Out to Help Out end?,0
-2020-10-25,when,7,When does Eat Out to Help Out end?,1
-2020-11-01,when,7,When does Eat Out to Help Out end?,0
-2020-11-08,when,7,When does Eat Out to Help Out end?,0
-2020-11-15,when,7,When does Eat Out to Help Out end?,0
-2020-11-22,when,7,When does Eat Out to Help Out end?,0
-2020-11-29,when,7,When does Eat Out to Help Out end?,0
-2020-12-06,when,7,When does Eat Out to Help Out end?,0
-2020-12-13,when,7,When does Eat Out to Help Out end?,0
-2020-12-20,when,7,When does Eat Out to Help Out end?,0
-2020-01-05,when,8,When will the new president be announced?,0
-2020-01-12,when,8,When will the new president be announced?,0
-2020-01-19,when,8,When will the new president be announced?,0
-2020-01-26,when,8,When will the new president be announced?,0
-2020-02-02,when,8,When will the new president be announced?,0
-2020-02-09,when,8,When will the new president be announced?,0
-2020-02-16,when,8,When will the new president be announced?,0
-2020-02-23,when,8,When will the new president be announced?,0
-2020-03-01,when,8,When will the new president be announced?,0
-2020-03-08,when,8,When will the new president be announced?,0
-2020-03-15,when,8,When will the new president be announced?,0
-2020-03-22,when,8,When will the new president be announced?,0
-2020-03-29,when,8,When will the new president be announced?,0
-2020-04-05,when,8,When will the new president be announced?,0
-2020-04-12,when,8,When will the new president be announced?,0
-2020-04-19,when,8,When will the new president be announced?,0
-2020-04-26,when,8,When will the new president be announced?,0
-2020-05-03,when,8,When will the new president be announced?,0
-2020-05-10,when,8,When will the new president be announced?,0
-2020-05-17,when,8,When will the new president be announced?,0
-2020-05-24,when,8,When will the new president be announced?,0
-2020-05-31,when,8,When will the new president be announced?,0
-2020-06-07,when,8,When will the new president be announced?,0
-2020-06-14,when,8,When will the new president be announced?,0
-2020-06-21,when,8,When will the new president be announced?,0
-2020-06-28,when,8,When will the new president be announced?,0
-2020-07-05,when,8,When will the new president be announced?,0
-2020-07-12,when,8,When will the new president be announced?,0
-2020-07-19,when,8,When will the new president be announced?,0
-2020-07-26,when,8,When will the new president be announced?,0
-2020-08-02,when,8,When will the new president be announced?,1
-2020-08-09,when,8,When will the new president be announced?,0
-2020-08-16,when,8,When will the new president be announced?,0
-2020-08-23,when,8,When will the new president be announced?,0
-2020-08-30,when,8,When will the new president be announced?,0
-2020-09-06,when,8,When will the new president be announced?,0
-2020-09-13,when,8,When will the new president be announced?,0
-2020-09-20,when,8,When will the new president be announced?,0
-2020-09-27,when,8,When will the new president be announced?,0
-2020-10-04,when,8,When will the new president be announced?,0
-2020-10-11,when,8,When will the new president be announced?,0
-2020-10-18,when,8,When will the new president be announced?,1
-2020-10-25,when,8,When will the new president be announced?,6
-2020-11-01,when,8,When will the new president be announced?,100
-2020-11-08,when,8,When will the new president be announced?,1
-2020-11-15,when,8,When will the new president be announced?,0
-2020-11-22,when,8,When will the new president be announced?,0
-2020-11-29,when,8,When will the new president be announced?,0
-2020-12-06,when,8,When will the new president be announced?,0
-2020-12-13,when,8,When will the new president be announced?,0
-2020-12-20,when,8,When will the new president be announced?,0
-2020-01-05,when,9,When does Love Island start?,100
-2020-01-12,when,9,When does Love Island start?,30
-2020-01-19,when,9,When does Love Island start?,1
-2020-01-26,when,9,When does Love Island start?,2
-2020-02-02,when,9,When does Love Island start?,2
-2020-02-09,when,9,When does Love Island start?,4
-2020-02-16,when,9,When does Love Island start?,4
-2020-02-23,when,9,When does Love Island start?,4
-2020-03-01,when,9,When does Love Island start?,1
-2020-03-08,when,9,When does Love Island start?,1
-2020-03-15,when,9,When does Love Island start?,1
-2020-03-22,when,9,When does Love Island start?,1
-2020-03-29,when,9,When does Love Island start?,0
-2020-04-05,when,9,When does Love Island start?,2
-2020-04-12,when,9,When does Love Island start?,0
-2020-04-19,when,9,When does Love Island start?,0.29
-2020-04-26,when,9,When does Love Island start?,0.20
-2020-05-03,when,9,When does Love Island start?,0.55
-2020-05-10,when,9,When does Love Island start?,0
-2020-05-17,when,9,When does Love Island start?,0
-2020-05-24,when,9,When does Love Island start?,0
-2020-05-31,when,9,When does Love Island start?,2
-2020-06-07,when,9,When does Love Island start?,7
-2020-06-14,when,9,When does Love Island start?,5
-2020-06-21,when,9,When does Love Island start?,1
-2020-06-28,when,9,When does Love Island start?,0
-2020-07-05,when,9,When does Love Island start?,1
-2020-07-12,when,9,When does Love Island start?,1
-2020-07-19,when,9,When does Love Island start?,1
-2020-07-26,when,9,When does Love Island start?,0
-2020-08-02,when,9,When does Love Island start?,0
-2020-08-09,when,9,When does Love Island start?,0
-2020-08-16,when,9,When does Love Island start?,0
-2020-08-23,when,9,When does Love Island start?,3
-2020-08-30,when,9,When does Love Island start?,3
-2020-09-06,when,9,When does Love Island start?,2
-2020-09-13,when,9,When does Love Island start?,0
-2020-09-20,when,9,When does Love Island start?,1
-2020-09-27,when,9,When does Love Island start?,1
-2020-10-04,when,9,When does Love Island start?,1
-2020-10-11,when,9,When does Love Island start?,0
-2020-10-18,when,9,When does Love Island start?,0
-2020-10-25,when,9,When does Love Island start?,0
-2020-11-01,when,9,When does Love Island start?,1
-2020-11-08,when,9,When does Love Island start?,0
-2020-11-15,when,9,When does Love Island start?,0
-2020-11-22,when,9,When does Love Island start?,0
-2020-11-29,when,9,When does Love Island start?,1
-2020-12-06,when,9,When does Love Island start?,0
-2020-12-13,when,9,When does Love Island start?,0
-2020-12-20,when,9,When does Love Island start?,0
-2020-01-05,when,10,When will hairdressers open?,0
-2020-01-12,when,10,When will hairdressers open?,0
-2020-01-19,when,10,When will hairdressers open?,0
-2020-01-26,when,10,When will hairdressers open?,0
-2020-02-02,when,10,When will hairdressers open?,0
-2020-02-09,when,10,When will hairdressers open?,0
-2020-02-16,when,10,When will hairdressers open?,0
-2020-02-23,when,10,When will hairdressers open?,0
-2020-03-01,when,10,When will hairdressers open?,0
-2020-03-08,when,10,When will hairdressers open?,1
-2020-03-15,when,10,When will hairdressers open?,1
-2020-03-22,when,10,When will hairdressers open?,1
-2020-03-29,when,10,When will hairdressers open?,7
-2020-04-05,when,10,When will hairdressers open?,2
-2020-04-12,when,10,When will hairdressers open?,7
-2020-04-19,when,10,When will hairdressers open?,21
-2020-04-26,when,10,When will hairdressers open?,19
-2020-05-03,when,10,When will hairdressers open?,86
-2020-05-10,when,10,When will hairdressers open?,93
-2020-05-17,when,10,When will hairdressers open?,62
-2020-05-24,when,10,When will hairdressers open?,60
-2020-05-31,when,10,When will hairdressers open?,100
-2020-06-07,when,10,When will hairdressers open?,92
-2020-06-14,when,10,When will hairdressers open?,85
-2020-06-21,when,10,When will hairdressers open?,43
-2020-06-28,when,10,When will hairdressers open?,20
-2020-07-05,when,10,When will hairdressers open?,9
-2020-07-12,when,10,When will hairdressers open?,4
-2020-07-19,when,10,When will hairdressers open?,1
-2020-07-26,when,10,When will hairdressers open?,0
-2020-08-02,when,10,When will hairdressers open?,0
-2020-08-09,when,10,When will hairdressers open?,0
-2020-08-16,when,10,When will hairdressers open?,0
-2020-08-23,when,10,When will hairdressers open?,0
-2020-08-30,when,10,When will hairdressers open?,1
-2020-09-06,when,10,When will hairdressers open?,0
-2020-09-13,when,10,When will hairdressers open?,1
-2020-09-20,when,10,When will hairdressers open?,0
-2020-09-27,when,10,When will hairdressers open?,0
-2020-10-04,when,10,When will hairdressers open?,0
-2020-10-11,when,10,When will hairdressers open?,3
-2020-10-18,when,10,When will hairdressers open?,1
-2020-10-25,when,10,When will hairdressers open?,0
-2020-11-01,when,10,When will hairdressers open?,3
-2020-11-08,when,10,When will hairdressers open?,4
-2020-11-15,when,10,When will hairdressers open?,4
-2020-11-22,when,10,When will hairdressers open?,4
-2020-11-29,when,10,When will hairdressers open?,1
-2020-12-06,when,10,When will hairdressers open?,0
-2020-12-13,when,10,When will hairdressers open?,0
-2020-12-20,when,10,When will hairdressers open?,4
-2020-01-05,what,1,What is VE day?,1
-2020-01-12,what,1,What is VE day?,0.59
-2020-01-19,what,1,What is VE day?,0.43
-2020-01-26,what,1,What is VE day?,0.51
-2020-02-02,what,1,What is VE day?,0.10
-2020-02-09,what,1,What is VE day?,0.47
-2020-02-16,what,1,What is VE day?,0.31
-2020-02-23,what,1,What is VE day?,1
-2020-03-01,what,1,What is VE day?,0.49
-2020-03-08,what,1,What is VE day?,0.39
-2020-03-15,what,1,What is VE day?,0.25
-2020-03-22,what,1,What is VE day?,0.54
-2020-03-29,what,1,What is VE day?,0.29
-2020-04-05,what,1,What is VE day?,0.46
-2020-04-12,what,1,What is VE day?,1
-2020-04-19,what,1,What is VE day?,1
-2020-04-26,what,1,What is VE day?,9
-2020-05-03,what,1,What is VE day?,100
-2020-05-10,what,1,What is VE day?,5
-2020-05-17,what,1,What is VE day?,1
-2020-05-24,what,1,What is VE day?,1
-2020-05-31,what,1,What is VE day?,1
-2020-06-07,what,1,What is VE day?,0.59
-2020-06-14,what,1,What is VE day?,0.33
-2020-06-21,what,1,What is VE day?,0.51
-2020-06-28,what,1,What is VE day?,0.59
-2020-07-05,what,1,What is VE day?,0.53
-2020-07-12,what,1,What is VE day?,0.38
-2020-07-19,what,1,What is VE day?,0
-2020-07-26,what,1,What is VE day?,0
-2020-08-02,what,1,What is VE day?,0.23
-2020-08-09,what,1,What is VE day?,1
-2020-08-16,what,1,What is VE day?,0
-2020-08-23,what,1,What is VE day?,0.50
-2020-08-30,what,1,What is VE day?,0
-2020-09-06,what,1,What is VE day?,0
-2020-09-13,what,1,What is VE day?,0.19
-2020-09-20,what,1,What is VE day?,0.26
-2020-09-27,what,1,What is VE day?,0
-2020-10-04,what,1,What is VE day?,0
-2020-10-11,what,1,What is VE day?,0
-2020-10-18,what,1,What is VE day?,0.57
-2020-10-25,what,1,What is VE day?,0
-2020-11-01,what,1,What is VE day?,0
-2020-11-08,what,1,What is VE day?,0.51
-2020-11-15,what,1,What is VE day?,0
-2020-11-22,what,1,What is VE day?,0.22
-2020-11-29,what,1,What is VE day?,0
-2020-12-06,what,1,What is VE day?,0
-2020-12-13,what,1,What is VE day?,0
-2020-12-20,what,1,What is VE day?,0
-2020-01-05,what,2,What time is Boris Johnson's speech today?,0
-2020-01-12,what,2,What time is Boris Johnson's speech today?,0
-2020-01-19,what,2,What time is Boris Johnson's speech today?,0
-2020-01-26,what,2,What time is Boris Johnson's speech today?,0
-2020-02-02,what,2,What time is Boris Johnson's speech today?,0
-2020-02-09,what,2,What time is Boris Johnson's speech today?,0
-2020-02-16,what,2,What time is Boris Johnson's speech today?,0
-2020-02-23,what,2,What time is Boris Johnson's speech today?,0
-2020-03-01,what,2,What time is Boris Johnson's speech today?,0
-2020-03-08,what,2,What time is Boris Johnson's speech today?,0
-2020-03-15,what,2,What time is Boris Johnson's speech today?,100
-2020-03-22,what,2,What time is Boris Johnson's speech today?,97
-2020-03-29,what,2,What time is Boris Johnson's speech today?,0
-2020-04-05,what,2,What time is Boris Johnson's speech today?,0
-2020-04-12,what,2,What time is Boris Johnson's speech today?,0
-2020-04-19,what,2,What time is Boris Johnson's speech today?,0
-2020-04-26,what,2,What time is Boris Johnson's speech today?,47
-2020-05-03,what,2,What time is Boris Johnson's speech today?,0
-2020-05-10,what,2,What time is Boris Johnson's speech today?,47
-2020-05-17,what,2,What time is Boris Johnson's speech today?,48
-2020-05-24,what,2,What time is Boris Johnson's speech today?,0
-2020-05-31,what,2,What time is Boris Johnson's speech today?,0
-2020-06-07,what,2,What time is Boris Johnson's speech today?,0
-2020-06-14,what,2,What time is Boris Johnson's speech today?,0
-2020-06-21,what,2,What time is Boris Johnson's speech today?,0
-2020-06-28,what,2,What time is Boris Johnson's speech today?,0
-2020-07-05,what,2,What time is Boris Johnson's speech today?,0
-2020-07-12,what,2,What time is Boris Johnson's speech today?,0
-2020-07-19,what,2,What time is Boris Johnson's speech today?,0
-2020-07-26,what,2,What time is Boris Johnson's speech today?,0
-2020-08-02,what,2,What time is Boris Johnson's speech today?,0
-2020-08-09,what,2,What time is Boris Johnson's speech today?,0
-2020-08-16,what,2,What time is Boris Johnson's speech today?,0
-2020-08-23,what,2,What time is Boris Johnson's speech today?,0
-2020-08-30,what,2,What time is Boris Johnson's speech today?,0
-2020-09-06,what,2,What time is Boris Johnson's speech today?,0
-2020-09-13,what,2,What time is Boris Johnson's speech today?,0
-2020-09-20,what,2,What time is Boris Johnson's speech today?,52
-2020-09-27,what,2,What time is Boris Johnson's speech today?,0
-2020-10-04,what,2,What time is Boris Johnson's speech today?,0
-2020-10-11,what,2,What time is Boris Johnson's speech today?,0
-2020-10-18,what,2,What time is Boris Johnson's speech today?,56
-2020-10-25,what,2,What time is Boris Johnson's speech today?,54
-2020-11-01,what,2,What time is Boris Johnson's speech today?,0
-2020-11-08,what,2,What time is Boris Johnson's speech today?,0
-2020-11-15,what,2,What time is Boris Johnson's speech today?,0
-2020-11-22,what,2,What time is Boris Johnson's speech today?,52
-2020-11-29,what,2,What time is Boris Johnson's speech today?,0
-2020-12-06,what,2,What time is Boris Johnson's speech today?,0
-2020-12-13,what,2,What time is Boris Johnson's speech today?,0
-2020-12-20,what,2,What time is Boris Johnson's speech today?,0
-2020-01-05,what,3,What are the symptoms of coronavirus?,0
-2020-01-12,what,3,What are the symptoms of coronavirus?,0
-2020-01-19,what,3,What are the symptoms of coronavirus?,7
-2020-01-26,what,3,What are the symptoms of coronavirus?,40
-2020-02-02,what,3,What are the symptoms of coronavirus?,23
-2020-02-09,what,3,What are the symptoms of coronavirus?,36
-2020-02-16,what,3,What are the symptoms of coronavirus?,11
-2020-02-23,what,3,What are the symptoms of coronavirus?,44
-2020-03-01,what,3,What are the symptoms of coronavirus?,71
-2020-03-08,what,3,What are the symptoms of coronavirus?,100
-2020-03-15,what,3,What are the symptoms of coronavirus?,86
-2020-03-22,what,3,What are the symptoms of coronavirus?,80
-2020-03-29,what,3,What are the symptoms of coronavirus?,46
-2020-04-05,what,3,What are the symptoms of coronavirus?,20
-2020-04-12,what,3,What are the symptoms of coronavirus?,17
-2020-04-19,what,3,What are the symptoms of coronavirus?,15
-2020-04-26,what,3,What are the symptoms of coronavirus?,14
-2020-05-03,what,3,What are the symptoms of coronavirus?,9
-2020-05-10,what,3,What are the symptoms of coronavirus?,8
-2020-05-17,what,3,What are the symptoms of coronavirus?,7
-2020-05-24,what,3,What are the symptoms of coronavirus?,7
-2020-05-31,what,3,What are the symptoms of coronavirus?,3
-2020-06-07,what,3,What are the symptoms of coronavirus?,4
-2020-06-14,what,3,What are the symptoms of coronavirus?,1
-2020-06-21,what,3,What are the symptoms of coronavirus?,5
-2020-06-28,what,3,What are the symptoms of coronavirus?,8
-2020-07-05,what,3,What are the symptoms of coronavirus?,9
-2020-07-12,what,3,What are the symptoms of coronavirus?,5
-2020-07-19,what,3,What are the symptoms of coronavirus?,2
-2020-07-26,what,3,What are the symptoms of coronavirus?,4
-2020-08-02,what,3,What are the symptoms of coronavirus?,4
-2020-08-09,what,3,What are the symptoms of coronavirus?,1
-2020-08-16,what,3,What are the symptoms of coronavirus?,5
-2020-08-23,what,3,What are the symptoms of coronavirus?,1
-2020-08-30,what,3,What are the symptoms of coronavirus?,5
-2020-09-06,what,3,What are the symptoms of coronavirus?,8
-2020-09-13,what,3,What are the symptoms of coronavirus?,7
-2020-09-20,what,3,What are the symptoms of coronavirus?,6
-2020-09-27,what,3,What are the symptoms of coronavirus?,3
-2020-10-04,what,3,What are the symptoms of coronavirus?,3
-2020-10-11,what,3,What are the symptoms of coronavirus?,6
-2020-10-18,what,3,What are the symptoms of coronavirus?,2
-2020-10-25,what,3,What are the symptoms of coronavirus?,3
-2020-11-01,what,3,What are the symptoms of coronavirus?,2
-2020-11-08,what,3,What are the symptoms of coronavirus?,5
-2020-11-15,what,3,What are the symptoms of coronavirus?,1
-2020-11-22,what,3,What are the symptoms of coronavirus?,1
-2020-11-29,what,3,What are the symptoms of coronavirus?,3
-2020-12-06,what,3,What are the symptoms of coronavirus?,3
-2020-12-13,what,3,What are the symptoms of coronavirus?,3
-2020-12-20,what,3,What are the symptoms of coronavirus?,4
-2020-01-05,what,4,What time is Fury vs Wilder?,0.41
-2020-01-12,what,4,What time is Fury vs Wilder?,0.37
-2020-01-19,what,4,What time is Fury vs Wilder?,0.53
-2020-01-26,what,4,What time is Fury vs Wilder?,0
-2020-02-02,what,4,What time is Fury vs Wilder?,0.34
-2020-02-09,what,4,What time is Fury vs Wilder?,4
-2020-02-16,what,4,What time is Fury vs Wilder?,100
-2020-02-23,what,4,What time is Fury vs Wilder?,31
-2020-03-01,what,4,What time is Fury vs Wilder?,0.49
-2020-03-08,what,4,What time is Fury vs Wilder?,0.24
-2020-03-15,what,4,What time is Fury vs Wilder?,0
-2020-03-22,what,4,What time is Fury vs Wilder?,0
-2020-03-29,what,4,What time is Fury vs Wilder?,0
-2020-04-05,what,4,What time is Fury vs Wilder?,0
-2020-04-12,what,4,What time is Fury vs Wilder?,0
-2020-04-19,what,4,What time is Fury vs Wilder?,0
-2020-04-26,what,4,What time is Fury vs Wilder?,0.16
-2020-05-03,what,4,What time is Fury vs Wilder?,0
-2020-05-10,what,4,What time is Fury vs Wilder?,0
-2020-05-17,what,4,What time is Fury vs Wilder?,0
-2020-05-24,what,4,What time is Fury vs Wilder?,0
-2020-05-31,what,4,What time is Fury vs Wilder?,0
-2020-06-07,what,4,What time is Fury vs Wilder?,0
-2020-06-14,what,4,What time is Fury vs Wilder?,0
-2020-06-21,what,4,What time is Fury vs Wilder?,0
-2020-06-28,what,4,What time is Fury vs Wilder?,0
-2020-07-05,what,4,What time is Fury vs Wilder?,0
-2020-07-12,what,4,What time is Fury vs Wilder?,0
-2020-07-19,what,4,What time is Fury vs Wilder?,0
-2020-07-26,what,4,What time is Fury vs Wilder?,0
-2020-08-02,what,4,What time is Fury vs Wilder?,0.36
-2020-08-09,what,4,What time is Fury vs Wilder?,0
-2020-08-16,what,4,What time is Fury vs Wilder?,0
-2020-08-23,what,4,What time is Fury vs Wilder?,0
-2020-08-30,what,4,What time is Fury vs Wilder?,0
-2020-09-06,what,4,What time is Fury vs Wilder?,0
-2020-09-13,what,4,What time is Fury vs Wilder?,0
-2020-09-20,what,4,What time is Fury vs Wilder?,0
-2020-09-27,what,4,What time is Fury vs Wilder?,0
-2020-10-04,what,4,What time is Fury vs Wilder?,0
-2020-10-11,what,4,What time is Fury vs Wilder?,0
-2020-10-18,what,4,What time is Fury vs Wilder?,0
-2020-10-25,what,4,What time is Fury vs Wilder?,0
-2020-11-01,what,4,What time is Fury vs Wilder?,0
-2020-11-08,what,4,What time is Fury vs Wilder?,0
-2020-11-15,what,4,What time is Fury vs Wilder?,0
-2020-11-22,what,4,What time is Fury vs Wilder?,0
-2020-11-29,what,4,What time is Fury vs Wilder?,0
-2020-12-06,what,4,What time is Fury vs Wilder?,0
-2020-12-13,what,4,What time is Fury vs Wilder?,0
-2020-12-20,what,4,What time is Fury vs Wilder?,0
-2020-01-05,what,5,What is coronavirus?,0
-2020-01-12,what,5,What is coronavirus?,0.34
-2020-01-19,what,5,What is coronavirus?,10
-2020-01-26,what,5,What is coronavirus?,26
-2020-02-02,what,5,What is coronavirus?,12
-2020-02-09,what,5,What is coronavirus?,13
-2020-02-16,what,5,What is coronavirus?,4
-2020-02-23,what,5,What is coronavirus?,22
-2020-03-01,what,5,What is coronavirus?,31
-2020-03-08,what,5,What is coronavirus?,72
-2020-03-15,what,5,What is coronavirus?,100
-2020-03-22,what,5,What is coronavirus?,79
-2020-03-29,what,5,What is coronavirus?,50
-2020-04-05,what,5,What is coronavirus?,44
-2020-04-12,what,5,What is coronavirus?,47
-2020-04-19,what,5,What is coronavirus?,34
-2020-04-26,what,5,What is coronavirus?,21
-2020-05-03,what,5,What is coronavirus?,21
-2020-05-10,what,5,What is coronavirus?,22
-2020-05-17,what,5,What is coronavirus?,18
-2020-05-24,what,5,What is coronavirus?,14
-2020-05-31,what,5,What is coronavirus?,14
-2020-06-07,what,5,What is coronavirus?,11
-2020-06-14,what,5,What is coronavirus?,10
-2020-06-21,what,5,What is coronavirus?,11
-2020-06-28,what,5,What is coronavirus?,11
-2020-07-05,what,5,What is coronavirus?,12
-2020-07-12,what,5,What is coronavirus?,10
-2020-07-19,what,5,What is coronavirus?,7
-2020-07-26,what,5,What is coronavirus?,10
-2020-08-02,what,5,What is coronavirus?,7
-2020-08-09,what,5,What is coronavirus?,8
-2020-08-16,what,5,What is coronavirus?,6
-2020-08-23,what,5,What is coronavirus?,6
-2020-08-30,what,5,What is coronavirus?,6
-2020-09-06,what,5,What is coronavirus?,10
-2020-09-13,what,5,What is coronavirus?,11
-2020-09-20,what,5,What is coronavirus?,10
-2020-09-27,what,5,What is coronavirus?,10
-2020-10-04,what,5,What is coronavirus?,8
-2020-10-11,what,5,What is coronavirus?,17
-2020-10-18,what,5,What is coronavirus?,10
-2020-10-25,what,5,What is coronavirus?,11
-2020-11-01,what,5,What is coronavirus?,8
-2020-11-08,what,5,What is coronavirus?,7
-2020-11-15,what,5,What is coronavirus?,6
-2020-11-22,what,5,What is coronavirus?,10
-2020-11-29,what,5,What is coronavirus?,5
-2020-12-06,what,5,What is coronavirus?,5
-2020-12-13,what,5,What is coronavirus?,12
-2020-12-20,what,5,What is coronavirus?,12
-2020-01-05,what,6,What tier am I in?,0
-2020-01-12,what,6,What tier am I in?,0
-2020-01-19,what,6,What tier am I in?,0
-2020-01-26,what,6,What tier am I in?,0
-2020-02-02,what,6,What tier am I in?,0.14
-2020-02-09,what,6,What tier am I in?,0
-2020-02-16,what,6,What tier am I in?,0
-2020-02-23,what,6,What tier am I in?,0
-2020-03-01,what,6,What tier am I in?,0.36
-2020-03-08,what,6,What tier am I in?,0
-2020-03-15,what,6,What tier am I in?,0
-2020-03-22,what,6,What tier am I in?,0
-2020-03-29,what,6,What tier am I in?,0
-2020-04-05,what,6,What tier am I in?,0
-2020-04-12,what,6,What tier am I in?,0
-2020-04-19,what,6,What tier am I in?,0
-2020-04-26,what,6,What tier am I in?,0
-2020-05-03,what,6,What tier am I in?,0
-2020-05-10,what,6,What tier am I in?,0
-2020-05-17,what,6,What tier am I in?,0
-2020-05-24,what,6,What tier am I in?,0.51
-2020-05-31,what,6,What tier am I in?,0
-2020-06-07,what,6,What tier am I in?,0
-2020-06-14,what,6,What tier am I in?,0
-2020-06-21,what,6,What tier am I in?,0
-2020-06-28,what,6,What tier am I in?,0
-2020-07-05,what,6,What tier am I in?,0
-2020-07-12,what,6,What tier am I in?,0.19
-2020-07-19,what,6,What tier am I in?,0
-2020-07-26,what,6,What tier am I in?,0
-2020-08-02,what,6,What tier am I in?,0
-2020-08-09,what,6,What tier am I in?,0
-2020-08-16,what,6,What tier am I in?,0
-2020-08-23,what,6,What tier am I in?,0
-2020-08-30,what,6,What tier am I in?,0
-2020-09-06,what,6,What tier am I in?,0
-2020-09-13,what,6,What tier am I in?,0
-2020-09-20,what,6,What tier am I in?,0
-2020-09-27,what,6,What tier am I in?,0
-2020-10-04,what,6,What tier am I in?,0.58
-2020-10-11,what,6,What tier am I in?,12
-2020-10-18,what,6,What tier am I in?,7
-2020-10-25,what,6,What tier am I in?,11
-2020-11-01,what,6,What tier am I in?,1
-2020-11-08,what,6,What tier am I in?,0.59
-2020-11-15,what,6,What tier am I in?,1
-2020-11-22,what,6,What tier am I in?,100
-2020-11-29,what,6,What tier am I in?,13
-2020-12-06,what,6,What tier am I in?,5
-2020-12-13,what,6,What tier am I in?,84
-2020-12-20,what,6,What tier am I in?,56
-2020-01-05,what,7,What does woke mean?,43
-2020-01-12,what,7,What does woke mean?,36
-2020-01-19,what,7,What does woke mean?,100
-2020-01-26,what,7,What does woke mean?,28
-2020-02-02,what,7,What does woke mean?,23
-2020-02-09,what,7,What does woke mean?,22
-2020-02-16,what,7,What does woke mean?,23
-2020-02-23,what,7,What does woke mean?,22
-2020-03-01,what,7,What does woke mean?,14
-2020-03-08,what,7,What does woke mean?,19
-2020-03-15,what,7,What does woke mean?,5
-2020-03-22,what,7,What does woke mean?,6
-2020-03-29,what,7,What does woke mean?,4
-2020-04-05,what,7,What does woke mean?,4
-2020-04-12,what,7,What does woke mean?,3
-2020-04-19,what,7,What does woke mean?,5
-2020-04-26,what,7,What does woke mean?,6
-2020-05-03,what,7,What does woke mean?,3
-2020-05-10,what,7,What does woke mean?,3
-2020-05-17,what,7,What does woke mean?,2
-2020-05-24,what,7,What does woke mean?,3
-2020-05-31,what,7,What does woke mean?,2
-2020-06-07,what,7,What does woke mean?,10
-2020-06-14,what,7,What does woke mean?,13
-2020-06-21,what,7,What does woke mean?,9
-2020-06-28,what,7,What does woke mean?,7
-2020-07-05,what,7,What does woke mean?,10
-2020-07-12,what,7,What does woke mean?,5
-2020-07-19,what,7,What does woke mean?,2
-2020-07-26,what,7,What does woke mean?,4
-2020-08-02,what,7,What does woke mean?,5
-2020-08-09,what,7,What does woke mean?,9
-2020-08-16,what,7,What does woke mean?,2
-2020-08-23,what,7,What does woke mean?,18
-2020-08-30,what,7,What does woke mean?,30
-2020-09-06,what,7,What does woke mean?,14
-2020-09-13,what,7,What does woke mean?,9
-2020-09-20,what,7,What does woke mean?,7
-2020-09-27,what,7,What does woke mean?,14
-2020-10-04,what,7,What does woke mean?,5
-2020-10-11,what,7,What does woke mean?,11
-2020-10-18,what,7,What does woke mean?,9
-2020-10-25,what,7,What does woke mean?,5
-2020-11-01,what,7,What does woke mean?,5
-2020-11-08,what,7,What does woke mean?,9
-2020-11-15,what,7,What does woke mean?,11
-2020-11-22,what,7,What does woke mean?,6
-2020-11-29,what,7,What does woke mean?,9
-2020-12-06,what,7,What does woke mean?,7
-2020-12-13,what,7,What does woke mean?,15
-2020-12-20,what,7,What does woke mean?,9
-2020-01-05,what,8,What does WAP mean?,0
-2020-01-12,what,8,What does WAP mean?,0
-2020-01-19,what,8,What does WAP mean?,0
-2020-01-26,what,8,What does WAP mean?,0
-2020-02-02,what,8,What does WAP mean?,0
-2020-02-09,what,8,What does WAP mean?,0
-2020-02-16,what,8,What does WAP mean?,1
-2020-02-23,what,8,What does WAP mean?,0
-2020-03-01,what,8,What does WAP mean?,0
-2020-03-08,what,8,What does WAP mean?,0
-2020-03-15,what,8,What does WAP mean?,0
-2020-03-22,what,8,What does WAP mean?,0
-2020-03-29,what,8,What does WAP mean?,0
-2020-04-05,what,8,What does WAP mean?,1
-2020-04-12,what,8,What does WAP mean?,0
-2020-04-19,what,8,What does WAP mean?,0
-2020-04-26,what,8,What does WAP mean?,0
-2020-05-03,what,8,What does WAP mean?,0
-2020-05-10,what,8,What does WAP mean?,1
-2020-05-17,what,8,What does WAP mean?,0
-2020-05-24,what,8,What does WAP mean?,0
-2020-05-31,what,8,What does WAP mean?,0
-2020-06-07,what,8,What does WAP mean?,0
-2020-06-14,what,8,What does WAP mean?,0
-2020-06-21,what,8,What does WAP mean?,0
-2020-06-28,what,8,What does WAP mean?,0
-2020-07-05,what,8,What does WAP mean?,0
-2020-07-12,what,8,What does WAP mean?,1
-2020-07-19,what,8,What does WAP mean?,0
-2020-07-26,what,8,What does WAP mean?,0
-2020-08-02,what,8,What does WAP mean?,4
-2020-08-09,what,8,What does WAP mean?,35
-2020-08-16,what,8,What does WAP mean?,84
-2020-08-23,what,8,What does WAP mean?,100
-2020-08-30,what,8,What does WAP mean?,71
-2020-09-06,what,8,What does WAP mean?,53
-2020-09-13,what,8,What does WAP mean?,48
-2020-09-20,what,8,What does WAP mean?,38
-2020-09-27,what,8,What does WAP mean?,41
-2020-10-04,what,8,What does WAP mean?,26
-2020-10-11,what,8,What does WAP mean?,29
-2020-10-18,what,8,What does WAP mean?,49
-2020-10-25,what,8,What does WAP mean?,24
-2020-11-01,what,8,What does WAP mean?,21
-2020-11-08,what,8,What does WAP mean?,19
-2020-11-15,what,8,What does WAP mean?,19
-2020-11-22,what,8,What does WAP mean?,21
-2020-11-29,what,8,What does WAP mean?,16
-2020-12-06,what,8,What does WAP mean?,23
-2020-12-13,what,8,What does WAP mean?,14
-2020-12-20,what,8,What does WAP mean?,11
-2020-01-05,what,9,What is a pandemic?,0
-2020-01-12,what,9,What is a pandemic?,0
-2020-01-19,what,9,What is a pandemic?,1
-2020-01-26,what,9,What is a pandemic?,2
-2020-02-02,what,9,What is a pandemic?,4
-2020-02-09,what,9,What is a pandemic?,2
-2020-02-16,what,9,What is a pandemic?,1
-2020-02-23,what,9,What is a pandemic?,42
-2020-03-01,what,9,What is a pandemic?,16
-2020-03-08,what,9,What is a pandemic?,100
-2020-03-15,what,9,What is a pandemic?,37
-2020-03-22,what,9,What is a pandemic?,18
-2020-03-29,what,9,What is a pandemic?,11
-2020-04-05,what,9,What is a pandemic?,7
-2020-04-12,what,9,What is a pandemic?,8
-2020-04-19,what,9,What is a pandemic?,7
-2020-04-26,what,9,What is a pandemic?,6
-2020-05-03,what,9,What is a pandemic?,7
-2020-05-10,what,9,What is a pandemic?,4
-2020-05-17,what,9,What is a pandemic?,3
-2020-05-24,what,9,What is a pandemic?,2
-2020-05-31,what,9,What is a pandemic?,6
-2020-06-07,what,9,What is a pandemic?,3
-2020-06-14,what,9,What is a pandemic?,4
-2020-06-21,what,9,What is a pandemic?,3
-2020-06-28,what,9,What is a pandemic?,2
-2020-07-05,what,9,What is a pandemic?,1
-2020-07-12,what,9,What is a pandemic?,2
-2020-07-19,what,9,What is a pandemic?,3
-2020-07-26,what,9,What is a pandemic?,0
-2020-08-02,what,9,What is a pandemic?,1
-2020-08-09,what,9,What is a pandemic?,3
-2020-08-16,what,9,What is a pandemic?,1
-2020-08-23,what,9,What is a pandemic?,0
-2020-08-30,what,9,What is a pandemic?,3
-2020-09-06,what,9,What is a pandemic?,2
-2020-09-13,what,9,What is a pandemic?,2
-2020-09-20,what,9,What is a pandemic?,4
-2020-09-27,what,9,What is a pandemic?,2
-2020-10-04,what,9,What is a pandemic?,2
-2020-10-11,what,9,What is a pandemic?,3
-2020-10-18,what,9,What is a pandemic?,3
-2020-10-25,what,9,What is a pandemic?,2
-2020-11-01,what,9,What is a pandemic?,1
-2020-11-08,what,9,What is a pandemic?,2
-2020-11-15,what,9,What is a pandemic?,1
-2020-11-22,what,9,What is a pandemic?,3
-2020-11-29,what,9,What is a pandemic?,4
-2020-12-06,what,9,What is a pandemic?,2
-2020-12-13,what,9,What is a pandemic?,3
-2020-12-20,what,9,What is a pandemic?,3
-2020-01-05,what,10,What does furlough mean?,0
-2020-01-12,what,10,What does furlough mean?,0
-2020-01-19,what,10,What does furlough mean?,0.41
-2020-01-26,what,10,What does furlough mean?,0
-2020-02-02,what,10,What does furlough mean?,0
-2020-02-09,what,10,What does furlough mean?,0
-2020-02-16,what,10,What does furlough mean?,0
-2020-02-23,what,10,What does furlough mean?,0
-2020-03-01,what,10,What does furlough mean?,0.48
-2020-03-08,what,10,What does furlough mean?,0
-2020-03-15,what,10,What does furlough mean?,3
-2020-03-22,what,10,What does furlough mean?,73
-2020-03-29,what,10,What does furlough mean?,100
-2020-04-05,what,10,What does furlough mean?,34
-2020-04-12,what,10,What does furlough mean?,29
-2020-04-19,what,10,What does furlough mean?,21
-2020-04-26,what,10,What does furlough mean?,13
-2020-05-03,what,10,What does furlough mean?,12
-2020-05-10,what,10,What does furlough mean?,11
-2020-05-17,what,10,What does furlough mean?,6
-2020-05-24,what,10,What does furlough mean?,5
-2020-05-31,what,10,What does furlough mean?,3
-2020-06-07,what,10,What does furlough mean?,5
-2020-06-14,what,10,What does furlough mean?,4
-2020-06-21,what,10,What does furlough mean?,3
-2020-06-28,what,10,What does furlough mean?,2
-2020-07-05,what,10,What does furlough mean?,4
-2020-07-12,what,10,What does furlough mean?,4
-2020-07-19,what,10,What does furlough mean?,2
-2020-07-26,what,10,What does furlough mean?,1
-2020-08-02,what,10,What does furlough mean?,1
-2020-08-09,what,10,What does furlough mean?,0
-2020-08-16,what,10,What does furlough mean?,1
-2020-08-23,what,10,What does furlough mean?,1
-2020-08-30,what,10,What does furlough mean?,1
-2020-09-06,what,10,What does furlough mean?,2
-2020-09-13,what,10,What does furlough mean?,0.55
-2020-09-20,what,10,What does furlough mean?,0.31
-2020-09-27,what,10,What does furlough mean?,0.56
-2020-10-04,what,10,What does furlough mean?,0.34
-2020-10-11,what,10,What does furlough mean?,0
-2020-10-18,what,10,What does furlough mean?,1
-2020-10-25,what,10,What does furlough mean?,3
-2020-11-01,what,10,What does furlough mean?,5
-2020-11-08,what,10,What does furlough mean?,0
-2020-11-15,what,10,What does furlough mean?,0
-2020-11-22,what,10,What does furlough mean?,0
-2020-11-29,what,10,What does furlough mean?,1
-2020-12-06,what,10,What does furlough mean?,0.32
-2020-12-13,what,10,What does furlough mean?,1
-2020-12-20,what,10,What does furlough mean?,1
+week,qType,rank,question,relFreq,peakDate
+2020-01-05,how,1,How to make a face mask,0,2020-05-10
+2020-01-12,how,1,How to make a face mask,0.37,2020-05-10
+2020-01-19,how,1,How to make a face mask,0,2020-05-10
+2020-01-26,how,1,How to make a face mask,0.57,2020-05-10
+2020-02-02,how,1,How to make a face mask,0.3,2020-05-10
+2020-02-09,how,1,How to make a face mask,1,2020-05-10
+2020-02-16,how,1,How to make a face mask,0.49,2020-05-10
+2020-02-23,how,1,How to make a face mask,1,2020-05-10
+2020-03-01,how,1,How to make a face mask,2,2020-05-10
+2020-03-08,how,1,How to make a face mask,1,2020-05-10
+2020-03-15,how,1,How to make a face mask,4,2020-05-10
+2020-03-22,how,1,How to make a face mask,11,2020-05-10
+2020-03-29,how,1,How to make a face mask,19,2020-05-10
+2020-04-05,how,1,How to make a face mask,13,2020-05-10
+2020-04-12,how,1,How to make a face mask,25,2020-05-10
+2020-04-19,how,1,How to make a face mask,45,2020-05-10
+2020-04-26,how,1,How to make a face mask,52,2020-05-10
+2020-05-03,how,1,How to make a face mask,42,2020-05-10
+2020-05-10,how,1,How to make a face mask,100,2020-05-10
+2020-05-17,how,1,How to make a face mask,38,2020-05-10
+2020-05-24,how,1,How to make a face mask,21,2020-05-10
+2020-05-31,how,1,How to make a face mask,50,2020-05-10
+2020-06-07,how,1,How to make a face mask,39,2020-05-10
+2020-06-14,how,1,How to make a face mask,32,2020-05-10
+2020-06-21,how,1,How to make a face mask,17,2020-05-10
+2020-06-28,how,1,How to make a face mask,15,2020-05-10
+2020-07-05,how,1,How to make a face mask,19,2020-05-10
+2020-07-12,how,1,How to make a face mask,54,2020-05-10
+2020-07-19,how,1,How to make a face mask,31,2020-05-10
+2020-07-26,how,1,How to make a face mask,20,2020-05-10
+2020-08-02,how,1,How to make a face mask,13,2020-05-10
+2020-08-09,how,1,How to make a face mask,6,2020-05-10
+2020-08-16,how,1,How to make a face mask,7,2020-05-10
+2020-08-23,how,1,How to make a face mask,6,2020-05-10
+2020-08-30,how,1,How to make a face mask,8,2020-05-10
+2020-09-06,how,1,How to make a face mask,4,2020-05-10
+2020-09-13,how,1,How to make a face mask,5,2020-05-10
+2020-09-20,how,1,How to make a face mask,5,2020-05-10
+2020-09-27,how,1,How to make a face mask,4,2020-05-10
+2020-10-04,how,1,How to make a face mask,4,2020-05-10
+2020-10-11,how,1,How to make a face mask,3,2020-05-10
+2020-10-18,how,1,How to make a face mask,3,2020-05-10
+2020-10-25,how,1,How to make a face mask,3,2020-05-10
+2020-11-01,how,1,How to make a face mask,4,2020-05-10
+2020-11-08,how,1,How to make a face mask,4,2020-05-10
+2020-11-15,how,1,How to make a face mask,1,2020-05-10
+2020-11-22,how,1,How to make a face mask,2,2020-05-10
+2020-11-29,how,1,How to make a face mask,1,2020-05-10
+2020-12-06,how,1,How to make a face mask,1,2020-05-10
+2020-12-13,how,1,How to make a face mask,2,2020-05-10
+2020-12-20,how,1,How to make a face mask,1,2020-05-10
+2020-01-05,how,2,How to make hand sanitizer,0,2020-03-15
+2020-01-12,how,2,How to make hand sanitizer,0,2020-03-15
+2020-01-19,how,2,How to make hand sanitizer,0,2020-03-15
+2020-01-26,how,2,How to make hand sanitizer,0,2020-03-15
+2020-02-02,how,2,How to make hand sanitizer,0,2020-03-15
+2020-02-09,how,2,How to make hand sanitizer,0,2020-03-15
+2020-02-16,how,2,How to make hand sanitizer,0,2020-03-15
+2020-02-23,how,2,How to make hand sanitizer,2,2020-03-15
+2020-03-01,how,2,How to make hand sanitizer,49,2020-03-15
+2020-03-08,how,2,How to make hand sanitizer,84,2020-03-15
+2020-03-15,how,2,How to make hand sanitizer,100,2020-03-15
+2020-03-22,how,2,How to make hand sanitizer,25,2020-03-15
+2020-03-29,how,2,How to make hand sanitizer,18,2020-03-15
+2020-04-05,how,2,How to make hand sanitizer,7,2020-03-15
+2020-04-12,how,2,How to make hand sanitizer,4,2020-03-15
+2020-04-19,how,2,How to make hand sanitizer,4,2020-03-15
+2020-04-26,how,2,How to make hand sanitizer,2,2020-03-15
+2020-05-03,how,2,How to make hand sanitizer,2,2020-03-15
+2020-05-10,how,2,How to make hand sanitizer,1,2020-03-15
+2020-05-17,how,2,How to make hand sanitizer,1,2020-03-15
+2020-05-24,how,2,How to make hand sanitizer,2,2020-03-15
+2020-05-31,how,2,How to make hand sanitizer,1,2020-03-15
+2020-06-07,how,2,How to make hand sanitizer,1,2020-03-15
+2020-06-14,how,2,How to make hand sanitizer,1,2020-03-15
+2020-06-21,how,2,How to make hand sanitizer,0.46,2020-03-15
+2020-06-28,how,2,How to make hand sanitizer,1,2020-03-15
+2020-07-05,how,2,How to make hand sanitizer,2,2020-03-15
+2020-07-12,how,2,How to make hand sanitizer,0.24,2020-03-15
+2020-07-19,how,2,How to make hand sanitizer,1,2020-03-15
+2020-07-26,how,2,How to make hand sanitizer,1,2020-03-15
+2020-08-02,how,2,How to make hand sanitizer,1,2020-03-15
+2020-08-09,how,2,How to make hand sanitizer,1,2020-03-15
+2020-08-16,how,2,How to make hand sanitizer,0,2020-03-15
+2020-08-23,how,2,How to make hand sanitizer,1,2020-03-15
+2020-08-30,how,2,How to make hand sanitizer,1,2020-03-15
+2020-09-06,how,2,How to make hand sanitizer,0.38,2020-03-15
+2020-09-13,how,2,How to make hand sanitizer,1,2020-03-15
+2020-09-20,how,2,How to make hand sanitizer,1,2020-03-15
+2020-09-27,how,2,How to make hand sanitizer,0.17,2020-03-15
+2020-10-04,how,2,How to make hand sanitizer,0,2020-03-15
+2020-10-11,how,2,How to make hand sanitizer,1,2020-03-15
+2020-10-18,how,2,How to make hand sanitizer,0,2020-03-15
+2020-10-25,how,2,How to make hand sanitizer,0,2020-03-15
+2020-11-01,how,2,How to make hand sanitizer,0.5,2020-03-15
+2020-11-08,how,2,How to make hand sanitizer,0,2020-03-15
+2020-11-15,how,2,How to make hand sanitizer,0.44,2020-03-15
+2020-11-22,how,2,How to make hand sanitizer,1,2020-03-15
+2020-11-29,how,2,How to make hand sanitizer,1,2020-03-15
+2020-12-06,how,2,How to make hand sanitizer,0.32,2020-03-15
+2020-12-13,how,2,How to make hand sanitizer,0.33,2020-03-15
+2020-12-20,how,2,How to make hand sanitizer,0,2020-03-15
+2020-01-05,how,3,How to make bread,10,2020-03-29
+2020-01-12,how,3,How to make bread,8,2020-03-29
+2020-01-19,how,3,How to make bread,13,2020-03-29
+2020-01-26,how,3,How to make bread,13,2020-03-29
+2020-02-02,how,3,How to make bread,13,2020-03-29
+2020-02-09,how,3,How to make bread,16,2020-03-29
+2020-02-16,how,3,How to make bread,17,2020-03-29
+2020-02-23,how,3,How to make bread,12,2020-03-29
+2020-03-01,how,3,How to make bread,15,2020-03-29
+2020-03-08,how,3,How to make bread,25,2020-03-29
+2020-03-15,how,3,How to make bread,71,2020-03-29
+2020-03-22,how,3,How to make bread,92,2020-03-29
+2020-03-29,how,3,How to make bread,100,2020-03-29
+2020-04-05,how,3,How to make bread,79,2020-03-29
+2020-04-12,how,3,How to make bread,73,2020-03-29
+2020-04-19,how,3,How to make bread,59,2020-03-29
+2020-04-26,how,3,How to make bread,63,2020-03-29
+2020-05-03,how,3,How to make bread,56,2020-03-29
+2020-05-10,how,3,How to make bread,48,2020-03-29
+2020-05-17,how,3,How to make bread,36,2020-03-29
+2020-05-24,how,3,How to make bread,30,2020-03-29
+2020-05-31,how,3,How to make bread,29,2020-03-29
+2020-06-07,how,3,How to make bread,27,2020-03-29
+2020-06-14,how,3,How to make bread,25,2020-03-29
+2020-06-21,how,3,How to make bread,18,2020-03-29
+2020-06-28,how,3,How to make bread,21,2020-03-29
+2020-07-05,how,3,How to make bread,22,2020-03-29
+2020-07-12,how,3,How to make bread,17,2020-03-29
+2020-07-19,how,3,How to make bread,20,2020-03-29
+2020-07-26,how,3,How to make bread,16,2020-03-29
+2020-08-02,how,3,How to make bread,14,2020-03-29
+2020-08-09,how,3,How to make bread,11,2020-03-29
+2020-08-16,how,3,How to make bread,15,2020-03-29
+2020-08-23,how,3,How to make bread,13,2020-03-29
+2020-08-30,how,3,How to make bread,15,2020-03-29
+2020-09-06,how,3,How to make bread,12,2020-03-29
+2020-09-13,how,3,How to make bread,13,2020-03-29
+2020-09-20,how,3,How to make bread,13,2020-03-29
+2020-09-27,how,3,How to make bread,13,2020-03-29
+2020-10-04,how,3,How to make bread,16,2020-03-29
+2020-10-11,how,3,How to make bread,21,2020-03-29
+2020-10-18,how,3,How to make bread,16,2020-03-29
+2020-10-25,how,3,How to make bread,16,2020-03-29
+2020-11-01,how,3,How to make bread,18,2020-03-29
+2020-11-08,how,3,How to make bread,21,2020-03-29
+2020-11-15,how,3,How to make bread,19,2020-03-29
+2020-11-22,how,3,How to make bread,19,2020-03-29
+2020-11-29,how,3,How to make bread,14,2020-03-29
+2020-12-06,how,3,How to make bread,14,2020-03-29
+2020-12-13,how,3,How to make bread,14,2020-03-29
+2020-12-20,how,3,How to make bread,25,2020-03-29
+2020-01-05,how,4,How to get tested for coronavirus,0,2020-03-08
+2020-01-12,how,4,How to get tested for coronavirus,0,2020-03-08
+2020-01-19,how,4,How to get tested for coronavirus,0,2020-03-08
+2020-01-26,how,4,How to get tested for coronavirus,1,2020-03-08
+2020-02-02,how,4,How to get tested for coronavirus,1,2020-03-08
+2020-02-09,how,4,How to get tested for coronavirus,3,2020-03-08
+2020-02-16,how,4,How to get tested for coronavirus,0,2020-03-08
+2020-02-23,how,4,How to get tested for coronavirus,4,2020-03-08
+2020-03-01,how,4,How to get tested for coronavirus,17,2020-03-08
+2020-03-08,how,4,How to get tested for coronavirus,100,2020-03-08
+2020-03-15,how,4,How to get tested for coronavirus,94,2020-03-08
+2020-03-22,how,4,How to get tested for coronavirus,32,2020-03-08
+2020-03-29,how,4,How to get tested for coronavirus,12,2020-03-08
+2020-04-05,how,4,How to get tested for coronavirus,9,2020-03-08
+2020-04-12,how,4,How to get tested for coronavirus,7,2020-03-08
+2020-04-19,how,4,How to get tested for coronavirus,11,2020-03-08
+2020-04-26,how,4,How to get tested for coronavirus,17,2020-03-08
+2020-05-03,how,4,How to get tested for coronavirus,13,2020-03-08
+2020-05-10,how,4,How to get tested for coronavirus,12,2020-03-08
+2020-05-17,how,4,How to get tested for coronavirus,10,2020-03-08
+2020-05-24,how,4,How to get tested for coronavirus,6,2020-03-08
+2020-05-31,how,4,How to get tested for coronavirus,9,2020-03-08
+2020-06-07,how,4,How to get tested for coronavirus,4,2020-03-08
+2020-06-14,how,4,How to get tested for coronavirus,3,2020-03-08
+2020-06-21,how,4,How to get tested for coronavirus,4,2020-03-08
+2020-06-28,how,4,How to get tested for coronavirus,4,2020-03-08
+2020-07-05,how,4,How to get tested for coronavirus,3,2020-03-08
+2020-07-12,how,4,How to get tested for coronavirus,1,2020-03-08
+2020-07-19,how,4,How to get tested for coronavirus,3,2020-03-08
+2020-07-26,how,4,How to get tested for coronavirus,1,2020-03-08
+2020-08-02,how,4,How to get tested for coronavirus,3,2020-03-08
+2020-08-09,how,4,How to get tested for coronavirus,1,2020-03-08
+2020-08-16,how,4,How to get tested for coronavirus,2,2020-03-08
+2020-08-23,how,4,How to get tested for coronavirus,3,2020-03-08
+2020-08-30,how,4,How to get tested for coronavirus,6,2020-03-08
+2020-09-06,how,4,How to get tested for coronavirus,10,2020-03-08
+2020-09-13,how,4,How to get tested for coronavirus,4,2020-03-08
+2020-09-20,how,4,How to get tested for coronavirus,5,2020-03-08
+2020-09-27,how,4,How to get tested for coronavirus,1,2020-03-08
+2020-10-04,how,4,How to get tested for coronavirus,1,2020-03-08
+2020-10-11,how,4,How to get tested for coronavirus,1,2020-03-08
+2020-10-18,how,4,How to get tested for coronavirus,1,2020-03-08
+2020-10-25,how,4,How to get tested for coronavirus,2,2020-03-08
+2020-11-01,how,4,How to get tested for coronavirus,2,2020-03-08
+2020-11-08,how,4,How to get tested for coronavirus,2,2020-03-08
+2020-11-15,how,4,How to get tested for coronavirus,1,2020-03-08
+2020-11-22,how,4,How to get tested for coronavirus,3,2020-03-08
+2020-11-29,how,4,How to get tested for coronavirus,1,2020-03-08
+2020-12-06,how,4,How to get tested for coronavirus,1,2020-03-08
+2020-12-13,how,4,How to get tested for coronavirus,0,2020-03-08
+2020-12-20,how,4,How to get tested for coronavirus,2,2020-03-08
+2020-01-05,how,5,How to cut your own hair,5,2020-03-29
+2020-01-12,how,5,How to cut your own hair,9,2020-03-29
+2020-01-19,how,5,How to cut your own hair,6,2020-03-29
+2020-01-26,how,5,How to cut your own hair,6,2020-03-29
+2020-02-02,how,5,How to cut your own hair,6,2020-03-29
+2020-02-09,how,5,How to cut your own hair,4,2020-03-29
+2020-02-16,how,5,How to cut your own hair,5,2020-03-29
+2020-02-23,how,5,How to cut your own hair,4,2020-03-29
+2020-03-01,how,5,How to cut your own hair,4,2020-03-29
+2020-03-08,how,5,How to cut your own hair,5,2020-03-29
+2020-03-15,how,5,How to cut your own hair,16,2020-03-29
+2020-03-22,how,5,How to cut your own hair,71,2020-03-29
+2020-03-29,how,5,How to cut your own hair,100,2020-03-29
+2020-04-05,how,5,How to cut your own hair,90,2020-03-29
+2020-04-12,how,5,How to cut your own hair,100,2020-03-29
+2020-04-19,how,5,How to cut your own hair,74,2020-03-29
+2020-04-26,how,5,How to cut your own hair,83,2020-03-29
+2020-05-03,how,5,How to cut your own hair,58,2020-03-29
+2020-05-10,how,5,How to cut your own hair,69,2020-03-29
+2020-05-17,how,5,How to cut your own hair,59,2020-03-29
+2020-05-24,how,5,How to cut your own hair,49,2020-03-29
+2020-05-31,how,5,How to cut your own hair,40,2020-03-29
+2020-06-07,how,5,How to cut your own hair,37,2020-03-29
+2020-06-14,how,5,How to cut your own hair,29,2020-03-29
+2020-06-21,how,5,How to cut your own hair,28,2020-03-29
+2020-06-28,how,5,How to cut your own hair,21,2020-03-29
+2020-07-05,how,5,How to cut your own hair,17,2020-03-29
+2020-07-12,how,5,How to cut your own hair,9,2020-03-29
+2020-07-19,how,5,How to cut your own hair,11,2020-03-29
+2020-07-26,how,5,How to cut your own hair,11,2020-03-29
+2020-08-02,how,5,How to cut your own hair,7,2020-03-29
+2020-08-09,how,5,How to cut your own hair,9,2020-03-29
+2020-08-16,how,5,How to cut your own hair,8,2020-03-29
+2020-08-23,how,5,How to cut your own hair,10,2020-03-29
+2020-08-30,how,5,How to cut your own hair,9,2020-03-29
+2020-09-06,how,5,How to cut your own hair,8,2020-03-29
+2020-09-13,how,5,How to cut your own hair,7,2020-03-29
+2020-09-20,how,5,How to cut your own hair,6,2020-03-29
+2020-09-27,how,5,How to cut your own hair,5,2020-03-29
+2020-10-04,how,5,How to cut your own hair,6,2020-03-29
+2020-10-11,how,5,How to cut your own hair,8,2020-03-29
+2020-10-18,how,5,How to cut your own hair,8,2020-03-29
+2020-10-25,how,5,How to cut your own hair,6,2020-03-29
+2020-11-01,how,5,How to cut your own hair,15,2020-03-29
+2020-11-08,how,5,How to cut your own hair,11,2020-03-29
+2020-11-15,how,5,How to cut your own hair,13,2020-03-29
+2020-11-22,how,5,How to cut your own hair,11,2020-03-29
+2020-11-29,how,5,How to cut your own hair,10,2020-03-29
+2020-12-06,how,5,How to cut your own hair,8,2020-03-29
+2020-12-13,how,5,How to cut your own hair,10,2020-03-29
+2020-12-20,how,5,How to cut your own hair,12,2020-03-29
+2020-01-05,how,6,How to cook eel,0,2020-11-15
+2020-01-12,how,6,How to cook eel,0,2020-11-15
+2020-01-19,how,6,How to cook eel,0,2020-11-15
+2020-01-26,how,6,How to cook eel,0,2020-11-15
+2020-02-02,how,6,How to cook eel,0,2020-11-15
+2020-02-09,how,6,How to cook eel,0,2020-11-15
+2020-02-16,how,6,How to cook eel,0,2020-11-15
+2020-02-23,how,6,How to cook eel,0,2020-11-15
+2020-03-01,how,6,How to cook eel,0,2020-11-15
+2020-03-08,how,6,How to cook eel,0,2020-11-15
+2020-03-15,how,6,How to cook eel,0,2020-11-15
+2020-03-22,how,6,How to cook eel,1,2020-11-15
+2020-03-29,how,6,How to cook eel,0,2020-11-15
+2020-04-05,how,6,How to cook eel,0,2020-11-15
+2020-04-12,how,6,How to cook eel,0,2020-11-15
+2020-04-19,how,6,How to cook eel,0,2020-11-15
+2020-04-26,how,6,How to cook eel,0,2020-11-15
+2020-05-03,how,6,How to cook eel,1,2020-11-15
+2020-05-10,how,6,How to cook eel,0,2020-11-15
+2020-05-17,how,6,How to cook eel,0,2020-11-15
+2020-05-24,how,6,How to cook eel,0,2020-11-15
+2020-05-31,how,6,How to cook eel,0,2020-11-15
+2020-06-07,how,6,How to cook eel,0,2020-11-15
+2020-06-14,how,6,How to cook eel,0,2020-11-15
+2020-06-21,how,6,How to cook eel,0,2020-11-15
+2020-06-28,how,6,How to cook eel,0,2020-11-15
+2020-07-05,how,6,How to cook eel,0,2020-11-15
+2020-07-12,how,6,How to cook eel,0,2020-11-15
+2020-07-19,how,6,How to cook eel,0,2020-11-15
+2020-07-26,how,6,How to cook eel,0,2020-11-15
+2020-08-02,how,6,How to cook eel,0,2020-11-15
+2020-08-09,how,6,How to cook eel,0,2020-11-15
+2020-08-16,how,6,How to cook eel,0,2020-11-15
+2020-08-23,how,6,How to cook eel,0,2020-11-15
+2020-08-30,how,6,How to cook eel,1,2020-11-15
+2020-09-06,how,6,How to cook eel,0,2020-11-15
+2020-09-13,how,6,How to cook eel,0,2020-11-15
+2020-09-20,how,6,How to cook eel,0,2020-11-15
+2020-09-27,how,6,How to cook eel,0,2020-11-15
+2020-10-04,how,6,How to cook eel,0,2020-11-15
+2020-10-11,how,6,How to cook eel,0,2020-11-15
+2020-10-18,how,6,How to cook eel,0,2020-11-15
+2020-10-25,how,6,How to cook eel,0,2020-11-15
+2020-11-01,how,6,How to cook eel,0,2020-11-15
+2020-11-08,how,6,How to cook eel,0,2020-11-15
+2020-11-15,how,6,How to cook eel,100,2020-11-15
+2020-11-22,how,6,How to cook eel,0,2020-11-15
+2020-11-29,how,6,How to cook eel,0,2020-11-15
+2020-12-06,how,6,How to cook eel,1,2020-11-15
+2020-12-13,how,6,How to cook eel,1,2020-11-15
+2020-12-20,how,6,How to cook eel,1,2020-11-15
+2020-01-05,how,7,How to cut men's hair,0,2020-04-05
+2020-01-12,how,7,How to cut men's hair,3,2020-04-05
+2020-01-19,how,7,How to cut men's hair,3,2020-04-05
+2020-01-26,how,7,How to cut men's hair,0,2020-04-05
+2020-02-02,how,7,How to cut men's hair,3,2020-04-05
+2020-02-09,how,7,How to cut men's hair,0,2020-04-05
+2020-02-16,how,7,How to cut men's hair,0,2020-04-05
+2020-02-23,how,7,How to cut men's hair,3,2020-04-05
+2020-03-01,how,7,How to cut men's hair,3,2020-04-05
+2020-03-08,how,7,How to cut men's hair,0,2020-04-05
+2020-03-15,how,7,How to cut men's hair,8,2020-04-05
+2020-03-22,how,7,How to cut men's hair,42,2020-04-05
+2020-03-29,how,7,How to cut men's hair,61,2020-04-05
+2020-04-05,how,7,How to cut men's hair,100,2020-04-05
+2020-04-12,how,7,How to cut men's hair,93,2020-04-05
+2020-04-19,how,7,How to cut men's hair,64,2020-04-05
+2020-04-26,how,7,How to cut men's hair,88,2020-04-05
+2020-05-03,how,7,How to cut men's hair,44,2020-04-05
+2020-05-10,how,7,How to cut men's hair,87,2020-04-05
+2020-05-17,how,7,How to cut men's hair,90,2020-04-05
+2020-05-24,how,7,How to cut men's hair,83,2020-04-05
+2020-05-31,how,7,How to cut men's hair,31,2020-04-05
+2020-06-07,how,7,How to cut men's hair,23,2020-04-05
+2020-06-14,how,7,How to cut men's hair,24,2020-04-05
+2020-06-21,how,7,How to cut men's hair,12,2020-04-05
+2020-06-28,how,7,How to cut men's hair,21,2020-04-05
+2020-07-05,how,7,How to cut men's hair,10,2020-04-05
+2020-07-12,how,7,How to cut men's hair,3,2020-04-05
+2020-07-19,how,7,How to cut men's hair,3,2020-04-05
+2020-07-26,how,7,How to cut men's hair,3,2020-04-05
+2020-08-02,how,7,How to cut men's hair,5,2020-04-05
+2020-08-09,how,7,How to cut men's hair,3,2020-04-05
+2020-08-16,how,7,How to cut men's hair,5,2020-04-05
+2020-08-23,how,7,How to cut men's hair,3,2020-04-05
+2020-08-30,how,7,How to cut men's hair,0,2020-04-05
+2020-09-06,how,7,How to cut men's hair,5,2020-04-05
+2020-09-13,how,7,How to cut men's hair,5,2020-04-05
+2020-09-20,how,7,How to cut men's hair,5,2020-04-05
+2020-09-27,how,7,How to cut men's hair,0,2020-04-05
+2020-10-04,how,7,How to cut men's hair,0,2020-04-05
+2020-10-11,how,7,How to cut men's hair,0,2020-04-05
+2020-10-18,how,7,How to cut men's hair,0,2020-04-05
+2020-10-25,how,7,How to cut men's hair,6,2020-04-05
+2020-11-01,how,7,How to cut men's hair,0,2020-04-05
+2020-11-08,how,7,How to cut men's hair,3,2020-04-05
+2020-11-15,how,7,How to cut men's hair,5,2020-04-05
+2020-11-22,how,7,How to cut men's hair,3,2020-04-05
+2020-11-29,how,7,How to cut men's hair,3,2020-04-05
+2020-12-06,how,7,How to cut men's hair,17,2020-04-05
+2020-12-13,how,7,How to cut men's hair,3,2020-04-05
+2020-12-20,how,7,How to cut men's hair,11,2020-04-05
+2020-01-05,how,8,How to boost immune system,8,2020-03-15
+2020-01-12,how,8,How to boost immune system,8,2020-03-15
+2020-01-19,how,8,How to boost immune system,14,2020-03-15
+2020-01-26,how,8,How to boost immune system,16,2020-03-15
+2020-02-02,how,8,How to boost immune system,10,2020-03-15
+2020-02-09,how,8,How to boost immune system,12,2020-03-15
+2020-02-16,how,8,How to boost immune system,4,2020-03-15
+2020-02-23,how,8,How to boost immune system,25,2020-03-15
+2020-03-01,how,8,How to boost immune system,34,2020-03-15
+2020-03-08,how,8,How to boost immune system,72,2020-03-15
+2020-03-15,how,8,How to boost immune system,100,2020-03-15
+2020-03-22,how,8,How to boost immune system,35,2020-03-15
+2020-03-29,how,8,How to boost immune system,33,2020-03-15
+2020-04-05,how,8,How to boost immune system,18,2020-03-15
+2020-04-12,how,8,How to boost immune system,18,2020-03-15
+2020-04-19,how,8,How to boost immune system,7,2020-03-15
+2020-04-26,how,8,How to boost immune system,10,2020-03-15
+2020-05-03,how,8,How to boost immune system,12,2020-03-15
+2020-05-10,how,8,How to boost immune system,9,2020-03-15
+2020-05-17,how,8,How to boost immune system,7,2020-03-15
+2020-05-24,how,8,How to boost immune system,11,2020-03-15
+2020-05-31,how,8,How to boost immune system,0,2020-03-15
+2020-06-07,how,8,How to boost immune system,0,2020-03-15
+2020-06-14,how,8,How to boost immune system,3,2020-03-15
+2020-06-21,how,8,How to boost immune system,4,2020-03-15
+2020-06-28,how,8,How to boost immune system,7,2020-03-15
+2020-07-05,how,8,How to boost immune system,0,2020-03-15
+2020-07-12,how,8,How to boost immune system,6,2020-03-15
+2020-07-19,how,8,How to boost immune system,11,2020-03-15
+2020-07-26,how,8,How to boost immune system,4,2020-03-15
+2020-08-02,how,8,How to boost immune system,4,2020-03-15
+2020-08-09,how,8,How to boost immune system,2,2020-03-15
+2020-08-16,how,8,How to boost immune system,4,2020-03-15
+2020-08-23,how,8,How to boost immune system,11,2020-03-15
+2020-08-30,how,8,How to boost immune system,14,2020-03-15
+2020-09-06,how,8,How to boost immune system,10,2020-03-15
+2020-09-13,how,8,How to boost immune system,12,2020-03-15
+2020-09-20,how,8,How to boost immune system,10,2020-03-15
+2020-09-27,how,8,How to boost immune system,6,2020-03-15
+2020-10-04,how,8,How to boost immune system,8,2020-03-15
+2020-10-11,how,8,How to boost immune system,2,2020-03-15
+2020-10-18,how,8,How to boost immune system,8,2020-03-15
+2020-10-25,how,8,How to boost immune system,4,2020-03-15
+2020-11-01,how,8,How to boost immune system,2,2020-03-15
+2020-11-08,how,8,How to boost immune system,2,2020-03-15
+2020-11-15,how,8,How to boost immune system,8,2020-03-15
+2020-11-22,how,8,How to boost immune system,4,2020-03-15
+2020-11-29,how,8,How to boost immune system,8,2020-03-15
+2020-12-06,how,8,How to boost immune system,2,2020-03-15
+2020-12-13,how,8,How to boost immune system,0,2020-03-15
+2020-12-20,how,8,How to boost immune system,3,2020-03-15
+2020-01-05,how,9,How to self isolate,0,2020-03-15
+2020-01-12,how,9,How to self isolate,0,2020-03-15
+2020-01-19,how,9,How to self isolate,0,2020-03-15
+2020-01-26,how,9,How to self isolate,0,2020-03-15
+2020-02-02,how,9,How to self isolate,0.29,2020-03-15
+2020-02-09,how,9,How to self isolate,0,2020-03-15
+2020-02-16,how,9,How to self isolate,0.31,2020-03-15
+2020-02-23,how,9,How to self isolate,3,2020-03-15
+2020-03-01,how,9,How to self isolate,7,2020-03-15
+2020-03-08,how,9,How to self isolate,42,2020-03-15
+2020-03-15,how,9,How to self isolate,100,2020-03-15
+2020-03-22,how,9,How to self isolate,64,2020-03-15
+2020-03-29,how,9,How to self isolate,24,2020-03-15
+2020-04-05,how,9,How to self isolate,14,2020-03-15
+2020-04-12,how,9,How to self isolate,9,2020-03-15
+2020-04-19,how,9,How to self isolate,4,2020-03-15
+2020-04-26,how,9,How to self isolate,6,2020-03-15
+2020-05-03,how,9,How to self isolate,4,2020-03-15
+2020-05-10,how,9,How to self isolate,4,2020-03-15
+2020-05-17,how,9,How to self isolate,4,2020-03-15
+2020-05-24,how,9,How to self isolate,6,2020-03-15
+2020-05-31,how,9,How to self isolate,3,2020-03-15
+2020-06-07,how,9,How to self isolate,3,2020-03-15
+2020-06-14,how,9,How to self isolate,3,2020-03-15
+2020-06-21,how,9,How to self isolate,3,2020-03-15
+2020-06-28,how,9,How to self isolate,3,2020-03-15
+2020-07-05,how,9,How to self isolate,5,2020-03-15
+2020-07-12,how,9,How to self isolate,4,2020-03-15
+2020-07-19,how,9,How to self isolate,6,2020-03-15
+2020-07-26,how,9,How to self isolate,8,2020-03-15
+2020-08-02,how,9,How to self isolate,6,2020-03-15
+2020-08-09,how,9,How to self isolate,5,2020-03-15
+2020-08-16,how,9,How to self isolate,10,2020-03-15
+2020-08-23,how,9,How to self isolate,9,2020-03-15
+2020-08-30,how,9,How to self isolate,10,2020-03-15
+2020-09-06,how,9,How to self isolate,14,2020-03-15
+2020-09-13,how,9,How to self isolate,17,2020-03-15
+2020-09-20,how,9,How to self isolate,19,2020-03-15
+2020-09-27,how,9,How to self isolate,21,2020-03-15
+2020-10-04,how,9,How to self isolate,25,2020-03-15
+2020-10-11,how,9,How to self isolate,26,2020-03-15
+2020-10-18,how,9,How to self isolate,27,2020-03-15
+2020-10-25,how,9,How to self isolate,34,2020-03-15
+2020-11-01,how,9,How to self isolate,21,2020-03-15
+2020-11-08,how,9,How to self isolate,28,2020-03-15
+2020-11-15,how,9,How to self isolate,23,2020-03-15
+2020-11-22,how,9,How to self isolate,14,2020-03-15
+2020-11-29,how,9,How to self isolate,17,2020-03-15
+2020-12-06,how,9,How to self isolate,31,2020-03-15
+2020-12-13,how,9,How to self isolate,43,2020-03-15
+2020-12-20,how,9,How to self isolate,39,2020-03-15
+2020-01-05,how,10,How to treat coronavirus,0,2020-03-08
+2020-01-12,how,10,How to treat coronavirus,0,2020-03-08
+2020-01-19,how,10,How to treat coronavirus,9,2020-03-08
+2020-01-26,how,10,How to treat coronavirus,10,2020-03-08
+2020-02-02,how,10,How to treat coronavirus,3,2020-03-08
+2020-02-09,how,10,How to treat coronavirus,13,2020-03-08
+2020-02-16,how,10,How to treat coronavirus,1,2020-03-08
+2020-02-23,how,10,How to treat coronavirus,31,2020-03-08
+2020-03-01,how,10,How to treat coronavirus,31,2020-03-08
+2020-03-08,how,10,How to treat coronavirus,100,2020-03-08
+2020-03-15,how,10,How to treat coronavirus,63,2020-03-08
+2020-03-22,how,10,How to treat coronavirus,57,2020-03-08
+2020-03-29,how,10,How to treat coronavirus,40,2020-03-08
+2020-04-05,how,10,How to treat coronavirus,16,2020-03-08
+2020-04-12,how,10,How to treat coronavirus,26,2020-03-08
+2020-04-19,how,10,How to treat coronavirus,9,2020-03-08
+2020-04-26,how,10,How to treat coronavirus,3,2020-03-08
+2020-05-03,how,10,How to treat coronavirus,6,2020-03-08
+2020-05-10,how,10,How to treat coronavirus,8,2020-03-08
+2020-05-17,how,10,How to treat coronavirus,3,2020-03-08
+2020-05-24,how,10,How to treat coronavirus,3,2020-03-08
+2020-05-31,how,10,How to treat coronavirus,6,2020-03-08
+2020-06-07,how,10,How to treat coronavirus,4,2020-03-08
+2020-06-14,how,10,How to treat coronavirus,5,2020-03-08
+2020-06-21,how,10,How to treat coronavirus,1,2020-03-08
+2020-06-28,how,10,How to treat coronavirus,4,2020-03-08
+2020-07-05,how,10,How to treat coronavirus,5,2020-03-08
+2020-07-12,how,10,How to treat coronavirus,8,2020-03-08
+2020-07-19,how,10,How to treat coronavirus,3,2020-03-08
+2020-07-26,how,10,How to treat coronavirus,4,2020-03-08
+2020-08-02,how,10,How to treat coronavirus,4,2020-03-08
+2020-08-09,how,10,How to treat coronavirus,0,2020-03-08
+2020-08-16,how,10,How to treat coronavirus,1,2020-03-08
+2020-08-23,how,10,How to treat coronavirus,1,2020-03-08
+2020-08-30,how,10,How to treat coronavirus,3,2020-03-08
+2020-09-06,how,10,How to treat coronavirus,6,2020-03-08
+2020-09-13,how,10,How to treat coronavirus,6,2020-03-08
+2020-09-20,how,10,How to treat coronavirus,1,2020-03-08
+2020-09-27,how,10,How to treat coronavirus,4,2020-03-08
+2020-10-04,how,10,How to treat coronavirus,4,2020-03-08
+2020-10-11,how,10,How to treat coronavirus,6,2020-03-08
+2020-10-18,how,10,How to treat coronavirus,3,2020-03-08
+2020-10-25,how,10,How to treat coronavirus,3,2020-03-08
+2020-11-01,how,10,How to treat coronavirus,3,2020-03-08
+2020-11-08,how,10,How to treat coronavirus,1,2020-03-08
+2020-11-15,how,10,How to treat coronavirus,7,2020-03-08
+2020-11-22,how,10,How to treat coronavirus,0,2020-03-08
+2020-11-29,how,10,How to treat coronavirus,1,2020-03-08
+2020-12-06,how,10,How to treat coronavirus,1,2020-03-08
+2020-12-13,how,10,How to treat coronavirus,0,2020-03-08
+2020-12-20,how,10,How to treat coronavirus,4,2020-03-08
+2020-01-05,when,1,When will lockdown end?,0,2020-04-26
+2020-01-12,when,1,When will lockdown end?,0,2020-04-26
+2020-01-19,when,1,When will lockdown end?,0,2020-04-26
+2020-01-26,when,1,When will lockdown end?,0,2020-04-26
+2020-02-02,when,1,When will lockdown end?,0,2020-04-26
+2020-02-09,when,1,When will lockdown end?,0,2020-04-26
+2020-02-16,when,1,When will lockdown end?,0,2020-04-26
+2020-02-23,when,1,When will lockdown end?,0,2020-04-26
+2020-03-01,when,1,When will lockdown end?,0,2020-04-26
+2020-03-08,when,1,When will lockdown end?,1,2020-04-26
+2020-03-15,when,1,When will lockdown end?,2,2020-04-26
+2020-03-22,when,1,When will lockdown end?,14,2020-04-26
+2020-03-29,when,1,When will lockdown end?,41,2020-04-26
+2020-04-05,when,1,When will lockdown end?,74,2020-04-26
+2020-04-12,when,1,When will lockdown end?,92,2020-04-26
+2020-04-19,when,1,When will lockdown end?,81,2020-04-26
+2020-04-26,when,1,When will lockdown end?,100,2020-04-26
+2020-05-03,when,1,When will lockdown end?,73,2020-04-26
+2020-05-10,when,1,When will lockdown end?,21,2020-04-26
+2020-05-17,when,1,When will lockdown end?,22,2020-04-26
+2020-05-24,when,1,When will lockdown end?,22,2020-04-26
+2020-05-31,when,1,When will lockdown end?,10,2020-04-26
+2020-06-07,when,1,When will lockdown end?,13,2020-04-26
+2020-06-14,when,1,When will lockdown end?,8,2020-04-26
+2020-06-21,when,1,When will lockdown end?,8,2020-04-26
+2020-06-28,when,1,When will lockdown end?,6,2020-04-26
+2020-07-05,when,1,When will lockdown end?,5,2020-04-26
+2020-07-12,when,1,When will lockdown end?,3,2020-04-26
+2020-07-19,when,1,When will lockdown end?,1,2020-04-26
+2020-07-26,when,1,When will lockdown end?,1,2020-04-26
+2020-08-02,when,1,When will lockdown end?,1,2020-04-26
+2020-08-09,when,1,When will lockdown end?,2,2020-04-26
+2020-08-16,when,1,When will lockdown end?,2,2020-04-26
+2020-08-23,when,1,When will lockdown end?,1,2020-04-26
+2020-08-30,when,1,When will lockdown end?,1,2020-04-26
+2020-09-06,when,1,When will lockdown end?,0.22,2020-04-26
+2020-09-13,when,1,When will lockdown end?,1,2020-04-26
+2020-09-20,when,1,When will lockdown end?,2,2020-04-26
+2020-09-27,when,1,When will lockdown end?,1,2020-04-26
+2020-10-04,when,1,When will lockdown end?,3,2020-04-26
+2020-10-11,when,1,When will lockdown end?,1,2020-04-26
+2020-10-18,when,1,When will lockdown end?,1,2020-04-26
+2020-10-25,when,1,When will lockdown end?,1,2020-04-26
+2020-11-01,when,1,When will lockdown end?,7,2020-04-26
+2020-11-08,when,1,When will lockdown end?,7,2020-04-26
+2020-11-15,when,1,When will lockdown end?,13,2020-04-26
+2020-11-22,when,1,When will lockdown end?,10,2020-04-26
+2020-11-29,when,1,When will lockdown end?,6,2020-04-26
+2020-12-06,when,1,When will lockdown end?,2,2020-04-26
+2020-12-13,when,1,When will lockdown end?,3,2020-04-26
+2020-12-20,when,1,When will lockdown end?,7,2020-04-26
+2020-01-05,when,2,When will gyms reopen?,0,2020-07-05
+2020-01-12,when,2,When will gyms reopen?,0,2020-07-05
+2020-01-19,when,2,When will gyms reopen?,0,2020-07-05
+2020-01-26,when,2,When will gyms reopen?,0,2020-07-05
+2020-02-02,when,2,When will gyms reopen?,0,2020-07-05
+2020-02-09,when,2,When will gyms reopen?,0,2020-07-05
+2020-02-16,when,2,When will gyms reopen?,0,2020-07-05
+2020-02-23,when,2,When will gyms reopen?,0,2020-07-05
+2020-03-01,when,2,When will gyms reopen?,0,2020-07-05
+2020-03-08,when,2,When will gyms reopen?,0,2020-07-05
+2020-03-15,when,2,When will gyms reopen?,2,2020-07-05
+2020-03-22,when,2,When will gyms reopen?,4,2020-07-05
+2020-03-29,when,2,When will gyms reopen?,5,2020-07-05
+2020-04-05,when,2,When will gyms reopen?,1,2020-07-05
+2020-04-12,when,2,When will gyms reopen?,8,2020-07-05
+2020-04-19,when,2,When will gyms reopen?,20,2020-07-05
+2020-04-26,when,2,When will gyms reopen?,18,2020-07-05
+2020-05-03,when,2,When will gyms reopen?,32,2020-07-05
+2020-05-10,when,2,When will gyms reopen?,31,2020-07-05
+2020-05-17,when,2,When will gyms reopen?,31,2020-07-05
+2020-05-24,when,2,When will gyms reopen?,67,2020-07-05
+2020-05-31,when,2,When will gyms reopen?,68,2020-07-05
+2020-06-07,when,2,When will gyms reopen?,72,2020-07-05
+2020-06-14,when,2,When will gyms reopen?,82,2020-07-05
+2020-06-21,when,2,When will gyms reopen?,82,2020-07-05
+2020-06-28,when,2,When will gyms reopen?,69,2020-07-05
+2020-07-05,when,2,When will gyms reopen?,100,2020-07-05
+2020-07-12,when,2,When will gyms reopen?,11,2020-07-05
+2020-07-19,when,2,When will gyms reopen?,13,2020-07-05
+2020-07-26,when,2,When will gyms reopen?,7,2020-07-05
+2020-08-02,when,2,When will gyms reopen?,2,2020-07-05
+2020-08-09,when,2,When will gyms reopen?,1,2020-07-05
+2020-08-16,when,2,When will gyms reopen?,2,2020-07-05
+2020-08-23,when,2,When will gyms reopen?,1,2020-07-05
+2020-08-30,when,2,When will gyms reopen?,3,2020-07-05
+2020-09-06,when,2,When will gyms reopen?,2,2020-07-05
+2020-09-13,when,2,When will gyms reopen?,1,2020-07-05
+2020-09-20,when,2,When will gyms reopen?,1,2020-07-05
+2020-09-27,when,2,When will gyms reopen?,0,2020-07-05
+2020-10-04,when,2,When will gyms reopen?,1,2020-07-05
+2020-10-11,when,2,When will gyms reopen?,2,2020-07-05
+2020-10-18,when,2,When will gyms reopen?,2,2020-07-05
+2020-10-25,when,2,When will gyms reopen?,0,2020-07-05
+2020-11-01,when,2,When will gyms reopen?,0,2020-07-05
+2020-11-08,when,2,When will gyms reopen?,2,2020-07-05
+2020-11-15,when,2,When will gyms reopen?,4,2020-07-05
+2020-11-22,when,2,When will gyms reopen?,4,2020-07-05
+2020-11-29,when,2,When will gyms reopen?,2,2020-07-05
+2020-12-06,when,2,When will gyms reopen?,0,2020-07-05
+2020-12-13,when,2,When will gyms reopen?,1,2020-07-05
+2020-12-20,when,2,When will gyms reopen?,2,2020-07-05
+2020-01-05,when,3,When does lockdown start?,0,2020-11-01
+2020-01-12,when,3,When does lockdown start?,0,2020-11-01
+2020-01-19,when,3,When does lockdown start?,0,2020-11-01
+2020-01-26,when,3,When does lockdown start?,0,2020-11-01
+2020-02-02,when,3,When does lockdown start?,0,2020-11-01
+2020-02-09,when,3,When does lockdown start?,0,2020-11-01
+2020-02-16,when,3,When does lockdown start?,0,2020-11-01
+2020-02-23,when,3,When does lockdown start?,0,2020-11-01
+2020-03-01,when,3,When does lockdown start?,0,2020-11-01
+2020-03-08,when,3,When does lockdown start?,0.31,2020-11-01
+2020-03-15,when,3,When does lockdown start?,1,2020-11-01
+2020-03-22,when,3,When does lockdown start?,7,2020-11-01
+2020-03-29,when,3,When does lockdown start?,1,2020-11-01
+2020-04-05,when,3,When does lockdown start?,1,2020-11-01
+2020-04-12,when,3,When does lockdown start?,1,2020-11-01
+2020-04-19,when,3,When does lockdown start?,1,2020-11-01
+2020-04-26,when,3,When does lockdown start?,1,2020-11-01
+2020-05-03,when,3,When does lockdown start?,1,2020-11-01
+2020-05-10,when,3,When does lockdown start?,0.52,2020-11-01
+2020-05-17,when,3,When does lockdown start?,0.57,2020-11-01
+2020-05-24,when,3,When does lockdown start?,1,2020-11-01
+2020-05-31,when,3,When does lockdown start?,0.3,2020-11-01
+2020-06-07,when,3,When does lockdown start?,0.53,2020-11-01
+2020-06-14,when,3,When does lockdown start?,0.22,2020-11-01
+2020-06-21,when,3,When does lockdown start?,0,2020-11-01
+2020-06-28,when,3,When does lockdown start?,0.37,2020-11-01
+2020-07-05,when,3,When does lockdown start?,1,2020-11-01
+2020-07-12,when,3,When does lockdown start?,0.42,2020-11-01
+2020-07-19,when,3,When does lockdown start?,0.44,2020-11-01
+2020-07-26,when,3,When does lockdown start?,0,2020-11-01
+2020-08-02,when,3,When does lockdown start?,0.46,2020-11-01
+2020-08-09,when,3,When does lockdown start?,0,2020-11-01
+2020-08-16,when,3,When does lockdown start?,0.52,2020-11-01
+2020-08-23,when,3,When does lockdown start?,0.55,2020-11-01
+2020-08-30,when,3,When does lockdown start?,0,2020-11-01
+2020-09-06,when,3,When does lockdown start?,0.3,2020-11-01
+2020-09-13,when,3,When does lockdown start?,3,2020-11-01
+2020-09-20,when,3,When does lockdown start?,1,2020-11-01
+2020-09-27,when,3,When does lockdown start?,2,2020-11-01
+2020-10-04,when,3,When does lockdown start?,0.4,2020-11-01
+2020-10-11,when,3,When does lockdown start?,4,2020-11-01
+2020-10-18,when,3,When does lockdown start?,2,2020-11-01
+2020-10-25,when,3,When does lockdown start?,12,2020-11-01
+2020-11-01,when,3,When does lockdown start?,100,2020-11-01
+2020-11-08,when,3,When does lockdown start?,1,2020-11-01
+2020-11-15,when,3,When does lockdown start?,2,2020-11-01
+2020-11-22,when,3,When does lockdown start?,2,2020-11-01
+2020-11-29,when,3,When does lockdown start?,2,2020-11-01
+2020-12-06,when,3,When does lockdown start?,1,2020-11-01
+2020-12-13,when,3,When does lockdown start?,9,2020-11-01
+2020-12-20,when,3,When does lockdown start?,7,2020-11-01
+2020-01-05,when,4,When will schools reopen?,0,2020-05-03
+2020-01-12,when,4,When will schools reopen?,0,2020-05-03
+2020-01-19,when,4,When will schools reopen?,0,2020-05-03
+2020-01-26,when,4,When will schools reopen?,0,2020-05-03
+2020-02-02,when,4,When will schools reopen?,0,2020-05-03
+2020-02-09,when,4,When will schools reopen?,0,2020-05-03
+2020-02-16,when,4,When will schools reopen?,0,2020-05-03
+2020-02-23,when,4,When will schools reopen?,0,2020-05-03
+2020-03-01,when,4,When will schools reopen?,1,2020-05-03
+2020-03-08,when,4,When will schools reopen?,1,2020-05-03
+2020-03-15,when,4,When will schools reopen?,27,2020-05-03
+2020-03-22,when,4,When will schools reopen?,23,2020-05-03
+2020-03-29,when,4,When will schools reopen?,33,2020-05-03
+2020-04-05,when,4,When will schools reopen?,31,2020-05-03
+2020-04-12,when,4,When will schools reopen?,88,2020-05-03
+2020-04-19,when,4,When will schools reopen?,83,2020-05-03
+2020-04-26,when,4,When will schools reopen?,80,2020-05-03
+2020-05-03,when,4,When will schools reopen?,100,2020-05-03
+2020-05-10,when,4,When will schools reopen?,58,2020-05-03
+2020-05-17,when,4,When will schools reopen?,35,2020-05-03
+2020-05-24,when,4,When will schools reopen?,37,2020-05-03
+2020-05-31,when,4,When will schools reopen?,17,2020-05-03
+2020-06-07,when,4,When will schools reopen?,21,2020-05-03
+2020-06-14,when,4,When will schools reopen?,11,2020-05-03
+2020-06-21,when,4,When will schools reopen?,11,2020-05-03
+2020-06-28,when,4,When will schools reopen?,5,2020-05-03
+2020-07-05,when,4,When will schools reopen?,2,2020-05-03
+2020-07-12,when,4,When will schools reopen?,4,2020-05-03
+2020-07-19,when,4,When will schools reopen?,2,2020-05-03
+2020-07-26,when,4,When will schools reopen?,4,2020-05-03
+2020-08-02,when,4,When will schools reopen?,2,2020-05-03
+2020-08-09,when,4,When will schools reopen?,3,2020-05-03
+2020-08-16,when,4,When will schools reopen?,6,2020-05-03
+2020-08-23,when,4,When will schools reopen?,4,2020-05-03
+2020-08-30,when,4,When will schools reopen?,3,2020-05-03
+2020-09-06,when,4,When will schools reopen?,0,2020-05-03
+2020-09-13,when,4,When will schools reopen?,0,2020-05-03
+2020-09-20,when,4,When will schools reopen?,0,2020-05-03
+2020-09-27,when,4,When will schools reopen?,0,2020-05-03
+2020-10-04,when,4,When will schools reopen?,0,2020-05-03
+2020-10-11,when,4,When will schools reopen?,0,2020-05-03
+2020-10-18,when,4,When will schools reopen?,1,2020-05-03
+2020-10-25,when,4,When will schools reopen?,1,2020-05-03
+2020-11-01,when,4,When will schools reopen?,0,2020-05-03
+2020-11-08,when,4,When will schools reopen?,0,2020-05-03
+2020-11-15,when,4,When will schools reopen?,0,2020-05-03
+2020-11-22,when,4,When will schools reopen?,1,2020-05-03
+2020-11-29,when,4,When will schools reopen?,0,2020-05-03
+2020-12-06,when,4,When will schools reopen?,0,2020-05-03
+2020-12-13,when,4,When will schools reopen?,1,2020-05-03
+2020-12-20,when,4,When will schools reopen?,4,2020-05-03
+2020-01-05,when,5,When does furlough end?,0,2020-05-10
+2020-01-12,when,5,When does furlough end?,0,2020-05-10
+2020-01-19,when,5,When does furlough end?,0,2020-05-10
+2020-01-26,when,5,When does furlough end?,0,2020-05-10
+2020-02-02,when,5,When does furlough end?,0,2020-05-10
+2020-02-09,when,5,When does furlough end?,0,2020-05-10
+2020-02-16,when,5,When does furlough end?,0,2020-05-10
+2020-02-23,when,5,When does furlough end?,0,2020-05-10
+2020-03-01,when,5,When does furlough end?,0,2020-05-10
+2020-03-08,when,5,When does furlough end?,0,2020-05-10
+2020-03-15,when,5,When does furlough end?,0,2020-05-10
+2020-03-22,when,5,When does furlough end?,1,2020-05-10
+2020-03-29,when,5,When does furlough end?,6,2020-05-10
+2020-04-05,when,5,When does furlough end?,4,2020-05-10
+2020-04-12,when,5,When does furlough end?,18,2020-05-10
+2020-04-19,when,5,When does furlough end?,12,2020-05-10
+2020-04-26,when,5,When does furlough end?,36,2020-05-10
+2020-05-03,when,5,When does furlough end?,59,2020-05-10
+2020-05-10,when,5,When does furlough end?,100,2020-05-10
+2020-05-17,when,5,When does furlough end?,25,2020-05-10
+2020-05-24,when,5,When does furlough end?,34,2020-05-10
+2020-05-31,when,5,When does furlough end?,19,2020-05-10
+2020-06-07,when,5,When does furlough end?,31,2020-05-10
+2020-06-14,when,5,When does furlough end?,30,2020-05-10
+2020-06-21,when,5,When does furlough end?,51,2020-05-10
+2020-06-28,when,5,When does furlough end?,57,2020-05-10
+2020-07-05,when,5,When does furlough end?,60,2020-05-10
+2020-07-12,when,5,When does furlough end?,57,2020-05-10
+2020-07-19,when,5,When does furlough end?,63,2020-05-10
+2020-07-26,when,5,When does furlough end?,66,2020-05-10
+2020-08-02,when,5,When does furlough end?,45,2020-05-10
+2020-08-09,when,5,When does furlough end?,49,2020-05-10
+2020-08-16,when,5,When does furlough end?,38,2020-05-10
+2020-08-23,when,5,When does furlough end?,82,2020-05-10
+2020-08-30,when,5,When does furlough end?,59,2020-05-10
+2020-09-06,when,5,When does furlough end?,73,2020-05-10
+2020-09-13,when,5,When does furlough end?,99,2020-05-10
+2020-09-20,when,5,When does furlough end?,90,2020-05-10
+2020-09-27,when,5,When does furlough end?,46,2020-05-10
+2020-10-04,when,5,When does furlough end?,40,2020-05-10
+2020-10-11,when,5,When does furlough end?,25,2020-05-10
+2020-10-18,when,5,When does furlough end?,26,2020-05-10
+2020-10-25,when,5,When does furlough end?,32,2020-05-10
+2020-11-01,when,5,When does furlough end?,12,2020-05-10
+2020-11-08,when,5,When does furlough end?,3,2020-05-10
+2020-11-15,when,5,When does furlough end?,8,2020-05-10
+2020-11-22,when,5,When does furlough end?,15,2020-05-10
+2020-11-29,when,5,When does furlough end?,12,2020-05-10
+2020-12-06,when,5,When does furlough end?,6,2020-05-10
+2020-12-13,when,5,When does furlough end?,13,2020-05-10
+2020-12-20,when,5,When does furlough end?,8,2020-05-10
+2020-01-05,when,6,When will pubs reopen?,0,2020-06-07
+2020-01-12,when,6,When will pubs reopen?,0,2020-06-07
+2020-01-19,when,6,When will pubs reopen?,0,2020-06-07
+2020-01-26,when,6,When will pubs reopen?,0,2020-06-07
+2020-02-02,when,6,When will pubs reopen?,0,2020-06-07
+2020-02-09,when,6,When will pubs reopen?,0,2020-06-07
+2020-02-16,when,6,When will pubs reopen?,0,2020-06-07
+2020-02-23,when,6,When will pubs reopen?,0,2020-06-07
+2020-03-01,when,6,When will pubs reopen?,0,2020-06-07
+2020-03-08,when,6,When will pubs reopen?,0,2020-06-07
+2020-03-15,when,6,When will pubs reopen?,4,2020-06-07
+2020-03-22,when,6,When will pubs reopen?,7,2020-06-07
+2020-03-29,when,6,When will pubs reopen?,18,2020-06-07
+2020-04-05,when,6,When will pubs reopen?,16,2020-06-07
+2020-04-12,when,6,When will pubs reopen?,26,2020-06-07
+2020-04-19,when,6,When will pubs reopen?,77,2020-06-07
+2020-04-26,when,6,When will pubs reopen?,46,2020-06-07
+2020-05-03,when,6,When will pubs reopen?,49,2020-06-07
+2020-05-10,when,6,When will pubs reopen?,34,2020-06-07
+2020-05-17,when,6,When will pubs reopen?,45,2020-06-07
+2020-05-24,when,6,When will pubs reopen?,87,2020-06-07
+2020-05-31,when,6,When will pubs reopen?,78,2020-06-07
+2020-06-07,when,6,When will pubs reopen?,100,2020-06-07
+2020-06-14,when,6,When will pubs reopen?,84,2020-06-07
+2020-06-21,when,6,When will pubs reopen?,46,2020-06-07
+2020-06-28,when,6,When will pubs reopen?,13,2020-06-07
+2020-07-05,when,6,When will pubs reopen?,7,2020-06-07
+2020-07-12,when,6,When will pubs reopen?,3,2020-06-07
+2020-07-19,when,6,When will pubs reopen?,1,2020-06-07
+2020-07-26,when,6,When will pubs reopen?,0,2020-06-07
+2020-08-02,when,6,When will pubs reopen?,1,2020-06-07
+2020-08-09,when,6,When will pubs reopen?,0,2020-06-07
+2020-08-16,when,6,When will pubs reopen?,1,2020-06-07
+2020-08-23,when,6,When will pubs reopen?,1,2020-06-07
+2020-08-30,when,6,When will pubs reopen?,0,2020-06-07
+2020-09-06,when,6,When will pubs reopen?,1,2020-06-07
+2020-09-13,when,6,When will pubs reopen?,1,2020-06-07
+2020-09-20,when,6,When will pubs reopen?,0,2020-06-07
+2020-09-27,when,6,When will pubs reopen?,0,2020-06-07
+2020-10-04,when,6,When will pubs reopen?,0,2020-06-07
+2020-10-11,when,6,When will pubs reopen?,0,2020-06-07
+2020-10-18,when,6,When will pubs reopen?,1,2020-06-07
+2020-10-25,when,6,When will pubs reopen?,0,2020-06-07
+2020-11-01,when,6,When will pubs reopen?,2,2020-06-07
+2020-11-08,when,6,When will pubs reopen?,5,2020-06-07
+2020-11-15,when,6,When will pubs reopen?,14,2020-06-07
+2020-11-22,when,6,When will pubs reopen?,6,2020-06-07
+2020-11-29,when,6,When will pubs reopen?,9,2020-06-07
+2020-12-06,when,6,When will pubs reopen?,5,2020-06-07
+2020-12-13,when,6,When will pubs reopen?,2,2020-06-07
+2020-12-20,when,6,When will pubs reopen?,3,2020-06-07
+2020-01-05,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-01-12,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-01-19,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-01-26,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-02-02,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-02-09,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-02-16,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-02-23,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-03-01,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-03-08,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-03-15,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-03-22,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-03-29,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-04-05,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-04-12,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-04-19,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-04-26,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-05-03,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-05-10,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-05-17,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-05-24,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-05-31,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-06-07,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-06-14,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-06-21,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-06-28,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-07-05,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-07-12,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-07-19,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-07-26,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-08-02,when,7,When does Eat Out to Help Out end?,2,2020-08-23
+2020-08-09,when,7,When does Eat Out to Help Out end?,8,2020-08-23
+2020-08-16,when,7,When does Eat Out to Help Out end?,22,2020-08-23
+2020-08-23,when,7,When does Eat Out to Help Out end?,100,2020-08-23
+2020-08-30,when,7,When does Eat Out to Help Out end?,30,2020-08-23
+2020-09-06,when,7,When does Eat Out to Help Out end?,2,2020-08-23
+2020-09-13,when,7,When does Eat Out to Help Out end?,1,2020-08-23
+2020-09-20,when,7,When does Eat Out to Help Out end?,1,2020-08-23
+2020-09-27,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-10-04,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-10-11,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-10-18,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-10-25,when,7,When does Eat Out to Help Out end?,1,2020-08-23
+2020-11-01,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-11-08,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-11-15,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-11-22,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-11-29,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-12-06,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-12-13,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-12-20,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-01-05,when,8,When will the new president be announced?,0,2020-11-01
+2020-01-12,when,8,When will the new president be announced?,0,2020-11-01
+2020-01-19,when,8,When will the new president be announced?,0,2020-11-01
+2020-01-26,when,8,When will the new president be announced?,0,2020-11-01
+2020-02-02,when,8,When will the new president be announced?,0,2020-11-01
+2020-02-09,when,8,When will the new president be announced?,0,2020-11-01
+2020-02-16,when,8,When will the new president be announced?,0,2020-11-01
+2020-02-23,when,8,When will the new president be announced?,0,2020-11-01
+2020-03-01,when,8,When will the new president be announced?,0,2020-11-01
+2020-03-08,when,8,When will the new president be announced?,0,2020-11-01
+2020-03-15,when,8,When will the new president be announced?,0,2020-11-01
+2020-03-22,when,8,When will the new president be announced?,0,2020-11-01
+2020-03-29,when,8,When will the new president be announced?,0,2020-11-01
+2020-04-05,when,8,When will the new president be announced?,0,2020-11-01
+2020-04-12,when,8,When will the new president be announced?,0,2020-11-01
+2020-04-19,when,8,When will the new president be announced?,0,2020-11-01
+2020-04-26,when,8,When will the new president be announced?,0,2020-11-01
+2020-05-03,when,8,When will the new president be announced?,0,2020-11-01
+2020-05-10,when,8,When will the new president be announced?,0,2020-11-01
+2020-05-17,when,8,When will the new president be announced?,0,2020-11-01
+2020-05-24,when,8,When will the new president be announced?,0,2020-11-01
+2020-05-31,when,8,When will the new president be announced?,0,2020-11-01
+2020-06-07,when,8,When will the new president be announced?,0,2020-11-01
+2020-06-14,when,8,When will the new president be announced?,0,2020-11-01
+2020-06-21,when,8,When will the new president be announced?,0,2020-11-01
+2020-06-28,when,8,When will the new president be announced?,0,2020-11-01
+2020-07-05,when,8,When will the new president be announced?,0,2020-11-01
+2020-07-12,when,8,When will the new president be announced?,0,2020-11-01
+2020-07-19,when,8,When will the new president be announced?,0,2020-11-01
+2020-07-26,when,8,When will the new president be announced?,0,2020-11-01
+2020-08-02,when,8,When will the new president be announced?,1,2020-11-01
+2020-08-09,when,8,When will the new president be announced?,0,2020-11-01
+2020-08-16,when,8,When will the new president be announced?,0,2020-11-01
+2020-08-23,when,8,When will the new president be announced?,0,2020-11-01
+2020-08-30,when,8,When will the new president be announced?,0,2020-11-01
+2020-09-06,when,8,When will the new president be announced?,0,2020-11-01
+2020-09-13,when,8,When will the new president be announced?,0,2020-11-01
+2020-09-20,when,8,When will the new president be announced?,0,2020-11-01
+2020-09-27,when,8,When will the new president be announced?,0,2020-11-01
+2020-10-04,when,8,When will the new president be announced?,0,2020-11-01
+2020-10-11,when,8,When will the new president be announced?,0,2020-11-01
+2020-10-18,when,8,When will the new president be announced?,1,2020-11-01
+2020-10-25,when,8,When will the new president be announced?,6,2020-11-01
+2020-11-01,when,8,When will the new president be announced?,100,2020-11-01
+2020-11-08,when,8,When will the new president be announced?,1,2020-11-01
+2020-11-15,when,8,When will the new president be announced?,0,2020-11-01
+2020-11-22,when,8,When will the new president be announced?,0,2020-11-01
+2020-11-29,when,8,When will the new president be announced?,0,2020-11-01
+2020-12-06,when,8,When will the new president be announced?,0,2020-11-01
+2020-12-13,when,8,When will the new president be announced?,0,2020-11-01
+2020-12-20,when,8,When will the new president be announced?,0,2020-11-01
+2020-01-05,when,9,When does Love Island start?,100,2020-01-05
+2020-01-12,when,9,When does Love Island start?,30,2020-01-05
+2020-01-19,when,9,When does Love Island start?,1,2020-01-05
+2020-01-26,when,9,When does Love Island start?,2,2020-01-05
+2020-02-02,when,9,When does Love Island start?,2,2020-01-05
+2020-02-09,when,9,When does Love Island start?,4,2020-01-05
+2020-02-16,when,9,When does Love Island start?,4,2020-01-05
+2020-02-23,when,9,When does Love Island start?,4,2020-01-05
+2020-03-01,when,9,When does Love Island start?,1,2020-01-05
+2020-03-08,when,9,When does Love Island start?,1,2020-01-05
+2020-03-15,when,9,When does Love Island start?,1,2020-01-05
+2020-03-22,when,9,When does Love Island start?,1,2020-01-05
+2020-03-29,when,9,When does Love Island start?,0,2020-01-05
+2020-04-05,when,9,When does Love Island start?,2,2020-01-05
+2020-04-12,when,9,When does Love Island start?,0,2020-01-05
+2020-04-19,when,9,When does Love Island start?,0.29,2020-01-05
+2020-04-26,when,9,When does Love Island start?,0.2,2020-01-05
+2020-05-03,when,9,When does Love Island start?,0.55,2020-01-05
+2020-05-10,when,9,When does Love Island start?,0,2020-01-05
+2020-05-17,when,9,When does Love Island start?,0,2020-01-05
+2020-05-24,when,9,When does Love Island start?,0,2020-01-05
+2020-05-31,when,9,When does Love Island start?,2,2020-01-05
+2020-06-07,when,9,When does Love Island start?,7,2020-01-05
+2020-06-14,when,9,When does Love Island start?,5,2020-01-05
+2020-06-21,when,9,When does Love Island start?,1,2020-01-05
+2020-06-28,when,9,When does Love Island start?,0,2020-01-05
+2020-07-05,when,9,When does Love Island start?,1,2020-01-05
+2020-07-12,when,9,When does Love Island start?,1,2020-01-05
+2020-07-19,when,9,When does Love Island start?,1,2020-01-05
+2020-07-26,when,9,When does Love Island start?,0,2020-01-05
+2020-08-02,when,9,When does Love Island start?,0,2020-01-05
+2020-08-09,when,9,When does Love Island start?,0,2020-01-05
+2020-08-16,when,9,When does Love Island start?,0,2020-01-05
+2020-08-23,when,9,When does Love Island start?,3,2020-01-05
+2020-08-30,when,9,When does Love Island start?,3,2020-01-05
+2020-09-06,when,9,When does Love Island start?,2,2020-01-05
+2020-09-13,when,9,When does Love Island start?,0,2020-01-05
+2020-09-20,when,9,When does Love Island start?,1,2020-01-05
+2020-09-27,when,9,When does Love Island start?,1,2020-01-05
+2020-10-04,when,9,When does Love Island start?,1,2020-01-05
+2020-10-11,when,9,When does Love Island start?,0,2020-01-05
+2020-10-18,when,9,When does Love Island start?,0,2020-01-05
+2020-10-25,when,9,When does Love Island start?,0,2020-01-05
+2020-11-01,when,9,When does Love Island start?,1,2020-01-05
+2020-11-08,when,9,When does Love Island start?,0,2020-01-05
+2020-11-15,when,9,When does Love Island start?,0,2020-01-05
+2020-11-22,when,9,When does Love Island start?,0,2020-01-05
+2020-11-29,when,9,When does Love Island start?,1,2020-01-05
+2020-12-06,when,9,When does Love Island start?,0,2020-01-05
+2020-12-13,when,9,When does Love Island start?,0,2020-01-05
+2020-12-20,when,9,When does Love Island start?,0,2020-01-05
+2020-01-05,when,10,When will hairdressers open?,0,2020-05-31
+2020-01-12,when,10,When will hairdressers open?,0,2020-05-31
+2020-01-19,when,10,When will hairdressers open?,0,2020-05-31
+2020-01-26,when,10,When will hairdressers open?,0,2020-05-31
+2020-02-02,when,10,When will hairdressers open?,0,2020-05-31
+2020-02-09,when,10,When will hairdressers open?,0,2020-05-31
+2020-02-16,when,10,When will hairdressers open?,0,2020-05-31
+2020-02-23,when,10,When will hairdressers open?,0,2020-05-31
+2020-03-01,when,10,When will hairdressers open?,0,2020-05-31
+2020-03-08,when,10,When will hairdressers open?,1,2020-05-31
+2020-03-15,when,10,When will hairdressers open?,1,2020-05-31
+2020-03-22,when,10,When will hairdressers open?,1,2020-05-31
+2020-03-29,when,10,When will hairdressers open?,7,2020-05-31
+2020-04-05,when,10,When will hairdressers open?,2,2020-05-31
+2020-04-12,when,10,When will hairdressers open?,7,2020-05-31
+2020-04-19,when,10,When will hairdressers open?,21,2020-05-31
+2020-04-26,when,10,When will hairdressers open?,19,2020-05-31
+2020-05-03,when,10,When will hairdressers open?,86,2020-05-31
+2020-05-10,when,10,When will hairdressers open?,93,2020-05-31
+2020-05-17,when,10,When will hairdressers open?,62,2020-05-31
+2020-05-24,when,10,When will hairdressers open?,60,2020-05-31
+2020-05-31,when,10,When will hairdressers open?,100,2020-05-31
+2020-06-07,when,10,When will hairdressers open?,92,2020-05-31
+2020-06-14,when,10,When will hairdressers open?,85,2020-05-31
+2020-06-21,when,10,When will hairdressers open?,43,2020-05-31
+2020-06-28,when,10,When will hairdressers open?,20,2020-05-31
+2020-07-05,when,10,When will hairdressers open?,9,2020-05-31
+2020-07-12,when,10,When will hairdressers open?,4,2020-05-31
+2020-07-19,when,10,When will hairdressers open?,1,2020-05-31
+2020-07-26,when,10,When will hairdressers open?,0,2020-05-31
+2020-08-02,when,10,When will hairdressers open?,0,2020-05-31
+2020-08-09,when,10,When will hairdressers open?,0,2020-05-31
+2020-08-16,when,10,When will hairdressers open?,0,2020-05-31
+2020-08-23,when,10,When will hairdressers open?,0,2020-05-31
+2020-08-30,when,10,When will hairdressers open?,1,2020-05-31
+2020-09-06,when,10,When will hairdressers open?,0,2020-05-31
+2020-09-13,when,10,When will hairdressers open?,1,2020-05-31
+2020-09-20,when,10,When will hairdressers open?,0,2020-05-31
+2020-09-27,when,10,When will hairdressers open?,0,2020-05-31
+2020-10-04,when,10,When will hairdressers open?,0,2020-05-31
+2020-10-11,when,10,When will hairdressers open?,3,2020-05-31
+2020-10-18,when,10,When will hairdressers open?,1,2020-05-31
+2020-10-25,when,10,When will hairdressers open?,0,2020-05-31
+2020-11-01,when,10,When will hairdressers open?,3,2020-05-31
+2020-11-08,when,10,When will hairdressers open?,4,2020-05-31
+2020-11-15,when,10,When will hairdressers open?,4,2020-05-31
+2020-11-22,when,10,When will hairdressers open?,4,2020-05-31
+2020-11-29,when,10,When will hairdressers open?,1,2020-05-31
+2020-12-06,when,10,When will hairdressers open?,0,2020-05-31
+2020-12-13,when,10,When will hairdressers open?,0,2020-05-31
+2020-12-20,when,10,When will hairdressers open?,4,2020-05-31
+2020-01-05,what,1,What is VE day?,1,2020-05-03
+2020-01-12,what,1,What is VE day?,0.59,2020-05-03
+2020-01-19,what,1,What is VE day?,0.43,2020-05-03
+2020-01-26,what,1,What is VE day?,0.51,2020-05-03
+2020-02-02,what,1,What is VE day?,0.1,2020-05-03
+2020-02-09,what,1,What is VE day?,0.47,2020-05-03
+2020-02-16,what,1,What is VE day?,0.31,2020-05-03
+2020-02-23,what,1,What is VE day?,1,2020-05-03
+2020-03-01,what,1,What is VE day?,0.49,2020-05-03
+2020-03-08,what,1,What is VE day?,0.39,2020-05-03
+2020-03-15,what,1,What is VE day?,0.25,2020-05-03
+2020-03-22,what,1,What is VE day?,0.54,2020-05-03
+2020-03-29,what,1,What is VE day?,0.29,2020-05-03
+2020-04-05,what,1,What is VE day?,0.46,2020-05-03
+2020-04-12,what,1,What is VE day?,1,2020-05-03
+2020-04-19,what,1,What is VE day?,1,2020-05-03
+2020-04-26,what,1,What is VE day?,9,2020-05-03
+2020-05-03,what,1,What is VE day?,100,2020-05-03
+2020-05-10,what,1,What is VE day?,5,2020-05-03
+2020-05-17,what,1,What is VE day?,1,2020-05-03
+2020-05-24,what,1,What is VE day?,1,2020-05-03
+2020-05-31,what,1,What is VE day?,1,2020-05-03
+2020-06-07,what,1,What is VE day?,0.59,2020-05-03
+2020-06-14,what,1,What is VE day?,0.33,2020-05-03
+2020-06-21,what,1,What is VE day?,0.51,2020-05-03
+2020-06-28,what,1,What is VE day?,0.59,2020-05-03
+2020-07-05,what,1,What is VE day?,0.53,2020-05-03
+2020-07-12,what,1,What is VE day?,0.38,2020-05-03
+2020-07-19,what,1,What is VE day?,0,2020-05-03
+2020-07-26,what,1,What is VE day?,0,2020-05-03
+2020-08-02,what,1,What is VE day?,0.23,2020-05-03
+2020-08-09,what,1,What is VE day?,1,2020-05-03
+2020-08-16,what,1,What is VE day?,0,2020-05-03
+2020-08-23,what,1,What is VE day?,0.5,2020-05-03
+2020-08-30,what,1,What is VE day?,0,2020-05-03
+2020-09-06,what,1,What is VE day?,0,2020-05-03
+2020-09-13,what,1,What is VE day?,0.19,2020-05-03
+2020-09-20,what,1,What is VE day?,0.26,2020-05-03
+2020-09-27,what,1,What is VE day?,0,2020-05-03
+2020-10-04,what,1,What is VE day?,0,2020-05-03
+2020-10-11,what,1,What is VE day?,0,2020-05-03
+2020-10-18,what,1,What is VE day?,0.57,2020-05-03
+2020-10-25,what,1,What is VE day?,0,2020-05-03
+2020-11-01,what,1,What is VE day?,0,2020-05-03
+2020-11-08,what,1,What is VE day?,0.51,2020-05-03
+2020-11-15,what,1,What is VE day?,0,2020-05-03
+2020-11-22,what,1,What is VE day?,0.22,2020-05-03
+2020-11-29,what,1,What is VE day?,0,2020-05-03
+2020-12-06,what,1,What is VE day?,0,2020-05-03
+2020-12-13,what,1,What is VE day?,0,2020-05-03
+2020-12-20,what,1,What is VE day?,0,2020-05-03
+2020-01-05,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-01-12,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-01-19,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-01-26,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-02-02,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-02-09,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-02-16,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-02-23,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-03-01,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-03-08,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-03-15,what,2,What time is Boris Johnson's speech today?,100,2020-03-15
+2020-03-22,what,2,What time is Boris Johnson's speech today?,97,2020-03-15
+2020-03-29,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-04-05,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-04-12,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-04-19,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-04-26,what,2,What time is Boris Johnson's speech today?,47,2020-03-15
+2020-05-03,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-05-10,what,2,What time is Boris Johnson's speech today?,47,2020-03-15
+2020-05-17,what,2,What time is Boris Johnson's speech today?,48,2020-03-15
+2020-05-24,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-05-31,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-06-07,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-06-14,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-06-21,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-06-28,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-07-05,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-07-12,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-07-19,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-07-26,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-08-02,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-08-09,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-08-16,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-08-23,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-08-30,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-09-06,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-09-13,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-09-20,what,2,What time is Boris Johnson's speech today?,52,2020-03-15
+2020-09-27,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-10-04,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-10-11,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-10-18,what,2,What time is Boris Johnson's speech today?,56,2020-03-15
+2020-10-25,what,2,What time is Boris Johnson's speech today?,54,2020-03-15
+2020-11-01,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-11-08,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-11-15,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-11-22,what,2,What time is Boris Johnson's speech today?,52,2020-03-15
+2020-11-29,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-12-06,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-12-13,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-12-20,what,2,What time is Boris Johnson's speech today?,0,2020-03-15
+2020-01-05,what,3,What are the symptoms of coronavirus?,0,2020-03-08
+2020-01-12,what,3,What are the symptoms of coronavirus?,0,2020-03-08
+2020-01-19,what,3,What are the symptoms of coronavirus?,7,2020-03-08
+2020-01-26,what,3,What are the symptoms of coronavirus?,40,2020-03-08
+2020-02-02,what,3,What are the symptoms of coronavirus?,23,2020-03-08
+2020-02-09,what,3,What are the symptoms of coronavirus?,36,2020-03-08
+2020-02-16,what,3,What are the symptoms of coronavirus?,11,2020-03-08
+2020-02-23,what,3,What are the symptoms of coronavirus?,44,2020-03-08
+2020-03-01,what,3,What are the symptoms of coronavirus?,71,2020-03-08
+2020-03-08,what,3,What are the symptoms of coronavirus?,100,2020-03-08
+2020-03-15,what,3,What are the symptoms of coronavirus?,86,2020-03-08
+2020-03-22,what,3,What are the symptoms of coronavirus?,80,2020-03-08
+2020-03-29,what,3,What are the symptoms of coronavirus?,46,2020-03-08
+2020-04-05,what,3,What are the symptoms of coronavirus?,20,2020-03-08
+2020-04-12,what,3,What are the symptoms of coronavirus?,17,2020-03-08
+2020-04-19,what,3,What are the symptoms of coronavirus?,15,2020-03-08
+2020-04-26,what,3,What are the symptoms of coronavirus?,14,2020-03-08
+2020-05-03,what,3,What are the symptoms of coronavirus?,9,2020-03-08
+2020-05-10,what,3,What are the symptoms of coronavirus?,8,2020-03-08
+2020-05-17,what,3,What are the symptoms of coronavirus?,7,2020-03-08
+2020-05-24,what,3,What are the symptoms of coronavirus?,7,2020-03-08
+2020-05-31,what,3,What are the symptoms of coronavirus?,3,2020-03-08
+2020-06-07,what,3,What are the symptoms of coronavirus?,4,2020-03-08
+2020-06-14,what,3,What are the symptoms of coronavirus?,1,2020-03-08
+2020-06-21,what,3,What are the symptoms of coronavirus?,5,2020-03-08
+2020-06-28,what,3,What are the symptoms of coronavirus?,8,2020-03-08
+2020-07-05,what,3,What are the symptoms of coronavirus?,9,2020-03-08
+2020-07-12,what,3,What are the symptoms of coronavirus?,5,2020-03-08
+2020-07-19,what,3,What are the symptoms of coronavirus?,2,2020-03-08
+2020-07-26,what,3,What are the symptoms of coronavirus?,4,2020-03-08
+2020-08-02,what,3,What are the symptoms of coronavirus?,4,2020-03-08
+2020-08-09,what,3,What are the symptoms of coronavirus?,1,2020-03-08
+2020-08-16,what,3,What are the symptoms of coronavirus?,5,2020-03-08
+2020-08-23,what,3,What are the symptoms of coronavirus?,1,2020-03-08
+2020-08-30,what,3,What are the symptoms of coronavirus?,5,2020-03-08
+2020-09-06,what,3,What are the symptoms of coronavirus?,8,2020-03-08
+2020-09-13,what,3,What are the symptoms of coronavirus?,7,2020-03-08
+2020-09-20,what,3,What are the symptoms of coronavirus?,6,2020-03-08
+2020-09-27,what,3,What are the symptoms of coronavirus?,3,2020-03-08
+2020-10-04,what,3,What are the symptoms of coronavirus?,3,2020-03-08
+2020-10-11,what,3,What are the symptoms of coronavirus?,6,2020-03-08
+2020-10-18,what,3,What are the symptoms of coronavirus?,2,2020-03-08
+2020-10-25,what,3,What are the symptoms of coronavirus?,3,2020-03-08
+2020-11-01,what,3,What are the symptoms of coronavirus?,2,2020-03-08
+2020-11-08,what,3,What are the symptoms of coronavirus?,5,2020-03-08
+2020-11-15,what,3,What are the symptoms of coronavirus?,1,2020-03-08
+2020-11-22,what,3,What are the symptoms of coronavirus?,1,2020-03-08
+2020-11-29,what,3,What are the symptoms of coronavirus?,3,2020-03-08
+2020-12-06,what,3,What are the symptoms of coronavirus?,3,2020-03-08
+2020-12-13,what,3,What are the symptoms of coronavirus?,3,2020-03-08
+2020-12-20,what,3,What are the symptoms of coronavirus?,4,2020-03-08
+2020-01-05,what,4,What time is Fury vs Wilder?,0.41,2020-02-16
+2020-01-12,what,4,What time is Fury vs Wilder?,0.37,2020-02-16
+2020-01-19,what,4,What time is Fury vs Wilder?,0.53,2020-02-16
+2020-01-26,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-02-02,what,4,What time is Fury vs Wilder?,0.34,2020-02-16
+2020-02-09,what,4,What time is Fury vs Wilder?,4,2020-02-16
+2020-02-16,what,4,What time is Fury vs Wilder?,100,2020-02-16
+2020-02-23,what,4,What time is Fury vs Wilder?,31,2020-02-16
+2020-03-01,what,4,What time is Fury vs Wilder?,0.49,2020-02-16
+2020-03-08,what,4,What time is Fury vs Wilder?,0.24,2020-02-16
+2020-03-15,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-03-22,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-03-29,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-04-05,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-04-12,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-04-19,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-04-26,what,4,What time is Fury vs Wilder?,0.16,2020-02-16
+2020-05-03,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-05-10,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-05-17,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-05-24,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-05-31,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-06-07,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-06-14,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-06-21,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-06-28,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-07-05,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-07-12,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-07-19,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-07-26,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-08-02,what,4,What time is Fury vs Wilder?,0.36,2020-02-16
+2020-08-09,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-08-16,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-08-23,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-08-30,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-09-06,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-09-13,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-09-20,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-09-27,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-10-04,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-10-11,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-10-18,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-10-25,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-11-01,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-11-08,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-11-15,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-11-22,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-11-29,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-12-06,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-12-13,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-12-20,what,4,What time is Fury vs Wilder?,0,2020-02-16
+2020-01-05,what,5,What is coronavirus?,0,2020-03-15
+2020-01-12,what,5,What is coronavirus?,0.34,2020-03-15
+2020-01-19,what,5,What is coronavirus?,10,2020-03-15
+2020-01-26,what,5,What is coronavirus?,26,2020-03-15
+2020-02-02,what,5,What is coronavirus?,12,2020-03-15
+2020-02-09,what,5,What is coronavirus?,13,2020-03-15
+2020-02-16,what,5,What is coronavirus?,4,2020-03-15
+2020-02-23,what,5,What is coronavirus?,22,2020-03-15
+2020-03-01,what,5,What is coronavirus?,31,2020-03-15
+2020-03-08,what,5,What is coronavirus?,72,2020-03-15
+2020-03-15,what,5,What is coronavirus?,100,2020-03-15
+2020-03-22,what,5,What is coronavirus?,79,2020-03-15
+2020-03-29,what,5,What is coronavirus?,50,2020-03-15
+2020-04-05,what,5,What is coronavirus?,44,2020-03-15
+2020-04-12,what,5,What is coronavirus?,47,2020-03-15
+2020-04-19,what,5,What is coronavirus?,34,2020-03-15
+2020-04-26,what,5,What is coronavirus?,21,2020-03-15
+2020-05-03,what,5,What is coronavirus?,21,2020-03-15
+2020-05-10,what,5,What is coronavirus?,22,2020-03-15
+2020-05-17,what,5,What is coronavirus?,18,2020-03-15
+2020-05-24,what,5,What is coronavirus?,14,2020-03-15
+2020-05-31,what,5,What is coronavirus?,14,2020-03-15
+2020-06-07,what,5,What is coronavirus?,11,2020-03-15
+2020-06-14,what,5,What is coronavirus?,10,2020-03-15
+2020-06-21,what,5,What is coronavirus?,11,2020-03-15
+2020-06-28,what,5,What is coronavirus?,11,2020-03-15
+2020-07-05,what,5,What is coronavirus?,12,2020-03-15
+2020-07-12,what,5,What is coronavirus?,10,2020-03-15
+2020-07-19,what,5,What is coronavirus?,7,2020-03-15
+2020-07-26,what,5,What is coronavirus?,10,2020-03-15
+2020-08-02,what,5,What is coronavirus?,7,2020-03-15
+2020-08-09,what,5,What is coronavirus?,8,2020-03-15
+2020-08-16,what,5,What is coronavirus?,6,2020-03-15
+2020-08-23,what,5,What is coronavirus?,6,2020-03-15
+2020-08-30,what,5,What is coronavirus?,6,2020-03-15
+2020-09-06,what,5,What is coronavirus?,10,2020-03-15
+2020-09-13,what,5,What is coronavirus?,11,2020-03-15
+2020-09-20,what,5,What is coronavirus?,10,2020-03-15
+2020-09-27,what,5,What is coronavirus?,10,2020-03-15
+2020-10-04,what,5,What is coronavirus?,8,2020-03-15
+2020-10-11,what,5,What is coronavirus?,17,2020-03-15
+2020-10-18,what,5,What is coronavirus?,10,2020-03-15
+2020-10-25,what,5,What is coronavirus?,11,2020-03-15
+2020-11-01,what,5,What is coronavirus?,8,2020-03-15
+2020-11-08,what,5,What is coronavirus?,7,2020-03-15
+2020-11-15,what,5,What is coronavirus?,6,2020-03-15
+2020-11-22,what,5,What is coronavirus?,10,2020-03-15
+2020-11-29,what,5,What is coronavirus?,5,2020-03-15
+2020-12-06,what,5,What is coronavirus?,5,2020-03-15
+2020-12-13,what,5,What is coronavirus?,12,2020-03-15
+2020-12-20,what,5,What is coronavirus?,12,2020-03-15
+2020-01-05,what,6,What tier am I in?,0,2020-11-22
+2020-01-12,what,6,What tier am I in?,0,2020-11-22
+2020-01-19,what,6,What tier am I in?,0,2020-11-22
+2020-01-26,what,6,What tier am I in?,0,2020-11-22
+2020-02-02,what,6,What tier am I in?,0.14,2020-11-22
+2020-02-09,what,6,What tier am I in?,0,2020-11-22
+2020-02-16,what,6,What tier am I in?,0,2020-11-22
+2020-02-23,what,6,What tier am I in?,0,2020-11-22
+2020-03-01,what,6,What tier am I in?,0.36,2020-11-22
+2020-03-08,what,6,What tier am I in?,0,2020-11-22
+2020-03-15,what,6,What tier am I in?,0,2020-11-22
+2020-03-22,what,6,What tier am I in?,0,2020-11-22
+2020-03-29,what,6,What tier am I in?,0,2020-11-22
+2020-04-05,what,6,What tier am I in?,0,2020-11-22
+2020-04-12,what,6,What tier am I in?,0,2020-11-22
+2020-04-19,what,6,What tier am I in?,0,2020-11-22
+2020-04-26,what,6,What tier am I in?,0,2020-11-22
+2020-05-03,what,6,What tier am I in?,0,2020-11-22
+2020-05-10,what,6,What tier am I in?,0,2020-11-22
+2020-05-17,what,6,What tier am I in?,0,2020-11-22
+2020-05-24,what,6,What tier am I in?,0.51,2020-11-22
+2020-05-31,what,6,What tier am I in?,0,2020-11-22
+2020-06-07,what,6,What tier am I in?,0,2020-11-22
+2020-06-14,what,6,What tier am I in?,0,2020-11-22
+2020-06-21,what,6,What tier am I in?,0,2020-11-22
+2020-06-28,what,6,What tier am I in?,0,2020-11-22
+2020-07-05,what,6,What tier am I in?,0,2020-11-22
+2020-07-12,what,6,What tier am I in?,0.19,2020-11-22
+2020-07-19,what,6,What tier am I in?,0,2020-11-22
+2020-07-26,what,6,What tier am I in?,0,2020-11-22
+2020-08-02,what,6,What tier am I in?,0,2020-11-22
+2020-08-09,what,6,What tier am I in?,0,2020-11-22
+2020-08-16,what,6,What tier am I in?,0,2020-11-22
+2020-08-23,what,6,What tier am I in?,0,2020-11-22
+2020-08-30,what,6,What tier am I in?,0,2020-11-22
+2020-09-06,what,6,What tier am I in?,0,2020-11-22
+2020-09-13,what,6,What tier am I in?,0,2020-11-22
+2020-09-20,what,6,What tier am I in?,0,2020-11-22
+2020-09-27,what,6,What tier am I in?,0,2020-11-22
+2020-10-04,what,6,What tier am I in?,0.58,2020-11-22
+2020-10-11,what,6,What tier am I in?,12,2020-11-22
+2020-10-18,what,6,What tier am I in?,7,2020-11-22
+2020-10-25,what,6,What tier am I in?,11,2020-11-22
+2020-11-01,what,6,What tier am I in?,1,2020-11-22
+2020-11-08,what,6,What tier am I in?,0.59,2020-11-22
+2020-11-15,what,6,What tier am I in?,1,2020-11-22
+2020-11-22,what,6,What tier am I in?,100,2020-11-22
+2020-11-29,what,6,What tier am I in?,13,2020-11-22
+2020-12-06,what,6,What tier am I in?,5,2020-11-22
+2020-12-13,what,6,What tier am I in?,84,2020-11-22
+2020-12-20,what,6,What tier am I in?,56,2020-11-22
+2020-01-05,what,7,What does woke mean?,43,2020-01-19
+2020-01-12,what,7,What does woke mean?,36,2020-01-19
+2020-01-19,what,7,What does woke mean?,100,2020-01-19
+2020-01-26,what,7,What does woke mean?,28,2020-01-19
+2020-02-02,what,7,What does woke mean?,23,2020-01-19
+2020-02-09,what,7,What does woke mean?,22,2020-01-19
+2020-02-16,what,7,What does woke mean?,23,2020-01-19
+2020-02-23,what,7,What does woke mean?,22,2020-01-19
+2020-03-01,what,7,What does woke mean?,14,2020-01-19
+2020-03-08,what,7,What does woke mean?,19,2020-01-19
+2020-03-15,what,7,What does woke mean?,5,2020-01-19
+2020-03-22,what,7,What does woke mean?,6,2020-01-19
+2020-03-29,what,7,What does woke mean?,4,2020-01-19
+2020-04-05,what,7,What does woke mean?,4,2020-01-19
+2020-04-12,what,7,What does woke mean?,3,2020-01-19
+2020-04-19,what,7,What does woke mean?,5,2020-01-19
+2020-04-26,what,7,What does woke mean?,6,2020-01-19
+2020-05-03,what,7,What does woke mean?,3,2020-01-19
+2020-05-10,what,7,What does woke mean?,3,2020-01-19
+2020-05-17,what,7,What does woke mean?,2,2020-01-19
+2020-05-24,what,7,What does woke mean?,3,2020-01-19
+2020-05-31,what,7,What does woke mean?,2,2020-01-19
+2020-06-07,what,7,What does woke mean?,10,2020-01-19
+2020-06-14,what,7,What does woke mean?,13,2020-01-19
+2020-06-21,what,7,What does woke mean?,9,2020-01-19
+2020-06-28,what,7,What does woke mean?,7,2020-01-19
+2020-07-05,what,7,What does woke mean?,10,2020-01-19
+2020-07-12,what,7,What does woke mean?,5,2020-01-19
+2020-07-19,what,7,What does woke mean?,2,2020-01-19
+2020-07-26,what,7,What does woke mean?,4,2020-01-19
+2020-08-02,what,7,What does woke mean?,5,2020-01-19
+2020-08-09,what,7,What does woke mean?,9,2020-01-19
+2020-08-16,what,7,What does woke mean?,2,2020-01-19
+2020-08-23,what,7,What does woke mean?,18,2020-01-19
+2020-08-30,what,7,What does woke mean?,30,2020-01-19
+2020-09-06,what,7,What does woke mean?,14,2020-01-19
+2020-09-13,what,7,What does woke mean?,9,2020-01-19
+2020-09-20,what,7,What does woke mean?,7,2020-01-19
+2020-09-27,what,7,What does woke mean?,14,2020-01-19
+2020-10-04,what,7,What does woke mean?,5,2020-01-19
+2020-10-11,what,7,What does woke mean?,11,2020-01-19
+2020-10-18,what,7,What does woke mean?,9,2020-01-19
+2020-10-25,what,7,What does woke mean?,5,2020-01-19
+2020-11-01,what,7,What does woke mean?,5,2020-01-19
+2020-11-08,what,7,What does woke mean?,9,2020-01-19
+2020-11-15,what,7,What does woke mean?,11,2020-01-19
+2020-11-22,what,7,What does woke mean?,6,2020-01-19
+2020-11-29,what,7,What does woke mean?,9,2020-01-19
+2020-12-06,what,7,What does woke mean?,7,2020-01-19
+2020-12-13,what,7,What does woke mean?,15,2020-01-19
+2020-12-20,what,7,What does woke mean?,9,2020-01-19
+2020-01-05,what,8,What does WAP mean?,0,2020-08-23
+2020-01-12,what,8,What does WAP mean?,0,2020-08-23
+2020-01-19,what,8,What does WAP mean?,0,2020-08-23
+2020-01-26,what,8,What does WAP mean?,0,2020-08-23
+2020-02-02,what,8,What does WAP mean?,0,2020-08-23
+2020-02-09,what,8,What does WAP mean?,0,2020-08-23
+2020-02-16,what,8,What does WAP mean?,1,2020-08-23
+2020-02-23,what,8,What does WAP mean?,0,2020-08-23
+2020-03-01,what,8,What does WAP mean?,0,2020-08-23
+2020-03-08,what,8,What does WAP mean?,0,2020-08-23
+2020-03-15,what,8,What does WAP mean?,0,2020-08-23
+2020-03-22,what,8,What does WAP mean?,0,2020-08-23
+2020-03-29,what,8,What does WAP mean?,0,2020-08-23
+2020-04-05,what,8,What does WAP mean?,1,2020-08-23
+2020-04-12,what,8,What does WAP mean?,0,2020-08-23
+2020-04-19,what,8,What does WAP mean?,0,2020-08-23
+2020-04-26,what,8,What does WAP mean?,0,2020-08-23
+2020-05-03,what,8,What does WAP mean?,0,2020-08-23
+2020-05-10,what,8,What does WAP mean?,1,2020-08-23
+2020-05-17,what,8,What does WAP mean?,0,2020-08-23
+2020-05-24,what,8,What does WAP mean?,0,2020-08-23
+2020-05-31,what,8,What does WAP mean?,0,2020-08-23
+2020-06-07,what,8,What does WAP mean?,0,2020-08-23
+2020-06-14,what,8,What does WAP mean?,0,2020-08-23
+2020-06-21,what,8,What does WAP mean?,0,2020-08-23
+2020-06-28,what,8,What does WAP mean?,0,2020-08-23
+2020-07-05,what,8,What does WAP mean?,0,2020-08-23
+2020-07-12,what,8,What does WAP mean?,1,2020-08-23
+2020-07-19,what,8,What does WAP mean?,0,2020-08-23
+2020-07-26,what,8,What does WAP mean?,0,2020-08-23
+2020-08-02,what,8,What does WAP mean?,4,2020-08-23
+2020-08-09,what,8,What does WAP mean?,35,2020-08-23
+2020-08-16,what,8,What does WAP mean?,84,2020-08-23
+2020-08-23,what,8,What does WAP mean?,100,2020-08-23
+2020-08-30,what,8,What does WAP mean?,71,2020-08-23
+2020-09-06,what,8,What does WAP mean?,53,2020-08-23
+2020-09-13,what,8,What does WAP mean?,48,2020-08-23
+2020-09-20,what,8,What does WAP mean?,38,2020-08-23
+2020-09-27,what,8,What does WAP mean?,41,2020-08-23
+2020-10-04,what,8,What does WAP mean?,26,2020-08-23
+2020-10-11,what,8,What does WAP mean?,29,2020-08-23
+2020-10-18,what,8,What does WAP mean?,49,2020-08-23
+2020-10-25,what,8,What does WAP mean?,24,2020-08-23
+2020-11-01,what,8,What does WAP mean?,21,2020-08-23
+2020-11-08,what,8,What does WAP mean?,19,2020-08-23
+2020-11-15,what,8,What does WAP mean?,19,2020-08-23
+2020-11-22,what,8,What does WAP mean?,21,2020-08-23
+2020-11-29,what,8,What does WAP mean?,16,2020-08-23
+2020-12-06,what,8,What does WAP mean?,23,2020-08-23
+2020-12-13,what,8,What does WAP mean?,14,2020-08-23
+2020-12-20,what,8,What does WAP mean?,11,2020-08-23
+2020-01-05,what,9,What is a pandemic?,0,2020-03-08
+2020-01-12,what,9,What is a pandemic?,0,2020-03-08
+2020-01-19,what,9,What is a pandemic?,1,2020-03-08
+2020-01-26,what,9,What is a pandemic?,2,2020-03-08
+2020-02-02,what,9,What is a pandemic?,4,2020-03-08
+2020-02-09,what,9,What is a pandemic?,2,2020-03-08
+2020-02-16,what,9,What is a pandemic?,1,2020-03-08
+2020-02-23,what,9,What is a pandemic?,42,2020-03-08
+2020-03-01,what,9,What is a pandemic?,16,2020-03-08
+2020-03-08,what,9,What is a pandemic?,100,2020-03-08
+2020-03-15,what,9,What is a pandemic?,37,2020-03-08
+2020-03-22,what,9,What is a pandemic?,18,2020-03-08
+2020-03-29,what,9,What is a pandemic?,11,2020-03-08
+2020-04-05,what,9,What is a pandemic?,7,2020-03-08
+2020-04-12,what,9,What is a pandemic?,8,2020-03-08
+2020-04-19,what,9,What is a pandemic?,7,2020-03-08
+2020-04-26,what,9,What is a pandemic?,6,2020-03-08
+2020-05-03,what,9,What is a pandemic?,7,2020-03-08
+2020-05-10,what,9,What is a pandemic?,4,2020-03-08
+2020-05-17,what,9,What is a pandemic?,3,2020-03-08
+2020-05-24,what,9,What is a pandemic?,2,2020-03-08
+2020-05-31,what,9,What is a pandemic?,6,2020-03-08
+2020-06-07,what,9,What is a pandemic?,3,2020-03-08
+2020-06-14,what,9,What is a pandemic?,4,2020-03-08
+2020-06-21,what,9,What is a pandemic?,3,2020-03-08
+2020-06-28,what,9,What is a pandemic?,2,2020-03-08
+2020-07-05,what,9,What is a pandemic?,1,2020-03-08
+2020-07-12,what,9,What is a pandemic?,2,2020-03-08
+2020-07-19,what,9,What is a pandemic?,3,2020-03-08
+2020-07-26,what,9,What is a pandemic?,0,2020-03-08
+2020-08-02,what,9,What is a pandemic?,1,2020-03-08
+2020-08-09,what,9,What is a pandemic?,3,2020-03-08
+2020-08-16,what,9,What is a pandemic?,1,2020-03-08
+2020-08-23,what,9,What is a pandemic?,0,2020-03-08
+2020-08-30,what,9,What is a pandemic?,3,2020-03-08
+2020-09-06,what,9,What is a pandemic?,2,2020-03-08
+2020-09-13,what,9,What is a pandemic?,2,2020-03-08
+2020-09-20,what,9,What is a pandemic?,4,2020-03-08
+2020-09-27,what,9,What is a pandemic?,2,2020-03-08
+2020-10-04,what,9,What is a pandemic?,2,2020-03-08
+2020-10-11,what,9,What is a pandemic?,3,2020-03-08
+2020-10-18,what,9,What is a pandemic?,3,2020-03-08
+2020-10-25,what,9,What is a pandemic?,2,2020-03-08
+2020-11-01,what,9,What is a pandemic?,1,2020-03-08
+2020-11-08,what,9,What is a pandemic?,2,2020-03-08
+2020-11-15,what,9,What is a pandemic?,1,2020-03-08
+2020-11-22,what,9,What is a pandemic?,3,2020-03-08
+2020-11-29,what,9,What is a pandemic?,4,2020-03-08
+2020-12-06,what,9,What is a pandemic?,2,2020-03-08
+2020-12-13,what,9,What is a pandemic?,3,2020-03-08
+2020-12-20,what,9,What is a pandemic?,3,2020-03-08
+2020-01-05,what,10,What does furlough mean?,0,2020-03-29
+2020-01-12,what,10,What does furlough mean?,0,2020-03-29
+2020-01-19,what,10,What does furlough mean?,0.41,2020-03-29
+2020-01-26,what,10,What does furlough mean?,0,2020-03-29
+2020-02-02,what,10,What does furlough mean?,0,2020-03-29
+2020-02-09,what,10,What does furlough mean?,0,2020-03-29
+2020-02-16,what,10,What does furlough mean?,0,2020-03-29
+2020-02-23,what,10,What does furlough mean?,0,2020-03-29
+2020-03-01,what,10,What does furlough mean?,0.48,2020-03-29
+2020-03-08,what,10,What does furlough mean?,0,2020-03-29
+2020-03-15,what,10,What does furlough mean?,3,2020-03-29
+2020-03-22,what,10,What does furlough mean?,73,2020-03-29
+2020-03-29,what,10,What does furlough mean?,100,2020-03-29
+2020-04-05,what,10,What does furlough mean?,34,2020-03-29
+2020-04-12,what,10,What does furlough mean?,29,2020-03-29
+2020-04-19,what,10,What does furlough mean?,21,2020-03-29
+2020-04-26,what,10,What does furlough mean?,13,2020-03-29
+2020-05-03,what,10,What does furlough mean?,12,2020-03-29
+2020-05-10,what,10,What does furlough mean?,11,2020-03-29
+2020-05-17,what,10,What does furlough mean?,6,2020-03-29
+2020-05-24,what,10,What does furlough mean?,5,2020-03-29
+2020-05-31,what,10,What does furlough mean?,3,2020-03-29
+2020-06-07,what,10,What does furlough mean?,5,2020-03-29
+2020-06-14,what,10,What does furlough mean?,4,2020-03-29
+2020-06-21,what,10,What does furlough mean?,3,2020-03-29
+2020-06-28,what,10,What does furlough mean?,2,2020-03-29
+2020-07-05,what,10,What does furlough mean?,4,2020-03-29
+2020-07-12,what,10,What does furlough mean?,4,2020-03-29
+2020-07-19,what,10,What does furlough mean?,2,2020-03-29
+2020-07-26,what,10,What does furlough mean?,1,2020-03-29
+2020-08-02,what,10,What does furlough mean?,1,2020-03-29
+2020-08-09,what,10,What does furlough mean?,0,2020-03-29
+2020-08-16,what,10,What does furlough mean?,1,2020-03-29
+2020-08-23,what,10,What does furlough mean?,1,2020-03-29
+2020-08-30,what,10,What does furlough mean?,1,2020-03-29
+2020-09-06,what,10,What does furlough mean?,2,2020-03-29
+2020-09-13,what,10,What does furlough mean?,0.55,2020-03-29
+2020-09-20,what,10,What does furlough mean?,0.31,2020-03-29
+2020-09-27,what,10,What does furlough mean?,0.56,2020-03-29
+2020-10-04,what,10,What does furlough mean?,0.34,2020-03-29
+2020-10-11,what,10,What does furlough mean?,0,2020-03-29
+2020-10-18,what,10,What does furlough mean?,1,2020-03-29
+2020-10-25,what,10,What does furlough mean?,3,2020-03-29
+2020-11-01,what,10,What does furlough mean?,5,2020-03-29
+2020-11-08,what,10,What does furlough mean?,0,2020-03-29
+2020-11-15,what,10,What does furlough mean?,0,2020-03-29
+2020-11-22,what,10,What does furlough mean?,0,2020-03-29
+2020-11-29,what,10,What does furlough mean?,1,2020-03-29
+2020-12-06,what,10,What does furlough mean?,0.32,2020-03-29
+2020-12-13,what,10,What does furlough mean?,1,2020-03-29
+2020-12-20,what,10,What does furlough mean?,1,2020-03-29
