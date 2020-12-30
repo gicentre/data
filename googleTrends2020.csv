@@ -1,4 +1,4 @@
-week,qType,rank,question,relFreq,peakDate
+﻿week,qType,rank,question,relFreq,peakDate
 2020-01-05,how,1,How to make a face mask,0,2020-05-10
 2020-01-12,how,1,How to make a face mask,0.37,2020-05-10
 2020-01-19,how,1,How to make a face mask,0,2020-05-10
@@ -509,516 +509,720 @@ week,qType,rank,question,relFreq,peakDate
 2020-12-06,how,10,How to treat coronavirus,1,2020-03-08
 2020-12-13,how,10,How to treat coronavirus,0,2020-03-08
 2020-12-20,how,10,How to treat coronavirus,4,2020-03-08
-2020-01-05,when,1,When will lockdown end?,0,2020-04-26
-2020-01-12,when,1,When will lockdown end?,0,2020-04-26
-2020-01-19,when,1,When will lockdown end?,0,2020-04-26
-2020-01-26,when,1,When will lockdown end?,0,2020-04-26
-2020-02-02,when,1,When will lockdown end?,0,2020-04-26
-2020-02-09,when,1,When will lockdown end?,0,2020-04-26
-2020-02-16,when,1,When will lockdown end?,0,2020-04-26
-2020-02-23,when,1,When will lockdown end?,0,2020-04-26
-2020-03-01,when,1,When will lockdown end?,0,2020-04-26
-2020-03-08,when,1,When will lockdown end?,1,2020-04-26
-2020-03-15,when,1,When will lockdown end?,2,2020-04-26
-2020-03-22,when,1,When will lockdown end?,14,2020-04-26
-2020-03-29,when,1,When will lockdown end?,41,2020-04-26
-2020-04-05,when,1,When will lockdown end?,74,2020-04-26
-2020-04-12,when,1,When will lockdown end?,92,2020-04-26
-2020-04-19,when,1,When will lockdown end?,81,2020-04-26
-2020-04-26,when,1,When will lockdown end?,100,2020-04-26
-2020-05-03,when,1,When will lockdown end?,73,2020-04-26
-2020-05-10,when,1,When will lockdown end?,21,2020-04-26
-2020-05-17,when,1,When will lockdown end?,22,2020-04-26
-2020-05-24,when,1,When will lockdown end?,22,2020-04-26
-2020-05-31,when,1,When will lockdown end?,10,2020-04-26
-2020-06-07,when,1,When will lockdown end?,13,2020-04-26
-2020-06-14,when,1,When will lockdown end?,8,2020-04-26
-2020-06-21,when,1,When will lockdown end?,8,2020-04-26
-2020-06-28,when,1,When will lockdown end?,6,2020-04-26
-2020-07-05,when,1,When will lockdown end?,5,2020-04-26
-2020-07-12,when,1,When will lockdown end?,3,2020-04-26
-2020-07-19,when,1,When will lockdown end?,1,2020-04-26
-2020-07-26,when,1,When will lockdown end?,1,2020-04-26
-2020-08-02,when,1,When will lockdown end?,1,2020-04-26
-2020-08-09,when,1,When will lockdown end?,2,2020-04-26
-2020-08-16,when,1,When will lockdown end?,2,2020-04-26
-2020-08-23,when,1,When will lockdown end?,1,2020-04-26
-2020-08-30,when,1,When will lockdown end?,1,2020-04-26
-2020-09-06,when,1,When will lockdown end?,0.22,2020-04-26
-2020-09-13,when,1,When will lockdown end?,1,2020-04-26
-2020-09-20,when,1,When will lockdown end?,2,2020-04-26
-2020-09-27,when,1,When will lockdown end?,1,2020-04-26
-2020-10-04,when,1,When will lockdown end?,3,2020-04-26
-2020-10-11,when,1,When will lockdown end?,1,2020-04-26
-2020-10-18,when,1,When will lockdown end?,1,2020-04-26
-2020-10-25,when,1,When will lockdown end?,1,2020-04-26
-2020-11-01,when,1,When will lockdown end?,7,2020-04-26
-2020-11-08,when,1,When will lockdown end?,7,2020-04-26
-2020-11-15,when,1,When will lockdown end?,13,2020-04-26
-2020-11-22,when,1,When will lockdown end?,10,2020-04-26
-2020-11-29,when,1,When will lockdown end?,6,2020-04-26
-2020-12-06,when,1,When will lockdown end?,2,2020-04-26
-2020-12-13,when,1,When will lockdown end?,3,2020-04-26
-2020-12-20,when,1,When will lockdown end?,7,2020-04-26
-2020-01-05,when,2,When will gyms reopen?,0,2020-07-05
-2020-01-12,when,2,When will gyms reopen?,0,2020-07-05
-2020-01-19,when,2,When will gyms reopen?,0,2020-07-05
-2020-01-26,when,2,When will gyms reopen?,0,2020-07-05
-2020-02-02,when,2,When will gyms reopen?,0,2020-07-05
-2020-02-09,when,2,When will gyms reopen?,0,2020-07-05
-2020-02-16,when,2,When will gyms reopen?,0,2020-07-05
-2020-02-23,when,2,When will gyms reopen?,0,2020-07-05
-2020-03-01,when,2,When will gyms reopen?,0,2020-07-05
-2020-03-08,when,2,When will gyms reopen?,0,2020-07-05
-2020-03-15,when,2,When will gyms reopen?,2,2020-07-05
-2020-03-22,when,2,When will gyms reopen?,4,2020-07-05
-2020-03-29,when,2,When will gyms reopen?,5,2020-07-05
-2020-04-05,when,2,When will gyms reopen?,1,2020-07-05
-2020-04-12,when,2,When will gyms reopen?,8,2020-07-05
-2020-04-19,when,2,When will gyms reopen?,20,2020-07-05
-2020-04-26,when,2,When will gyms reopen?,18,2020-07-05
-2020-05-03,when,2,When will gyms reopen?,32,2020-07-05
-2020-05-10,when,2,When will gyms reopen?,31,2020-07-05
-2020-05-17,when,2,When will gyms reopen?,31,2020-07-05
-2020-05-24,when,2,When will gyms reopen?,67,2020-07-05
-2020-05-31,when,2,When will gyms reopen?,68,2020-07-05
-2020-06-07,when,2,When will gyms reopen?,72,2020-07-05
-2020-06-14,when,2,When will gyms reopen?,82,2020-07-05
-2020-06-21,when,2,When will gyms reopen?,82,2020-07-05
-2020-06-28,when,2,When will gyms reopen?,69,2020-07-05
-2020-07-05,when,2,When will gyms reopen?,100,2020-07-05
-2020-07-12,when,2,When will gyms reopen?,11,2020-07-05
-2020-07-19,when,2,When will gyms reopen?,13,2020-07-05
-2020-07-26,when,2,When will gyms reopen?,7,2020-07-05
-2020-08-02,when,2,When will gyms reopen?,2,2020-07-05
-2020-08-09,when,2,When will gyms reopen?,1,2020-07-05
-2020-08-16,when,2,When will gyms reopen?,2,2020-07-05
-2020-08-23,when,2,When will gyms reopen?,1,2020-07-05
-2020-08-30,when,2,When will gyms reopen?,3,2020-07-05
-2020-09-06,when,2,When will gyms reopen?,2,2020-07-05
-2020-09-13,when,2,When will gyms reopen?,1,2020-07-05
-2020-09-20,when,2,When will gyms reopen?,1,2020-07-05
-2020-09-27,when,2,When will gyms reopen?,0,2020-07-05
-2020-10-04,when,2,When will gyms reopen?,1,2020-07-05
-2020-10-11,when,2,When will gyms reopen?,2,2020-07-05
-2020-10-18,when,2,When will gyms reopen?,2,2020-07-05
-2020-10-25,when,2,When will gyms reopen?,0,2020-07-05
-2020-11-01,when,2,When will gyms reopen?,0,2020-07-05
-2020-11-08,when,2,When will gyms reopen?,2,2020-07-05
-2020-11-15,when,2,When will gyms reopen?,4,2020-07-05
-2020-11-22,when,2,When will gyms reopen?,4,2020-07-05
-2020-11-29,when,2,When will gyms reopen?,2,2020-07-05
-2020-12-06,when,2,When will gyms reopen?,0,2020-07-05
-2020-12-13,when,2,When will gyms reopen?,1,2020-07-05
-2020-12-20,when,2,When will gyms reopen?,2,2020-07-05
-2020-01-05,when,3,When does lockdown start?,0,2020-11-01
-2020-01-12,when,3,When does lockdown start?,0,2020-11-01
-2020-01-19,when,3,When does lockdown start?,0,2020-11-01
-2020-01-26,when,3,When does lockdown start?,0,2020-11-01
-2020-02-02,when,3,When does lockdown start?,0,2020-11-01
-2020-02-09,when,3,When does lockdown start?,0,2020-11-01
-2020-02-16,when,3,When does lockdown start?,0,2020-11-01
-2020-02-23,when,3,When does lockdown start?,0,2020-11-01
-2020-03-01,when,3,When does lockdown start?,0,2020-11-01
-2020-03-08,when,3,When does lockdown start?,0.31,2020-11-01
-2020-03-15,when,3,When does lockdown start?,1,2020-11-01
-2020-03-22,when,3,When does lockdown start?,7,2020-11-01
-2020-03-29,when,3,When does lockdown start?,1,2020-11-01
-2020-04-05,when,3,When does lockdown start?,1,2020-11-01
-2020-04-12,when,3,When does lockdown start?,1,2020-11-01
-2020-04-19,when,3,When does lockdown start?,1,2020-11-01
-2020-04-26,when,3,When does lockdown start?,1,2020-11-01
-2020-05-03,when,3,When does lockdown start?,1,2020-11-01
-2020-05-10,when,3,When does lockdown start?,0.52,2020-11-01
-2020-05-17,when,3,When does lockdown start?,0.57,2020-11-01
-2020-05-24,when,3,When does lockdown start?,1,2020-11-01
-2020-05-31,when,3,When does lockdown start?,0.3,2020-11-01
-2020-06-07,when,3,When does lockdown start?,0.53,2020-11-01
-2020-06-14,when,3,When does lockdown start?,0.22,2020-11-01
-2020-06-21,when,3,When does lockdown start?,0,2020-11-01
-2020-06-28,when,3,When does lockdown start?,0.37,2020-11-01
-2020-07-05,when,3,When does lockdown start?,1,2020-11-01
-2020-07-12,when,3,When does lockdown start?,0.42,2020-11-01
-2020-07-19,when,3,When does lockdown start?,0.44,2020-11-01
-2020-07-26,when,3,When does lockdown start?,0,2020-11-01
-2020-08-02,when,3,When does lockdown start?,0.46,2020-11-01
-2020-08-09,when,3,When does lockdown start?,0,2020-11-01
-2020-08-16,when,3,When does lockdown start?,0.52,2020-11-01
-2020-08-23,when,3,When does lockdown start?,0.55,2020-11-01
-2020-08-30,when,3,When does lockdown start?,0,2020-11-01
-2020-09-06,when,3,When does lockdown start?,0.3,2020-11-01
-2020-09-13,when,3,When does lockdown start?,3,2020-11-01
-2020-09-20,when,3,When does lockdown start?,1,2020-11-01
-2020-09-27,when,3,When does lockdown start?,2,2020-11-01
-2020-10-04,when,3,When does lockdown start?,0.4,2020-11-01
-2020-10-11,when,3,When does lockdown start?,4,2020-11-01
-2020-10-18,when,3,When does lockdown start?,2,2020-11-01
-2020-10-25,when,3,When does lockdown start?,12,2020-11-01
-2020-11-01,when,3,When does lockdown start?,100,2020-11-01
-2020-11-08,when,3,When does lockdown start?,1,2020-11-01
-2020-11-15,when,3,When does lockdown start?,2,2020-11-01
-2020-11-22,when,3,When does lockdown start?,2,2020-11-01
-2020-11-29,when,3,When does lockdown start?,2,2020-11-01
-2020-12-06,when,3,When does lockdown start?,1,2020-11-01
-2020-12-13,when,3,When does lockdown start?,9,2020-11-01
-2020-12-20,when,3,When does lockdown start?,7,2020-11-01
-2020-01-05,when,4,When will schools reopen?,0,2020-05-03
-2020-01-12,when,4,When will schools reopen?,0,2020-05-03
-2020-01-19,when,4,When will schools reopen?,0,2020-05-03
-2020-01-26,when,4,When will schools reopen?,0,2020-05-03
-2020-02-02,when,4,When will schools reopen?,0,2020-05-03
-2020-02-09,when,4,When will schools reopen?,0,2020-05-03
-2020-02-16,when,4,When will schools reopen?,0,2020-05-03
-2020-02-23,when,4,When will schools reopen?,0,2020-05-03
-2020-03-01,when,4,When will schools reopen?,1,2020-05-03
-2020-03-08,when,4,When will schools reopen?,1,2020-05-03
-2020-03-15,when,4,When will schools reopen?,27,2020-05-03
-2020-03-22,when,4,When will schools reopen?,23,2020-05-03
-2020-03-29,when,4,When will schools reopen?,33,2020-05-03
-2020-04-05,when,4,When will schools reopen?,31,2020-05-03
-2020-04-12,when,4,When will schools reopen?,88,2020-05-03
-2020-04-19,when,4,When will schools reopen?,83,2020-05-03
-2020-04-26,when,4,When will schools reopen?,80,2020-05-03
-2020-05-03,when,4,When will schools reopen?,100,2020-05-03
-2020-05-10,when,4,When will schools reopen?,58,2020-05-03
-2020-05-17,when,4,When will schools reopen?,35,2020-05-03
-2020-05-24,when,4,When will schools reopen?,37,2020-05-03
-2020-05-31,when,4,When will schools reopen?,17,2020-05-03
-2020-06-07,when,4,When will schools reopen?,21,2020-05-03
-2020-06-14,when,4,When will schools reopen?,11,2020-05-03
-2020-06-21,when,4,When will schools reopen?,11,2020-05-03
-2020-06-28,when,4,When will schools reopen?,5,2020-05-03
-2020-07-05,when,4,When will schools reopen?,2,2020-05-03
-2020-07-12,when,4,When will schools reopen?,4,2020-05-03
-2020-07-19,when,4,When will schools reopen?,2,2020-05-03
-2020-07-26,when,4,When will schools reopen?,4,2020-05-03
-2020-08-02,when,4,When will schools reopen?,2,2020-05-03
-2020-08-09,when,4,When will schools reopen?,3,2020-05-03
-2020-08-16,when,4,When will schools reopen?,6,2020-05-03
-2020-08-23,when,4,When will schools reopen?,4,2020-05-03
-2020-08-30,when,4,When will schools reopen?,3,2020-05-03
-2020-09-06,when,4,When will schools reopen?,0,2020-05-03
-2020-09-13,when,4,When will schools reopen?,0,2020-05-03
-2020-09-20,when,4,When will schools reopen?,0,2020-05-03
-2020-09-27,when,4,When will schools reopen?,0,2020-05-03
-2020-10-04,when,4,When will schools reopen?,0,2020-05-03
-2020-10-11,when,4,When will schools reopen?,0,2020-05-03
-2020-10-18,when,4,When will schools reopen?,1,2020-05-03
-2020-10-25,when,4,When will schools reopen?,1,2020-05-03
-2020-11-01,when,4,When will schools reopen?,0,2020-05-03
-2020-11-08,when,4,When will schools reopen?,0,2020-05-03
-2020-11-15,when,4,When will schools reopen?,0,2020-05-03
-2020-11-22,when,4,When will schools reopen?,1,2020-05-03
-2020-11-29,when,4,When will schools reopen?,0,2020-05-03
-2020-12-06,when,4,When will schools reopen?,0,2020-05-03
-2020-12-13,when,4,When will schools reopen?,1,2020-05-03
-2020-12-20,when,4,When will schools reopen?,4,2020-05-03
-2020-01-05,when,5,When does furlough end?,0,2020-05-10
-2020-01-12,when,5,When does furlough end?,0,2020-05-10
-2020-01-19,when,5,When does furlough end?,0,2020-05-10
-2020-01-26,when,5,When does furlough end?,0,2020-05-10
-2020-02-02,when,5,When does furlough end?,0,2020-05-10
-2020-02-09,when,5,When does furlough end?,0,2020-05-10
-2020-02-16,when,5,When does furlough end?,0,2020-05-10
-2020-02-23,when,5,When does furlough end?,0,2020-05-10
-2020-03-01,when,5,When does furlough end?,0,2020-05-10
-2020-03-08,when,5,When does furlough end?,0,2020-05-10
-2020-03-15,when,5,When does furlough end?,0,2020-05-10
-2020-03-22,when,5,When does furlough end?,1,2020-05-10
-2020-03-29,when,5,When does furlough end?,6,2020-05-10
-2020-04-05,when,5,When does furlough end?,4,2020-05-10
-2020-04-12,when,5,When does furlough end?,18,2020-05-10
-2020-04-19,when,5,When does furlough end?,12,2020-05-10
-2020-04-26,when,5,When does furlough end?,36,2020-05-10
-2020-05-03,when,5,When does furlough end?,59,2020-05-10
-2020-05-10,when,5,When does furlough end?,100,2020-05-10
-2020-05-17,when,5,When does furlough end?,25,2020-05-10
-2020-05-24,when,5,When does furlough end?,34,2020-05-10
-2020-05-31,when,5,When does furlough end?,19,2020-05-10
-2020-06-07,when,5,When does furlough end?,31,2020-05-10
-2020-06-14,when,5,When does furlough end?,30,2020-05-10
-2020-06-21,when,5,When does furlough end?,51,2020-05-10
-2020-06-28,when,5,When does furlough end?,57,2020-05-10
-2020-07-05,when,5,When does furlough end?,60,2020-05-10
-2020-07-12,when,5,When does furlough end?,57,2020-05-10
-2020-07-19,when,5,When does furlough end?,63,2020-05-10
-2020-07-26,when,5,When does furlough end?,66,2020-05-10
-2020-08-02,when,5,When does furlough end?,45,2020-05-10
-2020-08-09,when,5,When does furlough end?,49,2020-05-10
-2020-08-16,when,5,When does furlough end?,38,2020-05-10
-2020-08-23,when,5,When does furlough end?,82,2020-05-10
-2020-08-30,when,5,When does furlough end?,59,2020-05-10
-2020-09-06,when,5,When does furlough end?,73,2020-05-10
-2020-09-13,when,5,When does furlough end?,99,2020-05-10
-2020-09-20,when,5,When does furlough end?,90,2020-05-10
-2020-09-27,when,5,When does furlough end?,46,2020-05-10
-2020-10-04,when,5,When does furlough end?,40,2020-05-10
-2020-10-11,when,5,When does furlough end?,25,2020-05-10
-2020-10-18,when,5,When does furlough end?,26,2020-05-10
-2020-10-25,when,5,When does furlough end?,32,2020-05-10
-2020-11-01,when,5,When does furlough end?,12,2020-05-10
-2020-11-08,when,5,When does furlough end?,3,2020-05-10
-2020-11-15,when,5,When does furlough end?,8,2020-05-10
-2020-11-22,when,5,When does furlough end?,15,2020-05-10
-2020-11-29,when,5,When does furlough end?,12,2020-05-10
-2020-12-06,when,5,When does furlough end?,6,2020-05-10
-2020-12-13,when,5,When does furlough end?,13,2020-05-10
-2020-12-20,when,5,When does furlough end?,8,2020-05-10
-2020-01-05,when,6,When will pubs reopen?,0,2020-06-07
-2020-01-12,when,6,When will pubs reopen?,0,2020-06-07
-2020-01-19,when,6,When will pubs reopen?,0,2020-06-07
-2020-01-26,when,6,When will pubs reopen?,0,2020-06-07
-2020-02-02,when,6,When will pubs reopen?,0,2020-06-07
-2020-02-09,when,6,When will pubs reopen?,0,2020-06-07
-2020-02-16,when,6,When will pubs reopen?,0,2020-06-07
-2020-02-23,when,6,When will pubs reopen?,0,2020-06-07
-2020-03-01,when,6,When will pubs reopen?,0,2020-06-07
-2020-03-08,when,6,When will pubs reopen?,0,2020-06-07
-2020-03-15,when,6,When will pubs reopen?,4,2020-06-07
-2020-03-22,when,6,When will pubs reopen?,7,2020-06-07
-2020-03-29,when,6,When will pubs reopen?,18,2020-06-07
-2020-04-05,when,6,When will pubs reopen?,16,2020-06-07
-2020-04-12,when,6,When will pubs reopen?,26,2020-06-07
-2020-04-19,when,6,When will pubs reopen?,77,2020-06-07
-2020-04-26,when,6,When will pubs reopen?,46,2020-06-07
-2020-05-03,when,6,When will pubs reopen?,49,2020-06-07
-2020-05-10,when,6,When will pubs reopen?,34,2020-06-07
-2020-05-17,when,6,When will pubs reopen?,45,2020-06-07
-2020-05-24,when,6,When will pubs reopen?,87,2020-06-07
-2020-05-31,when,6,When will pubs reopen?,78,2020-06-07
-2020-06-07,when,6,When will pubs reopen?,100,2020-06-07
-2020-06-14,when,6,When will pubs reopen?,84,2020-06-07
-2020-06-21,when,6,When will pubs reopen?,46,2020-06-07
-2020-06-28,when,6,When will pubs reopen?,13,2020-06-07
-2020-07-05,when,6,When will pubs reopen?,7,2020-06-07
-2020-07-12,when,6,When will pubs reopen?,3,2020-06-07
-2020-07-19,when,6,When will pubs reopen?,1,2020-06-07
-2020-07-26,when,6,When will pubs reopen?,0,2020-06-07
-2020-08-02,when,6,When will pubs reopen?,1,2020-06-07
-2020-08-09,when,6,When will pubs reopen?,0,2020-06-07
-2020-08-16,when,6,When will pubs reopen?,1,2020-06-07
-2020-08-23,when,6,When will pubs reopen?,1,2020-06-07
-2020-08-30,when,6,When will pubs reopen?,0,2020-06-07
-2020-09-06,when,6,When will pubs reopen?,1,2020-06-07
-2020-09-13,when,6,When will pubs reopen?,1,2020-06-07
-2020-09-20,when,6,When will pubs reopen?,0,2020-06-07
-2020-09-27,when,6,When will pubs reopen?,0,2020-06-07
-2020-10-04,when,6,When will pubs reopen?,0,2020-06-07
-2020-10-11,when,6,When will pubs reopen?,0,2020-06-07
-2020-10-18,when,6,When will pubs reopen?,1,2020-06-07
-2020-10-25,when,6,When will pubs reopen?,0,2020-06-07
-2020-11-01,when,6,When will pubs reopen?,2,2020-06-07
-2020-11-08,when,6,When will pubs reopen?,5,2020-06-07
-2020-11-15,when,6,When will pubs reopen?,14,2020-06-07
-2020-11-22,when,6,When will pubs reopen?,6,2020-06-07
-2020-11-29,when,6,When will pubs reopen?,9,2020-06-07
-2020-12-06,when,6,When will pubs reopen?,5,2020-06-07
-2020-12-13,when,6,When will pubs reopen?,2,2020-06-07
-2020-12-20,when,6,When will pubs reopen?,3,2020-06-07
-2020-01-05,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-01-12,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-01-19,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-01-26,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-02-02,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-02-09,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-02-16,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-02-23,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-03-01,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-03-08,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-03-15,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-03-22,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-03-29,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-04-05,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-04-12,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-04-19,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-04-26,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-05-03,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-05-10,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-05-17,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-05-24,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-05-31,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-06-07,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-06-14,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-06-21,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-06-28,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-07-05,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-07-12,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-07-19,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-07-26,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-08-02,when,7,When does Eat Out to Help Out end?,2,2020-08-23
-2020-08-09,when,7,When does Eat Out to Help Out end?,8,2020-08-23
-2020-08-16,when,7,When does Eat Out to Help Out end?,22,2020-08-23
-2020-08-23,when,7,When does Eat Out to Help Out end?,100,2020-08-23
-2020-08-30,when,7,When does Eat Out to Help Out end?,30,2020-08-23
-2020-09-06,when,7,When does Eat Out to Help Out end?,2,2020-08-23
-2020-09-13,when,7,When does Eat Out to Help Out end?,1,2020-08-23
-2020-09-20,when,7,When does Eat Out to Help Out end?,1,2020-08-23
-2020-09-27,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-10-04,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-10-11,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-10-18,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-10-25,when,7,When does Eat Out to Help Out end?,1,2020-08-23
-2020-11-01,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-11-08,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-11-15,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-11-22,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-11-29,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-12-06,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-12-13,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-12-20,when,7,When does Eat Out to Help Out end?,0,2020-08-23
-2020-01-05,when,8,When will the new president be announced?,0,2020-11-01
-2020-01-12,when,8,When will the new president be announced?,0,2020-11-01
-2020-01-19,when,8,When will the new president be announced?,0,2020-11-01
-2020-01-26,when,8,When will the new president be announced?,0,2020-11-01
-2020-02-02,when,8,When will the new president be announced?,0,2020-11-01
-2020-02-09,when,8,When will the new president be announced?,0,2020-11-01
-2020-02-16,when,8,When will the new president be announced?,0,2020-11-01
-2020-02-23,when,8,When will the new president be announced?,0,2020-11-01
-2020-03-01,when,8,When will the new president be announced?,0,2020-11-01
-2020-03-08,when,8,When will the new president be announced?,0,2020-11-01
-2020-03-15,when,8,When will the new president be announced?,0,2020-11-01
-2020-03-22,when,8,When will the new president be announced?,0,2020-11-01
-2020-03-29,when,8,When will the new president be announced?,0,2020-11-01
-2020-04-05,when,8,When will the new president be announced?,0,2020-11-01
-2020-04-12,when,8,When will the new president be announced?,0,2020-11-01
-2020-04-19,when,8,When will the new president be announced?,0,2020-11-01
-2020-04-26,when,8,When will the new president be announced?,0,2020-11-01
-2020-05-03,when,8,When will the new president be announced?,0,2020-11-01
-2020-05-10,when,8,When will the new president be announced?,0,2020-11-01
-2020-05-17,when,8,When will the new president be announced?,0,2020-11-01
-2020-05-24,when,8,When will the new president be announced?,0,2020-11-01
-2020-05-31,when,8,When will the new president be announced?,0,2020-11-01
-2020-06-07,when,8,When will the new president be announced?,0,2020-11-01
-2020-06-14,when,8,When will the new president be announced?,0,2020-11-01
-2020-06-21,when,8,When will the new president be announced?,0,2020-11-01
-2020-06-28,when,8,When will the new president be announced?,0,2020-11-01
-2020-07-05,when,8,When will the new president be announced?,0,2020-11-01
-2020-07-12,when,8,When will the new president be announced?,0,2020-11-01
-2020-07-19,when,8,When will the new president be announced?,0,2020-11-01
-2020-07-26,when,8,When will the new president be announced?,0,2020-11-01
-2020-08-02,when,8,When will the new president be announced?,1,2020-11-01
-2020-08-09,when,8,When will the new president be announced?,0,2020-11-01
-2020-08-16,when,8,When will the new president be announced?,0,2020-11-01
-2020-08-23,when,8,When will the new president be announced?,0,2020-11-01
-2020-08-30,when,8,When will the new president be announced?,0,2020-11-01
-2020-09-06,when,8,When will the new president be announced?,0,2020-11-01
-2020-09-13,when,8,When will the new president be announced?,0,2020-11-01
-2020-09-20,when,8,When will the new president be announced?,0,2020-11-01
-2020-09-27,when,8,When will the new president be announced?,0,2020-11-01
-2020-10-04,when,8,When will the new president be announced?,0,2020-11-01
-2020-10-11,when,8,When will the new president be announced?,0,2020-11-01
-2020-10-18,when,8,When will the new president be announced?,1,2020-11-01
-2020-10-25,when,8,When will the new president be announced?,6,2020-11-01
-2020-11-01,when,8,When will the new president be announced?,100,2020-11-01
-2020-11-08,when,8,When will the new president be announced?,1,2020-11-01
-2020-11-15,when,8,When will the new president be announced?,0,2020-11-01
-2020-11-22,when,8,When will the new president be announced?,0,2020-11-01
-2020-11-29,when,8,When will the new president be announced?,0,2020-11-01
-2020-12-06,when,8,When will the new president be announced?,0,2020-11-01
-2020-12-13,when,8,When will the new president be announced?,0,2020-11-01
-2020-12-20,when,8,When will the new president be announced?,0,2020-11-01
-2020-01-05,when,9,When does Love Island start?,100,2020-01-05
-2020-01-12,when,9,When does Love Island start?,30,2020-01-05
-2020-01-19,when,9,When does Love Island start?,1,2020-01-05
-2020-01-26,when,9,When does Love Island start?,2,2020-01-05
-2020-02-02,when,9,When does Love Island start?,2,2020-01-05
-2020-02-09,when,9,When does Love Island start?,4,2020-01-05
-2020-02-16,when,9,When does Love Island start?,4,2020-01-05
-2020-02-23,when,9,When does Love Island start?,4,2020-01-05
-2020-03-01,when,9,When does Love Island start?,1,2020-01-05
-2020-03-08,when,9,When does Love Island start?,1,2020-01-05
-2020-03-15,when,9,When does Love Island start?,1,2020-01-05
-2020-03-22,when,9,When does Love Island start?,1,2020-01-05
-2020-03-29,when,9,When does Love Island start?,0,2020-01-05
-2020-04-05,when,9,When does Love Island start?,2,2020-01-05
-2020-04-12,when,9,When does Love Island start?,0,2020-01-05
-2020-04-19,when,9,When does Love Island start?,0.29,2020-01-05
-2020-04-26,when,9,When does Love Island start?,0.2,2020-01-05
-2020-05-03,when,9,When does Love Island start?,0.55,2020-01-05
-2020-05-10,when,9,When does Love Island start?,0,2020-01-05
-2020-05-17,when,9,When does Love Island start?,0,2020-01-05
-2020-05-24,when,9,When does Love Island start?,0,2020-01-05
-2020-05-31,when,9,When does Love Island start?,2,2020-01-05
-2020-06-07,when,9,When does Love Island start?,7,2020-01-05
-2020-06-14,when,9,When does Love Island start?,5,2020-01-05
-2020-06-21,when,9,When does Love Island start?,1,2020-01-05
-2020-06-28,when,9,When does Love Island start?,0,2020-01-05
-2020-07-05,when,9,When does Love Island start?,1,2020-01-05
-2020-07-12,when,9,When does Love Island start?,1,2020-01-05
-2020-07-19,when,9,When does Love Island start?,1,2020-01-05
-2020-07-26,when,9,When does Love Island start?,0,2020-01-05
-2020-08-02,when,9,When does Love Island start?,0,2020-01-05
-2020-08-09,when,9,When does Love Island start?,0,2020-01-05
-2020-08-16,when,9,When does Love Island start?,0,2020-01-05
-2020-08-23,when,9,When does Love Island start?,3,2020-01-05
-2020-08-30,when,9,When does Love Island start?,3,2020-01-05
-2020-09-06,when,9,When does Love Island start?,2,2020-01-05
-2020-09-13,when,9,When does Love Island start?,0,2020-01-05
-2020-09-20,when,9,When does Love Island start?,1,2020-01-05
-2020-09-27,when,9,When does Love Island start?,1,2020-01-05
-2020-10-04,when,9,When does Love Island start?,1,2020-01-05
-2020-10-11,when,9,When does Love Island start?,0,2020-01-05
-2020-10-18,when,9,When does Love Island start?,0,2020-01-05
-2020-10-25,when,9,When does Love Island start?,0,2020-01-05
-2020-11-01,when,9,When does Love Island start?,1,2020-01-05
-2020-11-08,when,9,When does Love Island start?,0,2020-01-05
-2020-11-15,when,9,When does Love Island start?,0,2020-01-05
-2020-11-22,when,9,When does Love Island start?,0,2020-01-05
-2020-11-29,when,9,When does Love Island start?,1,2020-01-05
-2020-12-06,when,9,When does Love Island start?,0,2020-01-05
-2020-12-13,when,9,When does Love Island start?,0,2020-01-05
-2020-12-20,when,9,When does Love Island start?,0,2020-01-05
-2020-01-05,when,10,When will hairdressers open?,0,2020-05-31
-2020-01-12,when,10,When will hairdressers open?,0,2020-05-31
-2020-01-19,when,10,When will hairdressers open?,0,2020-05-31
-2020-01-26,when,10,When will hairdressers open?,0,2020-05-31
-2020-02-02,when,10,When will hairdressers open?,0,2020-05-31
-2020-02-09,when,10,When will hairdressers open?,0,2020-05-31
-2020-02-16,when,10,When will hairdressers open?,0,2020-05-31
-2020-02-23,when,10,When will hairdressers open?,0,2020-05-31
-2020-03-01,when,10,When will hairdressers open?,0,2020-05-31
-2020-03-08,when,10,When will hairdressers open?,1,2020-05-31
-2020-03-15,when,10,When will hairdressers open?,1,2020-05-31
-2020-03-22,when,10,When will hairdressers open?,1,2020-05-31
-2020-03-29,when,10,When will hairdressers open?,7,2020-05-31
-2020-04-05,when,10,When will hairdressers open?,2,2020-05-31
-2020-04-12,when,10,When will hairdressers open?,7,2020-05-31
-2020-04-19,when,10,When will hairdressers open?,21,2020-05-31
-2020-04-26,when,10,When will hairdressers open?,19,2020-05-31
-2020-05-03,when,10,When will hairdressers open?,86,2020-05-31
-2020-05-10,when,10,When will hairdressers open?,93,2020-05-31
-2020-05-17,when,10,When will hairdressers open?,62,2020-05-31
-2020-05-24,when,10,When will hairdressers open?,60,2020-05-31
-2020-05-31,when,10,When will hairdressers open?,100,2020-05-31
-2020-06-07,when,10,When will hairdressers open?,92,2020-05-31
-2020-06-14,when,10,When will hairdressers open?,85,2020-05-31
-2020-06-21,when,10,When will hairdressers open?,43,2020-05-31
-2020-06-28,when,10,When will hairdressers open?,20,2020-05-31
-2020-07-05,when,10,When will hairdressers open?,9,2020-05-31
-2020-07-12,when,10,When will hairdressers open?,4,2020-05-31
-2020-07-19,when,10,When will hairdressers open?,1,2020-05-31
-2020-07-26,when,10,When will hairdressers open?,0,2020-05-31
-2020-08-02,when,10,When will hairdressers open?,0,2020-05-31
-2020-08-09,when,10,When will hairdressers open?,0,2020-05-31
-2020-08-16,when,10,When will hairdressers open?,0,2020-05-31
-2020-08-23,when,10,When will hairdressers open?,0,2020-05-31
-2020-08-30,when,10,When will hairdressers open?,1,2020-05-31
-2020-09-06,when,10,When will hairdressers open?,0,2020-05-31
-2020-09-13,when,10,When will hairdressers open?,1,2020-05-31
-2020-09-20,when,10,When will hairdressers open?,0,2020-05-31
-2020-09-27,when,10,When will hairdressers open?,0,2020-05-31
-2020-10-04,when,10,When will hairdressers open?,0,2020-05-31
-2020-10-11,when,10,When will hairdressers open?,3,2020-05-31
-2020-10-18,when,10,When will hairdressers open?,1,2020-05-31
-2020-10-25,when,10,When will hairdressers open?,0,2020-05-31
-2020-11-01,when,10,When will hairdressers open?,3,2020-05-31
-2020-11-08,when,10,When will hairdressers open?,4,2020-05-31
-2020-11-15,when,10,When will hairdressers open?,4,2020-05-31
-2020-11-22,when,10,When will hairdressers open?,4,2020-05-31
-2020-11-29,when,10,When will hairdressers open?,1,2020-05-31
-2020-12-06,when,10,When will hairdressers open?,0,2020-05-31
-2020-12-13,when,10,When will hairdressers open?,0,2020-05-31
-2020-12-20,when,10,When will hairdressers open?,4,2020-05-31
+2020-01-05,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-01-12,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-01-19,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-01-26,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-02-02,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-02-09,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-02-16,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-02-23,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-03-01,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-03-08,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-03-15,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-03-22,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-03-29,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-04-05,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-04-12,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-04-19,question,2,Where does vanilla flavouring come from?,0.52,2020-11-01
+2020-04-26,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-05-03,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-05-10,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-05-17,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-05-24,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-05-31,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-06-07,question,2,Where does vanilla flavouring come from?,0.84,2020-11-01
+2020-06-14,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-06-21,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-06-28,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-07-05,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-07-12,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-07-19,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-07-26,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-08-02,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-08-09,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-08-16,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-08-23,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-08-30,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-09-06,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-09-13,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-09-20,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-09-27,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-10-04,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-10-11,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-10-18,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-10-25,question,2,Where does vanilla flavouring come from?,0,2020-11-01
+2020-11-01,question,2,Where does vanilla flavouring come from?,16,2020-11-01
+2020-11-08,question,2,Where does vanilla flavouring come from?,100,2020-11-01
+2020-11-15,question,2,Where does vanilla flavouring come from?,1,2020-11-01
+2020-11-22,question,2,Where does vanilla flavouring come from?,2,2020-11-01
+2020-11-29,question,2,Where does vanilla flavouring come from?,1,2020-11-01
+2020-12-06,question,2,Where does vanilla flavouring come from?,1,2020-11-01
+2020-12-13,question,2,Where does vanilla flavouring come from?,1,2020-11-01
+2020-12-20,question,2,Where does vanilla flavouring come from?,1,2020-11-01
+2020-01-05,question,3,How many cases of coronavirus in UK?,0,2020-03-08
+2020-01-12,question,3,How many cases of coronavirus in UK?,0,2020-03-08
+2020-01-19,question,3,How many cases of coronavirus in UK?,0,2020-03-08
+2020-01-26,question,3,How many cases of coronavirus in UK?,2,2020-03-08
+2020-02-02,question,3,How many cases of coronavirus in UK?,4,2020-03-08
+2020-02-09,question,3,How many cases of coronavirus in UK?,4,2020-03-08
+2020-02-16,question,3,How many cases of coronavirus in UK?,4,2020-03-08
+2020-02-23,question,3,How many cases of coronavirus in UK?,9,2020-03-08
+2020-03-01,question,3,How many cases of coronavirus in UK?,37,2020-03-08
+2020-03-08,question,3,How many cases of coronavirus in UK?,76,2020-03-08
+2020-03-15,question,3,How many cases of coronavirus in UK?,100,2020-03-08
+2020-03-22,question,3,How many cases of coronavirus in UK?,58,2020-03-08
+2020-03-29,question,3,How many cases of coronavirus in UK?,29,2020-03-08
+2020-04-05,question,3,How many cases of coronavirus in UK?,29,2020-03-08
+2020-04-12,question,3,How many cases of coronavirus in UK?,19,2020-03-08
+2020-04-19,question,3,How many cases of coronavirus in UK?,15,2020-03-08
+2020-04-26,question,3,How many cases of coronavirus in UK?,13,2020-03-08
+2020-05-03,question,3,How many cases of coronavirus in UK?,10,2020-03-08
+2020-05-10,question,3,How many cases of coronavirus in UK?,9,2020-03-08
+2020-05-17,question,3,How many cases of coronavirus in UK?,14,2020-03-08
+2020-05-24,question,3,How many cases of coronavirus in UK?,12,2020-03-08
+2020-05-31,question,3,How many cases of coronavirus in UK?,10,2020-03-08
+2020-06-07,question,3,How many cases of coronavirus in UK?,9,2020-03-08
+2020-06-14,question,3,How many cases of coronavirus in UK?,10,2020-03-08
+2020-06-21,question,3,How many cases of coronavirus in UK?,10,2020-03-08
+2020-06-28,question,3,How many cases of coronavirus in UK?,10,2020-03-08
+2020-07-05,question,3,How many cases of coronavirus in UK?,8,2020-03-08
+2020-07-12,question,3,How many cases of coronavirus in UK?,6,2020-03-08
+2020-07-19,question,3,How many cases of coronavirus in UK?,7,2020-03-08
+2020-07-26,question,3,How many cases of coronavirus in UK?,7,2020-03-08
+2020-08-02,question,3,How many cases of coronavirus in UK?,9,2020-03-08
+2020-08-09,question,3,How many cases of coronavirus in UK?,7,2020-03-08
+2020-08-16,question,3,How many cases of coronavirus in UK?,4,2020-03-08
+2020-08-23,question,3,How many cases of coronavirus in UK?,4,2020-03-08
+2020-08-30,question,3,How many cases of coronavirus in UK?,5,2020-03-08
+2020-09-06,question,3,How many cases of coronavirus in UK?,6,2020-03-08
+2020-09-13,question,3,How many cases of coronavirus in UK?,7,2020-03-08
+2020-09-20,question,3,How many cases of coronavirus in UK?,7,2020-03-08
+2020-09-27,question,3,How many cases of coronavirus in UK?,7,2020-03-08
+2020-10-04,question,3,How many cases of coronavirus in UK?,9,2020-03-08
+2020-10-11,question,3,How many cases of coronavirus in UK?,6,2020-03-08
+2020-10-18,question,3,How many cases of coronavirus in UK?,5,2020-03-08
+2020-10-25,question,3,How many cases of coronavirus in UK?,4,2020-03-08
+2020-11-01,question,3,How many cases of coronavirus in UK?,5,2020-03-08
+2020-11-08,question,3,How many cases of coronavirus in UK?,5,2020-03-08
+2020-11-15,question,3,How many cases of coronavirus in UK?,5,2020-03-08
+2020-11-22,question,3,How many cases of coronavirus in UK?,4,2020-03-08
+2020-11-29,question,3,How many cases of coronavirus in UK?,3,2020-03-08
+2020-12-06,question,3,How many cases of coronavirus in UK?,3,2020-03-08
+2020-12-13,question,3,How many cases of coronavirus in UK?,3,2020-03-08
+2020-12-20,question,3,How many cases of coronavirus in UK?,4,2020-03-08
+2020-01-05,question,5,How did coronavirus start?,0,2020-03-08
+2020-01-12,question,5,How did coronavirus start?,0,2020-03-08
+2020-01-19,question,5,How did coronavirus start?,4,2020-03-08
+2020-01-26,question,5,How did coronavirus start?,31,2020-03-08
+2020-02-02,question,5,How did coronavirus start?,15,2020-03-08
+2020-02-09,question,5,How did coronavirus start?,9,2020-03-08
+2020-02-16,question,5,How did coronavirus start?,2,2020-03-08
+2020-02-23,question,5,How did coronavirus start?,20,2020-03-08
+2020-03-01,question,5,How did coronavirus start?,34,2020-03-08
+2020-03-08,question,5,How did coronavirus start?,78,2020-03-08
+2020-03-15,question,5,How did coronavirus start?,100,2020-03-08
+2020-03-22,question,5,How did coronavirus start?,55,2020-03-08
+2020-03-29,question,5,How did coronavirus start?,30,2020-03-08
+2020-04-05,question,5,How did coronavirus start?,17,2020-03-08
+2020-04-12,question,5,How did coronavirus start?,11,2020-03-08
+2020-04-19,question,5,How did coronavirus start?,5,2020-03-08
+2020-04-26,question,5,How did coronavirus start?,3,2020-03-08
+2020-05-03,question,5,How did coronavirus start?,5,2020-03-08
+2020-05-10,question,5,How did coronavirus start?,3,2020-03-08
+2020-05-17,question,5,How did coronavirus start?,2,2020-03-08
+2020-05-24,question,5,How did coronavirus start?,3,2020-03-08
+2020-05-31,question,5,How did coronavirus start?,3,2020-03-08
+2020-06-07,question,5,How did coronavirus start?,1,2020-03-08
+2020-06-14,question,5,How did coronavirus start?,2,2020-03-08
+2020-06-21,question,5,How did coronavirus start?,1,2020-03-08
+2020-06-28,question,5,How did coronavirus start?,2,2020-03-08
+2020-07-05,question,5,How did coronavirus start?,0.51,2020-03-08
+2020-07-12,question,5,How did coronavirus start?,2,2020-03-08
+2020-07-19,question,5,How did coronavirus start?,1,2020-03-08
+2020-07-26,question,5,How did coronavirus start?,0.69,2020-03-08
+2020-08-02,question,5,How did coronavirus start?,0.90,2020-03-08
+2020-08-09,question,5,How did coronavirus start?,1,2020-03-08
+2020-08-16,question,5,How did coronavirus start?,1,2020-03-08
+2020-08-23,question,5,How did coronavirus start?,0.63,2020-03-08
+2020-08-30,question,5,How did coronavirus start?,0,2020-03-08
+2020-09-06,question,5,How did coronavirus start?,1,2020-03-08
+2020-09-13,question,5,How did coronavirus start?,1,2020-03-08
+2020-09-20,question,5,How did coronavirus start?,1,2020-03-08
+2020-09-27,question,5,How did coronavirus start?,0.17,2020-03-08
+2020-10-04,question,5,How did coronavirus start?,0.82,2020-03-08
+2020-10-11,question,5,How did coronavirus start?,0.78,2020-03-08
+2020-10-18,question,5,How did coronavirus start?,1,2020-03-08
+2020-10-25,question,5,How did coronavirus start?,0.82,2020-03-08
+2020-11-01,question,5,How did coronavirus start?,1,2020-03-08
+2020-11-08,question,5,How did coronavirus start?,0.18,2020-03-08
+2020-11-15,question,5,How did coronavirus start?,0.52,2020-03-08
+2020-11-22,question,5,How did coronavirus start?,1,2020-03-08
+2020-11-29,question,5,How did coronavirus start?,0.82,2020-03-08
+2020-12-06,question,5,How did coronavirus start?,0.37,2020-03-08
+2020-12-13,question,5,How did coronavirus start?,0.30,2020-03-08
+2020-12-20,question,5,How did coronavirus start?,1,2020-03-08
+2020-01-05,question,9,How many people have died from coronavirus?,0,2020-03-08
+2020-01-12,question,9,How many people have died from coronavirus?,0,2020-03-08
+2020-01-19,question,9,How many people have died from coronavirus?,1,2020-03-08
+2020-01-26,question,9,How many people have died from coronavirus?,10,2020-03-08
+2020-02-02,question,9,How many people have died from coronavirus?,9,2020-03-08
+2020-02-09,question,9,How many people have died from coronavirus?,17,2020-03-08
+2020-02-16,question,9,How many people have died from coronavirus?,6,2020-03-08
+2020-02-23,question,9,How many people have died from coronavirus?,34,2020-03-08
+2020-03-01,question,9,How many people have died from coronavirus?,39,2020-03-08
+2020-03-08,question,9,How many people have died from coronavirus?,57,2020-03-08
+2020-03-15,question,9,How many people have died from coronavirus?,100,2020-03-08
+2020-03-22,question,9,How many people have died from coronavirus?,96,2020-03-08
+2020-03-29,question,9,How many people have died from coronavirus?,96,2020-03-08
+2020-04-05,question,9,How many people have died from coronavirus?,92,2020-03-08
+2020-04-12,question,9,How many people have died from coronavirus?,97,2020-03-08
+2020-04-19,question,9,How many people have died from coronavirus?,88,2020-03-08
+2020-04-26,question,9,How many people have died from coronavirus?,75,2020-03-08
+2020-05-03,question,9,How many people have died from coronavirus?,63,2020-03-08
+2020-05-10,question,9,How many people have died from coronavirus?,51,2020-03-08
+2020-05-17,question,9,How many people have died from coronavirus?,54,2020-03-08
+2020-05-24,question,9,How many people have died from coronavirus?,46,2020-03-08
+2020-05-31,question,9,How many people have died from coronavirus?,32,2020-03-08
+2020-06-07,question,9,How many people have died from coronavirus?,28,2020-03-08
+2020-06-14,question,9,How many people have died from coronavirus?,29,2020-03-08
+2020-06-21,question,9,How many people have died from coronavirus?,32,2020-03-08
+2020-06-28,question,9,How many people have died from coronavirus?,36,2020-03-08
+2020-07-05,question,9,How many people have died from coronavirus?,32,2020-03-08
+2020-07-12,question,9,How many people have died from coronavirus?,22,2020-03-08
+2020-07-19,question,9,How many people have died from coronavirus?,17,2020-03-08
+2020-07-26,question,9,How many people have died from coronavirus?,19,2020-03-08
+2020-08-02,question,9,How many people have died from coronavirus?,12,2020-03-08
+2020-08-09,question,9,How many people have died from coronavirus?,12,2020-03-08
+2020-08-16,question,9,How many people have died from coronavirus?,9,2020-03-08
+2020-08-23,question,9,How many people have died from coronavirus?,7,2020-03-08
+2020-08-30,question,9,How many people have died from coronavirus?,11,2020-03-08
+2020-09-06,question,9,How many people have died from coronavirus?,12,2020-03-08
+2020-09-13,question,9,How many people have died from coronavirus?,15,2020-03-08
+2020-09-20,question,9,How many people have died from coronavirus?,11,2020-03-08
+2020-09-27,question,9,How many people have died from coronavirus?,11,2020-03-08
+2020-10-04,question,9,How many people have died from coronavirus?,10,2020-03-08
+2020-10-11,question,9,How many people have died from coronavirus?,8,2020-03-08
+2020-10-18,question,9,How many people have died from coronavirus?,9,2020-03-08
+2020-10-25,question,9,How many people have died from coronavirus?,11,2020-03-08
+2020-11-01,question,9,How many people have died from coronavirus?,11,2020-03-08
+2020-11-08,question,9,How many people have died from coronavirus?,10,2020-03-08
+2020-11-15,question,9,How many people have died from coronavirus?,8,2020-03-08
+2020-11-22,question,9,How many people have died from coronavirus?,7,2020-03-08
+2020-11-29,question,9,How many people have died from coronavirus?,7,2020-03-08
+2020-12-06,question,9,How many people have died from coronavirus?,8,2020-03-08
+2020-12-13,question,9,How many people have died from coronavirus?,7,2020-03-08
+2020-12-20,question,9,How many people have died from coronavirus?,9,2020-03-08
+2020-01-05,search,1,Coronavirus,0.24,2020-03-08
+2020-01-12,search,1,Coronavirus,0.65,2020-03-08
+2020-01-19,search,1,Coronavirus,3,2020-03-08
+2020-01-26,search,1,Coronavirus,11,2020-03-08
+2020-02-02,search,1,Coronavirus,7,2020-03-08
+2020-02-09,search,1,Coronavirus,8,2020-03-08
+2020-02-16,search,1,Coronavirus,4,2020-03-08
+2020-02-23,search,1,Coronavirus,18,2020-03-08
+2020-03-01,search,1,Coronavirus,33,2020-03-08
+2020-03-08,search,1,Coronavirus,73,2020-03-08
+2020-03-15,search,1,Coronavirus,100,2020-03-08
+2020-03-22,search,1,Coronavirus,82,2020-03-08
+2020-03-29,search,1,Coronavirus,58,2020-03-08
+2020-04-05,search,1,Coronavirus,57,2020-03-08
+2020-04-12,search,1,Coronavirus,51,2020-03-08
+2020-04-19,search,1,Coronavirus,36,2020-03-08
+2020-04-26,search,1,Coronavirus,29,2020-03-08
+2020-05-03,search,1,Coronavirus,25,2020-03-08
+2020-05-10,search,1,Coronavirus,25,2020-03-08
+2020-05-17,search,1,Coronavirus,20,2020-03-08
+2020-05-24,search,1,Coronavirus,18,2020-03-08
+2020-05-31,search,1,Coronavirus,16,2020-03-08
+2020-06-07,search,1,Coronavirus,14,2020-03-08
+2020-06-14,search,1,Coronavirus,13,2020-03-08
+2020-06-21,search,1,Coronavirus,13,2020-03-08
+2020-06-28,search,1,Coronavirus,14,2020-03-08
+2020-07-05,search,1,Coronavirus,15,2020-03-08
+2020-07-12,search,1,Coronavirus,12,2020-03-08
+2020-07-19,search,1,Coronavirus,10,2020-03-08
+2020-07-26,search,1,Coronavirus,12,2020-03-08
+2020-08-02,search,1,Coronavirus,11,2020-03-08
+2020-08-09,search,1,Coronavirus,10,2020-03-08
+2020-08-16,search,1,Coronavirus,10,2020-03-08
+2020-08-23,search,1,Coronavirus,8,2020-03-08
+2020-08-30,search,1,Coronavirus,9,2020-03-08
+2020-09-06,search,1,Coronavirus,14,2020-03-08
+2020-09-13,search,1,Coronavirus,13,2020-03-08
+2020-09-20,search,1,Coronavirus,14,2020-03-08
+2020-09-27,search,1,Coronavirus,12,2020-03-08
+2020-10-04,search,1,Coronavirus,12,2020-03-08
+2020-10-11,search,1,Coronavirus,12,2020-03-08
+2020-10-18,search,1,Coronavirus,10,2020-03-08
+2020-10-25,search,1,Coronavirus,11,2020-03-08
+2020-11-01,search,1,Coronavirus,9,2020-03-08
+2020-11-08,search,1,Coronavirus,9,2020-03-08
+2020-11-15,search,1,Coronavirus,8,2020-03-08
+2020-11-22,search,1,Coronavirus,8,2020-03-08
+2020-11-29,search,1,Coronavirus,6,2020-03-08
+2020-12-06,search,1,Coronavirus,6,2020-03-08
+2020-12-13,search,1,Coronavirus,9,2020-03-08
+2020-12-20,search,1,Coronavirus,11,2020-03-08
+2020-01-05,search,2,US election,0.50,2020-10-25
+2020-01-12,search,2,US election,0.63,2020-10-25
+2020-01-19,search,2,US election,0.19,2020-10-25
+2020-01-26,search,2,US election,0.82,2020-10-25
+2020-02-02,search,2,US election,0.48,2020-10-25
+2020-02-09,search,2,US election,0.54,2020-10-25
+2020-02-16,search,2,US election,0.29,2020-10-25
+2020-02-23,search,2,US election,0.38,2020-10-25
+2020-03-01,search,2,US election,0.78,2020-10-25
+2020-03-08,search,2,US election,0.57,2020-10-25
+2020-03-15,search,2,US election,0.38,2020-10-25
+2020-03-22,search,2,US election,0.26,2020-10-25
+2020-03-29,search,2,US election,0.32,2020-10-25
+2020-04-05,search,2,US election,0.83,2020-10-25
+2020-04-12,search,2,US election,0.46,2020-10-25
+2020-04-19,search,2,US election,0.66,2020-10-25
+2020-04-26,search,2,US election,0.47,2020-10-25
+2020-05-03,search,2,US election,0.58,2020-10-25
+2020-05-10,search,2,US election,0.84,2020-10-25
+2020-05-17,search,2,US election,0.41,2020-10-25
+2020-05-24,search,2,US election,0.70,2020-10-25
+2020-05-31,search,2,US election,0.48,2020-10-25
+2020-06-07,search,2,US election,0.79,2020-10-25
+2020-06-14,search,2,US election,0.73,2020-10-25
+2020-06-21,search,2,US election,0.44,2020-10-25
+2020-06-28,search,2,US election,0.84,2020-10-25
+2020-07-05,search,2,US election,0.67,2020-10-25
+2020-07-12,search,2,US election,0.18,2020-10-25
+2020-07-19,search,2,US election,0.90,2020-10-25
+2020-07-26,search,2,US election,0.48,2020-10-25
+2020-08-02,search,2,US election,0.21,2020-10-25
+2020-08-09,search,2,US election,0.28,2020-10-25
+2020-08-16,search,2,US election,0.75,2020-10-25
+2020-08-23,search,2,US election,0.38,2020-10-25
+2020-08-30,search,2,US election,0.40,2020-10-25
+2020-09-06,search,2,US election,0.42,2020-10-25
+2020-09-13,search,2,US election,0.37,2020-10-25
+2020-09-20,search,2,US election,0.82,2020-10-25
+2020-09-27,search,2,US election,0.57,2020-10-25
+2020-10-04,search,2,US election,0.53,2020-10-25
+2020-10-11,search,2,US election,1,2020-10-25
+2020-10-18,search,2,US election,1,2020-10-25
+2020-10-25,search,2,US election,2,2020-10-25
+2020-11-01,search,2,US election,100,2020-10-25
+2020-11-08,search,2,US election,6,2020-10-25
+2020-11-15,search,2,US election,1,2020-10-25
+2020-11-22,search,2,US election,1,2020-10-25
+2020-11-29,search,2,US election,0.27,2020-10-25
+2020-12-06,search,2,US election,0.32,2020-10-25
+2020-12-13,search,2,US election,0.17,2020-10-25
+2020-12-20,search,2,US election,0.19,2020-10-25
+2020-01-05,search,3,Caroline Flack,1,2020-02-02
+2020-01-12,search,3,Caroline Flack,2,2020-02-02
+2020-01-19,search,3,Caroline Flack,0.15,2020-02-02
+2020-01-26,search,3,Caroline Flack,2,2020-02-02
+2020-02-02,search,3,Caroline Flack,1,2020-02-02
+2020-02-09,search,3,Caroline Flack,100,2020-02-02
+2020-02-16,search,3,Caroline Flack,97,2020-02-02
+2020-02-23,search,3,Caroline Flack,11,2020-02-02
+2020-03-01,search,3,Caroline Flack,5,2020-02-02
+2020-03-08,search,3,Caroline Flack,7,2020-02-02
+2020-03-15,search,3,Caroline Flack,1,2020-02-02
+2020-03-22,search,3,Caroline Flack,1,2020-02-02
+2020-03-29,search,3,Caroline Flack,1,2020-02-02
+2020-04-05,search,3,Caroline Flack,1,2020-02-02
+2020-04-12,search,3,Caroline Flack,0.83,2020-02-02
+2020-04-19,search,3,Caroline Flack,0.69,2020-02-02
+2020-04-26,search,3,Caroline Flack,0.37,2020-02-02
+2020-05-03,search,3,Caroline Flack,0.31,2020-02-02
+2020-05-10,search,3,Caroline Flack,0.26,2020-02-02
+2020-05-17,search,3,Caroline Flack,0.25,2020-02-02
+2020-05-24,search,3,Caroline Flack,1,2020-02-02
+2020-05-31,search,3,Caroline Flack,0.85,2020-02-02
+2020-06-07,search,3,Caroline Flack,0.20,2020-02-02
+2020-06-14,search,3,Caroline Flack,0.88,2020-02-02
+2020-06-21,search,3,Caroline Flack,0.36,2020-02-02
+2020-06-28,search,3,Caroline Flack,0.61,2020-02-02
+2020-07-05,search,3,Caroline Flack,0.78,2020-02-02
+2020-07-12,search,3,Caroline Flack,0.69,2020-02-02
+2020-07-19,search,3,Caroline Flack,0.57,2020-02-02
+2020-07-26,search,3,Caroline Flack,0.42,2020-02-02
+2020-08-02,search,3,Caroline Flack,2,2020-02-02
+2020-08-09,search,3,Caroline Flack,0.12,2020-02-02
+2020-08-16,search,3,Caroline Flack,0.11,2020-02-02
+2020-08-23,search,3,Caroline Flack,0.48,2020-02-02
+2020-08-30,search,3,Caroline Flack,0.75,2020-02-02
+2020-09-06,search,3,Caroline Flack,0.59,2020-02-02
+2020-09-13,search,3,Caroline Flack,0.11,2020-02-02
+2020-09-20,search,3,Caroline Flack,0.33,2020-02-02
+2020-09-27,search,3,Caroline Flack,0.24,2020-02-02
+2020-10-04,search,3,Caroline Flack,1,2020-02-02
+2020-10-11,search,3,Caroline Flack,1,2020-02-02
+2020-10-18,search,3,Caroline Flack,0.23,2020-02-02
+2020-10-25,search,3,Caroline Flack,0.67,2020-02-02
+2020-11-01,search,3,Caroline Flack,0.45,2020-02-02
+2020-11-08,search,3,Caroline Flack,1,2020-02-02
+2020-11-15,search,3,Caroline Flack,0.12,2020-02-02
+2020-11-22,search,3,Caroline Flack,0.26,2020-02-02
+2020-11-29,search,3,Caroline Flack,0.49,2020-02-02
+2020-12-06,search,3,Caroline Flack,0.42,2020-02-02
+2020-12-13,search,3,Caroline Flack,0.49,2020-02-02
+2020-12-20,search,3,Caroline Flack,1,2020-02-02
+2020-01-05,search,4,Coronavirus symptoms,0,2020-03-08
+2020-01-12,search,4,Coronavirus symptoms,0.17,2020-03-08
+2020-01-19,search,4,Coronavirus symptoms,5,2020-03-08
+2020-01-26,search,4,Coronavirus symptoms,19,2020-03-08
+2020-02-02,search,4,Coronavirus symptoms,13,2020-03-08
+2020-02-09,search,4,Coronavirus symptoms,16,2020-03-08
+2020-02-16,search,4,Coronavirus symptoms,5,2020-03-08
+2020-02-23,search,4,Coronavirus symptoms,30,2020-03-08
+2020-03-01,search,4,Coronavirus symptoms,50,2020-03-08
+2020-03-08,search,4,Coronavirus symptoms,95,2020-03-08
+2020-03-15,search,4,Coronavirus symptoms,100,2020-03-08
+2020-03-22,search,4,Coronavirus symptoms,64,2020-03-08
+2020-03-29,search,4,Coronavirus symptoms,27,2020-03-08
+2020-04-05,search,4,Coronavirus symptoms,20,2020-03-08
+2020-04-12,search,4,Coronavirus symptoms,14,2020-03-08
+2020-04-19,search,4,Coronavirus symptoms,9,2020-03-08
+2020-04-26,search,4,Coronavirus symptoms,9,2020-03-08
+2020-05-03,search,4,Coronavirus symptoms,6,2020-03-08
+2020-05-10,search,4,Coronavirus symptoms,7,2020-03-08
+2020-05-17,search,4,Coronavirus symptoms,6,2020-03-08
+2020-05-24,search,4,Coronavirus symptoms,5,2020-03-08
+2020-05-31,search,4,Coronavirus symptoms,6,2020-03-08
+2020-06-07,search,4,Coronavirus symptoms,5,2020-03-08
+2020-06-14,search,4,Coronavirus symptoms,4,2020-03-08
+2020-06-21,search,4,Coronavirus symptoms,3,2020-03-08
+2020-06-28,search,4,Coronavirus symptoms,4,2020-03-08
+2020-07-05,search,4,Coronavirus symptoms,4,2020-03-08
+2020-07-12,search,4,Coronavirus symptoms,4,2020-03-08
+2020-07-19,search,4,Coronavirus symptoms,3,2020-03-08
+2020-07-26,search,4,Coronavirus symptoms,4,2020-03-08
+2020-08-02,search,4,Coronavirus symptoms,4,2020-03-08
+2020-08-09,search,4,Coronavirus symptoms,4,2020-03-08
+2020-08-16,search,4,Coronavirus symptoms,4,2020-03-08
+2020-08-23,search,4,Coronavirus symptoms,4,2020-03-08
+2020-08-30,search,4,Coronavirus symptoms,6,2020-03-08
+2020-09-06,search,4,Coronavirus symptoms,9,2020-03-08
+2020-09-13,search,4,Coronavirus symptoms,10,2020-03-08
+2020-09-20,search,4,Coronavirus symptoms,8,2020-03-08
+2020-09-27,search,4,Coronavirus symptoms,6,2020-03-08
+2020-10-04,search,4,Coronavirus symptoms,6,2020-03-08
+2020-10-11,search,4,Coronavirus symptoms,5,2020-03-08
+2020-10-18,search,4,Coronavirus symptoms,5,2020-03-08
+2020-10-25,search,4,Coronavirus symptoms,4,2020-03-08
+2020-11-01,search,4,Coronavirus symptoms,4,2020-03-08
+2020-11-08,search,4,Coronavirus symptoms,4,2020-03-08
+2020-11-15,search,4,Coronavirus symptoms,3,2020-03-08
+2020-11-22,search,4,Coronavirus symptoms,2,2020-03-08
+2020-11-29,search,4,Coronavirus symptoms,3,2020-03-08
+2020-12-06,search,4,Coronavirus symptoms,3,2020-03-08
+2020-12-13,search,4,Coronavirus symptoms,4,2020-03-08
+2020-12-20,search,4,Coronavirus symptoms,6,2020-03-08
+2020-01-05,search,5,Coronavirus update,0,2020-03-08
+2020-01-12,search,5,Coronavirus update,0,2020-03-08
+2020-01-19,search,5,Coronavirus update,0.35,2020-03-08
+2020-01-26,search,5,Coronavirus update,2,2020-03-08
+2020-02-02,search,5,Coronavirus update,3,2020-03-08
+2020-02-09,search,5,Coronavirus update,2,2020-03-08
+2020-02-16,search,5,Coronavirus update,2,2020-03-08
+2020-02-23,search,5,Coronavirus update,8,2020-03-08
+2020-03-01,search,5,Coronavirus update,22,2020-03-08
+2020-03-08,search,5,Coronavirus update,65,2020-03-08
+2020-03-15,search,5,Coronavirus update,100,2020-03-08
+2020-03-22,search,5,Coronavirus update,75,2020-03-08
+2020-03-29,search,5,Coronavirus update,49,2020-03-08
+2020-04-05,search,5,Coronavirus update,49,2020-03-08
+2020-04-12,search,5,Coronavirus update,38,2020-03-08
+2020-04-19,search,5,Coronavirus update,33,2020-03-08
+2020-04-26,search,5,Coronavirus update,29,2020-03-08
+2020-05-03,search,5,Coronavirus update,28,2020-03-08
+2020-05-10,search,5,Coronavirus update,27,2020-03-08
+2020-05-17,search,5,Coronavirus update,23,2020-03-08
+2020-05-24,search,5,Coronavirus update,23,2020-03-08
+2020-05-31,search,5,Coronavirus update,17,2020-03-08
+2020-06-07,search,5,Coronavirus update,15,2020-03-08
+2020-06-14,search,5,Coronavirus update,15,2020-03-08
+2020-06-21,search,5,Coronavirus update,17,2020-03-08
+2020-06-28,search,5,Coronavirus update,18,2020-03-08
+2020-07-05,search,5,Coronavirus update,15,2020-03-08
+2020-07-12,search,5,Coronavirus update,12,2020-03-08
+2020-07-19,search,5,Coronavirus update,9,2020-03-08
+2020-07-26,search,5,Coronavirus update,11,2020-03-08
+2020-08-02,search,5,Coronavirus update,10,2020-03-08
+2020-08-09,search,5,Coronavirus update,9,2020-03-08
+2020-08-16,search,5,Coronavirus update,8,2020-03-08
+2020-08-23,search,5,Coronavirus update,7,2020-03-08
+2020-08-30,search,5,Coronavirus update,8,2020-03-08
+2020-09-06,search,5,Coronavirus update,14,2020-03-08
+2020-09-13,search,5,Coronavirus update,13,2020-03-08
+2020-09-20,search,5,Coronavirus update,18,2020-03-08
+2020-09-27,search,5,Coronavirus update,14,2020-03-08
+2020-10-04,search,5,Coronavirus update,14,2020-03-08
+2020-10-11,search,5,Coronavirus update,15,2020-03-08
+2020-10-18,search,5,Coronavirus update,11,2020-03-08
+2020-10-25,search,5,Coronavirus update,14,2020-03-08
+2020-11-01,search,5,Coronavirus update,11,2020-03-08
+2020-11-08,search,5,Coronavirus update,9,2020-03-08
+2020-11-15,search,5,Coronavirus update,9,2020-03-08
+2020-11-22,search,5,Coronavirus update,8,2020-03-08
+2020-11-29,search,5,Coronavirus update,6,2020-03-08
+2020-12-06,search,5,Coronavirus update,6,2020-03-08
+2020-12-13,search,5,Coronavirus update,11,2020-03-08
+2020-12-20,search,5,Coronavirus update,14,2020-03-08
+2020-01-05,search,6,Premier League,40,2020-12-06
+2020-01-12,search,6,Premier League,48,2020-12-06
+2020-01-19,search,6,Premier League,70,2020-12-06
+2020-01-26,search,6,Premier League,43,2020-12-06
+2020-02-02,search,6,Premier League,44,2020-12-06
+2020-02-09,search,6,Premier League,34,2020-12-06
+2020-02-16,search,6,Premier League,54,2020-12-06
+2020-02-23,search,6,Premier League,58,2020-12-06
+2020-03-01,search,6,Premier League,52,2020-12-06
+2020-03-08,search,6,Premier League,44,2020-12-06
+2020-03-15,search,6,Premier League,12,2020-12-06
+2020-03-22,search,6,Premier League,9,2020-12-06
+2020-03-29,search,6,Premier League,12,2020-12-06
+2020-04-05,search,6,Premier League,12,2020-12-06
+2020-04-12,search,6,Premier League,11,2020-12-06
+2020-04-19,search,6,Premier League,11,2020-12-06
+2020-04-26,search,6,Premier League,13,2020-12-06
+2020-05-03,search,6,Premier League,11,2020-12-06
+2020-05-10,search,6,Premier League,11,2020-12-06
+2020-05-17,search,6,Premier League,11,2020-12-06
+2020-05-24,search,6,Premier League,14,2020-12-06
+2020-05-31,search,6,Premier League,14,2020-12-06
+2020-06-07,search,6,Premier League,14,2020-12-06
+2020-06-14,search,6,Premier League,69,2020-12-06
+2020-06-21,search,6,Premier League,90,2020-12-06
+2020-06-28,search,6,Premier League,72,2020-12-06
+2020-07-05,search,6,Premier League,87,2020-12-06
+2020-07-12,search,6,Premier League,97,2020-12-06
+2020-07-19,search,6,Premier League,79,2020-12-06
+2020-07-26,search,6,Premier League,48,2020-12-06
+2020-08-02,search,6,Premier League,12,2020-12-06
+2020-08-09,search,6,Premier League,11,2020-12-06
+2020-08-16,search,6,Premier League,17,2020-12-06
+2020-08-23,search,6,Premier League,14,2020-12-06
+2020-08-30,search,6,Premier League,18,2020-12-06
+2020-09-06,search,6,Premier League,44,2020-12-06
+2020-09-13,search,6,Premier League,58,2020-12-06
+2020-09-20,search,6,Premier League,58,2020-12-06
+2020-09-27,search,6,Premier League,64,2020-12-06
+2020-10-04,search,6,Premier League,50,2020-12-06
+2020-10-11,search,6,Premier League,36,2020-12-06
+2020-10-18,search,6,Premier League,64,2020-12-06
+2020-10-25,search,6,Premier League,58,2020-12-06
+2020-11-01,search,6,Premier League,63,2020-12-06
+2020-11-08,search,6,Premier League,40,2020-12-06
+2020-11-15,search,6,Premier League,29,2020-12-06
+2020-11-22,search,6,Premier League,57,2020-12-06
+2020-11-29,search,6,Premier League,60,2020-12-06
+2020-12-06,search,6,Premier League,63,2020-12-06
+2020-12-13,search,6,Premier League,100,2020-12-06
+2020-12-20,search,6,Premier League,70,2020-12-06
+2020-01-05,search,7,Boris Johnson,3,2020-03-29
+2020-01-12,search,7,Boris Johnson,2,2020-03-29
+2020-01-19,search,7,Boris Johnson,2,2020-03-29
+2020-01-26,search,7,Boris Johnson,3,2020-03-29
+2020-02-02,search,7,Boris Johnson,3,2020-03-29
+2020-02-09,search,7,Boris Johnson,3,2020-03-29
+2020-02-16,search,7,Boris Johnson,3,2020-03-29
+2020-02-23,search,7,Boris Johnson,6,2020-03-29
+2020-03-01,search,7,Boris Johnson,9,2020-03-29
+2020-03-08,search,7,Boris Johnson,14,2020-03-29
+2020-03-15,search,7,Boris Johnson,32,2020-03-29
+2020-03-22,search,7,Boris Johnson,55,2020-03-29
+2020-03-29,search,7,Boris Johnson,15,2020-03-29
+2020-04-05,search,7,Boris Johnson,100,2020-03-29
+2020-04-12,search,7,Boris Johnson,12,2020-03-29
+2020-04-19,search,7,Boris Johnson,7,2020-03-29
+2020-04-26,search,7,Boris Johnson,25,2020-03-29
+2020-05-03,search,7,Boris Johnson,13,2020-03-29
+2020-05-10,search,7,Boris Johnson,27,2020-03-29
+2020-05-17,search,7,Boris Johnson,6,2020-03-29
+2020-05-24,search,7,Boris Johnson,14,2020-03-29
+2020-05-31,search,7,Boris Johnson,5,2020-03-29
+2020-06-07,search,7,Boris Johnson,7,2020-03-29
+2020-06-14,search,7,Boris Johnson,7,2020-03-29
+2020-06-21,search,7,Boris Johnson,6,2020-03-29
+2020-06-28,search,7,Boris Johnson,5,2020-03-29
+2020-07-05,search,7,Boris Johnson,5,2020-03-29
+2020-07-12,search,7,Boris Johnson,4,2020-03-29
+2020-07-19,search,7,Boris Johnson,3,2020-03-29
+2020-07-26,search,7,Boris Johnson,4,2020-03-29
+2020-08-02,search,7,Boris Johnson,3,2020-03-29
+2020-08-09,search,7,Boris Johnson,3,2020-03-29
+2020-08-16,search,7,Boris Johnson,3,2020-03-29
+2020-08-23,search,7,Boris Johnson,4,2020-03-29
+2020-08-30,search,7,Boris Johnson,2,2020-03-29
+2020-09-06,search,7,Boris Johnson,5,2020-03-29
+2020-09-13,search,7,Boris Johnson,5,2020-03-29
+2020-09-20,search,7,Boris Johnson,16,2020-03-29
+2020-09-27,search,7,Boris Johnson,7,2020-03-29
+2020-10-04,search,7,Boris Johnson,5,2020-03-29
+2020-10-11,search,7,Boris Johnson,12,2020-03-29
+2020-10-18,search,7,Boris Johnson,5,2020-03-29
+2020-10-25,search,7,Boris Johnson,15,2020-03-29
+2020-11-01,search,7,Boris Johnson,8,2020-03-29
+2020-11-08,search,7,Boris Johnson,6,2020-03-29
+2020-11-15,search,7,Boris Johnson,5,2020-03-29
+2020-11-22,search,7,Boris Johnson,6,2020-03-29
+2020-11-29,search,7,Boris Johnson,3,2020-03-29
+2020-12-06,search,7,Boris Johnson,3,2020-03-29
+2020-12-13,search,7,Boris Johnson,7,2020-03-29
+2020-12-20,search,7,Boris Johnson,12,2020-03-29
+2020-01-05,search,8,Eat Out to Help Out,0.63,2020-07-26
+2020-01-12,search,8,Eat Out to Help Out,0.21,2020-07-26
+2020-01-19,search,8,Eat Out to Help Out,0.41,2020-07-26
+2020-01-26,search,8,Eat Out to Help Out,0,2020-07-26
+2020-02-02,search,8,Eat Out to Help Out,0,2020-07-26
+2020-02-09,search,8,Eat Out to Help Out,0,2020-07-26
+2020-02-16,search,8,Eat Out to Help Out,0.24,2020-07-26
+2020-02-23,search,8,Eat Out to Help Out,0,2020-07-26
+2020-03-01,search,8,Eat Out to Help Out,0,2020-07-26
+2020-03-08,search,8,Eat Out to Help Out,0,2020-07-26
+2020-03-15,search,8,Eat Out to Help Out,0.77,2020-07-26
+2020-03-22,search,8,Eat Out to Help Out,0.66,2020-07-26
+2020-03-29,search,8,Eat Out to Help Out,0,2020-07-26
+2020-04-05,search,8,Eat Out to Help Out,0.24,2020-07-26
+2020-04-12,search,8,Eat Out to Help Out,0,2020-07-26
+2020-04-19,search,8,Eat Out to Help Out,0,2020-07-26
+2020-04-26,search,8,Eat Out to Help Out,0,2020-07-26
+2020-05-03,search,8,Eat Out to Help Out,0,2020-07-26
+2020-05-10,search,8,Eat Out to Help Out,0,2020-07-26
+2020-05-17,search,8,Eat Out to Help Out,0.31,2020-07-26
+2020-05-24,search,8,Eat Out to Help Out,0.79,2020-07-26
+2020-05-31,search,8,Eat Out to Help Out,0,2020-07-26
+2020-06-07,search,8,Eat Out to Help Out,0.83,2020-07-26
+2020-06-14,search,8,Eat Out to Help Out,0.70,2020-07-26
+2020-06-21,search,8,Eat Out to Help Out,0,2020-07-26
+2020-06-28,search,8,Eat Out to Help Out,0.23,2020-07-26
+2020-07-05,search,8,Eat Out to Help Out,4,2020-07-26
+2020-07-12,search,8,Eat Out to Help Out,3,2020-07-26
+2020-07-19,search,8,Eat Out to Help Out,5,2020-07-26
+2020-07-26,search,8,Eat Out to Help Out,35,2020-07-26
+2020-08-02,search,8,Eat Out to Help Out,100,2020-07-26
+2020-08-09,search,8,Eat Out to Help Out,80,2020-07-26
+2020-08-16,search,8,Eat Out to Help Out,75,2020-07-26
+2020-08-23,search,8,Eat Out to Help Out,82,2020-07-26
+2020-08-30,search,8,Eat Out to Help Out,40,2020-07-26
+2020-09-06,search,8,Eat Out to Help Out,10,2020-07-26
+2020-09-13,search,8,Eat Out to Help Out,5,2020-07-26
+2020-09-20,search,8,Eat Out to Help Out,4,2020-07-26
+2020-09-27,search,8,Eat Out to Help Out,3,2020-07-26
+2020-10-04,search,8,Eat Out to Help Out,2,2020-07-26
+2020-10-11,search,8,Eat Out to Help Out,1,2020-07-26
+2020-10-18,search,8,Eat Out to Help Out,1,2020-07-26
+2020-10-25,search,8,Eat Out to Help Out,1,2020-07-26
+2020-11-01,search,8,Eat Out to Help Out,1,2020-07-26
+2020-11-08,search,8,Eat Out to Help Out,1,2020-07-26
+2020-11-15,search,8,Eat Out to Help Out,0.88,2020-07-26
+2020-11-22,search,8,Eat Out to Help Out,0.72,2020-07-26
+2020-11-29,search,8,Eat Out to Help Out,0.26,2020-07-26
+2020-12-06,search,8,Eat Out to Help Out,0.57,2020-07-26
+2020-12-13,search,8,Eat Out to Help Out,0.17,2020-07-26
+2020-12-20,search,8,Eat Out to Help Out,0.81,2020-07-26
+2020-01-05,search,9,Kobe Bryant,0.74,2020-01-19
+2020-01-12,search,9,Kobe Bryant,0.89,2020-01-19
+2020-01-19,search,9,Kobe Bryant,0.14,2020-01-19
+2020-01-26,search,9,Kobe Bryant,100,2020-01-19
+2020-02-02,search,9,Kobe Bryant,4,2020-01-19
+2020-02-09,search,9,Kobe Bryant,2,2020-01-19
+2020-02-16,search,9,Kobe Bryant,3,2020-01-19
+2020-02-23,search,9,Kobe Bryant,3,2020-01-19
+2020-03-01,search,9,Kobe Bryant,1,2020-01-19
+2020-03-08,search,9,Kobe Bryant,1,2020-01-19
+2020-03-15,search,9,Kobe Bryant,1,2020-01-19
+2020-03-22,search,9,Kobe Bryant,0.73,2020-01-19
+2020-03-29,search,9,Kobe Bryant,1,2020-01-19
+2020-04-05,search,9,Kobe Bryant,1,2020-01-19
+2020-04-12,search,9,Kobe Bryant,0.87,2020-01-19
+2020-04-19,search,9,Kobe Bryant,1,2020-01-19
+2020-04-26,search,9,Kobe Bryant,1,2020-01-19
+2020-05-03,search,9,Kobe Bryant,1,2020-01-19
+2020-05-10,search,9,Kobe Bryant,1,2020-01-19
+2020-05-17,search,9,Kobe Bryant,1,2020-01-19
+2020-05-24,search,9,Kobe Bryant,1,2020-01-19
+2020-05-31,search,9,Kobe Bryant,1,2020-01-19
+2020-06-07,search,9,Kobe Bryant,1,2020-01-19
+2020-06-14,search,9,Kobe Bryant,0.50,2020-01-19
+2020-06-21,search,9,Kobe Bryant,0.64,2020-01-19
+2020-06-28,search,9,Kobe Bryant,0.50,2020-01-19
+2020-07-05,search,9,Kobe Bryant,0.53,2020-01-19
+2020-07-12,search,9,Kobe Bryant,0.51,2020-01-19
+2020-07-19,search,9,Kobe Bryant,0.86,2020-01-19
+2020-07-26,search,9,Kobe Bryant,0.75,2020-01-19
+2020-08-02,search,9,Kobe Bryant,0.25,2020-01-19
+2020-08-09,search,9,Kobe Bryant,0.65,2020-01-19
+2020-08-16,search,9,Kobe Bryant,0.63,2020-01-19
+2020-08-23,search,9,Kobe Bryant,1,2020-01-19
+2020-08-30,search,9,Kobe Bryant,0.76,2020-01-19
+2020-09-06,search,9,Kobe Bryant,0.19,2020-01-19
+2020-09-13,search,9,Kobe Bryant,0.28,2020-01-19
+2020-09-20,search,9,Kobe Bryant,0.32,2020-01-19
+2020-09-27,search,9,Kobe Bryant,0.71,2020-01-19
+2020-10-04,search,9,Kobe Bryant,0.85,2020-01-19
+2020-10-11,search,9,Kobe Bryant,1,2020-01-19
+2020-10-18,search,9,Kobe Bryant,0.45,2020-01-19
+2020-10-25,search,9,Kobe Bryant,0.27,2020-01-19
+2020-11-01,search,9,Kobe Bryant,0.84,2020-01-19
+2020-11-08,search,9,Kobe Bryant,0.34,2020-01-19
+2020-11-15,search,9,Kobe Bryant,0.55,2020-01-19
+2020-11-22,search,9,Kobe Bryant,0.47,2020-01-19
+2020-11-29,search,9,Kobe Bryant,0.26,2020-01-19
+2020-12-06,search,9,Kobe Bryant,0.84,2020-01-19
+2020-12-13,search,9,Kobe Bryant,0.68,2020-01-19
+2020-12-20,search,9,Kobe Bryant,1,2020-01-19
+2020-01-05,search,10,Kim Jong-un,1,2020-04-19
+2020-01-12,search,10,Kim Jong-un,0,2020-04-19
+2020-01-19,search,10,Kim Jong-un,1,2020-04-19
+2020-01-26,search,10,Kim Jong-un,2,2020-04-19
+2020-02-02,search,10,Kim Jong-un,0,2020-04-19
+2020-02-09,search,10,Kim Jong-un,0,2020-04-19
+2020-02-16,search,10,Kim Jong-un,1,2020-04-19
+2020-02-23,search,10,Kim Jong-un,0,2020-04-19
+2020-03-01,search,10,Kim Jong-un,1,2020-04-19
+2020-03-08,search,10,Kim Jong-un,0,2020-04-19
+2020-03-15,search,10,Kim Jong-un,1,2020-04-19
+2020-03-22,search,10,Kim Jong-un,0,2020-04-19
+2020-03-29,search,10,Kim Jong-un,2,2020-04-19
+2020-04-05,search,10,Kim Jong-un,2,2020-04-19
+2020-04-12,search,10,Kim Jong-un,3,2020-04-19
+2020-04-19,search,10,Kim Jong-un,62,2020-04-19
+2020-04-26,search,10,Kim Jong-un,100,2020-04-19
+2020-05-03,search,10,Kim Jong-un,8,2020-04-19
+2020-05-10,search,10,Kim Jong-un,2,2020-04-19
+2020-05-17,search,10,Kim Jong-un,2,2020-04-19
+2020-05-24,search,10,Kim Jong-un,4,2020-04-19
+2020-05-31,search,10,Kim Jong-un,2,2020-04-19
+2020-06-07,search,10,Kim Jong-un,3,2020-04-19
+2020-06-14,search,10,Kim Jong-un,1,2020-04-19
+2020-06-21,search,10,Kim Jong-un,0,2020-04-19
+2020-06-28,search,10,Kim Jong-un,1,2020-04-19
+2020-07-05,search,10,Kim Jong-un,2,2020-04-19
+2020-07-12,search,10,Kim Jong-un,3,2020-04-19
+2020-07-19,search,10,Kim Jong-un,3,2020-04-19
+2020-07-26,search,10,Kim Jong-un,3,2020-04-19
+2020-08-02,search,10,Kim Jong-un,0,2020-04-19
+2020-08-09,search,10,Kim Jong-un,0,2020-04-19
+2020-08-16,search,10,Kim Jong-un,3,2020-04-19
+2020-08-23,search,10,Kim Jong-un,11,2020-04-19
+2020-08-30,search,10,Kim Jong-un,2,2020-04-19
+2020-09-06,search,10,Kim Jong-un,1,2020-04-19
+2020-09-13,search,10,Kim Jong-un,4,2020-04-19
+2020-09-20,search,10,Kim Jong-un,1,2020-04-19
+2020-09-27,search,10,Kim Jong-un,1,2020-04-19
+2020-10-04,search,10,Kim Jong-un,1,2020-04-19
+2020-10-11,search,10,Kim Jong-un,1,2020-04-19
+2020-10-18,search,10,Kim Jong-un,1,2020-04-19
+2020-10-25,search,10,Kim Jong-un,2,2020-04-19
+2020-11-01,search,10,Kim Jong-un,1,2020-04-19
+2020-11-08,search,10,Kim Jong-un,2,2020-04-19
+2020-11-15,search,10,Kim Jong-un,0,2020-04-19
+2020-11-22,search,10,Kim Jong-un,1,2020-04-19
+2020-11-29,search,10,Kim Jong-un,0,2020-04-19
+2020-12-06,search,10,Kim Jong-un,1,2020-04-19
+2020-12-13,search,10,Kim Jong-un,1,2020-04-19
+2020-12-20,search,10,Kim Jong-un,1,2020-04-19
 2020-01-05,what,1,What is VE day?,1,2020-05-03
 2020-01-12,what,1,What is VE day?,0.59,2020-05-03
 2020-01-19,what,1,What is VE day?,0.43,2020-05-03
@@ -1529,3 +1733,1032 @@ week,qType,rank,question,relFreq,peakDate
 2020-12-06,what,10,What does furlough mean?,0.32,2020-03-29
 2020-12-13,what,10,What does furlough mean?,1,2020-03-29
 2020-12-20,what,10,What does furlough mean?,1,2020-03-29
+2020-01-05,when,1,When will lockdown end?,0,2020-04-26
+2020-01-12,when,1,When will lockdown end?,0,2020-04-26
+2020-01-19,when,1,When will lockdown end?,0,2020-04-26
+2020-01-26,when,1,When will lockdown end?,0,2020-04-26
+2020-02-02,when,1,When will lockdown end?,0,2020-04-26
+2020-02-09,when,1,When will lockdown end?,0,2020-04-26
+2020-02-16,when,1,When will lockdown end?,0,2020-04-26
+2020-02-23,when,1,When will lockdown end?,0,2020-04-26
+2020-03-01,when,1,When will lockdown end?,0,2020-04-26
+2020-03-08,when,1,When will lockdown end?,1,2020-04-26
+2020-03-15,when,1,When will lockdown end?,2,2020-04-26
+2020-03-22,when,1,When will lockdown end?,14,2020-04-26
+2020-03-29,when,1,When will lockdown end?,41,2020-04-26
+2020-04-05,when,1,When will lockdown end?,74,2020-04-26
+2020-04-12,when,1,When will lockdown end?,92,2020-04-26
+2020-04-19,when,1,When will lockdown end?,81,2020-04-26
+2020-04-26,when,1,When will lockdown end?,100,2020-04-26
+2020-05-03,when,1,When will lockdown end?,73,2020-04-26
+2020-05-10,when,1,When will lockdown end?,21,2020-04-26
+2020-05-17,when,1,When will lockdown end?,22,2020-04-26
+2020-05-24,when,1,When will lockdown end?,22,2020-04-26
+2020-05-31,when,1,When will lockdown end?,10,2020-04-26
+2020-06-07,when,1,When will lockdown end?,13,2020-04-26
+2020-06-14,when,1,When will lockdown end?,8,2020-04-26
+2020-06-21,when,1,When will lockdown end?,8,2020-04-26
+2020-06-28,when,1,When will lockdown end?,6,2020-04-26
+2020-07-05,when,1,When will lockdown end?,5,2020-04-26
+2020-07-12,when,1,When will lockdown end?,3,2020-04-26
+2020-07-19,when,1,When will lockdown end?,1,2020-04-26
+2020-07-26,when,1,When will lockdown end?,1,2020-04-26
+2020-08-02,when,1,When will lockdown end?,1,2020-04-26
+2020-08-09,when,1,When will lockdown end?,2,2020-04-26
+2020-08-16,when,1,When will lockdown end?,2,2020-04-26
+2020-08-23,when,1,When will lockdown end?,1,2020-04-26
+2020-08-30,when,1,When will lockdown end?,1,2020-04-26
+2020-09-06,when,1,When will lockdown end?,0.22,2020-04-26
+2020-09-13,when,1,When will lockdown end?,1,2020-04-26
+2020-09-20,when,1,When will lockdown end?,2,2020-04-26
+2020-09-27,when,1,When will lockdown end?,1,2020-04-26
+2020-10-04,when,1,When will lockdown end?,3,2020-04-26
+2020-10-11,when,1,When will lockdown end?,1,2020-04-26
+2020-10-18,when,1,When will lockdown end?,1,2020-04-26
+2020-10-25,when,1,When will lockdown end?,1,2020-04-26
+2020-11-01,when,1,When will lockdown end?,7,2020-04-26
+2020-11-08,when,1,When will lockdown end?,7,2020-04-26
+2020-11-15,when,1,When will lockdown end?,13,2020-04-26
+2020-11-22,when,1,When will lockdown end?,10,2020-04-26
+2020-11-29,when,1,When will lockdown end?,6,2020-04-26
+2020-12-06,when,1,When will lockdown end?,2,2020-04-26
+2020-12-13,when,1,When will lockdown end?,3,2020-04-26
+2020-12-20,when,1,When will lockdown end?,7,2020-04-26
+2020-01-05,when,2,When will gyms reopen?,0,2020-07-05
+2020-01-12,when,2,When will gyms reopen?,0,2020-07-05
+2020-01-19,when,2,When will gyms reopen?,0,2020-07-05
+2020-01-26,when,2,When will gyms reopen?,0,2020-07-05
+2020-02-02,when,2,When will gyms reopen?,0,2020-07-05
+2020-02-09,when,2,When will gyms reopen?,0,2020-07-05
+2020-02-16,when,2,When will gyms reopen?,0,2020-07-05
+2020-02-23,when,2,When will gyms reopen?,0,2020-07-05
+2020-03-01,when,2,When will gyms reopen?,0,2020-07-05
+2020-03-08,when,2,When will gyms reopen?,0,2020-07-05
+2020-03-15,when,2,When will gyms reopen?,2,2020-07-05
+2020-03-22,when,2,When will gyms reopen?,4,2020-07-05
+2020-03-29,when,2,When will gyms reopen?,5,2020-07-05
+2020-04-05,when,2,When will gyms reopen?,1,2020-07-05
+2020-04-12,when,2,When will gyms reopen?,8,2020-07-05
+2020-04-19,when,2,When will gyms reopen?,20,2020-07-05
+2020-04-26,when,2,When will gyms reopen?,18,2020-07-05
+2020-05-03,when,2,When will gyms reopen?,32,2020-07-05
+2020-05-10,when,2,When will gyms reopen?,31,2020-07-05
+2020-05-17,when,2,When will gyms reopen?,31,2020-07-05
+2020-05-24,when,2,When will gyms reopen?,67,2020-07-05
+2020-05-31,when,2,When will gyms reopen?,68,2020-07-05
+2020-06-07,when,2,When will gyms reopen?,72,2020-07-05
+2020-06-14,when,2,When will gyms reopen?,82,2020-07-05
+2020-06-21,when,2,When will gyms reopen?,82,2020-07-05
+2020-06-28,when,2,When will gyms reopen?,69,2020-07-05
+2020-07-05,when,2,When will gyms reopen?,100,2020-07-05
+2020-07-12,when,2,When will gyms reopen?,11,2020-07-05
+2020-07-19,when,2,When will gyms reopen?,13,2020-07-05
+2020-07-26,when,2,When will gyms reopen?,7,2020-07-05
+2020-08-02,when,2,When will gyms reopen?,2,2020-07-05
+2020-08-09,when,2,When will gyms reopen?,1,2020-07-05
+2020-08-16,when,2,When will gyms reopen?,2,2020-07-05
+2020-08-23,when,2,When will gyms reopen?,1,2020-07-05
+2020-08-30,when,2,When will gyms reopen?,3,2020-07-05
+2020-09-06,when,2,When will gyms reopen?,2,2020-07-05
+2020-09-13,when,2,When will gyms reopen?,1,2020-07-05
+2020-09-20,when,2,When will gyms reopen?,1,2020-07-05
+2020-09-27,when,2,When will gyms reopen?,0,2020-07-05
+2020-10-04,when,2,When will gyms reopen?,1,2020-07-05
+2020-10-11,when,2,When will gyms reopen?,2,2020-07-05
+2020-10-18,when,2,When will gyms reopen?,2,2020-07-05
+2020-10-25,when,2,When will gyms reopen?,0,2020-07-05
+2020-11-01,when,2,When will gyms reopen?,0,2020-07-05
+2020-11-08,when,2,When will gyms reopen?,2,2020-07-05
+2020-11-15,when,2,When will gyms reopen?,4,2020-07-05
+2020-11-22,when,2,When will gyms reopen?,4,2020-07-05
+2020-11-29,when,2,When will gyms reopen?,2,2020-07-05
+2020-12-06,when,2,When will gyms reopen?,0,2020-07-05
+2020-12-13,when,2,When will gyms reopen?,1,2020-07-05
+2020-12-20,when,2,When will gyms reopen?,2,2020-07-05
+2020-01-05,when,3,When does lockdown start?,0,2020-11-01
+2020-01-12,when,3,When does lockdown start?,0,2020-11-01
+2020-01-19,when,3,When does lockdown start?,0,2020-11-01
+2020-01-26,when,3,When does lockdown start?,0,2020-11-01
+2020-02-02,when,3,When does lockdown start?,0,2020-11-01
+2020-02-09,when,3,When does lockdown start?,0,2020-11-01
+2020-02-16,when,3,When does lockdown start?,0,2020-11-01
+2020-02-23,when,3,When does lockdown start?,0,2020-11-01
+2020-03-01,when,3,When does lockdown start?,0,2020-11-01
+2020-03-08,when,3,When does lockdown start?,0.31,2020-11-01
+2020-03-15,when,3,When does lockdown start?,1,2020-11-01
+2020-03-22,when,3,When does lockdown start?,7,2020-11-01
+2020-03-29,when,3,When does lockdown start?,1,2020-11-01
+2020-04-05,when,3,When does lockdown start?,1,2020-11-01
+2020-04-12,when,3,When does lockdown start?,1,2020-11-01
+2020-04-19,when,3,When does lockdown start?,1,2020-11-01
+2020-04-26,when,3,When does lockdown start?,1,2020-11-01
+2020-05-03,when,3,When does lockdown start?,1,2020-11-01
+2020-05-10,when,3,When does lockdown start?,0.52,2020-11-01
+2020-05-17,when,3,When does lockdown start?,0.57,2020-11-01
+2020-05-24,when,3,When does lockdown start?,1,2020-11-01
+2020-05-31,when,3,When does lockdown start?,0.3,2020-11-01
+2020-06-07,when,3,When does lockdown start?,0.53,2020-11-01
+2020-06-14,when,3,When does lockdown start?,0.22,2020-11-01
+2020-06-21,when,3,When does lockdown start?,0,2020-11-01
+2020-06-28,when,3,When does lockdown start?,0.37,2020-11-01
+2020-07-05,when,3,When does lockdown start?,1,2020-11-01
+2020-07-12,when,3,When does lockdown start?,0.42,2020-11-01
+2020-07-19,when,3,When does lockdown start?,0.44,2020-11-01
+2020-07-26,when,3,When does lockdown start?,0,2020-11-01
+2020-08-02,when,3,When does lockdown start?,0.46,2020-11-01
+2020-08-09,when,3,When does lockdown start?,0,2020-11-01
+2020-08-16,when,3,When does lockdown start?,0.52,2020-11-01
+2020-08-23,when,3,When does lockdown start?,0.55,2020-11-01
+2020-08-30,when,3,When does lockdown start?,0,2020-11-01
+2020-09-06,when,3,When does lockdown start?,0.3,2020-11-01
+2020-09-13,when,3,When does lockdown start?,3,2020-11-01
+2020-09-20,when,3,When does lockdown start?,1,2020-11-01
+2020-09-27,when,3,When does lockdown start?,2,2020-11-01
+2020-10-04,when,3,When does lockdown start?,0.4,2020-11-01
+2020-10-11,when,3,When does lockdown start?,4,2020-11-01
+2020-10-18,when,3,When does lockdown start?,2,2020-11-01
+2020-10-25,when,3,When does lockdown start?,12,2020-11-01
+2020-11-01,when,3,When does lockdown start?,100,2020-11-01
+2020-11-08,when,3,When does lockdown start?,1,2020-11-01
+2020-11-15,when,3,When does lockdown start?,2,2020-11-01
+2020-11-22,when,3,When does lockdown start?,2,2020-11-01
+2020-11-29,when,3,When does lockdown start?,2,2020-11-01
+2020-12-06,when,3,When does lockdown start?,1,2020-11-01
+2020-12-13,when,3,When does lockdown start?,9,2020-11-01
+2020-12-20,when,3,When does lockdown start?,7,2020-11-01
+2020-01-05,when,4,When will schools reopen?,0,2020-05-03
+2020-01-12,when,4,When will schools reopen?,0,2020-05-03
+2020-01-19,when,4,When will schools reopen?,0,2020-05-03
+2020-01-26,when,4,When will schools reopen?,0,2020-05-03
+2020-02-02,when,4,When will schools reopen?,0,2020-05-03
+2020-02-09,when,4,When will schools reopen?,0,2020-05-03
+2020-02-16,when,4,When will schools reopen?,0,2020-05-03
+2020-02-23,when,4,When will schools reopen?,0,2020-05-03
+2020-03-01,when,4,When will schools reopen?,1,2020-05-03
+2020-03-08,when,4,When will schools reopen?,1,2020-05-03
+2020-03-15,when,4,When will schools reopen?,27,2020-05-03
+2020-03-22,when,4,When will schools reopen?,23,2020-05-03
+2020-03-29,when,4,When will schools reopen?,33,2020-05-03
+2020-04-05,when,4,When will schools reopen?,31,2020-05-03
+2020-04-12,when,4,When will schools reopen?,88,2020-05-03
+2020-04-19,when,4,When will schools reopen?,83,2020-05-03
+2020-04-26,when,4,When will schools reopen?,80,2020-05-03
+2020-05-03,when,4,When will schools reopen?,100,2020-05-03
+2020-05-10,when,4,When will schools reopen?,58,2020-05-03
+2020-05-17,when,4,When will schools reopen?,35,2020-05-03
+2020-05-24,when,4,When will schools reopen?,37,2020-05-03
+2020-05-31,when,4,When will schools reopen?,17,2020-05-03
+2020-06-07,when,4,When will schools reopen?,21,2020-05-03
+2020-06-14,when,4,When will schools reopen?,11,2020-05-03
+2020-06-21,when,4,When will schools reopen?,11,2020-05-03
+2020-06-28,when,4,When will schools reopen?,5,2020-05-03
+2020-07-05,when,4,When will schools reopen?,2,2020-05-03
+2020-07-12,when,4,When will schools reopen?,4,2020-05-03
+2020-07-19,when,4,When will schools reopen?,2,2020-05-03
+2020-07-26,when,4,When will schools reopen?,4,2020-05-03
+2020-08-02,when,4,When will schools reopen?,2,2020-05-03
+2020-08-09,when,4,When will schools reopen?,3,2020-05-03
+2020-08-16,when,4,When will schools reopen?,6,2020-05-03
+2020-08-23,when,4,When will schools reopen?,4,2020-05-03
+2020-08-30,when,4,When will schools reopen?,3,2020-05-03
+2020-09-06,when,4,When will schools reopen?,0,2020-05-03
+2020-09-13,when,4,When will schools reopen?,0,2020-05-03
+2020-09-20,when,4,When will schools reopen?,0,2020-05-03
+2020-09-27,when,4,When will schools reopen?,0,2020-05-03
+2020-10-04,when,4,When will schools reopen?,0,2020-05-03
+2020-10-11,when,4,When will schools reopen?,0,2020-05-03
+2020-10-18,when,4,When will schools reopen?,1,2020-05-03
+2020-10-25,when,4,When will schools reopen?,1,2020-05-03
+2020-11-01,when,4,When will schools reopen?,0,2020-05-03
+2020-11-08,when,4,When will schools reopen?,0,2020-05-03
+2020-11-15,when,4,When will schools reopen?,0,2020-05-03
+2020-11-22,when,4,When will schools reopen?,1,2020-05-03
+2020-11-29,when,4,When will schools reopen?,0,2020-05-03
+2020-12-06,when,4,When will schools reopen?,0,2020-05-03
+2020-12-13,when,4,When will schools reopen?,1,2020-05-03
+2020-12-20,when,4,When will schools reopen?,4,2020-05-03
+2020-01-05,when,5,When does furlough end?,0,2020-05-10
+2020-01-12,when,5,When does furlough end?,0,2020-05-10
+2020-01-19,when,5,When does furlough end?,0,2020-05-10
+2020-01-26,when,5,When does furlough end?,0,2020-05-10
+2020-02-02,when,5,When does furlough end?,0,2020-05-10
+2020-02-09,when,5,When does furlough end?,0,2020-05-10
+2020-02-16,when,5,When does furlough end?,0,2020-05-10
+2020-02-23,when,5,When does furlough end?,0,2020-05-10
+2020-03-01,when,5,When does furlough end?,0,2020-05-10
+2020-03-08,when,5,When does furlough end?,0,2020-05-10
+2020-03-15,when,5,When does furlough end?,0,2020-05-10
+2020-03-22,when,5,When does furlough end?,1,2020-05-10
+2020-03-29,when,5,When does furlough end?,6,2020-05-10
+2020-04-05,when,5,When does furlough end?,4,2020-05-10
+2020-04-12,when,5,When does furlough end?,18,2020-05-10
+2020-04-19,when,5,When does furlough end?,12,2020-05-10
+2020-04-26,when,5,When does furlough end?,36,2020-05-10
+2020-05-03,when,5,When does furlough end?,59,2020-05-10
+2020-05-10,when,5,When does furlough end?,100,2020-05-10
+2020-05-17,when,5,When does furlough end?,25,2020-05-10
+2020-05-24,when,5,When does furlough end?,34,2020-05-10
+2020-05-31,when,5,When does furlough end?,19,2020-05-10
+2020-06-07,when,5,When does furlough end?,31,2020-05-10
+2020-06-14,when,5,When does furlough end?,30,2020-05-10
+2020-06-21,when,5,When does furlough end?,51,2020-05-10
+2020-06-28,when,5,When does furlough end?,57,2020-05-10
+2020-07-05,when,5,When does furlough end?,60,2020-05-10
+2020-07-12,when,5,When does furlough end?,57,2020-05-10
+2020-07-19,when,5,When does furlough end?,63,2020-05-10
+2020-07-26,when,5,When does furlough end?,66,2020-05-10
+2020-08-02,when,5,When does furlough end?,45,2020-05-10
+2020-08-09,when,5,When does furlough end?,49,2020-05-10
+2020-08-16,when,5,When does furlough end?,38,2020-05-10
+2020-08-23,when,5,When does furlough end?,82,2020-05-10
+2020-08-30,when,5,When does furlough end?,59,2020-05-10
+2020-09-06,when,5,When does furlough end?,73,2020-05-10
+2020-09-13,when,5,When does furlough end?,99,2020-05-10
+2020-09-20,when,5,When does furlough end?,90,2020-05-10
+2020-09-27,when,5,When does furlough end?,46,2020-05-10
+2020-10-04,when,5,When does furlough end?,40,2020-05-10
+2020-10-11,when,5,When does furlough end?,25,2020-05-10
+2020-10-18,when,5,When does furlough end?,26,2020-05-10
+2020-10-25,when,5,When does furlough end?,32,2020-05-10
+2020-11-01,when,5,When does furlough end?,12,2020-05-10
+2020-11-08,when,5,When does furlough end?,3,2020-05-10
+2020-11-15,when,5,When does furlough end?,8,2020-05-10
+2020-11-22,when,5,When does furlough end?,15,2020-05-10
+2020-11-29,when,5,When does furlough end?,12,2020-05-10
+2020-12-06,when,5,When does furlough end?,6,2020-05-10
+2020-12-13,when,5,When does furlough end?,13,2020-05-10
+2020-12-20,when,5,When does furlough end?,8,2020-05-10
+2020-01-05,when,6,When will pubs reopen?,0,2020-06-07
+2020-01-12,when,6,When will pubs reopen?,0,2020-06-07
+2020-01-19,when,6,When will pubs reopen?,0,2020-06-07
+2020-01-26,when,6,When will pubs reopen?,0,2020-06-07
+2020-02-02,when,6,When will pubs reopen?,0,2020-06-07
+2020-02-09,when,6,When will pubs reopen?,0,2020-06-07
+2020-02-16,when,6,When will pubs reopen?,0,2020-06-07
+2020-02-23,when,6,When will pubs reopen?,0,2020-06-07
+2020-03-01,when,6,When will pubs reopen?,0,2020-06-07
+2020-03-08,when,6,When will pubs reopen?,0,2020-06-07
+2020-03-15,when,6,When will pubs reopen?,4,2020-06-07
+2020-03-22,when,6,When will pubs reopen?,7,2020-06-07
+2020-03-29,when,6,When will pubs reopen?,18,2020-06-07
+2020-04-05,when,6,When will pubs reopen?,16,2020-06-07
+2020-04-12,when,6,When will pubs reopen?,26,2020-06-07
+2020-04-19,when,6,When will pubs reopen?,77,2020-06-07
+2020-04-26,when,6,When will pubs reopen?,46,2020-06-07
+2020-05-03,when,6,When will pubs reopen?,49,2020-06-07
+2020-05-10,when,6,When will pubs reopen?,34,2020-06-07
+2020-05-17,when,6,When will pubs reopen?,45,2020-06-07
+2020-05-24,when,6,When will pubs reopen?,87,2020-06-07
+2020-05-31,when,6,When will pubs reopen?,78,2020-06-07
+2020-06-07,when,6,When will pubs reopen?,100,2020-06-07
+2020-06-14,when,6,When will pubs reopen?,84,2020-06-07
+2020-06-21,when,6,When will pubs reopen?,46,2020-06-07
+2020-06-28,when,6,When will pubs reopen?,13,2020-06-07
+2020-07-05,when,6,When will pubs reopen?,7,2020-06-07
+2020-07-12,when,6,When will pubs reopen?,3,2020-06-07
+2020-07-19,when,6,When will pubs reopen?,1,2020-06-07
+2020-07-26,when,6,When will pubs reopen?,0,2020-06-07
+2020-08-02,when,6,When will pubs reopen?,1,2020-06-07
+2020-08-09,when,6,When will pubs reopen?,0,2020-06-07
+2020-08-16,when,6,When will pubs reopen?,1,2020-06-07
+2020-08-23,when,6,When will pubs reopen?,1,2020-06-07
+2020-08-30,when,6,When will pubs reopen?,0,2020-06-07
+2020-09-06,when,6,When will pubs reopen?,1,2020-06-07
+2020-09-13,when,6,When will pubs reopen?,1,2020-06-07
+2020-09-20,when,6,When will pubs reopen?,0,2020-06-07
+2020-09-27,when,6,When will pubs reopen?,0,2020-06-07
+2020-10-04,when,6,When will pubs reopen?,0,2020-06-07
+2020-10-11,when,6,When will pubs reopen?,0,2020-06-07
+2020-10-18,when,6,When will pubs reopen?,1,2020-06-07
+2020-10-25,when,6,When will pubs reopen?,0,2020-06-07
+2020-11-01,when,6,When will pubs reopen?,2,2020-06-07
+2020-11-08,when,6,When will pubs reopen?,5,2020-06-07
+2020-11-15,when,6,When will pubs reopen?,14,2020-06-07
+2020-11-22,when,6,When will pubs reopen?,6,2020-06-07
+2020-11-29,when,6,When will pubs reopen?,9,2020-06-07
+2020-12-06,when,6,When will pubs reopen?,5,2020-06-07
+2020-12-13,when,6,When will pubs reopen?,2,2020-06-07
+2020-12-20,when,6,When will pubs reopen?,3,2020-06-07
+2020-01-05,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-01-12,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-01-19,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-01-26,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-02-02,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-02-09,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-02-16,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-02-23,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-03-01,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-03-08,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-03-15,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-03-22,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-03-29,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-04-05,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-04-12,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-04-19,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-04-26,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-05-03,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-05-10,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-05-17,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-05-24,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-05-31,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-06-07,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-06-14,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-06-21,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-06-28,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-07-05,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-07-12,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-07-19,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-07-26,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-08-02,when,7,When does Eat Out to Help Out end?,2,2020-08-23
+2020-08-09,when,7,When does Eat Out to Help Out end?,8,2020-08-23
+2020-08-16,when,7,When does Eat Out to Help Out end?,22,2020-08-23
+2020-08-23,when,7,When does Eat Out to Help Out end?,100,2020-08-23
+2020-08-30,when,7,When does Eat Out to Help Out end?,30,2020-08-23
+2020-09-06,when,7,When does Eat Out to Help Out end?,2,2020-08-23
+2020-09-13,when,7,When does Eat Out to Help Out end?,1,2020-08-23
+2020-09-20,when,7,When does Eat Out to Help Out end?,1,2020-08-23
+2020-09-27,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-10-04,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-10-11,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-10-18,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-10-25,when,7,When does Eat Out to Help Out end?,1,2020-08-23
+2020-11-01,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-11-08,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-11-15,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-11-22,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-11-29,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-12-06,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-12-13,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-12-20,when,7,When does Eat Out to Help Out end?,0,2020-08-23
+2020-01-05,when,8,When will the new president be announced?,0,2020-11-01
+2020-01-12,when,8,When will the new president be announced?,0,2020-11-01
+2020-01-19,when,8,When will the new president be announced?,0,2020-11-01
+2020-01-26,when,8,When will the new president be announced?,0,2020-11-01
+2020-02-02,when,8,When will the new president be announced?,0,2020-11-01
+2020-02-09,when,8,When will the new president be announced?,0,2020-11-01
+2020-02-16,when,8,When will the new president be announced?,0,2020-11-01
+2020-02-23,when,8,When will the new president be announced?,0,2020-11-01
+2020-03-01,when,8,When will the new president be announced?,0,2020-11-01
+2020-03-08,when,8,When will the new president be announced?,0,2020-11-01
+2020-03-15,when,8,When will the new president be announced?,0,2020-11-01
+2020-03-22,when,8,When will the new president be announced?,0,2020-11-01
+2020-03-29,when,8,When will the new president be announced?,0,2020-11-01
+2020-04-05,when,8,When will the new president be announced?,0,2020-11-01
+2020-04-12,when,8,When will the new president be announced?,0,2020-11-01
+2020-04-19,when,8,When will the new president be announced?,0,2020-11-01
+2020-04-26,when,8,When will the new president be announced?,0,2020-11-01
+2020-05-03,when,8,When will the new president be announced?,0,2020-11-01
+2020-05-10,when,8,When will the new president be announced?,0,2020-11-01
+2020-05-17,when,8,When will the new president be announced?,0,2020-11-01
+2020-05-24,when,8,When will the new president be announced?,0,2020-11-01
+2020-05-31,when,8,When will the new president be announced?,0,2020-11-01
+2020-06-07,when,8,When will the new president be announced?,0,2020-11-01
+2020-06-14,when,8,When will the new president be announced?,0,2020-11-01
+2020-06-21,when,8,When will the new president be announced?,0,2020-11-01
+2020-06-28,when,8,When will the new president be announced?,0,2020-11-01
+2020-07-05,when,8,When will the new president be announced?,0,2020-11-01
+2020-07-12,when,8,When will the new president be announced?,0,2020-11-01
+2020-07-19,when,8,When will the new president be announced?,0,2020-11-01
+2020-07-26,when,8,When will the new president be announced?,0,2020-11-01
+2020-08-02,when,8,When will the new president be announced?,1,2020-11-01
+2020-08-09,when,8,When will the new president be announced?,0,2020-11-01
+2020-08-16,when,8,When will the new president be announced?,0,2020-11-01
+2020-08-23,when,8,When will the new president be announced?,0,2020-11-01
+2020-08-30,when,8,When will the new president be announced?,0,2020-11-01
+2020-09-06,when,8,When will the new president be announced?,0,2020-11-01
+2020-09-13,when,8,When will the new president be announced?,0,2020-11-01
+2020-09-20,when,8,When will the new president be announced?,0,2020-11-01
+2020-09-27,when,8,When will the new president be announced?,0,2020-11-01
+2020-10-04,when,8,When will the new president be announced?,0,2020-11-01
+2020-10-11,when,8,When will the new president be announced?,0,2020-11-01
+2020-10-18,when,8,When will the new president be announced?,1,2020-11-01
+2020-10-25,when,8,When will the new president be announced?,6,2020-11-01
+2020-11-01,when,8,When will the new president be announced?,100,2020-11-01
+2020-11-08,when,8,When will the new president be announced?,1,2020-11-01
+2020-11-15,when,8,When will the new president be announced?,0,2020-11-01
+2020-11-22,when,8,When will the new president be announced?,0,2020-11-01
+2020-11-29,when,8,When will the new president be announced?,0,2020-11-01
+2020-12-06,when,8,When will the new president be announced?,0,2020-11-01
+2020-12-13,when,8,When will the new president be announced?,0,2020-11-01
+2020-12-20,when,8,When will the new president be announced?,0,2020-11-01
+2020-01-05,when,9,When does Love Island start?,100,2020-01-05
+2020-01-12,when,9,When does Love Island start?,30,2020-01-05
+2020-01-19,when,9,When does Love Island start?,1,2020-01-05
+2020-01-26,when,9,When does Love Island start?,2,2020-01-05
+2020-02-02,when,9,When does Love Island start?,2,2020-01-05
+2020-02-09,when,9,When does Love Island start?,4,2020-01-05
+2020-02-16,when,9,When does Love Island start?,4,2020-01-05
+2020-02-23,when,9,When does Love Island start?,4,2020-01-05
+2020-03-01,when,9,When does Love Island start?,1,2020-01-05
+2020-03-08,when,9,When does Love Island start?,1,2020-01-05
+2020-03-15,when,9,When does Love Island start?,1,2020-01-05
+2020-03-22,when,9,When does Love Island start?,1,2020-01-05
+2020-03-29,when,9,When does Love Island start?,0,2020-01-05
+2020-04-05,when,9,When does Love Island start?,2,2020-01-05
+2020-04-12,when,9,When does Love Island start?,0,2020-01-05
+2020-04-19,when,9,When does Love Island start?,0.29,2020-01-05
+2020-04-26,when,9,When does Love Island start?,0.2,2020-01-05
+2020-05-03,when,9,When does Love Island start?,0.55,2020-01-05
+2020-05-10,when,9,When does Love Island start?,0,2020-01-05
+2020-05-17,when,9,When does Love Island start?,0,2020-01-05
+2020-05-24,when,9,When does Love Island start?,0,2020-01-05
+2020-05-31,when,9,When does Love Island start?,2,2020-01-05
+2020-06-07,when,9,When does Love Island start?,7,2020-01-05
+2020-06-14,when,9,When does Love Island start?,5,2020-01-05
+2020-06-21,when,9,When does Love Island start?,1,2020-01-05
+2020-06-28,when,9,When does Love Island start?,0,2020-01-05
+2020-07-05,when,9,When does Love Island start?,1,2020-01-05
+2020-07-12,when,9,When does Love Island start?,1,2020-01-05
+2020-07-19,when,9,When does Love Island start?,1,2020-01-05
+2020-07-26,when,9,When does Love Island start?,0,2020-01-05
+2020-08-02,when,9,When does Love Island start?,0,2020-01-05
+2020-08-09,when,9,When does Love Island start?,0,2020-01-05
+2020-08-16,when,9,When does Love Island start?,0,2020-01-05
+2020-08-23,when,9,When does Love Island start?,3,2020-01-05
+2020-08-30,when,9,When does Love Island start?,3,2020-01-05
+2020-09-06,when,9,When does Love Island start?,2,2020-01-05
+2020-09-13,when,9,When does Love Island start?,0,2020-01-05
+2020-09-20,when,9,When does Love Island start?,1,2020-01-05
+2020-09-27,when,9,When does Love Island start?,1,2020-01-05
+2020-10-04,when,9,When does Love Island start?,1,2020-01-05
+2020-10-11,when,9,When does Love Island start?,0,2020-01-05
+2020-10-18,when,9,When does Love Island start?,0,2020-01-05
+2020-10-25,when,9,When does Love Island start?,0,2020-01-05
+2020-11-01,when,9,When does Love Island start?,1,2020-01-05
+2020-11-08,when,9,When does Love Island start?,0,2020-01-05
+2020-11-15,when,9,When does Love Island start?,0,2020-01-05
+2020-11-22,when,9,When does Love Island start?,0,2020-01-05
+2020-11-29,when,9,When does Love Island start?,1,2020-01-05
+2020-12-06,when,9,When does Love Island start?,0,2020-01-05
+2020-12-13,when,9,When does Love Island start?,0,2020-01-05
+2020-12-20,when,9,When does Love Island start?,0,2020-01-05
+2020-01-05,when,10,When will hairdressers open?,0,2020-05-31
+2020-01-12,when,10,When will hairdressers open?,0,2020-05-31
+2020-01-19,when,10,When will hairdressers open?,0,2020-05-31
+2020-01-26,when,10,When will hairdressers open?,0,2020-05-31
+2020-02-02,when,10,When will hairdressers open?,0,2020-05-31
+2020-02-09,when,10,When will hairdressers open?,0,2020-05-31
+2020-02-16,when,10,When will hairdressers open?,0,2020-05-31
+2020-02-23,when,10,When will hairdressers open?,0,2020-05-31
+2020-03-01,when,10,When will hairdressers open?,0,2020-05-31
+2020-03-08,when,10,When will hairdressers open?,1,2020-05-31
+2020-03-15,when,10,When will hairdressers open?,1,2020-05-31
+2020-03-22,when,10,When will hairdressers open?,1,2020-05-31
+2020-03-29,when,10,When will hairdressers open?,7,2020-05-31
+2020-04-05,when,10,When will hairdressers open?,2,2020-05-31
+2020-04-12,when,10,When will hairdressers open?,7,2020-05-31
+2020-04-19,when,10,When will hairdressers open?,21,2020-05-31
+2020-04-26,when,10,When will hairdressers open?,19,2020-05-31
+2020-05-03,when,10,When will hairdressers open?,86,2020-05-31
+2020-05-10,when,10,When will hairdressers open?,93,2020-05-31
+2020-05-17,when,10,When will hairdressers open?,62,2020-05-31
+2020-05-24,when,10,When will hairdressers open?,60,2020-05-31
+2020-05-31,when,10,When will hairdressers open?,100,2020-05-31
+2020-06-07,when,10,When will hairdressers open?,92,2020-05-31
+2020-06-14,when,10,When will hairdressers open?,85,2020-05-31
+2020-06-21,when,10,When will hairdressers open?,43,2020-05-31
+2020-06-28,when,10,When will hairdressers open?,20,2020-05-31
+2020-07-05,when,10,When will hairdressers open?,9,2020-05-31
+2020-07-12,when,10,When will hairdressers open?,4,2020-05-31
+2020-07-19,when,10,When will hairdressers open?,1,2020-05-31
+2020-07-26,when,10,When will hairdressers open?,0,2020-05-31
+2020-08-02,when,10,When will hairdressers open?,0,2020-05-31
+2020-08-09,when,10,When will hairdressers open?,0,2020-05-31
+2020-08-16,when,10,When will hairdressers open?,0,2020-05-31
+2020-08-23,when,10,When will hairdressers open?,0,2020-05-31
+2020-08-30,when,10,When will hairdressers open?,1,2020-05-31
+2020-09-06,when,10,When will hairdressers open?,0,2020-05-31
+2020-09-13,when,10,When will hairdressers open?,1,2020-05-31
+2020-09-20,when,10,When will hairdressers open?,0,2020-05-31
+2020-09-27,when,10,When will hairdressers open?,0,2020-05-31
+2020-10-04,when,10,When will hairdressers open?,0,2020-05-31
+2020-10-11,when,10,When will hairdressers open?,3,2020-05-31
+2020-10-18,when,10,When will hairdressers open?,1,2020-05-31
+2020-10-25,when,10,When will hairdressers open?,0,2020-05-31
+2020-11-01,when,10,When will hairdressers open?,3,2020-05-31
+2020-11-08,when,10,When will hairdressers open?,4,2020-05-31
+2020-11-15,when,10,When will hairdressers open?,4,2020-05-31
+2020-11-22,when,10,When will hairdressers open?,4,2020-05-31
+2020-11-29,when,10,When will hairdressers open?,1,2020-05-31
+2020-12-06,when,10,When will hairdressers open?,0,2020-05-31
+2020-12-13,when,10,When will hairdressers open?,0,2020-05-31
+2020-12-20,when,10,When will hairdressers open?,4,2020-05-31
+2020-01-05,who,1,Who won the election?,0.85,2020-10-25
+2020-01-12,who,1,Who won the election?,0,2020-10-25
+2020-01-19,who,1,Who won the election?,0.41,2020-10-25
+2020-01-26,who,1,Who won the election?,0.59,2020-10-25
+2020-02-02,who,1,Who won the election?,0,2020-10-25
+2020-02-09,who,1,Who won the election?,0.64,2020-10-25
+2020-02-16,who,1,Who won the election?,0.80,2020-10-25
+2020-02-23,who,1,Who won the election?,0.19,2020-10-25
+2020-03-01,who,1,Who won the election?,0.41,2020-10-25
+2020-03-08,who,1,Who won the election?,0.26,2020-10-25
+2020-03-15,who,1,Who won the election?,0.39,2020-10-25
+2020-03-22,who,1,Who won the election?,0.58,2020-10-25
+2020-03-29,who,1,Who won the election?,0,2020-10-25
+2020-04-05,who,1,Who won the election?,0.67,2020-10-25
+2020-04-12,who,1,Who won the election?,0.18,2020-10-25
+2020-04-19,who,1,Who won the election?,0.10,2020-10-25
+2020-04-26,who,1,Who won the election?,0.79,2020-10-25
+2020-05-03,who,1,Who won the election?,0,2020-10-25
+2020-05-10,who,1,Who won the election?,0,2020-10-25
+2020-05-17,who,1,Who won the election?,0.83,2020-10-25
+2020-05-24,who,1,Who won the election?,0,2020-10-25
+2020-05-31,who,1,Who won the election?,0,2020-10-25
+2020-06-07,who,1,Who won the election?,0.44,2020-10-25
+2020-06-14,who,1,Who won the election?,0.90,2020-10-25
+2020-06-21,who,1,Who won the election?,0,2020-10-25
+2020-06-28,who,1,Who won the election?,0.52,2020-10-25
+2020-07-05,who,1,Who won the election?,0,2020-10-25
+2020-07-12,who,1,Who won the election?,0.84,2020-10-25
+2020-07-19,who,1,Who won the election?,0.27,2020-10-25
+2020-07-26,who,1,Who won the election?,0,2020-10-25
+2020-08-02,who,1,Who won the election?,0,2020-10-25
+2020-08-09,who,1,Who won the election?,0.38,2020-10-25
+2020-08-16,who,1,Who won the election?,0,2020-10-25
+2020-08-23,who,1,Who won the election?,0.73,2020-10-25
+2020-08-30,who,1,Who won the election?,0.87,2020-10-25
+2020-09-06,who,1,Who won the election?,0.17,2020-10-25
+2020-09-13,who,1,Who won the election?,0.75,2020-10-25
+2020-09-20,who,1,Who won the election?,0,2020-10-25
+2020-09-27,who,1,Who won the election?,0.15,2020-10-25
+2020-10-04,who,1,Who won the election?,0.70,2020-10-25
+2020-10-11,who,1,Who won the election?,0.87,2020-10-25
+2020-10-18,who,1,Who won the election?,0.86,2020-10-25
+2020-10-25,who,1,Who won the election?,1,2020-10-25
+2020-11-01,who,1,Who won the election?,100,2020-10-25
+2020-11-08,who,1,Who won the election?,3,2020-10-25
+2020-11-15,who,1,Who won the election?,0.55,2020-10-25
+2020-11-22,who,1,Who won the election?,0.75,2020-10-25
+2020-11-29,who,1,Who won the election?,0.42,2020-10-25
+2020-12-06,who,1,Who won the election?,0.44,2020-10-25
+2020-12-13,who,1,Who won the election?,0.29,2020-10-25
+2020-12-20,who,1,Who won the election?,0.50,2020-10-25
+2020-01-05,who,2,Who is the president of America?,1,2020-10-25
+2020-01-12,who,2,Who is the president of America?,1,2020-10-25
+2020-01-19,who,2,Who is the president of America?,0,2020-10-25
+2020-01-26,who,2,Who is the president of America?,0.64,2020-10-25
+2020-02-02,who,2,Who is the president of America?,0.16,2020-10-25
+2020-02-09,who,2,Who is the president of America?,0.54,2020-10-25
+2020-02-16,who,2,Who is the president of America?,0,2020-10-25
+2020-02-23,who,2,Who is the president of America?,0.34,2020-10-25
+2020-03-01,who,2,Who is the president of America?,0.44,2020-10-25
+2020-03-08,who,2,Who is the president of America?,0,2020-10-25
+2020-03-15,who,2,Who is the president of America?,0,2020-10-25
+2020-03-22,who,2,Who is the president of America?,0.57,2020-10-25
+2020-03-29,who,2,Who is the president of America?,0,2020-10-25
+2020-04-05,who,2,Who is the president of America?,0.46,2020-10-25
+2020-04-12,who,2,Who is the president of America?,0.14,2020-10-25
+2020-04-19,who,2,Who is the president of America?,0,2020-10-25
+2020-04-26,who,2,Who is the president of America?,0.21,2020-10-25
+2020-05-03,who,2,Who is the president of America?,1,2020-10-25
+2020-05-10,who,2,Who is the president of America?,1,2020-10-25
+2020-05-17,who,2,Who is the president of America?,1,2020-10-25
+2020-05-24,who,2,Who is the president of America?,0.67,2020-10-25
+2020-05-31,who,2,Who is the president of America?,2,2020-10-25
+2020-06-07,who,2,Who is the president of America?,0.38,2020-10-25
+2020-06-14,who,2,Who is the president of America?,1,2020-10-25
+2020-06-21,who,2,Who is the president of America?,0.78,2020-10-25
+2020-06-28,who,2,Who is the president of America?,1,2020-10-25
+2020-07-05,who,2,Who is the president of America?,1,2020-10-25
+2020-07-12,who,2,Who is the president of America?,1,2020-10-25
+2020-07-19,who,2,Who is the president of America?,1,2020-10-25
+2020-07-26,who,2,Who is the president of America?,0.52,2020-10-25
+2020-08-02,who,2,Who is the president of America?,0.75,2020-10-25
+2020-08-09,who,2,Who is the president of America?,0,2020-10-25
+2020-08-16,who,2,Who is the president of America?,1,2020-10-25
+2020-08-23,who,2,Who is the president of America?,0.42,2020-10-25
+2020-08-30,who,2,Who is the president of America?,0,2020-10-25
+2020-09-06,who,2,Who is the president of America?,0,2020-10-25
+2020-09-13,who,2,Who is the president of America?,1,2020-10-25
+2020-09-20,who,2,Who is the president of America?,0.81,2020-10-25
+2020-09-27,who,2,Who is the president of America?,2,2020-10-25
+2020-10-04,who,2,Who is the president of America?,0,2020-10-25
+2020-10-11,who,2,Who is the president of America?,0,2020-10-25
+2020-10-18,who,2,Who is the president of America?,1,2020-10-25
+2020-10-25,who,2,Who is the president of America?,3,2020-10-25
+2020-11-01,who,2,Who is the president of America?,100,2020-10-25
+2020-11-08,who,2,Who is the president of America?,24,2020-10-25
+2020-11-15,who,2,Who is the president of America?,0.84,2020-10-25
+2020-11-22,who,2,Who is the president of America?,2,2020-10-25
+2020-11-29,who,2,Who is the president of America?,0.83,2020-10-25
+2020-12-06,who,2,Who is the president of America?,2,2020-10-25
+2020-12-13,who,2,Who is the president of America?,1,2020-10-25
+2020-12-20,who,2,Who is the president of America?,0.71,2020-10-25
+2020-12-27,who,2,Who is the president of America?,6,2020-10-25
+2020-01-05,who,3,Who are key workers?,0,2020-03-08
+2020-01-12,who,3,Who are key workers?,0,2020-03-08
+2020-01-19,who,3,Who are key workers?,0,2020-03-08
+2020-01-26,who,3,Who are key workers?,0,2020-03-08
+2020-02-02,who,3,Who are key workers?,0,2020-03-08
+2020-02-09,who,3,Who are key workers?,0,2020-03-08
+2020-02-16,who,3,Who are key workers?,0,2020-03-08
+2020-02-23,who,3,Who are key workers?,0.19,2020-03-08
+2020-03-01,who,3,Who are key workers?,0,2020-03-08
+2020-03-08,who,3,Who are key workers?,0,2020-03-08
+2020-03-15,who,3,Who are key workers?,100,2020-03-08
+2020-03-22,who,3,Who are key workers?,38,2020-03-08
+2020-03-29,who,3,Who are key workers?,5,2020-03-08
+2020-04-05,who,3,Who are key workers?,3,2020-03-08
+2020-04-12,who,3,Who are key workers?,1,2020-03-08
+2020-04-19,who,3,Who are key workers?,4,2020-03-08
+2020-04-26,who,3,Who are key workers?,3,2020-03-08
+2020-05-03,who,3,Who are key workers?,2,2020-03-08
+2020-05-10,who,3,Who are key workers?,2,2020-03-08
+2020-05-17,who,3,Who are key workers?,2,2020-03-08
+2020-05-24,who,3,Who are key workers?,1,2020-03-08
+2020-05-31,who,3,Who are key workers?,1,2020-03-08
+2020-06-07,who,3,Who are key workers?,1,2020-03-08
+2020-06-14,who,3,Who are key workers?,2,2020-03-08
+2020-06-21,who,3,Who are key workers?,1,2020-03-08
+2020-06-28,who,3,Who are key workers?,1,2020-03-08
+2020-07-05,who,3,Who are key workers?,0.65,2020-03-08
+2020-07-12,who,3,Who are key workers?,0.26,2020-03-08
+2020-07-19,who,3,Who are key workers?,0,2020-03-08
+2020-07-26,who,3,Who are key workers?,1,2020-03-08
+2020-08-02,who,3,Who are key workers?,0.67,2020-03-08
+2020-08-09,who,3,Who are key workers?,0,2020-03-08
+2020-08-16,who,3,Who are key workers?,0.60,2020-03-08
+2020-08-23,who,3,Who are key workers?,0,2020-03-08
+2020-08-30,who,3,Who are key workers?,0,2020-03-08
+2020-09-06,who,3,Who are key workers?,0.72,2020-03-08
+2020-09-13,who,3,Who are key workers?,0.23,2020-03-08
+2020-09-20,who,3,Who are key workers?,0.61,2020-03-08
+2020-09-27,who,3,Who are key workers?,1,2020-03-08
+2020-10-04,who,3,Who are key workers?,0.43,2020-03-08
+2020-10-11,who,3,Who are key workers?,0.45,2020-03-08
+2020-10-18,who,3,Who are key workers?,0,2020-03-08
+2020-10-25,who,3,Who are key workers?,1,2020-03-08
+2020-11-01,who,3,Who are key workers?,1,2020-03-08
+2020-11-08,who,3,Who are key workers?,0.47,2020-03-08
+2020-11-15,who,3,Who are key workers?,1,2020-03-08
+2020-11-22,who,3,Who are key workers?,0,2020-03-08
+2020-11-29,who,3,Who are key workers?,0.60,2020-03-08
+2020-12-06,who,3,Who are key workers?,1,2020-03-08
+2020-12-13,who,3,Who are key workers?,1,2020-03-08
+2020-12-20,who,3,Who are key workers?,1,2020-03-08
+2020-12-27,who,3,Who are key workers?,0,2020-03-08
+2020-01-05,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-01-12,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-01-19,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-01-26,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-02-02,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-02-09,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-02-16,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-02-23,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-03-01,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-03-08,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-03-15,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-03-22,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-03-29,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-04-05,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-04-12,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-04-19,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-04-26,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-05-03,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-05-10,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-05-17,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-05-24,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-05-31,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-06-07,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-06-14,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-06-21,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-06-28,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-07-05,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-07-12,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-07-19,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-07-26,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-08-02,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-08-09,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-08-16,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-08-23,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-08-30,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-09-06,who,4,Who did Zara cheat on Sam with?,0,2020-10-11
+2020-09-13,who,4,Who did Zara cheat on Sam with?,1,2020-10-11
+2020-09-20,who,4,Who did Zara cheat on Sam with?,3,2020-10-11
+2020-09-27,who,4,Who did Zara cheat on Sam with?,3,2020-10-11
+2020-10-04,who,4,Who did Zara cheat on Sam with?,1,2020-10-11
+2020-10-11,who,4,Who did Zara cheat on Sam with?,9,2020-10-11
+2020-10-18,who,4,Who did Zara cheat on Sam with?,100,2020-10-11
+2020-10-25,who,4,Who did Zara cheat on Sam with?,16,2020-10-11
+2020-11-01,who,4,Who did Zara cheat on Sam with?,28,2020-10-11
+2020-11-08,who,4,Who did Zara cheat on Sam with?,9,2020-10-11
+2020-11-15,who,4,Who did Zara cheat on Sam with?,2,2020-10-11
+2020-11-22,who,4,Who did Zara cheat on Sam with?,4,2020-10-11
+2020-11-29,who,4,Who did Zara cheat on Sam with?,3,2020-10-11
+2020-12-06,who,4,Who did Zara cheat on Sam with?,1,2020-10-11
+2020-12-13,who,4,Who did Zara cheat on Sam with?,2,2020-10-11
+2020-12-20,who,4,Who did Zara cheat on Sam with?,1,2020-10-11
+2020-12-27,who,4,Who did Zara cheat on Sam with?,9,2020-10-11
+2020-01-05,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-01-12,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-01-19,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-01-26,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-02-02,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-02-09,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-02-16,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-02-23,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-03-01,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-03-08,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-03-15,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-03-22,who,5,Who is Carole Baskin?,2,2020-03-29
+2020-03-29,who,5,Who is Carole Baskin?,32,2020-03-29
+2020-04-05,who,5,Who is Carole Baskin?,100,2020-03-29
+2020-04-12,who,5,Who is Carole Baskin?,51,2020-03-29
+2020-04-19,who,5,Who is Carole Baskin?,25,2020-03-29
+2020-04-26,who,5,Who is Carole Baskin?,25,2020-03-29
+2020-05-03,who,5,Who is Carole Baskin?,18,2020-03-29
+2020-05-10,who,5,Who is Carole Baskin?,10,2020-03-29
+2020-05-17,who,5,Who is Carole Baskin?,5,2020-03-29
+2020-05-24,who,5,Who is Carole Baskin?,8,2020-03-29
+2020-05-31,who,5,Who is Carole Baskin?,6,2020-03-29
+2020-06-07,who,5,Who is Carole Baskin?,3,2020-03-29
+2020-06-14,who,5,Who is Carole Baskin?,4,2020-03-29
+2020-06-21,who,5,Who is Carole Baskin?,4,2020-03-29
+2020-06-28,who,5,Who is Carole Baskin?,5,2020-03-29
+2020-07-05,who,5,Who is Carole Baskin?,6,2020-03-29
+2020-07-12,who,5,Who is Carole Baskin?,5,2020-03-29
+2020-07-19,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-07-26,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-08-02,who,5,Who is Carole Baskin?,3,2020-03-29
+2020-08-09,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-08-16,who,5,Who is Carole Baskin?,1,2020-03-29
+2020-08-23,who,5,Who is Carole Baskin?,1,2020-03-29
+2020-08-30,who,5,Who is Carole Baskin?,2,2020-03-29
+2020-09-06,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-09-13,who,5,Who is Carole Baskin?,3,2020-03-29
+2020-09-20,who,5,Who is Carole Baskin?,1,2020-03-29
+2020-09-27,who,5,Who is Carole Baskin?,2,2020-03-29
+2020-10-04,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-10-11,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-10-18,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-10-25,who,5,Who is Carole Baskin?,1,2020-03-29
+2020-11-01,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-11-08,who,5,Who is Carole Baskin?,1,2020-03-29
+2020-11-15,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-11-22,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-11-29,who,5,Who is Carole Baskin?,1,2020-03-29
+2020-12-06,who,5,Who is Carole Baskin?,1,2020-03-29
+2020-12-13,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-12-20,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-12-27,who,5,Who is Carole Baskin?,0,2020-03-29
+2020-01-05,who,6,Who killed Graham?,0,2020-01-12
+2020-01-12,who,6,Who killed Graham?,2,2020-01-12
+2020-01-19,who,6,Who killed Graham?,100,2020-01-12
+2020-01-26,who,6,Who killed Graham?,18,2020-01-12
+2020-02-02,who,6,Who killed Graham?,2,2020-01-12
+2020-02-09,who,6,Who killed Graham?,1,2020-01-12
+2020-02-16,who,6,Who killed Graham?,1,2020-01-12
+2020-02-23,who,6,Who killed Graham?,0,2020-01-12
+2020-03-01,who,6,Who killed Graham?,0.33,2020-01-12
+2020-03-08,who,6,Who killed Graham?,0,2020-01-12
+2020-03-15,who,6,Who killed Graham?,0,2020-01-12
+2020-03-22,who,6,Who killed Graham?,0,2020-01-12
+2020-03-29,who,6,Who killed Graham?,0.73,2020-01-12
+2020-04-05,who,6,Who killed Graham?,0,2020-01-12
+2020-04-12,who,6,Who killed Graham?,0,2020-01-12
+2020-04-19,who,6,Who killed Graham?,0,2020-01-12
+2020-04-26,who,6,Who killed Graham?,0,2020-01-12
+2020-05-03,who,6,Who killed Graham?,1,2020-01-12
+2020-05-10,who,6,Who killed Graham?,0,2020-01-12
+2020-05-17,who,6,Who killed Graham?,0,2020-01-12
+2020-05-24,who,6,Who killed Graham?,0,2020-01-12
+2020-05-31,who,6,Who killed Graham?,0.72,2020-01-12
+2020-06-07,who,6,Who killed Graham?,0,2020-01-12
+2020-06-14,who,6,Who killed Graham?,0,2020-01-12
+2020-06-21,who,6,Who killed Graham?,0,2020-01-12
+2020-06-28,who,6,Who killed Graham?,0,2020-01-12
+2020-07-05,who,6,Who killed Graham?,0,2020-01-12
+2020-07-12,who,6,Who killed Graham?,0,2020-01-12
+2020-07-19,who,6,Who killed Graham?,0,2020-01-12
+2020-07-26,who,6,Who killed Graham?,0,2020-01-12
+2020-08-02,who,6,Who killed Graham?,0,2020-01-12
+2020-08-09,who,6,Who killed Graham?,0,2020-01-12
+2020-08-16,who,6,Who killed Graham?,0,2020-01-12
+2020-08-23,who,6,Who killed Graham?,0,2020-01-12
+2020-08-30,who,6,Who killed Graham?,1,2020-01-12
+2020-09-06,who,6,Who killed Graham?,0,2020-01-12
+2020-09-13,who,6,Who killed Graham?,0,2020-01-12
+2020-09-20,who,6,Who killed Graham?,1,2020-01-12
+2020-09-27,who,6,Who killed Graham?,0,2020-01-12
+2020-10-04,who,6,Who killed Graham?,0,2020-01-12
+2020-10-11,who,6,Who killed Graham?,0,2020-01-12
+2020-10-18,who,6,Who killed Graham?,0,2020-01-12
+2020-10-25,who,6,Who killed Graham?,0,2020-01-12
+2020-11-01,who,6,Who killed Graham?,0,2020-01-12
+2020-11-08,who,6,Who killed Graham?,0,2020-01-12
+2020-11-15,who,6,Who killed Graham?,0,2020-01-12
+2020-11-22,who,6,Who killed Graham?,0,2020-01-12
+2020-11-29,who,6,Who killed Graham?,0.37,2020-01-12
+2020-12-06,who,6,Who killed Graham?,0,2020-01-12
+2020-12-13,who,6,Who killed Graham?,1,2020-01-12
+2020-12-20,who,6,Who killed Graham?,1,2020-01-12
+2020-12-27,who,6,Who killed Graham?,0,2020-01-12
+2020-01-05,who,7,Who was George Floyd?,0,2020-05-24
+2020-01-12,who,7,Who was George Floyd?,0,2020-05-24
+2020-01-19,who,7,Who was George Floyd?,0,2020-05-24
+2020-01-26,who,7,Who was George Floyd?,0,2020-05-24
+2020-02-02,who,7,Who was George Floyd?,0,2020-05-24
+2020-02-09,who,7,Who was George Floyd?,0,2020-05-24
+2020-02-16,who,7,Who was George Floyd?,0,2020-05-24
+2020-02-23,who,7,Who was George Floyd?,0,2020-05-24
+2020-03-01,who,7,Who was George Floyd?,0,2020-05-24
+2020-03-08,who,7,Who was George Floyd?,0,2020-05-24
+2020-03-15,who,7,Who was George Floyd?,0,2020-05-24
+2020-03-22,who,7,Who was George Floyd?,0,2020-05-24
+2020-03-29,who,7,Who was George Floyd?,0,2020-05-24
+2020-04-05,who,7,Who was George Floyd?,0,2020-05-24
+2020-04-12,who,7,Who was George Floyd?,0,2020-05-24
+2020-04-19,who,7,Who was George Floyd?,0,2020-05-24
+2020-04-26,who,7,Who was George Floyd?,0,2020-05-24
+2020-05-03,who,7,Who was George Floyd?,0,2020-05-24
+2020-05-10,who,7,Who was George Floyd?,0,2020-05-24
+2020-05-17,who,7,Who was George Floyd?,0,2020-05-24
+2020-05-24,who,7,Who was George Floyd?,38,2020-05-24
+2020-05-31,who,7,Who was George Floyd?,100,2020-05-24
+2020-06-07,who,7,Who was George Floyd?,76,2020-05-24
+2020-06-14,who,7,Who was George Floyd?,20,2020-05-24
+2020-06-21,who,7,Who was George Floyd?,12,2020-05-24
+2020-06-28,who,7,Who was George Floyd?,4,2020-05-24
+2020-07-05,who,7,Who was George Floyd?,8,2020-05-24
+2020-07-12,who,7,Who was George Floyd?,2,2020-05-24
+2020-07-19,who,7,Who was George Floyd?,1,2020-05-24
+2020-07-26,who,7,Who was George Floyd?,0,2020-05-24
+2020-08-02,who,7,Who was George Floyd?,1,2020-05-24
+2020-08-09,who,7,Who was George Floyd?,1,2020-05-24
+2020-08-16,who,7,Who was George Floyd?,2,2020-05-24
+2020-08-23,who,7,Who was George Floyd?,1,2020-05-24
+2020-08-30,who,7,Who was George Floyd?,1,2020-05-24
+2020-09-06,who,7,Who was George Floyd?,1,2020-05-24
+2020-09-13,who,7,Who was George Floyd?,2,2020-05-24
+2020-09-20,who,7,Who was George Floyd?,1,2020-05-24
+2020-09-27,who,7,Who was George Floyd?,4,2020-05-24
+2020-10-04,who,7,Who was George Floyd?,1,2020-05-24
+2020-10-11,who,7,Who was George Floyd?,0,2020-05-24
+2020-10-18,who,7,Who was George Floyd?,0,2020-05-24
+2020-10-25,who,7,Who was George Floyd?,0,2020-05-24
+2020-11-01,who,7,Who was George Floyd?,1,2020-05-24
+2020-11-08,who,7,Who was George Floyd?,0,2020-05-24
+2020-11-15,who,7,Who was George Floyd?,0,2020-05-24
+2020-11-22,who,7,Who was George Floyd?,0,2020-05-24
+2020-11-29,who,7,Who was George Floyd?,0,2020-05-24
+2020-12-06,who,7,Who was George Floyd?,0,2020-05-24
+2020-12-13,who,7,Who was George Floyd?,2,2020-05-24
+2020-12-20,who,7,Who was George Floyd?,0,2020-05-24
+2020-12-27,who,7,Who was George Floyd?,0,2020-05-24
+2020-01-05,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-01-12,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-01-19,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-01-26,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-02-02,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-02-09,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-02-16,who,8,Who is Mabel's mum?,100,2020-02-09
+2020-02-23,who,8,Who is Mabel's mum?,9,2020-02-09
+2020-03-01,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-03-08,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-03-15,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-03-22,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-03-29,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-04-05,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-04-12,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-04-19,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-04-26,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-05-03,who,8,Who is Mabel's mum?,3,2020-02-09
+2020-05-10,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-05-17,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-05-24,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-05-31,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-06-07,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-06-14,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-06-21,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-06-28,who,8,Who is Mabel's mum?,3,2020-02-09
+2020-07-05,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-07-12,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-07-19,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-07-26,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-08-02,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-08-09,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-08-16,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-08-23,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-08-30,who,8,Who is Mabel's mum?,3,2020-02-09
+2020-09-06,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-09-13,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-09-20,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-09-27,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-10-04,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-10-11,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-10-18,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-10-25,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-11-01,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-11-08,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-11-15,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-11-22,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-11-29,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-12-06,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-12-13,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-12-20,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-12-27,who,8,Who is Mabel's mum?,0,2020-02-09
+2020-01-05,who,9,Who is Joe Biden?,1,2020-10-25
+2020-01-12,who,9,Who is Joe Biden?,0,2020-10-25
+2020-01-19,who,9,Who is Joe Biden?,0,2020-10-25
+2020-01-26,who,9,Who is Joe Biden?,0,2020-10-25
+2020-02-02,who,9,Who is Joe Biden?,0,2020-10-25
+2020-02-09,who,9,Who is Joe Biden?,0,2020-10-25
+2020-02-16,who,9,Who is Joe Biden?,0,2020-10-25
+2020-02-23,who,9,Who is Joe Biden?,0,2020-10-25
+2020-03-01,who,9,Who is Joe Biden?,2,2020-10-25
+2020-03-08,who,9,Who is Joe Biden?,0,2020-10-25
+2020-03-15,who,9,Who is Joe Biden?,1,2020-10-25
+2020-03-22,who,9,Who is Joe Biden?,0,2020-10-25
+2020-03-29,who,9,Who is Joe Biden?,0,2020-10-25
+2020-04-05,who,9,Who is Joe Biden?,1,2020-10-25
+2020-04-12,who,9,Who is Joe Biden?,1,2020-10-25
+2020-04-19,who,9,Who is Joe Biden?,1,2020-10-25
+2020-04-26,who,9,Who is Joe Biden?,1,2020-10-25
+2020-05-03,who,9,Who is Joe Biden?,1,2020-10-25
+2020-05-10,who,9,Who is Joe Biden?,0,2020-10-25
+2020-05-17,who,9,Who is Joe Biden?,1,2020-10-25
+2020-05-24,who,9,Who is Joe Biden?,0,2020-10-25
+2020-05-31,who,9,Who is Joe Biden?,4,2020-10-25
+2020-06-07,who,9,Who is Joe Biden?,2,2020-10-25
+2020-06-14,who,9,Who is Joe Biden?,1,2020-10-25
+2020-06-21,who,9,Who is Joe Biden?,3,2020-10-25
+2020-06-28,who,9,Who is Joe Biden?,2,2020-10-25
+2020-07-05,who,9,Who is Joe Biden?,3,2020-10-25
+2020-07-12,who,9,Who is Joe Biden?,1,2020-10-25
+2020-07-19,who,9,Who is Joe Biden?,1,2020-10-25
+2020-07-26,who,9,Who is Joe Biden?,3,2020-10-25
+2020-08-02,who,9,Who is Joe Biden?,0,2020-10-25
+2020-08-09,who,9,Who is Joe Biden?,3,2020-10-25
+2020-08-16,who,9,Who is Joe Biden?,3,2020-10-25
+2020-08-23,who,9,Who is Joe Biden?,3,2020-10-25
+2020-08-30,who,9,Who is Joe Biden?,1,2020-10-25
+2020-09-06,who,9,Who is Joe Biden?,1,2020-10-25
+2020-09-13,who,9,Who is Joe Biden?,0,2020-10-25
+2020-09-20,who,9,Who is Joe Biden?,1,2020-10-25
+2020-09-27,who,9,Who is Joe Biden?,8,2020-10-25
+2020-10-04,who,9,Who is Joe Biden?,1,2020-10-25
+2020-10-11,who,9,Who is Joe Biden?,0,2020-10-25
+2020-10-18,who,9,Who is Joe Biden?,4,2020-10-25
+2020-10-25,who,9,Who is Joe Biden?,4,2020-10-25
+2020-11-01,who,9,Who is Joe Biden?,100,2020-10-25
+2020-11-08,who,9,Who is Joe Biden?,22,2020-10-25
+2020-11-15,who,9,Who is Joe Biden?,2,2020-10-25
+2020-11-22,who,9,Who is Joe Biden?,2,2020-10-25
+2020-11-29,who,9,Who is Joe Biden?,1,2020-10-25
+2020-12-06,who,9,Who is Joe Biden?,0,2020-10-25
+2020-12-13,who,9,Who is Joe Biden?,1,2020-10-25
+2020-12-20,who,9,Who is Joe Biden?,1,2020-10-25
+2020-12-27,who,9,Who is Joe Biden?,0,2020-10-25
+2020-01-05,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-01-12,who,10,Who dies in Eastenders?,2,2020-02-09
+2020-01-19,who,10,Who dies in Eastenders?,2,2020-02-09
+2020-01-26,who,10,Who dies in Eastenders?,2,2020-02-09
+2020-02-02,who,10,Who dies in Eastenders?,2,2020-02-09
+2020-02-09,who,10,Who dies in Eastenders?,12,2020-02-09
+2020-02-16,who,10,Who dies in Eastenders?,100,2020-02-09
+2020-02-23,who,10,Who dies in Eastenders?,4,2020-02-09
+2020-03-01,who,10,Who dies in Eastenders?,2,2020-02-09
+2020-03-08,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-03-15,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-03-22,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-03-29,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-04-05,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-04-12,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-04-19,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-04-26,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-05-03,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-05-10,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-05-17,who,10,Who dies in Eastenders?,1,2020-02-09
+2020-05-24,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-05-31,who,10,Who dies in Eastenders?,1,2020-02-09
+2020-06-07,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-06-14,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-06-21,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-06-28,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-07-05,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-07-12,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-07-19,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-07-26,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-08-02,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-08-09,who,10,Who dies in Eastenders?,1,2020-02-09
+2020-08-16,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-08-23,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-08-30,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-09-06,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-09-13,who,10,Who dies in Eastenders?,2,2020-02-09
+2020-09-20,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-09-27,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-10-04,who,10,Who dies in Eastenders?,1,2020-02-09
+2020-10-11,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-10-18,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-10-25,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-11-01,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-11-08,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-11-15,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-11-22,who,10,Who dies in Eastenders?,1,2020-02-09
+2020-11-29,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-12-06,who,10,Who dies in Eastenders?,1,2020-02-09
+2020-12-13,who,10,Who dies in Eastenders?,0,2020-02-09
+2020-12-20,who,10,Who dies in Eastenders?,3,2020-02-09
+2020-12-27,who,10,Who dies in Eastenders?,0,2020-02-09
