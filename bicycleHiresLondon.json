@@ -603,5 +603,25 @@
     "Month": "2020-07",
     "NumberOfHires": 1169418,
     "AvHireTime": 26
+  },
+  {
+    "Month": "2020-08",
+    "NumberOfHires": 1152864,
+    "AvHireTime": 24
+  },
+  {
+    "Month": "2020-09",
+    "NumberOfHires": 1137246,
+    "AvHireTime": 23
+  },
+  {
+    "Month": "2020-10",
+    "NumberOfHires": 847975,
+    "AvHireTime": 19
+  },
+  {
+    "Month": "2020-11",
+    "NumberOfHires": 760067,
+    "AvHireTime": 23
   }
 ]
