@@ -1,0 +1,1 @@
+Leicestershire ward boundaries derived from https://data.leicester.gov.uk/explore/dataset/county-wards/export/ after simplification and removal of Leicester and Rutland wards.
