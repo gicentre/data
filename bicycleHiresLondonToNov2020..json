@@ -1,0 +1,627 @@
+[
+  {
+    "Month": "2010-07",
+    "NumberOfHires": 12461,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2010-08",
+    "NumberOfHires": 341203,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2010-09",
+    "NumberOfHires": 540859,
+    "AvHireTime": 15
+  },
+  {
+    "Month": "2010-10",
+    "NumberOfHires": 544412,
+    "AvHireTime": 15
+  },
+  {
+    "Month": "2010-11",
+    "NumberOfHires": 456304,
+    "AvHireTime": 14
+  },
+  {
+    "Month": "2010-12",
+    "NumberOfHires": 285574,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2011-01",
+    "NumberOfHires": 403178,
+    "AvHireTime": 16
+  },
+  {
+    "Month": "2011-02",
+    "NumberOfHires": 398292,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2011-03",
+    "NumberOfHires": 556155,
+    "AvHireTime": 20
+  },
+  {
+    "Month": "2011-04",
+    "NumberOfHires": 673639,
+    "AvHireTime": 27
+  },
+  {
+    "Month": "2011-05",
+    "NumberOfHires": 722072,
+    "AvHireTime": 15
+  },
+  {
+    "Month": "2011-06",
+    "NumberOfHires": 638717,
+    "AvHireTime": 16
+  },
+  {
+    "Month": "2011-07",
+    "NumberOfHires": 708454,
+    "AvHireTime": 16
+  },
+  {
+    "Month": "2011-08",
+    "NumberOfHires": 642440,
+    "AvHireTime": 18
+  },
+  {
+    "Month": "2011-09",
+    "NumberOfHires": 684780,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2011-10",
+    "NumberOfHires": 708802,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2011-11",
+    "NumberOfHires": 597191,
+    "AvHireTime": 16
+  },
+  {
+    "Month": "2011-12",
+    "NumberOfHires": 408729,
+    "AvHireTime": 19
+  },
+  {
+    "Month": "2012-01",
+    "NumberOfHires": 494325,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2012-02",
+    "NumberOfHires": 481826,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2012-03",
+    "NumberOfHires": 818209,
+    "AvHireTime": 21
+  },
+  {
+    "Month": "2012-04",
+    "NumberOfHires": 649473,
+    "AvHireTime": 21
+  },
+  {
+    "Month": "2012-05",
+    "NumberOfHires": 926952,
+    "AvHireTime": 22
+  },
+  {
+    "Month": "2012-06",
+    "NumberOfHires": 858805,
+    "AvHireTime": 22
+  },
+  {
+    "Month": "2012-07",
+    "NumberOfHires": 1014174,
+    "AvHireTime": 23
+  },
+  {
+    "Month": "2012-08",
+    "NumberOfHires": 1163171,
+    "AvHireTime": 23
+  },
+  {
+    "Month": "2012-09",
+    "NumberOfHires": 1015145,
+    "AvHireTime": 20
+  },
+  {
+    "Month": "2012-10",
+    "NumberOfHires": 856866,
+    "AvHireTime": 18
+  },
+  {
+    "Month": "2012-11",
+    "NumberOfHires": 726893,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2012-12",
+    "NumberOfHires": 513444,
+    "AvHireTime": 19
+  },
+  {
+    "Month": "2013-01",
+    "NumberOfHires": 565589,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2013-02",
+    "NumberOfHires": 516588,
+    "AvHireTime": 16
+  },
+  {
+    "Month": "2013-03",
+    "NumberOfHires": 504611,
+    "AvHireTime": 16
+  },
+  {
+    "Month": "2013-04",
+    "NumberOfHires": 658230,
+    "AvHireTime": 20
+  },
+  {
+    "Month": "2013-05",
+    "NumberOfHires": 749934,
+    "AvHireTime": 22
+  },
+  {
+    "Month": "2013-06",
+    "NumberOfHires": 813631,
+    "AvHireTime": 22
+  },
+  {
+    "Month": "2013-07",
+    "NumberOfHires": 998755,
+    "AvHireTime": 25
+  },
+  {
+    "Month": "2013-08",
+    "NumberOfHires": 904155,
+    "AvHireTime": 25
+  },
+  {
+    "Month": "2013-09",
+    "NumberOfHires": 701724,
+    "AvHireTime": 19
+  },
+  {
+    "Month": "2013-10",
+    "NumberOfHires": 674154,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2013-11",
+    "NumberOfHires": 514146,
+    "AvHireTime": 15
+  },
+  {
+    "Month": "2013-12",
+    "NumberOfHires": 443942,
+    "AvHireTime": 18
+  },
+  {
+    "Month": "2014-01",
+    "NumberOfHires": 493870,
+    "AvHireTime": 15
+  },
+  {
+    "Month": "2014-02",
+    "NumberOfHires": 522940,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2014-03",
+    "NumberOfHires": 757864,
+    "AvHireTime": 20
+  },
+  {
+    "Month": "2014-04",
+    "NumberOfHires": 805571,
+    "AvHireTime": 21
+  },
+  {
+    "Month": "2014-05",
+    "NumberOfHires": 890709,
+    "AvHireTime": 21
+  },
+  {
+    "Month": "2014-06",
+    "NumberOfHires": 1052573,
+    "AvHireTime": 21
+  },
+  {
+    "Month": "2014-07",
+    "NumberOfHires": 1183182,
+    "AvHireTime": 22
+  },
+  {
+    "Month": "2014-08",
+    "NumberOfHires": 1055206,
+    "AvHireTime": 22
+  },
+  {
+    "Month": "2014-09",
+    "NumberOfHires": 1058684,
+    "AvHireTime": 19
+  },
+  {
+    "Month": "2014-10",
+    "NumberOfHires": 907998,
+    "AvHireTime": 18
+  },
+  {
+    "Month": "2014-11",
+    "NumberOfHires": 715447,
+    "AvHireTime": 16
+  },
+  {
+    "Month": "2014-12",
+    "NumberOfHires": 579853,
+    "AvHireTime": 18
+  },
+  {
+    "Month": "2015-01",
+    "NumberOfHires": 583663,
+    "AvHireTime": 15
+  },
+  {
+    "Month": "2015-02",
+    "NumberOfHires": 549278,
+    "AvHireTime": 15
+  },
+  {
+    "Month": "2015-03",
+    "NumberOfHires": 701384,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2015-04",
+    "NumberOfHires": 838543,
+    "AvHireTime": 20
+  },
+  {
+    "Month": "2015-05",
+    "NumberOfHires": 899969,
+    "AvHireTime": 21
+  },
+  {
+    "Month": "2015-06",
+    "NumberOfHires": 1039768,
+    "AvHireTime": 21
+  },
+  {
+    "Month": "2015-07",
+    "NumberOfHires": 1134816,
+    "AvHireTime": 23
+  },
+  {
+    "Month": "2015-08",
+    "NumberOfHires": 1042932,
+    "AvHireTime": 24
+  },
+  {
+    "Month": "2015-09",
+    "NumberOfHires": 903429,
+    "AvHireTime": 19
+  },
+  {
+    "Month": "2015-10",
+    "NumberOfHires": 885375,
+    "AvHireTime": 19
+  },
+  {
+    "Month": "2015-11",
+    "NumberOfHires": 684518,
+    "AvHireTime": 16
+  },
+  {
+    "Month": "2015-12",
+    "NumberOfHires": 608164,
+    "AvHireTime": 18
+  },
+  {
+    "Month": "2016-01",
+    "NumberOfHires": 586325,
+    "AvHireTime": 16
+  },
+  {
+    "Month": "2016-02",
+    "NumberOfHires": 597641,
+    "AvHireTime": 16
+  },
+  {
+    "Month": "2016-03",
+    "NumberOfHires": 664485,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2016-04",
+    "NumberOfHires": 763308,
+    "AvHireTime": 18
+  },
+  {
+    "Month": "2016-05",
+    "NumberOfHires": 1013666,
+    "AvHireTime": 21
+  },
+  {
+    "Month": "2016-06",
+    "NumberOfHires": 963232,
+    "AvHireTime": 19
+  },
+  {
+    "Month": "2016-07",
+    "NumberOfHires": 1188428,
+    "AvHireTime": 23
+  },
+  {
+    "Month": "2016-08",
+    "NumberOfHires": 1158393,
+    "AvHireTime": 22
+  },
+  {
+    "Month": "2016-09",
+    "NumberOfHires": 1053039,
+    "AvHireTime": 19
+  },
+  {
+    "Month": "2016-10",
+    "NumberOfHires": 945143,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2016-11",
+    "NumberOfHires": 711002,
+    "AvHireTime": 15
+  },
+  {
+    "Month": "2016-12",
+    "NumberOfHires": 658975,
+    "AvHireTime": 18
+  },
+  {
+    "Month": "2017-01",
+    "NumberOfHires": 638491,
+    "AvHireTime": 18
+  },
+  {
+    "Month": "2017-02",
+    "NumberOfHires": 618550,
+    "AvHireTime": 16
+  },
+  {
+    "Month": "2017-03",
+    "NumberOfHires": 819752,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2017-04",
+    "NumberOfHires": 917716,
+    "AvHireTime": 21
+  },
+  {
+    "Month": "2017-05",
+    "NumberOfHires": 992601,
+    "AvHireTime": 20
+  },
+  {
+    "Month": "2017-06",
+    "NumberOfHires": 1098294,
+    "AvHireTime": 21
+  },
+  {
+    "Month": "2017-07",
+    "NumberOfHires": 1131838,
+    "AvHireTime": 21
+  },
+  {
+    "Month": "2017-08",
+    "NumberOfHires": 994199,
+    "AvHireTime": 22
+  },
+  {
+    "Month": "2017-09",
+    "NumberOfHires": 934751,
+    "AvHireTime": 19
+  },
+  {
+    "Month": "2017-10",
+    "NumberOfHires": 973682,
+    "AvHireTime": 18
+  },
+  {
+    "Month": "2017-11",
+    "NumberOfHires": 792082,
+    "AvHireTime": 16
+  },
+  {
+    "Month": "2017-12",
+    "NumberOfHires": 534088,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2018-01",
+    "NumberOfHires": 645901,
+    "AvHireTime": 16
+  },
+  {
+    "Month": "2018-02",
+    "NumberOfHires": 576425,
+    "AvHireTime": 16
+  },
+  {
+    "Month": "2018-03",
+    "NumberOfHires": 604921,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2018-04",
+    "NumberOfHires": 824737,
+    "AvHireTime": 20
+  },
+  {
+    "Month": "2018-05",
+    "NumberOfHires": 1112686,
+    "AvHireTime": 22
+  },
+  {
+    "Month": "2018-06",
+    "NumberOfHires": 1181642,
+    "AvHireTime": 22
+  },
+  {
+    "Month": "2018-07",
+    "NumberOfHires": 1253102,
+    "AvHireTime": 23
+  },
+  {
+    "Month": "2018-08",
+    "NumberOfHires": 1058181,
+    "AvHireTime": 22
+  },
+  {
+    "Month": "2018-09",
+    "NumberOfHires": 1008201,
+    "AvHireTime": 19
+  },
+  {
+    "Month": "2018-10",
+    "NumberOfHires": 978290,
+    "AvHireTime": 18
+  },
+  {
+    "Month": "2018-11",
+    "NumberOfHires": 738024,
+    "AvHireTime": 16
+  },
+  {
+    "Month": "2018-12",
+    "NumberOfHires": 585430,
+    "AvHireTime": 18
+  },
+  {
+    "Month": "2019-01",
+    "NumberOfHires": 685798,
+    "AvHireTime": 18
+  },
+  {
+    "Month": "2019-02",
+    "NumberOfHires": 698917,
+    "AvHireTime": 20
+  },
+  {
+    "Month": "2019-03",
+    "NumberOfHires": 792272,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2019-04",
+    "NumberOfHires": 890148,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2019-05",
+    "NumberOfHires": 1006547,
+    "AvHireTime": 19
+  },
+  {
+    "Month": "2019-06",
+    "NumberOfHires": 1006434,
+    "AvHireTime": 22
+  },
+  {
+    "Month": "2019-07",
+    "NumberOfHires": 1152150,
+    "AvHireTime": 21
+  },
+  {
+    "Month": "2019-08",
+    "NumberOfHires": 1053921,
+    "AvHireTime": 22
+  },
+  {
+    "Month": "2019-09",
+    "NumberOfHires": 965581,
+    "AvHireTime": 19
+  },
+  {
+    "Month": "2019-10",
+    "NumberOfHires": 851999,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2019-11",
+    "NumberOfHires": 729111,
+    "AvHireTime": 15
+  },
+  {
+    "Month": "2019-12",
+    "NumberOfHires": 592077,
+    "AvHireTime": 17
+  },
+  {
+    "Month": "2020-01",
+    "NumberOfHires": 709514,
+    "AvHireTime": 16
+  },
+  {
+    "Month": "2020-02",
+    "NumberOfHires": 640981,
+    "AvHireTime": 19
+  },
+  {
+    "Month": "2020-03",
+    "NumberOfHires": 553341,
+    "AvHireTime": 19
+  },
+  {
+    "Month": "2020-04",
+    "NumberOfHires": 591058,
+    "AvHireTime": 36
+  },
+  {
+    "Month": "2020-05",
+    "NumberOfHires": 1120620,
+    "AvHireTime": 35
+  },
+  {
+    "Month": "2020-06",
+    "NumberOfHires": 1158021,
+    "AvHireTime": 32
+  },
+  {
+    "Month": "2020-07",
+    "NumberOfHires": 1169418,
+    "AvHireTime": 26
+  },
+  {
+    "Month": "2020-08",
+    "NumberOfHires": 1152864,
+    "AvHireTime": 24
+  },
+  {
+    "Month": "2020-09",
+    "NumberOfHires": 1137246,
+    "AvHireTime": 23
+  },
+  {
+    "Month": "2020-10",
+    "NumberOfHires": 847975,
+    "AvHireTime": 19
+  },
+  {
+    "Month": "2020-11",
+    "NumberOfHires": 760067,
+    "AvHireTime": 23
+  }
+]
