@@ -1,0 +1,60 @@
+Year,5pcIncome,95pcIncome,gini,giniChange,Party,PrimeMinister,PMLabel
+1961,69.08,341.49,0.268,0,Conservative,Macmillan,Macmillan (1961)
+1962,69.60,321.25,0.254,-0.0136,Conservative,Macmillan,
+1963,70.25,359.36,0.278,0.0240,Conservative,Macmillan,
+1964,74.95,344.99,0.272,-0.0066,Labour,Wilson,Wilson (1964)
+1965,82.25,357.23,0.257,-0.0150,Labour,Wilson,
+1966,83.10,383.58,0.267,0.0106,Labour,Wilson,
+1967,88.50,379.44,0.259,-0.0088,Labour,Wilson,
+1968,92.69,395.29,0.257,-0.0013,Labour,Wilson,
+1969,90.35,404.04,0.265,0.0081,Labour,Wilson,
+1970,91.59,424.64,0.268,0.0025,Conservative,Heath,Heath (1970)
+1971,88.19,420.35,0.276,0.0086,Conservative,Heath,
+1972,90.44,441.86,0.280,0.0031,Conservative,Heath,
+1973,101.42,457.66,0.268,-0.0112,Conservative,Heath,
+1974,101.63,445.61,0.261,-0.0075,Labour,Wilson,Wilson (1974)
+1975,102.85,436.44,0.252,-0.0088,Labour,Wilson,
+1976,101.04,424.88,0.252,-0.0004,Labour,Callaghan,Callaghan (1976)
+1977,101.96,406.41,0.248,-0.0031,Labour,Callaghan,
+1978,108.51,447.43,0.248,-0.0002,Labour,Callaghan,
+1979,109.00,471.29,0.261,0.0127,Conservative,Thatcher,Thatcher (1979)
+1980,107.02,493.52,0.267,0.0063,Conservative,Thatcher,
+1981,104.47,489.64,0.277,0.0098,Conservative,Thatcher,
+1982,105.68,493.75,0.278,0.0008,Conservative,Thatcher,
+1983,105.94,507.92,0.286,0.0083,Conservative,Thatcher,
+1984,107.10,524.92,0.290,0.0037,Conservative,Thatcher,
+1985,110.74,572.85,0.301,0.0110,Conservative,Thatcher,
+1986,109.92,602.28,0.313,0.0123,Conservative,Thatcher,
+1987,106.13,677.51,0.329,0.0153,Conservative,Thatcher,
+1988,108.38,729.15,0.345,0.0162,Conservative,Thatcher,
+1989,103.53,730.50,0.349,0.0039,Conservative,Thatcher,
+1990,102.41,795.73,0.366,0.0175,Conservative,Major,Major (1990)
+1991,98.49,814.14,0.370,0.0036,Conservative,Major,
+1992,94.72,808.84,0.374,0.0041,Conservative,Major,
+1993,92.92,816.87,0.374,0.0005,Conservative,Major,
+1994,92.60,812.38,0.374,-0.0005,Conservative,Major,
+1995,100.91,829.30,0.372,-0.0016,Conservative,Major,
+1996,103.44,862.86,0.374,0.0017,Conservative,Major,
+1997,102.62,884.55,0.379,0.0054,Labour,Blair,Blair (1997)
+1998,112.54,946.83,0.385,0.0060,Labour,Blair,
+1999,112.56,973.53,0.383,-0.0019,Labour,Blair,
+2000,114.06,1017.57,0.389,0.0060,Labour,Blair,
+2001,125.47,1069.35,0.382,-0.0075,Labour,Blair,
+2002,126.58,1075.97,0.377,-0.0050,Labour,Blair,
+2003,122.67,1096.61,0.375,-0.0015,Labour,Blair,
+2004,125.10,1128.99,0.377,0.0023,Labour,Blair,
+2005,122.99,1147.95,0.385,0.0077,Labour,Blair,
+2006,113.41,1168.14,0.393,0.0078,Labour,Blair,
+2007,114.41,1206.61,0.402,0.0090,Labour,Brown,Brown (2007)
+2008,105.64,1211.41,0.404,0.0022,Labour,Brown,
+2009,114.09,1251.54,0.404,0.0002,Labour,Brown,
+2010,116.57,1184.07,0.383,-0.0214,Con-LD Coalition,Cameron,Cameron (2010)
+2011,119.64,1167.88,0.386,0.0035,Con-LD Coalition,Cameron,
+2012,115.36,1151.00,0.383,-0.0033,Con-LD Coalition,Cameron,
+2013,115.11,1167.58,0.392,0.0083,Con-LD Coalition,Cameron,
+2014,117.66,1200.07,0.387,-0.0043,Con-LD Coalition,Cameron,
+2015,115.77,1211.35,0.396,0.0087,Conservative,Cameron,
+2016,111.34,1215.37,0.386,-0.0098,Conservative,May,May (2016)
+2017,107.92,1208.62,0.388,0.0015,Conservative,May,
+2018,110.05,1242.91,0.396,0.0085,Conservative,May,
+2019,117.09,1274.44,0.393,-0.0031,Conservative,Johnson,Johnson (2019)
