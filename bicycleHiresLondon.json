@@ -631,57 +631,62 @@
  },
  {
    "Month": "2021-01",
-   "NumberOfHires": 409761,
+   "NumberOfHires": 409887,
    "AvHireTime": 17
  },
  {
    "Month": "2021-02",
-   "NumberOfHires": 510806,
+   "NumberOfHires": 511046,
    "AvHireTime": 21
  },
  {
    "Month": "2021-03",
-   "NumberOfHires": 748233,
+   "NumberOfHires": 748511,
    "AvHireTime": 26
  },
  {
    "Month": "2021-04",
-   "NumberOfHires": 943328,
+   "NumberOfHires": 943760,
    "AvHireTime": 25
  },
  {
    "Month": "2021-05",
-   "NumberOfHires": 921413,
+   "NumberOfHires": 921988,
    "AvHireTime": 22
  },
  {
    "Month": "2021-06",
-   "NumberOfHires": 1183119,
+   "NumberOfHires": 1183634,
    "AvHireTime": 21
  },
  {
    "Month": "2021-07",
-   "NumberOfHires": 1167625,
+   "NumberOfHires": 1168166,
    "AvHireTime": 21
  },
  {
    "Month": "2021-08",
-   "NumberOfHires": 1110707,
+   "NumberOfHires": 1111134,
    "AvHireTime": 22
  },
  {
    "Month": "2021-09",
-   "NumberOfHires": 1219870,
+   "NumberOfHires": 1220318,
    "AvHireTime": 20
  },
  {
    "Month": "2021-10",
-   "NumberOfHires": 1110183,
+   "NumberOfHires": 1110571,
    "AvHireTime": 18
  },
  {
    "Month": "2021-11",
-   "NumberOfHires": 944925,
+   "NumberOfHires": 945047,
    "AvHireTime": 16
+ },
+ {
+   "Month": "2021-12",
+   "NumberOfHires": 667202,
+   "AvHireTime": 18
  }
 ]
