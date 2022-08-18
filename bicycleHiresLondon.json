@@ -688,5 +688,40 @@
    "Month": "2021-12",
    "NumberOfHires": 667202,
    "AvHireTime": 18
+ },
+ {
+   "Month": "2022-01",
+   "NumberOfHires": 748502,
+   "AvHireTime": 17
+ },
+ {
+   "Month": "2022-02",
+   "NumberOfHires": 749898,
+   "AvHireTime": 17
+ },
+ {
+   "Month": "2022-03",
+   "NumberOfHires": 1056720,
+   "AvHireTime": 19
+ },
+ {
+   "Month": "2022-04",
+   "NumberOfHires": 1031077,
+   "AvHireTime": 21
+ },
+ {
+   "Month": "2022-05",
+   "NumberOfHires": 1201054,
+   "AvHireTime": 20
+ },
+ {
+   "Month": "2022-06",
+   "NumberOfHires": 1280180,
+   "AvHireTime": 22
+ },
+ {
+   "Month": "2022-07",
+   "NumberOfHires": 1315801,
+   "AvHireTime": 21
  }
 ]
