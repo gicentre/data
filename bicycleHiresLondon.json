@@ -728,5 +728,15 @@
    "Month": "2022-08",
    "NumberOfHires": 1259932,
    "AvHireTime": 21
- }
+ },
+ {
+   "Month": "2022-09",
+   "NumberOfHires": 800950,
+   "AvHireTime": 18
+ },
+ {
+   "Month": "2022-10",
+   "NumberOfHires": 864369,
+   "AvHireTime": 18
+ } 
 ]
