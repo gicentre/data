@@ -1,0 +1,1 @@
+Census data and boundaries Crown Copyright and subject to [Open Government Licence V.3](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
