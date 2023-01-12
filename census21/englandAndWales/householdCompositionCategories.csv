@@ -1,0 +1,16 @@
+code,description,shortDesc
+-8,Does not apply,N/A
+1,One-person household: Aged 66 years and over,oneOver66
+2,One-person household: Other,oneOther
+3,Single family household: All aged 66 years and over,familyOver66
+4,Single family household: Married or civil partnership couple: No children,marriedNoChild
+5,Single family household: Married or civil partnership couple: Dependent children,marriedDepChild
+6,Single family household: Married or civil partnership couple: All children non-dependent,marriedNonDepChild
+7,Single family household: Cohabiting couple family: No children,cohabNoChild
+8,Single family household: Cohabiting couple family: With dependent children,cohabDepChild
+9,Single family household: Cohabiting couple family: All children non-dependent,cohabNonDepChild
+10,Single family household: Lone parent family: With dependent children,loneDepChild
+11,Single family household: Lone parent family: All children non-dependent,loneNonDepChild
+12,Single family household: Other single family household: Other family composition,familyOther
+13,Other household types: With dependent children,otherDepChild
+14,Other household types: Other including all full-time students and all aged 66 years and over,other
