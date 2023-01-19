@@ -1,0 +1,1622 @@
+[
+  {
+    "Date": "2020-02-07",
+    "Pollster": "BMG Research",
+    "Answer": "Rejoin",
+    "Percent": 42
+  },
+  {
+    "Date": "2020-02-07",
+    "Pollster": "BMG Research",
+    "Answer": "Stay out",
+    "Percent": 46
+  },
+  {
+    "Date": "2020-02-07",
+    "Pollster": "BMG Research",
+    "Answer": "no answer / don't know",
+    "Percent": 12
+  },
+  {
+    "Date": "2020-03-06",
+    "Pollster": "BMG Research",
+    "Answer": "Rejoin",
+    "Percent": 40
+  },
+  {
+    "Date": "2020-03-06",
+    "Pollster": "BMG Research",
+    "Answer": "Stay out",
+    "Percent": 48
+  },
+  {
+    "Date": "2020-03-06",
+    "Pollster": "BMG Research",
+    "Answer": "no answer / don't know",
+    "Percent": 12
+  },
+  {
+    "Date": "2020-04-09",
+    "Pollster": "BMG Research",
+    "Answer": "Rejoin",
+    "Percent": 43
+  },
+  {
+    "Date": "2020-04-09",
+    "Pollster": "BMG Research",
+    "Answer": "Stay out",
+    "Percent": 47
+  },
+  {
+    "Date": "2020-04-09",
+    "Pollster": "BMG Research",
+    "Answer": "no answer / don't know",
+    "Percent": 10
+  },
+  {
+    "Date": "2020-07-13",
+    "Pollster": "Kantar",
+    "Answer": "Rejoin",
+    "Percent": 33
+  },
+  {
+    "Date": "2020-07-13",
+    "Pollster": "Kantar",
+    "Answer": "Stay out",
+    "Percent": 39
+  },
+  {
+    "Date": "2020-07-13",
+    "Pollster": "Kantar",
+    "Answer": "no answer / don't know",
+    "Percent": 28
+  },
+  {
+    "Date": "2020-08-10",
+    "Pollster": "Kantar",
+    "Answer": "Rejoin",
+    "Percent": 37
+  },
+  {
+    "Date": "2020-08-10",
+    "Pollster": "Kantar",
+    "Answer": "Stay out",
+    "Percent": 33
+  },
+  {
+    "Date": "2020-08-10",
+    "Pollster": "Kantar",
+    "Answer": "no answer / don't know",
+    "Percent": 30
+  },
+  {
+    "Date": "2020-09-21",
+    "Pollster": "Kantar",
+    "Answer": "Rejoin",
+    "Percent": 31
+  },
+  {
+    "Date": "2020-09-21",
+    "Pollster": "Kantar",
+    "Answer": "Stay out",
+    "Percent": 38
+  },
+  {
+    "Date": "2020-09-21",
+    "Pollster": "Kantar",
+    "Answer": "no answer / don't know",
+    "Percent": 31
+  },
+  {
+    "Date": "2020-11-09",
+    "Pollster": "Kantar",
+    "Answer": "Rejoin",
+    "Percent": 37
+  },
+  {
+    "Date": "2020-11-09",
+    "Pollster": "Kantar",
+    "Answer": "Stay out",
+    "Percent": 33
+  },
+  {
+    "Date": "2020-11-09",
+    "Pollster": "Kantar",
+    "Answer": "no answer / don't know",
+    "Percent": 30
+  },
+  {
+    "Date": "2020-12-14",
+    "Pollster": "Kantar",
+    "Answer": "Rejoin",
+    "Percent": 32
+  },
+  {
+    "Date": "2020-12-14",
+    "Pollster": "Kantar",
+    "Answer": "Stay out",
+    "Percent": 34
+  },
+  {
+    "Date": "2020-12-14",
+    "Pollster": "Kantar",
+    "Answer": "no answer / don't know",
+    "Percent": 34
+  },
+  {
+    "Date": "2021-01-19",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 42
+  },
+  {
+    "Date": "2021-01-19",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 40
+  },
+  {
+    "Date": "2021-01-19",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 18
+  },
+  {
+    "Date": "2021-01-25",
+    "Pollster": "Kantar",
+    "Answer": "Rejoin",
+    "Percent": 34
+  },
+  {
+    "Date": "2021-01-25",
+    "Pollster": "Kantar",
+    "Answer": "Stay out",
+    "Percent": 37
+  },
+  {
+    "Date": "2021-01-25",
+    "Pollster": "Kantar",
+    "Answer": "no answer / don't know",
+    "Percent": 29
+  },
+  {
+    "Date": "2021-02-17",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 39
+  },
+  {
+    "Date": "2021-02-17",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 41
+  },
+  {
+    "Date": "2021-02-17",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 20
+  },
+  {
+    "Date": "2021-02-22",
+    "Pollster": "Kantar",
+    "Answer": "Rejoin",
+    "Percent": 33
+  },
+  {
+    "Date": "2021-02-22",
+    "Pollster": "Kantar",
+    "Answer": "Stay out",
+    "Percent": 33
+  },
+  {
+    "Date": "2021-02-22",
+    "Pollster": "Kantar",
+    "Answer": "no answer / don't know",
+    "Percent": 34
+  },
+  {
+    "Date": "2021-03-16",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 40
+  },
+  {
+    "Date": "2021-03-16",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 41
+  },
+  {
+    "Date": "2021-03-16",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 19
+  },
+  {
+    "Date": "2021-03-19",
+    "Pollster": "BMG Research",
+    "Answer": "Rejoin",
+    "Percent": 43
+  },
+  {
+    "Date": "2021-03-19",
+    "Pollster": "BMG Research",
+    "Answer": "Stay out",
+    "Percent": 49
+  },
+  {
+    "Date": "2021-03-19",
+    "Pollster": "BMG Research",
+    "Answer": "no answer / don't know",
+    "Percent": 8
+  },
+  {
+    "Date": "2021-03-29",
+    "Pollster": "Kantar",
+    "Answer": "Rejoin",
+    "Percent": 32
+  },
+  {
+    "Date": "2021-03-29",
+    "Pollster": "Kantar",
+    "Answer": "Stay out",
+    "Percent": 38
+  },
+  {
+    "Date": "2021-03-29",
+    "Pollster": "Kantar",
+    "Answer": "no answer / don't know",
+    "Percent": 30
+  },
+  {
+    "Date": "2021-04-08",
+    "Pollster": "JL Partners",
+    "Answer": "Rejoin",
+    "Percent": 39
+  },
+  {
+    "Date": "2021-04-08",
+    "Pollster": "JL Partners",
+    "Answer": "Stay out",
+    "Percent": 46
+  },
+  {
+    "Date": "2021-04-08",
+    "Pollster": "JL Partners",
+    "Answer": "no answer / don't know",
+    "Percent": 15
+  },
+  {
+    "Date": "2021-04-22",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 38
+  },
+  {
+    "Date": "2021-04-22",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 43
+  },
+  {
+    "Date": "2021-04-22",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 19
+  },
+  {
+    "Date": "2021-04-26",
+    "Pollster": "Kantar",
+    "Answer": "Rejoin",
+    "Percent": 31
+  },
+  {
+    "Date": "2021-04-26",
+    "Pollster": "Kantar",
+    "Answer": "Stay out",
+    "Percent": 37
+  },
+  {
+    "Date": "2021-04-26",
+    "Pollster": "Kantar",
+    "Answer": "no answer / don't know",
+    "Percent": 32
+  },
+  {
+    "Date": "2021-05-25",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 39
+  },
+  {
+    "Date": "2021-05-25",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 44
+  },
+  {
+    "Date": "2021-05-25",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 17
+  },
+  {
+    "Date": "2021-06-07",
+    "Pollster": "Kantar",
+    "Answer": "Rejoin",
+    "Percent": 31
+  },
+  {
+    "Date": "2021-06-07",
+    "Pollster": "Kantar",
+    "Answer": "Stay out",
+    "Percent": 38
+  },
+  {
+    "Date": "2021-06-07",
+    "Pollster": "Kantar",
+    "Answer": "no answer / don't know",
+    "Percent": 31
+  },
+  {
+    "Date": "2021-06-23",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 39
+  },
+  {
+    "Date": "2021-06-23",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 41
+  },
+  {
+    "Date": "2021-06-23",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 20
+  },
+  {
+    "Date": "2021-07-12",
+    "Pollster": "Kantar",
+    "Answer": "Rejoin",
+    "Percent": 33
+  },
+  {
+    "Date": "2021-07-12",
+    "Pollster": "Kantar",
+    "Answer": "Stay out",
+    "Percent": 38
+  },
+  {
+    "Date": "2021-07-12",
+    "Pollster": "Kantar",
+    "Answer": "no answer / don't know",
+    "Percent": 29
+  },
+  {
+    "Date": "2021-07-21",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 39
+  },
+  {
+    "Date": "2021-07-21",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 41
+  },
+  {
+    "Date": "2021-07-21",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 20
+  },
+  {
+    "Date": "2021-08-13",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 41
+  },
+  {
+    "Date": "2021-08-13",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 41
+  },
+  {
+    "Date": "2021-08-13",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 18
+  },
+  {
+    "Date": "2021-08-23",
+    "Pollster": "Kantar",
+    "Answer": "Rejoin",
+    "Percent": 33
+  },
+  {
+    "Date": "2021-08-23",
+    "Pollster": "Kantar",
+    "Answer": "Stay out",
+    "Percent": 34
+  },
+  {
+    "Date": "2021-08-23",
+    "Pollster": "Kantar",
+    "Answer": "no answer / don't know",
+    "Percent": 33
+  },
+  {
+    "Date": "2021-09-16",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 41
+  },
+  {
+    "Date": "2021-09-16",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 39
+  },
+  {
+    "Date": "2021-09-16",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 20
+  },
+  {
+    "Date": "2021-09-27",
+    "Pollster": "Kantar",
+    "Answer": "Rejoin",
+    "Percent": 33
+  },
+  {
+    "Date": "2021-09-27",
+    "Pollster": "Kantar",
+    "Answer": "Stay out",
+    "Percent": 33
+  },
+  {
+    "Date": "2021-09-27",
+    "Pollster": "Kantar",
+    "Answer": "no answer / don't know",
+    "Percent": 34
+  },
+  {
+    "Date": "2021-10-13",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 41
+  },
+  {
+    "Date": "2021-10-13",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 37
+  },
+  {
+    "Date": "2021-10-13",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 22
+  },
+  {
+    "Date": "2021-10-15",
+    "Pollster": "Opinium",
+    "Answer": "Rejoin",
+    "Percent": 43
+  },
+  {
+    "Date": "2021-10-15",
+    "Pollster": "Opinium",
+    "Answer": "Stay out",
+    "Percent": 42
+  },
+  {
+    "Date": "2021-10-15",
+    "Pollster": "Opinium",
+    "Answer": "no answer / don't know",
+    "Percent": 15
+  },
+  {
+    "Date": "2021-10-18",
+    "Pollster": "Kantar",
+    "Answer": "Rejoin",
+    "Percent": 34
+  },
+  {
+    "Date": "2021-10-18",
+    "Pollster": "Kantar",
+    "Answer": "Stay out",
+    "Percent": 35
+  },
+  {
+    "Date": "2021-10-18",
+    "Pollster": "Kantar",
+    "Answer": "no answer / don't know",
+    "Percent": 31
+  },
+  {
+    "Date": "2021-11-09",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "Rejoin",
+    "Percent": 44
+  },
+  {
+    "Date": "2021-11-09",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "Stay out",
+    "Percent": 50
+  },
+  {
+    "Date": "2021-11-09",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "no answer / don't know",
+    "Percent": 6
+  },
+  {
+    "Date": "2021-11-17",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 44
+  },
+  {
+    "Date": "2021-11-17",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 39
+  },
+  {
+    "Date": "2021-11-17",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 17
+  },
+  {
+    "Date": "2021-11-22",
+    "Pollster": "Kantar",
+    "Answer": "Rejoin",
+    "Percent": 34
+  },
+  {
+    "Date": "2021-11-22",
+    "Pollster": "Kantar",
+    "Answer": "Stay out",
+    "Percent": 32
+  },
+  {
+    "Date": "2021-11-22",
+    "Pollster": "Kantar",
+    "Answer": "no answer / don't know",
+    "Percent": 34
+  },
+  {
+    "Date": "2021-12-03",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 45
+  },
+  {
+    "Date": "2021-12-03",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 37
+  },
+  {
+    "Date": "2021-12-03",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 18
+  },
+  {
+    "Date": "2021-12-13",
+    "Pollster": "Kantar",
+    "Answer": "Rejoin",
+    "Percent": 36
+  },
+  {
+    "Date": "2021-12-13",
+    "Pollster": "Kantar",
+    "Answer": "Stay out",
+    "Percent": 33
+  },
+  {
+    "Date": "2021-12-13",
+    "Pollster": "Kantar",
+    "Answer": "no answer / don't know",
+    "Percent": 31
+  },
+  {
+    "Date": "2021-12-23",
+    "Pollster": "Opinium",
+    "Answer": "Rejoin",
+    "Percent": 41
+  },
+  {
+    "Date": "2021-12-23",
+    "Pollster": "Opinium",
+    "Answer": "Stay out",
+    "Percent": 42
+  },
+  {
+    "Date": "2021-12-23",
+    "Pollster": "Opinium",
+    "Answer": "no answer / don't know",
+    "Percent": 17
+  },
+  {
+    "Date": "2022-01-18",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 42
+  },
+  {
+    "Date": "2022-01-18",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 39
+  },
+  {
+    "Date": "2022-01-18",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 19
+  },
+  {
+    "Date": "2022-02-11",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 44
+  },
+  {
+    "Date": "2022-02-11",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 36
+  },
+  {
+    "Date": "2022-02-11",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 20
+  },
+  {
+    "Date": "2022-02-20",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "Rejoin",
+    "Percent": 41
+  },
+  {
+    "Date": "2022-02-20",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "Stay out",
+    "Percent": 50
+  },
+  {
+    "Date": "2022-02-20",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "no answer / don't know",
+    "Percent": 9
+  },
+  {
+    "Date": "2022-03-17",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 43
+  },
+  {
+    "Date": "2022-03-17",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 35
+  },
+  {
+    "Date": "2022-03-17",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 22
+  },
+  {
+    "Date": "2022-04-11",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 43
+  },
+  {
+    "Date": "2022-04-11",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 38
+  },
+  {
+    "Date": "2022-04-11",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 19
+  },
+  {
+    "Date": "2022-04-14",
+    "Pollster": "Deltapoll",
+    "Answer": "Rejoin",
+    "Percent": 47
+  },
+  {
+    "Date": "2022-04-14",
+    "Pollster": "Deltapoll",
+    "Answer": "Stay out",
+    "Percent": 40
+  },
+  {
+    "Date": "2022-04-14",
+    "Pollster": "Deltapoll",
+    "Answer": "no answer / don't know",
+    "Percent": 13
+  },
+  {
+    "Date": "2022-04-19",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "Rejoin",
+    "Percent": 45
+  },
+  {
+    "Date": "2022-04-19",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "Stay out",
+    "Percent": 47
+  },
+  {
+    "Date": "2022-04-19",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "no answer / don't know",
+    "Percent": 8
+  },
+  {
+    "Date": "2022-05-12",
+    "Pollster": "TechneUK",
+    "Answer": "Rejoin",
+    "Percent": 33
+  },
+  {
+    "Date": "2022-05-12",
+    "Pollster": "TechneUK",
+    "Answer": "Stay out",
+    "Percent": 34
+  },
+  {
+    "Date": "2022-05-12",
+    "Pollster": "TechneUK",
+    "Answer": "no answer / don't know",
+    "Percent": 33
+  },
+  {
+    "Date": "2022-05-17",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 41
+  },
+  {
+    "Date": "2022-05-17",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 38
+  },
+  {
+    "Date": "2022-05-17",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 21
+  },
+  {
+    "Date": "2022-06-10",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 45
+  },
+  {
+    "Date": "2022-06-10",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 36
+  },
+  {
+    "Date": "2022-06-10",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 19
+  },
+  {
+    "Date": "2022-06-20",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "Rejoin",
+    "Percent": 48
+  },
+  {
+    "Date": "2022-06-20",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "Stay out",
+    "Percent": 43
+  },
+  {
+    "Date": "2022-06-20",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "no answer / don't know",
+    "Percent": 9
+  },
+  {
+    "Date": "2022-06-20",
+    "Pollster": "Kantar",
+    "Answer": "Rejoin",
+    "Percent": 35
+  },
+  {
+    "Date": "2022-06-20",
+    "Pollster": "Kantar",
+    "Answer": "Stay out",
+    "Percent": 34
+  },
+  {
+    "Date": "2022-06-20",
+    "Pollster": "Kantar",
+    "Answer": "no answer / don't know",
+    "Percent": 31
+  },
+  {
+    "Date": "2022-07-01",
+    "Pollster": "BMG Research",
+    "Answer": "Rejoin",
+    "Percent": 44
+  },
+  {
+    "Date": "2022-07-01",
+    "Pollster": "BMG Research",
+    "Answer": "Stay out",
+    "Percent": 40
+  },
+  {
+    "Date": "2022-07-01",
+    "Pollster": "BMG Research",
+    "Answer": "no answer / don't know",
+    "Percent": 16
+  },
+  {
+    "Date": "2022-07-11",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 45
+  },
+  {
+    "Date": "2022-07-11",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 38
+  },
+  {
+    "Date": "2022-07-11",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 17
+  },
+  {
+    "Date": "2022-07-23",
+    "Pollster": "Deltapoll",
+    "Answer": "Rejoin",
+    "Percent": 45
+  },
+  {
+    "Date": "2022-07-23",
+    "Pollster": "Deltapoll",
+    "Answer": "Stay out",
+    "Percent": 39
+  },
+  {
+    "Date": "2022-07-23",
+    "Pollster": "Deltapoll",
+    "Answer": "no answer / don't know",
+    "Percent": 16
+  },
+  {
+    "Date": "2022-07-28",
+    "Pollster": "BMG Research",
+    "Answer": "Rejoin",
+    "Percent": 46
+  },
+  {
+    "Date": "2022-07-28",
+    "Pollster": "BMG Research",
+    "Answer": "Stay out",
+    "Percent": 41
+  },
+  {
+    "Date": "2022-07-28",
+    "Pollster": "BMG Research",
+    "Answer": "no answer / don't know",
+    "Percent": 13
+  },
+  {
+    "Date": "2022-08-05",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 45
+  },
+  {
+    "Date": "2022-08-05",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 37
+  },
+  {
+    "Date": "2022-08-05",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 18
+  },
+  {
+    "Date": "2022-08-18",
+    "Pollster": "BMG Research",
+    "Answer": "Rejoin",
+    "Percent": 44
+  },
+  {
+    "Date": "2022-08-18",
+    "Pollster": "BMG Research",
+    "Answer": "Stay out",
+    "Percent": 41
+  },
+  {
+    "Date": "2022-08-18",
+    "Pollster": "BMG Research",
+    "Answer": "no answer / don't know",
+    "Percent": 15
+  },
+  {
+    "Date": "2022-08-19",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "Rejoin",
+    "Percent": 49
+  },
+  {
+    "Date": "2022-08-19",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "Stay out",
+    "Percent": 42
+  },
+  {
+    "Date": "2022-08-19",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "no answer / don't know",
+    "Percent": 9
+  },
+  {
+    "Date": "2022-09-02",
+    "Pollster": "Deltapoll",
+    "Answer": "Rejoin",
+    "Percent": 45
+  },
+  {
+    "Date": "2022-09-02",
+    "Pollster": "Deltapoll",
+    "Answer": "Stay out",
+    "Percent": 39
+  },
+  {
+    "Date": "2022-09-02",
+    "Pollster": "Deltapoll",
+    "Answer": "no answer / don't know",
+    "Percent": 16
+  },
+  {
+    "Date": "2022-09-22",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 46
+  },
+  {
+    "Date": "2022-09-22",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 36
+  },
+  {
+    "Date": "2022-09-22",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 18
+  },
+  {
+    "Date": "2022-09-26",
+    "Pollster": "Omnisis",
+    "Answer": "Rejoin",
+    "Percent": 49
+  },
+  {
+    "Date": "2022-09-26",
+    "Pollster": "Omnisis",
+    "Answer": "Stay out",
+    "Percent": 31
+  },
+  {
+    "Date": "2022-09-26",
+    "Pollster": "Omnisis",
+    "Answer": "no answer / don't know",
+    "Percent": 20
+  },
+  {
+    "Date": "2022-09-29",
+    "Pollster": "Deltapoll",
+    "Answer": "Rejoin",
+    "Percent": 46
+  },
+  {
+    "Date": "2022-09-29",
+    "Pollster": "Deltapoll",
+    "Answer": "Stay out",
+    "Percent": 39
+  },
+  {
+    "Date": "2022-09-29",
+    "Pollster": "Deltapoll",
+    "Answer": "no answer / don't know",
+    "Percent": 15
+  },
+  {
+    "Date": "2022-09-29",
+    "Pollster": "BMG Research",
+    "Answer": "Rejoin",
+    "Percent": 44
+  },
+  {
+    "Date": "2022-09-29",
+    "Pollster": "BMG Research",
+    "Answer": "Stay out",
+    "Percent": 39
+  },
+  {
+    "Date": "2022-09-29",
+    "Pollster": "BMG Research",
+    "Answer": "no answer / don't know",
+    "Percent": 17
+  },
+  {
+    "Date": "2022-09-30",
+    "Pollster": "Omnisis",
+    "Answer": "Rejoin",
+    "Percent": 42
+  },
+  {
+    "Date": "2022-09-30",
+    "Pollster": "Omnisis",
+    "Answer": "Stay out",
+    "Percent": 36
+  },
+  {
+    "Date": "2022-09-30",
+    "Pollster": "Omnisis",
+    "Answer": "no answer / don't know",
+    "Percent": 22
+  },
+  {
+    "Date": "2022-10-07",
+    "Pollster": "Omnisis",
+    "Answer": "Rejoin",
+    "Percent": 47
+  },
+  {
+    "Date": "2022-10-07",
+    "Pollster": "Omnisis",
+    "Answer": "Stay out",
+    "Percent": 33
+  },
+  {
+    "Date": "2022-10-07",
+    "Pollster": "Omnisis",
+    "Answer": "no answer / don't know",
+    "Percent": 20
+  },
+  {
+    "Date": "2022-10-07",
+    "Pollster": "Deltapoll",
+    "Answer": "Rejoin",
+    "Percent": 45
+  },
+  {
+    "Date": "2022-10-07",
+    "Pollster": "Deltapoll",
+    "Answer": "Stay out",
+    "Percent": 41
+  },
+  {
+    "Date": "2022-10-07",
+    "Pollster": "Deltapoll",
+    "Answer": "no answer / don't know",
+    "Percent": 14
+  },
+  {
+    "Date": "2022-10-12",
+    "Pollster": "People Polling",
+    "Answer": "Rejoin",
+    "Percent": 41
+  },
+  {
+    "Date": "2022-10-12",
+    "Pollster": "People Polling",
+    "Answer": "Stay out",
+    "Percent": 32
+  },
+  {
+    "Date": "2022-10-12",
+    "Pollster": "People Polling",
+    "Answer": "no answer / don't know",
+    "Percent": 27
+  },
+  {
+    "Date": "2022-10-14",
+    "Pollster": "Omnisis",
+    "Answer": "Rejoin",
+    "Percent": 51
+  },
+  {
+    "Date": "2022-10-14",
+    "Pollster": "Omnisis",
+    "Answer": "Stay out",
+    "Percent": 35
+  },
+  {
+    "Date": "2022-10-14",
+    "Pollster": "Omnisis",
+    "Answer": "no answer / don't know",
+    "Percent": 14
+  },
+  {
+    "Date": "2022-10-19",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "Rejoin",
+    "Percent": 52
+  },
+  {
+    "Date": "2022-10-19",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "Stay out",
+    "Percent": 39
+  },
+  {
+    "Date": "2022-10-19",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "no answer / don't know",
+    "Percent": 9
+  },
+  {
+    "Date": "2022-10-20",
+    "Pollster": "Omnisis",
+    "Answer": "Rejoin",
+    "Percent": 49
+  },
+  {
+    "Date": "2022-10-20",
+    "Pollster": "Omnisis",
+    "Answer": "Stay out",
+    "Percent": 37
+  },
+  {
+    "Date": "2022-10-20",
+    "Pollster": "Omnisis",
+    "Answer": "no answer / don't know",
+    "Percent": 14
+  },
+  {
+    "Date": "2022-10-21",
+    "Pollster": "Deltapoll",
+    "Answer": "Rejoin",
+    "Percent": 49
+  },
+  {
+    "Date": "2022-10-21",
+    "Pollster": "Deltapoll",
+    "Answer": "Stay out",
+    "Percent": 36
+  },
+  {
+    "Date": "2022-10-21",
+    "Pollster": "Deltapoll",
+    "Answer": "no answer / don't know",
+    "Percent": 15
+  },
+  {
+    "Date": "2022-10-22",
+    "Pollster": "Omnisis",
+    "Answer": "Rejoin",
+    "Percent": 50
+  },
+  {
+    "Date": "2022-10-22",
+    "Pollster": "Omnisis",
+    "Answer": "Stay out",
+    "Percent": 32
+  },
+  {
+    "Date": "2022-10-22",
+    "Pollster": "Omnisis",
+    "Answer": "no answer / don't know",
+    "Percent": 18
+  },
+  {
+    "Date": "2022-10-26",
+    "Pollster": "BMG Research",
+    "Answer": "Rejoin",
+    "Percent": 42
+  },
+  {
+    "Date": "2022-10-26",
+    "Pollster": "BMG Research",
+    "Answer": "Stay out",
+    "Percent": 39
+  },
+  {
+    "Date": "2022-10-26",
+    "Pollster": "BMG Research",
+    "Answer": "no answer / don't know",
+    "Percent": 19
+  },
+  {
+    "Date": "2022-10-28",
+    "Pollster": "Omnisis",
+    "Answer": "Rejoin",
+    "Percent": 51
+  },
+  {
+    "Date": "2022-10-28",
+    "Pollster": "Omnisis",
+    "Answer": "Stay out",
+    "Percent": 35
+  },
+  {
+    "Date": "2022-10-28",
+    "Pollster": "Omnisis",
+    "Answer": "no answer / don't know",
+    "Percent": 14
+  },
+  {
+    "Date": "2022-11-04",
+    "Pollster": "Omnisis",
+    "Answer": "Rejoin",
+    "Percent": 48
+  },
+  {
+    "Date": "2022-11-04",
+    "Pollster": "Omnisis",
+    "Answer": "Stay out",
+    "Percent": 35
+  },
+  {
+    "Date": "2022-11-04",
+    "Pollster": "Omnisis",
+    "Answer": "no answer / don't know",
+    "Percent": 17
+  },
+  {
+    "Date": "2022-11-11",
+    "Pollster": "Omnisis",
+    "Answer": "Rejoin",
+    "Percent": 48
+  },
+  {
+    "Date": "2022-11-11",
+    "Pollster": "Omnisis",
+    "Answer": "Stay out",
+    "Percent": 37
+  },
+  {
+    "Date": "2022-11-11",
+    "Pollster": "Omnisis",
+    "Answer": "no answer / don't know",
+    "Percent": 15
+  },
+  {
+    "Date": "2022-11-15",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 48
+  },
+  {
+    "Date": "2022-11-15",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 33
+  },
+  {
+    "Date": "2022-11-15",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 19
+  },
+  {
+    "Date": "2022-11-18",
+    "Pollster": "Omnisis",
+    "Answer": "Rejoin",
+    "Percent": 53
+  },
+  {
+    "Date": "2022-11-18",
+    "Pollster": "Omnisis",
+    "Answer": "Stay out",
+    "Percent": 34
+  },
+  {
+    "Date": "2022-11-18",
+    "Pollster": "Omnisis",
+    "Answer": "no answer / don't know",
+    "Percent": 13
+  },
+  {
+    "Date": "2022-11-19",
+    "Pollster": "Deltapoll",
+    "Answer": "Rejoin",
+    "Percent": 48
+  },
+  {
+    "Date": "2022-11-19",
+    "Pollster": "Deltapoll",
+    "Answer": "Stay out",
+    "Percent": 38
+  },
+  {
+    "Date": "2022-11-19",
+    "Pollster": "Deltapoll",
+    "Answer": "no answer / don't know",
+    "Percent": 14
+  },
+  {
+    "Date": "2022-11-24",
+    "Pollster": "Omnisis",
+    "Answer": "Rejoin",
+    "Percent": 49
+  },
+  {
+    "Date": "2022-11-24",
+    "Pollster": "Omnisis",
+    "Answer": "Stay out",
+    "Percent": 37
+  },
+  {
+    "Date": "2022-11-24",
+    "Pollster": "Omnisis",
+    "Answer": "no answer / don't know",
+    "Percent": 14
+  },
+  {
+    "Date": "2022-12-01",
+    "Pollster": "BMG Research",
+    "Answer": "Rejoin",
+    "Percent": 45
+  },
+  {
+    "Date": "2022-12-01",
+    "Pollster": "BMG Research",
+    "Answer": "Stay out",
+    "Percent": 41
+  },
+  {
+    "Date": "2022-12-01",
+    "Pollster": "BMG Research",
+    "Answer": "no answer / don't know",
+    "Percent": 14
+  },
+  {
+    "Date": "2022-12-02",
+    "Pollster": "Omnisis",
+    "Answer": "Rejoin",
+    "Percent": 45
+  },
+  {
+    "Date": "2022-12-02",
+    "Pollster": "Omnisis",
+    "Answer": "Stay out",
+    "Percent": 33
+  },
+  {
+    "Date": "2022-12-02",
+    "Pollster": "Omnisis",
+    "Answer": "no answer / don't know",
+    "Percent": 22
+  },
+  {
+    "Date": "2022-12-08",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "Rejoin",
+    "Percent": 52
+  },
+  {
+    "Date": "2022-12-08",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "Stay out",
+    "Percent": 41
+  },
+  {
+    "Date": "2022-12-08",
+    "Pollster": "Redfield & Wilton",
+    "Answer": "no answer / don't know",
+    "Percent": 7
+  },
+  {
+    "Date": "2022-12-09",
+    "Pollster": "Omnisis",
+    "Answer": "Rejoin",
+    "Percent": 44
+  },
+  {
+    "Date": "2022-12-09",
+    "Pollster": "Omnisis",
+    "Answer": "Stay out",
+    "Percent": 34
+  },
+  {
+    "Date": "2022-12-09",
+    "Pollster": "Omnisis",
+    "Answer": "no answer / don't know",
+    "Percent": 22
+  },
+  {
+    "Date": "2022-12-12",
+    "Pollster": "Kantar",
+    "Answer": "Rejoin",
+    "Percent": 37
+  },
+  {
+    "Date": "2022-12-12",
+    "Pollster": "Kantar",
+    "Answer": "Stay out",
+    "Percent": 27
+  },
+  {
+    "Date": "2022-12-12",
+    "Pollster": "Kantar",
+    "Answer": "no answer / don't know",
+    "Percent": 36
+  },
+  {
+    "Date": "2022-12-15",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 47
+  },
+  {
+    "Date": "2022-12-15",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 34
+  },
+  {
+    "Date": "2022-12-15",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 19
+  },
+  {
+    "Date": "2022-12-15",
+    "Pollster": "YouGov",
+    "Answer": "Rejoin",
+    "Percent": 44
+  },
+  {
+    "Date": "2022-12-15",
+    "Pollster": "YouGov",
+    "Answer": "Stay out",
+    "Percent": 34
+  },
+  {
+    "Date": "2022-12-15",
+    "Pollster": "YouGov",
+    "Answer": "no answer / don't know",
+    "Percent": 22
+  },
+  {
+    "Date": "2022-12-16",
+    "Pollster": "Omnisis",
+    "Answer": "Rejoin",
+    "Percent": 45
+  },
+  {
+    "Date": "2022-12-16",
+    "Pollster": "Omnisis",
+    "Answer": "Stay out",
+    "Percent": 32
+  },
+  {
+    "Date": "2022-12-16",
+    "Pollster": "Omnisis",
+    "Answer": "no answer / don't know",
+    "Percent": 23
+  },
+  {
+    "Date": "2022-12-18",
+    "Pollster": "Savanta",
+    "Answer": "Rejoin",
+    "Percent": 51
+  },
+  {
+    "Date": "2022-12-18",
+    "Pollster": "Savanta",
+    "Answer": "Stay out",
+    "Percent": 40
+  },
+  {
+    "Date": "2022-12-18",
+    "Pollster": "Savanta",
+    "Answer": "no answer / don't know",
+    "Percent": 9
+  },
+  {
+    "Date": "2022-12-22",
+    "Pollster": "Omnisis",
+    "Answer": "Rejoin",
+    "Percent": 45
+  },
+  {
+    "Date": "2022-12-22",
+    "Pollster": "Omnisis",
+    "Answer": "Stay out",
+    "Percent": 32
+  },
+  {
+    "Date": "2022-12-22",
+    "Pollster": "Omnisis",
+    "Answer": "no answer / don't know",
+    "Percent": 23
+  },
+  {
+    "Date": "2023-01-04",
+    "Pollster": "People Polling",
+    "Answer": "Rejoin",
+    "Percent": 42
+  },
+  {
+    "Date": "2023-01-04",
+    "Pollster": "People Polling",
+    "Answer": "Stay out",
+    "Percent": 33
+  },
+  {
+    "Date": "2023-01-04",
+    "Pollster": "People Polling",
+    "Answer": "no answer / don't know",
+    "Percent": 25
+  },
+  {
+    "Date": "2023-01-06",
+    "Pollster": "Omnisis",
+    "Answer": "Rejoin",
+    "Percent": 49
+  },
+  {
+    "Date": "2023-01-06",
+    "Pollster": "Omnisis",
+    "Answer": "Stay out",
+    "Percent": 30
+  },
+  {
+    "Date": "2023-01-06",
+    "Pollster": "Omnisis",
+    "Answer": "no answer / don't know",
+    "Percent": 21
+  },
+  {
+    "Date": "2023-01-12",
+    "Pollster": "Omnisis",
+    "Answer": "Rejoin",
+    "Percent": 44
+  },
+  {
+    "Date": "2023-01-12",
+    "Pollster": "Omnisis",
+    "Answer": "Stay out",
+    "Percent": 31
+  },
+  {
+    "Date": "2023-01-12",
+    "Pollster": "Omnisis",
+    "Answer": "no answer / don't know",
+    "Percent": 25
+  }
+]
