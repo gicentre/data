@@ -140,9 +140,9 @@ Date,Pollster,Answer,Percent
 2022-06-20,Redfield & Wilton,Rejoin,48
 2022-06-20,Redfield & Wilton,Stay out,43
 2022-06-20,Redfield & Wilton,no answer / don't know,9
-2022-06-20,Kantar,Rejoin,35
-2022-06-20,Kantar,Stay out,34
-2022-06-20,Kantar,no answer / don't know,31
+2022-06-21,Kantar,Rejoin,35
+2022-06-21,Kantar,Stay out,34
+2022-06-21,Kantar,no answer / don't know,31
 2022-07-01,BMG Research,Rejoin,44
 2022-07-01,BMG Research,Stay out,40
 2022-07-01,BMG Research,no answer / don't know,16
@@ -173,9 +173,9 @@ Date,Pollster,Answer,Percent
 2022-09-26,Omnisis,Rejoin,49
 2022-09-26,Omnisis,Stay out,31
 2022-09-26,Omnisis,no answer / don't know,20
-2022-09-29,Deltapoll,Rejoin,46
-2022-09-29,Deltapoll,Stay out,39
-2022-09-29,Deltapoll,no answer / don't know,15
+2022-09-28,Deltapoll,Rejoin,46
+2022-09-28,Deltapoll,Stay out,39
+2022-09-28,Deltapoll,no answer / don't know,15
 2022-09-29,BMG Research,Rejoin,44
 2022-09-29,BMG Research,Stay out,39
 2022-09-29,BMG Research,no answer / don't know,17
@@ -185,9 +185,9 @@ Date,Pollster,Answer,Percent
 2022-10-07,Omnisis,Rejoin,47
 2022-10-07,Omnisis,Stay out,33
 2022-10-07,Omnisis,no answer / don't know,20
-2022-10-07,Deltapoll,Rejoin,45
-2022-10-07,Deltapoll,Stay out,41
-2022-10-07,Deltapoll,no answer / don't know,14
+2022-10-08,Deltapoll,Rejoin,45
+2022-10-08,Deltapoll,Stay out,41
+2022-10-08,Deltapoll,no answer / don't know,14
 2022-10-12,People Polling,Rejoin,41
 2022-10-12,People Polling,Stay out,32
 2022-10-12,People Polling,no answer / don't know,27
@@ -245,9 +245,9 @@ Date,Pollster,Answer,Percent
 2022-12-12,Kantar,Rejoin,37
 2022-12-12,Kantar,Stay out,27
 2022-12-12,Kantar,no answer / don't know,36
-2022-12-15,YouGov,Rejoin,47
-2022-12-15,YouGov,Stay out,34
-2022-12-15,YouGov,no answer / don't know,19
+2022-12-14,YouGov,Rejoin,47
+2022-12-14,YouGov,Stay out,34
+2022-12-14,YouGov,no answer / don't know,19
 2022-12-15,YouGov,Rejoin,44
 2022-12-15,YouGov,Stay out,34
 2022-12-15,YouGov,no answer / don't know,22
