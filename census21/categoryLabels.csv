@@ -1,0 +1,1588 @@
+table,category,shortDesc,description
+"age","0","under1","under 1 year old"
+age,1,age1,age 1
+age,2,age2,age 2
+age,3,age3,age 3
+age,4,age4,age 4
+age,5,age5,age 5
+age,6,age6,age 6
+age,7,age7,age 7
+age,8,age8,age 8
+age,9,age9,age 9
+age,10,age10,age 10
+age,11,age11,age 11
+age,12,age12,age 12
+age,13,age13,age 13
+age,14,age14,age 14
+age,15,age15,age 15
+age,16,age16,age 16
+age,17,age17,age 17
+age,18,age18,age 18
+age,19,age19,age 19
+age,20,age20,age 20
+age,21,age21,age 21
+age,22,age22,age 22
+age,23,age23,age 23
+age,24,age24,age 24
+age,25,age25,age 25
+age,26,age26,age 26
+age,27,age27,age 27
+age,28,age28,age 28
+age,29,age29,age 29
+age,30,age30,age 30
+age,31,age31,age 31
+age,32,age32,age 32
+age,33,age33,age 33
+age,34,age34,age 34
+age,35,age35,age 35
+age,36,age36,age 36
+age,37,age37,age 37
+age,38,age38,age 38
+age,39,age39,age 39
+age,40,age40,age 40
+age,41,age41,age 41
+age,42,age42,age 42
+age,43,age43,age 43
+age,44,age44,age 44
+age,45,age45,age 45
+age,46,age46,age 46
+age,47,age47,age 47
+age,48,age48,age 48
+age,49,age49,age 49
+age,50,age50,age 50
+age,51,age51,age 51
+age,52,age52,age 52
+age,53,age53,age 53
+age,54,age54,age 54
+age,55,age55,age 55
+age,56,age56,age 56
+age,57,age57,age 57
+age,58,age58,age 58
+age,59,age59,age 59
+age,60,age60,age 60
+age,61,age61,age 61
+age,62,age62,age 62
+age,63,age63,age 63
+age,64,age64,age 64
+age,65,age65,age 65
+age,66,age66,age 66
+age,67,age67,age 67
+age,68,age68,age 68
+age,69,age69,age 69
+age,70,age70,age 70
+age,71,age71,age 71
+age,72,age72,age 72
+age,73,age73,age 73
+age,74,age74,age 74
+age,75,age75,age 75
+age,76,age76,age 76
+age,77,age77,age 77
+age,78,age78,age 78
+age,79,age79,age 79
+age,80,age80,age 80
+age,81,age81,age 81
+age,82,age82,age 82
+age,83,age83,age 83
+age,84,age84,age 84
+age,85,age85,age 85
+age,86,age86,age 86
+age,87,age87,age 87
+age,88,age88,age 88
+age,89,age89,age 89
+age,90,age90,age 90
+age,91,age91,age 91
+age,92,age92,age 92
+age,93,age93,age 93
+age,94,age94,age 94
+age,95,age95,age 95
+age,96,age96,age 96
+age,97,age97,age 97
+age,98,age98,age 98
+age,99,age99,age 99
+age,100,over100,age 100 or over
+ageSex,f0,f0,female under 1
+ageSex,f1,f1,female age 1
+ageSex,f2,f2,female age 2
+ageSex,f3,f3,female age 3
+ageSex,f4,f4,female age 4
+ageSex,f5,f5,female age 5
+ageSex,f6,f6,female age 6
+ageSex,f7,f7,female age 7
+ageSex,f8,f8,female age 8
+ageSex,f9,f9,female age 9
+ageSex,f10,f10,female age 10
+ageSex,f11,f11,female age 11
+ageSex,f12,f12,female age 12
+ageSex,f13,f13,female age 13
+ageSex,f14,f14,female age 14
+ageSex,f15,f15,female age 15
+ageSex,f16,f16,female age 16
+ageSex,f17,f17,female age 17
+ageSex,f18,f18,female age 18
+ageSex,f19,f19,female age 19
+ageSex,f20,f20,female age 20
+ageSex,f21,f21,female age 21
+ageSex,f22,f22,female age 22
+ageSex,f23,f23,female age 23
+ageSex,f24,f24,female age 24
+ageSex,f25,f25,female age 25
+ageSex,f26,f26,female age 26
+ageSex,f27,f27,female age 27
+ageSex,f28,f28,female age 28
+ageSex,f29,f29,female age 29
+ageSex,f30,f30,female age 30
+ageSex,f31,f31,female age 31
+ageSex,f32,f32,female age 32
+ageSex,f33,f33,female age 33
+ageSex,f34,f34,female age 34
+ageSex,f35,f35,female age 35
+ageSex,f36,f36,female age 36
+ageSex,f37,f37,female age 37
+ageSex,f38,f38,female age 38
+ageSex,f39,f39,female age 39
+ageSex,f40,f40,female age 40
+ageSex,f41,f41,female age 41
+ageSex,f42,f42,female age 42
+ageSex,f43,f43,female age 43
+ageSex,f44,f44,female age 44
+ageSex,f45,f45,female age 45
+ageSex,f46,f46,female age 46
+ageSex,f47,f47,female age 47
+ageSex,f48,f48,female age 48
+ageSex,f49,f49,female age 49
+ageSex,f50,f50,female age 50
+ageSex,f51,f51,female age 51
+ageSex,f52,f52,female age 52
+ageSex,f53,f53,female age 53
+ageSex,f54,f54,female age 54
+ageSex,f55,f55,female age 55
+ageSex,f56,f56,female age 56
+ageSex,f57,f57,female age 57
+ageSex,f58,f58,female age 58
+ageSex,f59,f59,female age 59
+ageSex,f60,f60,female age 60
+ageSex,f61,f61,female age 61
+ageSex,f62,f62,female age 62
+ageSex,f63,f63,female age 63
+ageSex,f64,f64,female age 64
+ageSex,f65,f65,female age 65
+ageSex,f66,f66,female age 66
+ageSex,f67,f67,female age 67
+ageSex,f68,f68,female age 68
+ageSex,f69,f69,female age 69
+ageSex,f70,f70,female age 70
+ageSex,f71,f71,female age 71
+ageSex,f72,f72,female age 72
+ageSex,f73,f73,female age 73
+ageSex,f74,f74,female age 74
+ageSex,f75,f75,female age 75
+ageSex,f76,f76,female age 76
+ageSex,f77,f77,female age 77
+ageSex,f78,f78,female age 78
+ageSex,f79,f79,female age 79
+ageSex,f80,f80,female age 80
+ageSex,f81,f81,female age 81
+ageSex,f82,f82,female age 82
+ageSex,f83,f83,female age 83
+ageSex,f84,f84,female age 84
+ageSex,f85,f85,female age 85
+ageSex,f86,f86,female age 86
+ageSex,f87,f87,female age 87
+ageSex,f88,f88,female age 88
+ageSex,f89,f89,female age 89
+ageSex,f90,f90,female age 90
+ageSex,f91,f91,female age 91
+ageSex,f92,f92,female age 92
+ageSex,f93,f93,female age 93
+ageSex,f94,f94,female age 94
+ageSex,f95,f95,female age 95
+ageSex,f96,f96,female age 96
+ageSex,f97,f97,female age 97
+ageSex,f98,f98,female age 98
+ageSex,f99,f99,female age 99
+ageSex,f100,f100,female 100 or over
+ageSex,m0,m0,male under 1
+ageSex,m1,m1,male age 1
+ageSex,m2,m2,male age 2
+ageSex,m3,m3,male age 3
+ageSex,m4,m4,male age 4
+ageSex,m5,m5,male age 5
+ageSex,m6,m6,male age 6
+ageSex,m7,m7,male age 7
+ageSex,m8,m8,male age 8
+ageSex,m9,m9,male age 9
+ageSex,m10,m10,male age 10
+ageSex,m11,m11,male age 11
+ageSex,m12,m12,male age 12
+ageSex,m13,m13,male age 13
+ageSex,m14,m14,male age 14
+ageSex,m15,m15,male age 15
+ageSex,m16,m16,male age 16
+ageSex,m17,m17,male age 17
+ageSex,m18,m18,male age 18
+ageSex,m19,m19,male age 19
+ageSex,m20,m20,male age 20
+ageSex,m21,m21,male age 21
+ageSex,m22,m22,male age 22
+ageSex,m23,m23,male age 23
+ageSex,m24,m24,male age 24
+ageSex,m25,m25,male age 25
+ageSex,m26,m26,male age 26
+ageSex,m27,m27,male age 27
+ageSex,m28,m28,male age 28
+ageSex,m29,m29,male age 29
+ageSex,m30,m30,male age 30
+ageSex,m31,m31,male age 31
+ageSex,m32,m32,male age 32
+ageSex,m33,m33,male age 33
+ageSex,m34,m34,male age 34
+ageSex,m35,m35,male age 35
+ageSex,m36,m36,male age 36
+ageSex,m37,m37,male age 37
+ageSex,m38,m38,male age 38
+ageSex,m39,m39,male age 39
+ageSex,m40,m40,male age 40
+ageSex,m41,m41,male age 41
+ageSex,m42,m42,male age 42
+ageSex,m43,m43,male age 43
+ageSex,m44,m44,male age 44
+ageSex,m45,m45,male age 45
+ageSex,m46,m46,male age 46
+ageSex,m47,m47,male age 47
+ageSex,m48,m48,male age 48
+ageSex,m49,m49,male age 49
+ageSex,m50,m50,male age 50
+ageSex,m51,m51,male age 51
+ageSex,m52,m52,male age 52
+ageSex,m53,m53,male age 53
+ageSex,m54,m54,male age 54
+ageSex,m55,m55,male age 55
+ageSex,m56,m56,male age 56
+ageSex,m57,m57,male age 57
+ageSex,m58,m58,male age 58
+ageSex,m59,m59,male age 59
+ageSex,m60,m60,male age 60
+ageSex,m61,m61,male age 61
+ageSex,m62,m62,male age 62
+ageSex,m63,m63,male age 63
+ageSex,m64,m64,male age 64
+ageSex,m65,m65,male age 65
+ageSex,m66,m66,male age 66
+ageSex,m67,m67,male age 67
+ageSex,m68,m68,male age 68
+ageSex,m69,m69,male age 69
+ageSex,m70,m70,male age 70
+ageSex,m71,m71,male age 71
+ageSex,m72,m72,male age 72
+ageSex,m73,m73,male age 73
+ageSex,m74,m74,male age 74
+ageSex,m75,m75,male age 75
+ageSex,m76,m76,male age 76
+ageSex,m77,m77,male age 77
+ageSex,m78,m78,male age 78
+ageSex,m79,m79,male age 79
+ageSex,m80,m80,male age 80
+ageSex,m81,m81,male age 81
+ageSex,m82,m82,male age 82
+ageSex,m83,m83,male age 83
+ageSex,m84,m84,male age 84
+ageSex,m85,m85,male age 85
+ageSex,m86,m86,male age 86
+ageSex,m87,m87,male age 87
+ageSex,m88,m88,male age 88
+ageSex,m89,m89,male age 89
+ageSex,m90,m90,male age 90
+ageSex,m91,m91,male age 91
+ageSex,m92,m92,male age 92
+ageSex,m93,m93,male age 93
+ageSex,m94,m94,male age 94
+ageSex,m95,m95,male age 95
+ageSex,m96,m96,male age 96
+ageSex,m97,m97,male age 97
+ageSex,m98,m98,male age 98
+ageSex,m99,m99,male age 99
+ageSex,m100,m100,male age 10
+pop,pop,population,population
+popDensity,popDensity,popDensity,population density
+households,households,households,Number of households
+householdSize,0,0,household with 0 residents
+householdSize,1,1,household with 1 resident
+householdSize,2,2,household with 2 residents
+householdSize,3,3,household with 3 residents
+householdSize,4,4,household with 4 residents
+householdSize,5,5,household with 5 residents
+householdSize,6,6,household with 6 residents
+householdSize,7,7,household with 7 residents
+householdSize,8,8plus,household with 8 or more residents
+householdComposition,-8,N/A,Does not apply
+householdComposition,1,oneOver66,One-person household: Aged 66 years and over
+householdComposition,2,oneOther,One-person household: Other
+householdComposition,3,familyOver66,Single family household: All aged 66 years and over
+householdComposition,4,marriedNoChild,Single family household: Married or civil partnership couple: No children
+householdComposition,5,marriedDepChild,Single family household: Married or civil partnership couple: Dependent children
+householdComposition,6,marriedNonDepChild,Single family household: Married or civil partnership couple: All children non-dependent
+householdComposition,7,cohabNoChild,Single family household: Cohabiting couple family: No children
+householdComposition,8,cohabDepChild,Single family household: Cohabiting couple family: With dependent children
+householdComposition,9,cohabNonDepChild,Single family household: Cohabiting couple family: All children non-dependent
+householdComposition,10,loneDepChild,Single family household: Lone parent family: With dependent children
+householdComposition,11,loneNonDepChild,Single family household: Lone parent family: All children non-dependent
+householdComposition,12,familyOther,Single family household: Other single family household: Other family composition
+householdComposition,13,otherDepChild,Other household types: With dependent children
+householdComposition,14,other,Other household types: Other including all full-time students and all aged 66 years and over
+communal,household,household,Number of residents in households
+communal,communal,communal,Number of residents in communal establishments
+deprivation,-8,N/A,Does not apply
+deprivation,1,dep0,Household is not deprived in any dimension
+deprivation,2,dep1,Household is deprived in one dimension
+deprivation,3,dep2,Household is deprived in two dimensions
+deprivation,4,dep3,Household is deprived in three dimensions
+deprivation,5,dep4,Household is deprived in four dimensions
+living,-8,N/A,Does not apply
+living,1,marriedCoupleOp,Living in an opposite-sex couple: Married or in a civil partnership
+living,2,marriedCoupleSame,Living in a same-sex couple: Married or in a civil partnership
+living,3,sepMarriedCouple,"Living in a couple: Separated, but still married or in a civil partnership"
+living,4,cohabCoupleOp,Living in an opposite-sex couple: Cohabiting
+living,5,cohabCoupleSame,Living in a same-sex couple: Cohabiting
+living,6,single,Not living in a couple: Single (never married and never registered a same-sex civil partnership)
+living,7,marriedOwn,Not living in a couple: Married or in a registered civil partnership
+living,8,sepOwn,Not living in a couple: Separated (including those who are married and those who are in civil partnerships)
+living,9,divorcedOwn,Not living in a couple: Divorced or formerly in a civil partnership which is now legally dissolved
+living,10,widowedOwn,Not living in a couple: Widowed or surviving partner from a civil partnership
+partnership,-8,N/A,Does not apply
+partnership,1,single,Never married and never registered a civil partnership
+partnership,2,marriedOp,Married: Opposite sex
+partnership,3,marriedSame,Married: Same sex
+partnership,4,cpOp,In a registered civil partnership: Opposite sex
+partnership,5,cpSame,In a registered civil partnership: Same sex
+partnership,6,sepMarried,Separated but still married
+partnership,7,sepCp,Separated but still in a registered civil partnership
+partnership,8,divorced,Divorced
+partnership,9,divorcedCp,Formerly in a civil partnership now legally dissolved
+partnership,10,widowed,Widowed
+partnership,11,widowedCp,Surviving partner from civil partnership
+sex,Female,female,female
+sex,Male,male,male
+qualification,-8,N/A,Does not apply
+qualification,0,none,No qualifications
+qualification,1,level1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C , Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills"
+qualification,2,level2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma"
+qualification,3,apprentice,Apprenticeship
+qualification,4,level3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma"
+qualification,5,level4,"Level 4 qualifications and above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)"
+qualification,6,other,"Other: vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)"
+students,-8,N/A,Does not apply
+students,1,student,Student
+students,2,notStudent,Not a student
+ethnicGroup,-8,N/A,Does not apply
+ethnicGroup,1,ABBangladeshi,"Asian, Asian British or Asian Welsh: Bangladeshi"
+ethnicGroup,2,ABChinese,"Asian, Asian British or Asian Welsh: Chinese"
+ethnicGroup,3,ABIndian,"Asian, Asian British or Asian Welsh: Indian"
+ethnicGroup,4,ABPakistani,"Asian, Asian British or Asian Welsh: Pakistani"
+ethnicGroup,5,ABAsian,"Asian, Asian British or Asian Welsh: Other Asian"
+ethnicGroup,6,BBAfrican,"Black, Black British, Black Welsh, Caribbean or African: African"
+ethnicGroup,7,BBCaribbean,"Black, Black British, Black Welsh, Caribbean or African: Caribbean"
+ethnicGroup,8,BBBlack,"Black, Black British, Black Welsh, Caribbean or African: Other Black"
+ethnicGroup,9,whiteAndAsian,Mixed or Multiple ethnic groups: White and Asian
+ethnicGroup,10,whiteAndBlackAfrican,Mixed or Multiple ethnic groups: White and Black African
+ethnicGroup,11,whiteAndBlackCaribbean,Mixed or Multiple ethnic groups: White and Black Caribbean
+ethnicGroup,12,multiple,Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups
+ethnicGroup,13,wBritish,"White: English, Welsh, Scottish, Northern Irish or British"
+ethnicGroup,14,wIrish,White: Irish
+ethnicGroup,15,wTraveller,White: Gypsy or Irish Traveller
+ethnicGroup,16,wRoma,White: Roma
+ethnicGroup,17,wOther,White: Other White
+ethnicGroup,18,arab,Other ethnic group: Arab
+ethnicGroup,19,other,Other ethnic group: Any other ethnic group
+ethnicGroupDetailed,-8,N/A,Does not apply
+ethnicGroupDetailed,1,A1,Asian Asian British or Asian Welsh: Afghan
+ethnicGroupDetailed,2,A2,Asian Asian British or Asian Welsh: African unspecified
+ethnicGroupDetailed,3,A3,Asian Asian British or Asian Welsh: African Asian
+ethnicGroupDetailed,4,A4,Asian Asian British or Asian Welsh: Anglo Indian
+ethnicGroupDetailed,5,A5,Asian Asian British or Asian Welsh: Arab
+ethnicGroupDetailed,6,A6,Asian Asian British or Asian Welsh: Asian British
+ethnicGroupDetailed,7,A7,Asian Asian British or Asian Welsh: Bangladeshi British Bangladeshi
+ethnicGroupDetailed,8,A8,Asian Asian British or Asian Welsh: Black and Asian
+ethnicGroupDetailed,9,A9,Asian Asian British or Asian Welsh: Chinese
+ethnicGroupDetailed,10,A10,Asian Asian British or Asian Welsh: English/Welsh/Scottish/Northern Irish/British
+ethnicGroupDetailed,11,A11,Asian Asian British or Asian Welsh: Filipino
+ethnicGroupDetailed,12,A12,Asian Asian British or Asian Welsh: Indian or British Indian
+ethnicGroupDetailed,13,A13,Asian Asian British or Asian Welsh: Indonesian
+ethnicGroupDetailed,14,A14,Asian Asian British or Asian Welsh: Iranian
+ethnicGroupDetailed,15,A15,Asian Asian British or Asian Welsh: Japanese
+ethnicGroupDetailed,16,A16,Asian Asian British or Asian Welsh: Kashmiri
+ethnicGroupDetailed,17,A17,Asian Asian British or Asian Welsh: Korean
+ethnicGroupDetailed,18,A18,Asian Asian British or Asian Welsh: Kurdish
+ethnicGroupDetailed,19,A19,Asian Asian British or Asian Welsh: Malaysian
+ethnicGroupDetailed,20,A20,Asian Asian British or Asian Welsh: Mauritian/Seychellois/Maldivian/Sao Tomean/St Helenian
+ethnicGroupDetailed,21,A21,Asian Asian British or Asian Welsh: Mixed South Asian
+ethnicGroupDetailed,22,A22,Asian Asian British or Asian Welsh: Myanmar or Burmese
+ethnicGroupDetailed,23,A23,Asian Asian British or Asian Welsh: Nepali (includes Gurkha)
+ethnicGroupDetailed,24,A24,Asian Asian British or Asian Welsh: Other Asian Asian unspecified
+ethnicGroupDetailed,25,A25,Asian Asian British or Asian Welsh: Other East Asian/ East Asian unspecified
+ethnicGroupDetailed,26,A26,Asian Asian British or Asian Welsh: Other Middle East
+ethnicGroupDetailed,27,A27,Asian Asian British or Asian Welsh: Other Mixed
+ethnicGroupDetailed,28,A28,Asian Asian British or Asian Welsh: Pakistani or British Pakistani
+ethnicGroupDetailed,29,A29,Asian Asian British or Asian Welsh: Punjabi
+ethnicGroupDetailed,30,A30,Asian Asian British or Asian Welsh: Sikh
+ethnicGroupDetailed,31,A31,Asian Asian British or Asian Welsh: Sinhalese
+ethnicGroupDetailed,32,A32,Asian Asian British or Asian Welsh: Sri Lankan
+ethnicGroupDetailed,33,A33,Asian Asian British or Asian Welsh: Taiwanese
+ethnicGroupDetailed,34,A34,Asian Asian British or Asian Welsh: Tajikistani/Kazakhstani/Kyrgystani/Turkmenistani/Uzbekistani
+ethnicGroupDetailed,35,A35,Asian Asian British or Asian Welsh: Tamil
+ethnicGroupDetailed,36,A36,Asian Asian British or Asian Welsh: Thai
+ethnicGroupDetailed,37,A37,Asian Asian British or Asian Welsh: Turkish
+ethnicGroupDetailed,38,A38,Asian Asian British or Asian Welsh: Vietnamese
+ethnicGroupDetailed,39,A39,Asian Asian British or Asian Welsh: Any other ethnic group
+ethnicGroupDetailed,40,B40,Black Black British Black Welsh of African background: African unspecified
+ethnicGroupDetailed,41,B41,Black Black British Black Welsh of African background: Angolan
+ethnicGroupDetailed,42,B42,Black Black British Black Welsh of African background: Arab
+ethnicGroupDetailed,43,B43,Black Black British Black Welsh of African background: Black British
+ethnicGroupDetailed,44,B44,Black Black British Black Welsh of African background: Cameroonian
+ethnicGroupDetailed,45,B45,Black Black British Black Welsh of African background: Cote D'Ivoire
+ethnicGroupDetailed,46,B46,Black Black British Black Welsh of African background: Democratic Republic of the Congo
+ethnicGroupDetailed,47,B47,Black Black British Black Welsh of African background: English/Welsh/Scottish/Northern Irish/British
+ethnicGroupDetailed,48,B48,Black Black British Black Welsh of African background: Eritrean
+ethnicGroupDetailed,49,B49,Black Black British Black Welsh of African background: Ethiopian
+ethnicGroupDetailed,50,B50,Black Black British Black Welsh of African background: Gambian
+ethnicGroupDetailed,51,B51,Black Black British Black Welsh of African background: Ghanaian
+ethnicGroupDetailed,52,B52,Black Black British Black Welsh of African background: Kenyan
+ethnicGroupDetailed,53,B53,Black Black British Black Welsh of African background: Malawian
+ethnicGroupDetailed,54,B54,Black Black British Black Welsh of African background: Mauritian/Seychellois/Maldivian/Sao Tomean/St Helenian
+ethnicGroupDetailed,55,B55,Black Black British Black Welsh of African background: Mixed Black
+ethnicGroupDetailed,56,B56,Black Black British Black Welsh of African background: Moroccan
+ethnicGroupDetailed,57,B57,Black Black British Black Welsh of African background: Nigerian
+ethnicGroupDetailed,58,B58,Black Black British Black Welsh of African background: Other Black Black unspecified
+ethnicGroupDetailed,59,B59,Black Black British Black Welsh of African background: Other Mixed
+ethnicGroupDetailed,60,B60,Black Black British Black Welsh of African background: Other North African
+ethnicGroupDetailed,61,B61,Black Black British Black Welsh of African background: Portuguese
+ethnicGroupDetailed,62,B62,Black Black British Black Welsh of African background: Sierra Leone
+ethnicGroupDetailed,63,B63,Black Black British Black Welsh of African background: Somali
+ethnicGroupDetailed,64,B64,Black Black British Black Welsh of African background: Somalilander
+ethnicGroupDetailed,65,B65,Black Black British Black Welsh of African background: South African
+ethnicGroupDetailed,66,B66,Black Black British Black Welsh of African background: Sudanese
+ethnicGroupDetailed,67,B67,Black Black British Black Welsh of African background: Tanzanian
+ethnicGroupDetailed,68,B68,Black Black British Black Welsh of African background: Ugandan
+ethnicGroupDetailed,69,B69,Black Black British Black Welsh of African background: Zambian
+ethnicGroupDetailed,70,B70,Black Black British Black Welsh of African background: Zimbabwean
+ethnicGroupDetailed,71,B71,Black Black British Black Welsh of African background: Any other ethnic group
+ethnicGroupDetailed,72,B72,Black Black British Black Welsh or Caribbean background: African unspecified
+ethnicGroupDetailed,73,B73,Black Black British Black Welsh or Caribbean background: Black and European
+ethnicGroupDetailed,74,B74,Black Black British Black Welsh or Caribbean background: Black British
+ethnicGroupDetailed,75,B75,Black Black British Black Welsh or Caribbean background: Black/African American
+ethnicGroupDetailed,76,B76,Black Black British Black Welsh or Caribbean background: Caribbean
+ethnicGroupDetailed,77,B77,Black Black British Black Welsh or Caribbean background: English/Welsh/Scottish/Northern Irish/British
+ethnicGroupDetailed,78,B78,Black Black British Black Welsh or Caribbean background: Ghanaian
+ethnicGroupDetailed,79,B79,Black Black British Black Welsh or Caribbean background: Mauritian/Seychellois/Maldivian/Sao Tomean/St Helenian
+ethnicGroupDetailed,80,B80,Black Black British Black Welsh or Caribbean background: Mixed Black
+ethnicGroupDetailed,81,B81,Black Black British Black Welsh or Caribbean background: Nigerian
+ethnicGroupDetailed,82,B82,Black Black British Black Welsh or Caribbean background: Other Black Black unspecified
+ethnicGroupDetailed,83,B83,Black Black British Black Welsh or Caribbean background: Other Mixed
+ethnicGroupDetailed,84,B84,Black Black British Black Welsh or Caribbean background: Polynesian/Micronesian/Melanesian
+ethnicGroupDetailed,85,B85,Black Black British Black Welsh or Caribbean background: Somali
+ethnicGroupDetailed,86,B86,Black Black British Black Welsh or Caribbean background: Any other ethnic group
+ethnicGroupDetailed,87,M87,Mixed or Multiple ethnic groups: African unspecified
+ethnicGroupDetailed,88,M88,Mixed or Multiple ethnic groups: African Asian
+ethnicGroupDetailed,89,M89,Mixed or Multiple ethnic groups: African/Arab
+ethnicGroupDetailed,90,M90,Mixed or Multiple ethnic groups: Anglo Indian
+ethnicGroupDetailed,91,M91,Mixed or Multiple ethnic groups: Arab
+ethnicGroupDetailed,92,M92,Mixed or Multiple ethnic groups: Asian (unspecified) and European
+ethnicGroupDetailed,93,M93,Mixed or Multiple ethnic groups: Black and Asian
+ethnicGroupDetailed,94,M94,Mixed or Multiple ethnic groups: Black and European
+ethnicGroupDetailed,95,M95,Mixed or Multiple ethnic groups: Black and White (unspecified)
+ethnicGroupDetailed,96,M96,Mixed or Multiple ethnic groups: Black British
+ethnicGroupDetailed,97,M97,Mixed or Multiple ethnic groups: Brazilian
+ethnicGroupDetailed,98,M98,Mixed or Multiple ethnic groups: Caribbean
+ethnicGroupDetailed,99,M99,Mixed or Multiple ethnic groups: Caribbean Asian
+ethnicGroupDetailed,100,M100,Mixed or Multiple ethnic groups: Chinese
+ethnicGroupDetailed,101,M101,Mixed or Multiple ethnic groups: Chinese and other Asian
+ethnicGroupDetailed,102,M102,Mixed or Multiple ethnic groups: Chinese and White
+ethnicGroupDetailed,103,M103,Mixed or Multiple ethnic groups: English
+ethnicGroupDetailed,104,M104,Mixed or Multiple ethnic groups: English/Welsh/Scottish/Northern Irish/British
+ethnicGroupDetailed,105,M105,Mixed or Multiple ethnic groups: European and Black African
+ethnicGroupDetailed,106,M106,Mixed or Multiple ethnic groups: European and Black Caribbean
+ethnicGroupDetailed,107,M107,Mixed or Multiple ethnic groups: European and North African or Middle Eastern
+ethnicGroupDetailed,108,M108,Mixed or Multiple ethnic groups: European Mixed European unspecified other European
+ethnicGroupDetailed,109,M109,Mixed or Multiple ethnic groups: Greek Cypriot
+ethnicGroupDetailed,110,M110,Mixed or Multiple ethnic groups: Hispanic or Latin American
+ethnicGroupDetailed,111,M111,Mixed or Multiple ethnic groups: Indian or British Indian
+ethnicGroupDetailed,112,M112,Mixed or Multiple ethnic groups: Iranian
+ethnicGroupDetailed,113,M113,Mixed or Multiple ethnic groups: Italian
+ethnicGroupDetailed,114,M114,Mixed or Multiple ethnic groups: Jewish
+ethnicGroupDetailed,115,M115,Mixed or Multiple ethnic groups: Mauritian/Seychellois/Maldivian/Sao Tomean/St Helenian
+ethnicGroupDetailed,116,M116,Mixed or Multiple ethnic groups: Mexican
+ethnicGroupDetailed,117,M117,Mixed or Multiple ethnic groups: Mixed Black
+ethnicGroupDetailed,118,M118,Mixed or Multiple ethnic groups: Mixed Irish
+ethnicGroupDetailed,119,M119,Mixed or Multiple ethnic groups: Mixed South Asian
+ethnicGroupDetailed,120,M120,Mixed or Multiple ethnic groups: Mixed White
+ethnicGroupDetailed,121,M121,Mixed or Multiple ethnic groups: Moroccan
+ethnicGroupDetailed,122,M122,Mixed or Multiple ethnic groups: Other Asian Asian unspecified
+ethnicGroupDetailed,123,M123,Mixed or Multiple ethnic groups: Other Middle East
+ethnicGroupDetailed,124,M124,Mixed or Multiple ethnic groups: Other Mixed
+ethnicGroupDetailed,125,M125,Mixed or Multiple ethnic groups: Other White White unspecified
+ethnicGroupDetailed,126,M126,Mixed or Multiple ethnic groups: Pakistani or British Pakistani
+ethnicGroupDetailed,127,M127,Mixed or Multiple ethnic groups: Polynesian/Micronesian/Melanesian
+ethnicGroupDetailed,128,M128,Mixed or Multiple ethnic groups: Portuguese
+ethnicGroupDetailed,129,M129,Mixed or Multiple ethnic groups: South African
+ethnicGroupDetailed,130,M130,Mixed or Multiple ethnic groups: South American
+ethnicGroupDetailed,131,M131,Mixed or Multiple ethnic groups: South Asian and European
+ethnicGroupDetailed,132,M132,Mixed or Multiple ethnic groups: Spanish
+ethnicGroupDetailed,133,M133,Mixed or Multiple ethnic groups: Turkish
+ethnicGroupDetailed,134,M134,Mixed or Multiple ethnic groups: Turkish Cypriot
+ethnicGroupDetailed,135,M135,Mixed or Multiple ethnic groups: White African
+ethnicGroupDetailed,136,M136,Mixed or Multiple ethnic groups: White and Arab
+ethnicGroupDetailed,137,M137,Mixed or Multiple ethnic groups: White and Asian (unspecified)
+ethnicGroupDetailed,138,M138,Mixed or Multiple ethnic groups: White and Black African
+ethnicGroupDetailed,139,M139,Mixed or Multiple ethnic groups: White and Black Caribbean
+ethnicGroupDetailed,140,M140,Mixed or Multiple ethnic groups: White and East Asian
+ethnicGroupDetailed,141,M141,Mixed or Multiple ethnic groups: White and North African or Middle Eastern
+ethnicGroupDetailed,142,M142,Mixed or Multiple ethnic groups: White and South Asian
+ethnicGroupDetailed,143,M143,Mixed or Multiple ethnic groups: White Caribbean
+ethnicGroupDetailed,144,M144,Mixed or Multiple ethnic groups: Any other ethnic group
+ethnicGroupDetailed,145,W145,White: African unspecified
+ethnicGroupDetailed,146,W146,White: Albanian
+ethnicGroupDetailed,147,W147,White: Algerian
+ethnicGroupDetailed,148,W148,White: Arab
+ethnicGroupDetailed,149,W149,White: Argentinian
+ethnicGroupDetailed,150,W150,White: Armenian
+ethnicGroupDetailed,151,W151,White: Australian/New Zealander
+ethnicGroupDetailed,152,W152,White: Austrian
+ethnicGroupDetailed,153,W153,White: Belarusian
+ethnicGroupDetailed,154,W154,White: Belgian
+ethnicGroupDetailed,155,W155,White: Bosnian
+ethnicGroupDetailed,156,W156,White: Brazilian
+ethnicGroupDetailed,157,W157,White: Bulgarian
+ethnicGroupDetailed,158,W158,White: Colombian
+ethnicGroupDetailed,159,W159,White: Cornish
+ethnicGroupDetailed,160,W160,White: Croatian
+ethnicGroupDetailed,161,W161,White: Cypriot (part not stated)
+ethnicGroupDetailed,162,W162,White: Czech
+ethnicGroupDetailed,163,W163,White: Danish
+ethnicGroupDetailed,164,W164,White: Dutch
+ethnicGroupDetailed,165,W165,White: English Welsh Scottish Northern Irish or British
+ethnicGroupDetailed,166,W166,White: Estonian
+ethnicGroupDetailed,167,W167,White: European Mixed
+ethnicGroupDetailed,168,W168,White: Finnish
+ethnicGroupDetailed,169,W169,White: French
+ethnicGroupDetailed,170,W170,White: Georgian
+ethnicGroupDetailed,171,W171,White: German
+ethnicGroupDetailed,172,W172,White: Greek
+ethnicGroupDetailed,173,W173,White: Greek Cypriot
+ethnicGroupDetailed,174,W174,White: Gypsy or Irish Traveller
+ethnicGroupDetailed,175,W175,White: Hispanic or Latin American
+ethnicGroupDetailed,176,W176,White: Hungarian
+ethnicGroupDetailed,177,W177,White: Iranian
+ethnicGroupDetailed,178,W178,White: Irish
+ethnicGroupDetailed,179,W179,White: Israeli
+ethnicGroupDetailed,180,W180,White: Italian
+ethnicGroupDetailed,181,W181,White: Jewish
+ethnicGroupDetailed,182,W182,White: Kosovan
+ethnicGroupDetailed,183,W183,White: Kurdish
+ethnicGroupDetailed,184,W184,White: Latvian
+ethnicGroupDetailed,185,W185,White: Lithuanian
+ethnicGroupDetailed,186,W186,White: Maltese
+ethnicGroupDetailed,187,W187,White: Mixed Irish
+ethnicGroupDetailed,188,W188,White: Mixed White
+ethnicGroupDetailed,189,W189,White: Moldovan
+ethnicGroupDetailed,190,W190,White: North American
+ethnicGroupDetailed,191,W191,White: North Macedonian
+ethnicGroupDetailed,192,W192,White: Norwegian
+ethnicGroupDetailed,193,W193,White: Other Eastern European
+ethnicGroupDetailed,194,W194,White: Other Middle East
+ethnicGroupDetailed,195,W195,White: Other Mixed
+ethnicGroupDetailed,196,W196,White: Other North African
+ethnicGroupDetailed,197,W197,White: Other Traveller
+ethnicGroupDetailed,198,W198,White: Other White White unspecified
+ethnicGroupDetailed,199,W199,White: Polish
+ethnicGroupDetailed,200,W200,White: Portuguese
+ethnicGroupDetailed,201,W201,White: Roma
+ethnicGroupDetailed,202,W202,White: Romanian
+ethnicGroupDetailed,203,W203,White: Russian
+ethnicGroupDetailed,204,W204,White: Serbian
+ethnicGroupDetailed,205,W205,White: Slovakian
+ethnicGroupDetailed,206,W206,White: Slovenian
+ethnicGroupDetailed,207,W207,White: South African
+ethnicGroupDetailed,208,W208,White: South American
+ethnicGroupDetailed,209,W209,White: Spanish
+ethnicGroupDetailed,210,W210,White: Swedish
+ethnicGroupDetailed,211,W211,White: Swiss
+ethnicGroupDetailed,212,W212,White: Turkish
+ethnicGroupDetailed,213,W213,White: Turkish Cypriot
+ethnicGroupDetailed,214,W214,White: Ukrainian
+ethnicGroupDetailed,215,W215,White: White African
+ethnicGroupDetailed,216,W216,White: White and North African or Middle Eastern
+ethnicGroupDetailed,217,W217,White: White Caribbean
+ethnicGroupDetailed,218,W218,White: Zimbabwean
+ethnicGroupDetailed,219,W219,White: Any other ethnic group
+ethnicGroupDetailed,220,O220,Other ethnic group: Afghan
+ethnicGroupDetailed,221,O221,Other ethnic group: African unspecified
+ethnicGroupDetailed,222,O222,Other ethnic group: African Asian
+ethnicGroupDetailed,223,O223,Other ethnic group: Albanian
+ethnicGroupDetailed,224,O224,Other ethnic group: Algerian
+ethnicGroupDetailed,225,O225,Other ethnic group: Arab
+ethnicGroupDetailed,226,O226,Other ethnic group: Armenian
+ethnicGroupDetailed,227,O227,Other ethnic group: Asian British
+ethnicGroupDetailed,228,O228,Other ethnic group: Bangladeshi British Bangladeshi
+ethnicGroupDetailed,229,O229,Other ethnic group: Black and Asian
+ethnicGroupDetailed,230,O230,Other ethnic group: Brazilian
+ethnicGroupDetailed,231,O231,Other ethnic group: Bulgarian
+ethnicGroupDetailed,232,O232,Other ethnic group: Caribbean
+ethnicGroupDetailed,233,O233,Other ethnic group: Caribbean Asian
+ethnicGroupDetailed,234,O234,Other ethnic group: Chinese
+ethnicGroupDetailed,235,O235,Other ethnic group: Colombian
+ethnicGroupDetailed,236,O236,Other ethnic group: Cornish
+ethnicGroupDetailed,237,O237,Other ethnic group: Cypriot (part not stated)
+ethnicGroupDetailed,238,O238,Other ethnic group: Czech
+ethnicGroupDetailed,239,O239,Other ethnic group: East Asian/ East Asian unspecified
+ethnicGroupDetailed,240,O240,Other ethnic group: English
+ethnicGroupDetailed,241,O241,Other ethnic group: English/Welsh/Scottish/Northern Irish/British
+ethnicGroupDetailed,242,O242,Other ethnic group: European Mixed European unspecified other European
+ethnicGroupDetailed,243,O243,Other ethnic group: Filipino
+ethnicGroupDetailed,244,O244,Other ethnic group: Greek
+ethnicGroupDetailed,245,O245,Other ethnic group: Greek Cypriot
+ethnicGroupDetailed,246,O246,Other ethnic group: Gypsy/Romany
+ethnicGroupDetailed,247,O247,Other ethnic group: Hispanic or Latin American
+ethnicGroupDetailed,248,O248,Other ethnic group: Indian or British Indian
+ethnicGroupDetailed,249,O249,Other ethnic group: Iranian
+ethnicGroupDetailed,250,O250,Other ethnic group: Italian
+ethnicGroupDetailed,251,O251,Other ethnic group: Japanese
+ethnicGroupDetailed,252,O252,Other ethnic group: Jewish
+ethnicGroupDetailed,253,O253,Other ethnic group: Kashmiri
+ethnicGroupDetailed,254,O254,Other ethnic group: Kurdish
+ethnicGroupDetailed,255,O255,Other ethnic group: Lithuanian
+ethnicGroupDetailed,256,O256,Other ethnic group: Mauritian/Seychellois/Maldivian/Sao Tomean/St Helenian
+ethnicGroupDetailed,257,O257,Other ethnic group: Mexican
+ethnicGroupDetailed,258,O258,Other ethnic group: Moroccan
+ethnicGroupDetailed,259,O259,Other ethnic group: Muslim
+ethnicGroupDetailed,260,O260,Other ethnic group: Nepali (includes Gurkha)
+ethnicGroupDetailed,261,O261,Other ethnic group: North African
+ethnicGroupDetailed,262,O262,Other ethnic group: Other Asian Asian unspecified
+ethnicGroupDetailed,263,O263,Other ethnic group: Other Eastern European
+ethnicGroupDetailed,264,O264,Other ethnic group: Other Middle East
+ethnicGroupDetailed,265,O265,Other ethnic group: Other Mixed
+ethnicGroupDetailed,266,O266,Other ethnic group: Other White White unspecified
+ethnicGroupDetailed,267,O267,Other ethnic group: Pakistani or British Pakistani
+ethnicGroupDetailed,268,O268,Other ethnic group: Polish
+ethnicGroupDetailed,269,O269,Other ethnic group: Polynesia/Micronesia/Melanesia
+ethnicGroupDetailed,270,O270,Other ethnic group: Portuguese
+ethnicGroupDetailed,271,O271,Other ethnic group: Punjabi
+ethnicGroupDetailed,272,O272,Other ethnic group: Roma
+ethnicGroupDetailed,273,O273,Other ethnic group: Romanian
+ethnicGroupDetailed,274,O274,Other ethnic group: Sikh
+ethnicGroupDetailed,275,O275,Other ethnic group: Slovakian
+ethnicGroupDetailed,276,O276,Other ethnic group: Somali
+ethnicGroupDetailed,277,O277,Other ethnic group: Somalilander
+ethnicGroupDetailed,278,O278,Other ethnic group: South American
+ethnicGroupDetailed,279,O279,Other ethnic group: Spanish
+ethnicGroupDetailed,280,O280,Other ethnic group: Sri Lankan
+ethnicGroupDetailed,281,O281,Other ethnic group: Tamil
+ethnicGroupDetailed,282,O282,Other ethnic group: Thai
+ethnicGroupDetailed,283,O283,Other ethnic group: Turkish
+ethnicGroupDetailed,284,O284,Other ethnic group: Turkish Cypriot
+ethnicGroupDetailed,285,O285,Other ethnic group: Vietnamese
+ethnicGroupDetailed,286,O286,Other ethnic group: White African
+ethnicGroupDetailed,287,O287,Other ethnic group: Any other ethnic group
+ethnicDiversity,-8,N/A,Does not apply
+ethnicDiversity,1,single,One-person household
+ethnicDiversity,2,all,All household members have the same ethnic group
+ethnicDiversity,3,genDiff,Ethnic groups differ between generations but not within partnerships
+ethnicDiversity,4,partnerDiff,Ethnic groups differ within partnerships
+ethnicDiversity,5,otherDiff,Any other combination of multiple ethnic identities
+mainLanguage,-8,N/A,Does not apply
+mainLanguage,1,English,English (English or Welsh in Wales)
+mainLanguage,2,Welsh,Welsh or Cymraeg (in England only)
+mainLanguage,3,IrishGaelic,Other UK language: Gaelic (Irish)
+mainLanguage,4,ScottishGaelic,Other UK language: Gaelic (Scottish)
+mainLanguage,5,ManxGaelic,Other UK language: Manx Gaelic
+mainLanguage,6,Gaelic,Other UK language: Gaelic (Not otherwise specified)
+mainLanguage,7,Cornish,Other UK language: Cornish
+mainLanguage,8,Scots,Other UK language: Scots
+mainLanguage,9,UlsterScots,Other UK language: Ulster Scots
+mainLanguage,10,RomanyEnghlish,Other UK language: Romany English
+mainLanguage,11,IrishTraveller,Other UK language: Irish Traveller Cant
+mainLanguage,12,French,French
+mainLanguage,13,Portuguese,Portuguese
+mainLanguage,14,Spanish,Spanish
+mainLanguage,15,Italian,Other European language (EU): Italian
+mainLanguage,16,German,Other European language (EU): German
+mainLanguage,17,Polish,Other European language (EU): Polish
+mainLanguage,18,Slovak,Other European language (EU): Slovak
+mainLanguage,19,Czech,Other European language (EU): Czech
+mainLanguage,20,Romanian,Other European language (EU): Romanian
+mainLanguage,21,Lithuanian,Other European language (EU): Lithuanian
+mainLanguage,22,Latvian,Other European language (EU): Latvian
+mainLanguage,23,Hungarian,Other European language (EU): Hungarian
+mainLanguage,24,Bulgarian,Other European language (EU): Bulgarian
+mainLanguage,25,Greek,Other European language (EU): Greek
+mainLanguage,26,Dutch,Other European language (EU): Dutch
+mainLanguage,27,Swedish,Other European language (EU): Swedish
+mainLanguage,28,Danish,Other European language (EU): Danish
+mainLanguage,29,Finnish,Other European language (EU): Finnish
+mainLanguage,30,Estonian,Other European language (EU): Estonian
+mainLanguage,31,3Slovenian1,Other European language (EU): Slovenian
+mainLanguage,32,3Maltese2,Other European language (EU): Maltese
+mainLanguage,33,otherEU,Other European language (EU): Any other European language (EU)
+mainLanguage,34,Albanian,Other European language (non EU): Albanian
+mainLanguage,35,Ukrainian,Other European language (non EU): Ukrainian
+mainLanguage,36,otherEEuropean,Other European language (non EU): Any other Eastern European language (non EU)
+mainLanguage,37,otherNEuropean,Other European language (non EU): Northern European language (non EU)
+mainLanguage,38,BosCroatSerbMont,Other European language (EU and non-EU): Bosnian Croatian Serbian and Montenegrin
+mainLanguage,39,Romani,Other European language (non-national): Any Romani language
+mainLanguage,40,Yiddish,Other European language (non-national): Yiddish
+mainLanguage,41,Russian,Russian
+mainLanguage,42,Turkish,Turkish
+mainLanguage,43,Arabic,Arabic
+mainLanguage,44,Hebrew,West or Central Asian language: Hebrew
+mainLanguage,45,Kurdish,West or Central Asian language: Kurdish
+mainLanguage,46,Farsi,West or Central Asian language: Persian or Farsi
+mainLanguage,47,Pashto,West or Central Asian language: Pashto
+mainLanguage,48,otherWCAsian,West or Central Asian language: Any other West or Central Asian language
+mainLanguage,49,Urdu,South Asian language: Urdu
+mainLanguage,50,Hindi,South Asian language: Hindi
+mainLanguage,51,Panjabi,South Asian language: Panjabi
+mainLanguage,52,Pahari,South Asian language: Pakistani Pahari (with Mirpuri and Potwari)
+mainLanguage,53,Bengali,South Asian language: Bengali (with Sylheti and Chatgaya)
+mainLanguage,54,Gujarati,South Asian language: Gujarati
+mainLanguage,55,Marathi,South Asian language: Marathi
+mainLanguage,56,Telugu,South Asian language: Telugu
+mainLanguage,57,Tamil,South Asian language: Tamil
+mainLanguage,58,Malayalam,South Asian language: Malayalam
+mainLanguage,59,Sinhala,South Asian language: Sinhala
+mainLanguage,60,Nepalese,South Asian language: Nepalese
+mainLanguage,61,otherSAsian,South Asian language: Any other South Asian language
+mainLanguage,62,Mandarin,East Asian language: Mandarin Chinese
+mainLanguage,63,Cantonese,East Asian language: Cantonese Chinese
+mainLanguage,64,otherChinese,East Asian language: All other Chinese
+mainLanguage,65,Japanese,East Asian language: Japanese
+mainLanguage,66,Korean,East Asian language: Korean
+mainLanguage,67,Vietnamese,East Asian language: Vietnamese
+mainLanguage,68,Thai,East Asian language: Thai
+mainLanguage,69,Malay,East Asian language: Malay
+mainLanguage,70,Tagalog,East Asian language: Tagalog or Filipino
+mainLanguage,71,otherEAsian,East Asian language: Any other East Asian language
+mainLanguage,72,Oceanic,Oceanic or Australian language
+mainLanguage,73,NSAmerican,North or South American language
+mainLanguage,74,EnglishCreole,Caribbean Creole: English-based Caribbean Creole
+mainLanguage,75,otherCreole,Caribbean Creole: Any other Caribbean Creole
+mainLanguage,76,Amharic,African language: Amharic
+mainLanguage,77,Tigrinya,African language: Tigrinya
+mainLanguage,78,Somali,African language: Somali
+mainLanguage,79,Krio,African language: Krio
+mainLanguage,80,Akan,African language: Akan
+mainLanguage,81,Yoruba,African language: Yoruba
+mainLanguage,82,Igbo,African language: Igbo
+mainLanguage,83,Swahili,African language: Swahili or Kiswahili
+mainLanguage,84,Luganda,African language: Luganda
+mainLanguage,85,Lingala,African language: Lingala
+mainLanguage,86,Shona,African language: Shona
+mainLanguage,87,Afrikaans,African language: Afrikaans
+mainLanguage,88,otherNigerian,African language: Any other Nigerian language
+mainLanguage,89,otherWAfrican,African language: Any other West African language
+mainLanguage,90,otherAfrican,African language: Any other African language
+mainLanguage,91,BSL,Sign language: British Sign Language
+mainLanguage,92,otherSignLang,Sign language: Any other sign language
+mainLanguage,93,otherSignComm,Sign language: Any sign communication system
+mainLanguage,94,other,Other language
+householdLanguage,-8,N/A,Does not apply
+householdLanguage,1,all,"All adults in household have English in England, or English or Welsh in Wales as a main language"
+householdLanguage,2,adult1plus,"At least one but not all adults in household have English in England, or English or Welsh in Wales as a main language"
+householdLanguage,3,child1plus,"No adults in household, but at least one person aged 3 to 15 years, has English in England or English or Welsh in Wales as a main language"
+householdLanguage,4,none,"No people in household have English in England, or English or Welsh in Wales as a main language"
+languageDiversity,-8,N/A,Does not apply
+languageDiversity,1,single,One-person household
+languageDiversity,2,all,All household members have the same main language
+languageDiversity,3,genDiff,"Main language differs between generations, but not within partnerships"
+languageDiversity,4,partnerDiff,Main language differs within partnerships
+languageDiversity,5,otherDiff,Any other combination of multiple main languages
+ukLanguage,-8,N/A,Does not apply
+ukLanguage,1,main,Main language is English (English or Welsh in Wales)
+ukLanguage,2,veryWell,Main language is not English (English or Welsh in Wales): Can speak English very well
+ukLanguage,3,well,Main language is not English (English or Welsh in Wales): Can speak English well
+ukLanguage,4,notWell,Main language is not English (English or Welsh in Wales): Cannot speak English well
+ukLanguage,5,none,Main language is not English (English or Welsh in Wales): Cannot speak English
+nationalIdentity,-8,N/A,Does not apply
+nationalIdentity,1,British,British only identity
+nationalIdentity,2,English,English only identity
+nationalIdentity,3,EnglishAndBritish,English and British only identity
+nationalIdentity,4,Welsh,Welsh only identity
+nationalIdentity,5,WelshAndBritish,Welsh and British only identity
+nationalIdentity,6,Scottish,Scottish only identity
+nationalIdentity,7,ScottishAndBritish,Scottish and British only identity
+nationalIdentity,8,NorthernIrish,Northern Irish only identity
+nationalIdentity,9,NorthernIrishAndBritish,Northern Irish and British only identity
+nationalIdentity,10,Cornish,Cornish only identity
+nationalIdentity,11,CornishAndBritish,Cornish and British only identity
+nationalIdentity,12,UK,Any other combination of only UK identities
+nationalIdentity,13,Irish,Irish only identity
+nationalIdentity,14,IrishAndUK,Irish and at least one UK identity
+nationalIdentity,15,other,Other identity only
+nationalIdentity,16,otherAndUK,Other identity and at least one UK identity
+nationalIdentityDetailed,-8,N/A,Does not apply
+nationalIdentityDetailed,1,UK1,UK identity: British only identity
+nationalIdentityDetailed,2,UK2,UK identity: English only identity
+nationalIdentityDetailed,3,UK3,UK identity: English and British only identity
+nationalIdentityDetailed,4,UK4,UK identity: Welsh only identity
+nationalIdentityDetailed,5,UK5,UK identity: Welsh and British only identity
+nationalIdentityDetailed,6,UK6,UK identity: Scottish only identity
+nationalIdentityDetailed,7,UK7,UK identity: Scottish and British only identity
+nationalIdentityDetailed,8,UK8,UK identity: Northern Irish only identity
+nationalIdentityDetailed,9,UK9,UK identity: Northern Irish and British only identity
+nationalIdentityDetailed,10,UK10,UK identity: Cornish only identity
+nationalIdentityDetailed,11,UK11,UK identity: Cornish and British only identity
+nationalIdentityDetailed,12,UK12,UK identity: Any other combination of UK identities (UK only)
+nationalIdentityDetailed,13,UK13,UK identity: Other identity and at least one UK identity
+nationalIdentityDetailed,14,other14,Other identity only: Guernsey Islander
+nationalIdentityDetailed,15,other15,Other identity only: Jersey Islander
+nationalIdentityDetailed,16,other16,Other identity only: Isle of Man (Manx)
+nationalIdentityDetailed,17,other17,Other identity only: Channel Islander not otherwise specified
+nationalIdentityDetailed,18,other18,Other identity only: Irish only identity
+nationalIdentityDetailed,19,other19,Other identity only: Irish and at least one UK identity
+nationalIdentityDetailed,20,other20,Other identity only: European: EU countries: French
+nationalIdentityDetailed,21,other21,Other identity only: European: EU countries: German
+nationalIdentityDetailed,22,other22,Other identity only: European: EU countries: Italian
+nationalIdentityDetailed,23,other23,Other identity only: European: EU countries: Portuguese
+nationalIdentityDetailed,24,other24,Other identity only: European: EU countries: Spanish (including Canary Islander)
+nationalIdentityDetailed,25,other25,Other identity only: European: EU countries: Other member countries in March 2001
+nationalIdentityDetailed,26,other26,Other identity only: European: EU countries: Lithuanian
+nationalIdentityDetailed,27,other27,Other identity only: European: EU countries: Polish
+nationalIdentityDetailed,28,other28,Other identity only: European: EU countries: Romanian
+nationalIdentityDetailed,29,other29,Other identity only: European: EU countries: Other member countries
+nationalIdentityDetailed,30,other30,Other identity only: European: Non-EU countries: Turkish
+nationalIdentityDetailed,31,other31,Other identity only: European: Non-EU countries: Other European
+nationalIdentityDetailed,32,other32,Other identity only: African: North African
+nationalIdentityDetailed,33,other33,Other identity only: African: Central and Western African: Ghanaian
+nationalIdentityDetailed,34,other34,Other identity only: African: Central and Western African: Nigerian
+nationalIdentityDetailed,35,other35,Other identity only: African: Central and Western African: Other Central and Western African
+nationalIdentityDetailed,36,other36,Other identity only: African: South and Eastern African: Kenyan
+nationalIdentityDetailed,37,other37,Other identity only: African: South and Eastern African: Somali
+nationalIdentityDetailed,38,other38,Other identity only: African: South and Eastern African: South African
+nationalIdentityDetailed,39,other39,Other identity only: African: South and Eastern African: Zimbabwean
+nationalIdentityDetailed,40,other40,Other identity only: African: South and Eastern African: Other South and Eastern African
+nationalIdentityDetailed,41,other41,Other identity only: Middle Eastern and Asian: Middle Eastern: Kurdish
+nationalIdentityDetailed,42,other42,Other identity only: Middle Eastern and Asian: Middle Eastern: Iranian
+nationalIdentityDetailed,43,other43,Other identity only: Middle Eastern and Asian: Middle Eastern: Iraqi
+nationalIdentityDetailed,44,other44,Other identity only: Middle Eastern and Asian: Middle Eastern: Other Middle Eastern
+nationalIdentityDetailed,45,other45,Other identity only: Middle Eastern and Asian: Eastern Asian: Chinese
+nationalIdentityDetailed,46,other46,Other identity only: Middle Eastern and Asian: Eastern Asian: Hong Kong Chinese
+nationalIdentityDetailed,47,other47,Other identity only: Middle Eastern and Asian: Eastern Asian: Japanese
+nationalIdentityDetailed,48,other48,Other identity only: Middle Eastern and Asian: Eastern Asian: Other Eastern Asian
+nationalIdentityDetailed,49,other49,Other identity only: Middle Eastern and Asian: Southern Asian: Afghan
+nationalIdentityDetailed,50,other50,Other identity only: Middle Eastern and Asian: Southern Asian: Bangladeshi
+nationalIdentityDetailed,51,other51,Other identity only: Middle Eastern and Asian: Southern Asian: Indian
+nationalIdentityDetailed,52,other52,Other identity only: Middle Eastern and Asian: Southern Asian: Pakistani
+nationalIdentityDetailed,53,other53,Other identity only: Middle Eastern and Asian: Southern Asian: Sri Lankan
+nationalIdentityDetailed,54,other54,Other identity only: Middle Eastern and Asian: Southern Asian: Other Southern Asian
+nationalIdentityDetailed,55,other55,Other identity only: Middle Eastern and Asian: South-East Asian: Filipino
+nationalIdentityDetailed,56,other56,Other identity only: Middle Eastern and Asian: South-East Asian: Malaysian
+nationalIdentityDetailed,57,other57,Other identity only: Middle Eastern and Asian: South-East Asian: Singaporean
+nationalIdentityDetailed,58,other58,Other identity only: Middle Eastern and Asian: South-East Asian: Other South-East Asian
+nationalIdentityDetailed,59,other59,Other identity only: Middle Eastern and Asian: Central Asian
+nationalIdentityDetailed,60,other60,Other identity only: Middle Eastern and Asian: Asian not otherwise specified
+nationalIdentityDetailed,61,other61,Other identity only: American and Caribbean: North American: Canadian
+nationalIdentityDetailed,62,other62,Other identity only: American and Caribbean: North American: US Citizen
+nationalIdentityDetailed,63,other63,Other identity only: American and Caribbean: North American: Other North American
+nationalIdentityDetailed,64,other64,Other identity only: American and Caribbean: Central American
+nationalIdentityDetailed,65,other65,Other identity only: American and Caribbean: South American
+nationalIdentityDetailed,66,other66,Other identity only: American and Caribbean: Caribbean: Jamaican
+nationalIdentityDetailed,67,other67,Other identity only: American and Caribbean: Caribbean: Other Caribbean
+nationalIdentityDetailed,68,other68,Other identity only: Antarctican and Oceanian: Australasian: Australian
+nationalIdentityDetailed,69,other69,Other identity only: Antarctican and Oceanian: Australasian: New Zealander
+nationalIdentityDetailed,70,other70,Other identity only: Antarctican and Oceanian: Australasian: Other Australasian
+nationalIdentityDetailed,71,other71,Other identity only: Antarctican and Oceanian: Other Oceanian
+nationalIdentityDetailed,72,other72,Other identity only: Other
+religion,-8,N/A,Does not apply
+religion,1,none,No religion
+religion,2,Christian,Christian
+religion,3,Buddhist,Buddhist
+religion,4,Hindu,Hindu
+religion,5,Jewish,Jewish
+religion,6,Muslim,Muslim
+religion,7,Sikh,Sikh
+religion,8,other,Other religion
+religion,9,noAnswer,Not answered
+religionDetailed,-8,N/A,Does not apply
+religionDetailed,1,Christian,Christian
+religionDetailed,2,Buddhist,Buddhist
+religionDetailed,3,Hindu,Hindu
+religionDetailed,4,Jewish,Jewish
+religionDetailed,5,Muslim,Muslim
+religionDetailed,6,Sikh,Sikh
+religionDetailed,7,Alevi,Other religion: Alevi
+religionDetailed,8,Agnostic,No religion: Agnostic
+religionDetailed,9,Atheist,No religion: Atheist
+religionDetailed,10,freeThinker,No religion: Free Thinker
+religionDetailed,11,Humanist,No religion: Humanist
+religionDetailed,12,None,No religion: No religion
+religionDetailed,13,Realist,No religion: Realist
+religionDetailed,14,Animism,Other religion: Animism
+religionDetailed,15,Bahai,Other religion: Baha'i
+religionDetailed,16,believeInGod,Other religion: Believe in God
+religionDetailed,17,BrahmaKumari,Other religion: Brahma Kumari
+religionDetailed,18,Chinese,Other religion: Chinese Religion
+religionDetailed,19,ChurchOfAllReligion,Other religion: Church of All Religion
+religionDetailed,20,Confucianist,Other religion: Confucianist
+religionDetailed,21,Deist,Other religion: Deist
+religionDetailed,22,Druid,Other religion: Druid
+religionDetailed,23,Druze,Other religion: Druze
+religionDetailed,24,Eckankar,Other religion: Eckankar
+religionDetailed,25,Heathen,Other religion: Heathen
+religionDetailed,26,Jain,Other religion: Jain
+religionDetailed,27,mixed,Other religion: Mixed Religion
+religionDetailed,28,Mysticism,Other religion: Mysticism
+religionDetailed,29,nativeAmerican,Other religion: Native American Church
+religionDetailed,30,NewAge,Other religion: New Age
+religionDetailed,31,Occult,Other religion: Occult
+religionDetailed,32,other,Other religion: Other religions
+religionDetailed,33,own,Other religion: Own Belief System
+religionDetailed,34,Pagan,Other religion: Pagan
+religionDetailed,35,Pantheism,Other religion: Pantheism
+religionDetailed,36,Rastafarian,Other religion: Rastafarian
+religionDetailed,37,Ravidassia,Other religion: Ravidassia
+religionDetailed,38,Reconstructionist,Other religion: Reconstructionist
+religionDetailed,39,Satanism,Other religion: Satanism
+religionDetailed,40,Scientology,Other religion: Scientology
+religionDetailed,41,Shamanism,Other religion: Shamanism
+religionDetailed,42,Shintoism,Other religion: Shintoism
+religionDetailed,43,Spiritual,Other religion: Spiritual
+religionDetailed,44,Spiritualist,Other religion: Spiritualist
+religionDetailed,45,Taoist,Other religion: Taoist
+religionDetailed,46,Theism,Other religion: Theism
+religionDetailed,47,Thelemite,Other religion: Thelemite
+religionDetailed,48,tradAfrican,Other religion: Traditional African Religion
+religionDetailed,49,Unification,Other religion: Unification Church
+religionDetailed,50,Universalist,Other religion: Universalist
+religionDetailed,51,Valmiki,Other religion: Valmiki
+religionDetailed,52,Vodun,Other religion: Vodun
+religionDetailed,53,Wicca,Other religion: Wicca
+religionDetailed,54,Witchcraft,Other religion: Witchcraft
+religionDetailed,55,Yazidi,Other religion: Yazidi
+religionDetailed,56,Zoroastrian,Other religion: Zoroastrian
+religionDetailed,57,notStated,Religion not stated
+religiousDiversity,-8,N/A,Does not apply
+religiousDiversity,1,single,One-person household
+religiousDiversity,2,notStated,Multi-person household: No people stated their religion
+religiousDiversity,3,same,Multi-person household: Same religion (at least one person has stated a religion but the household may include people who did not state their religion)
+religiousDiversity,4,none,Multi-person household: No religion (household may include people who did not state their religion)
+religiousDiversity,5,sameAndNone,Multi-person household: Same religion and no religion (household may include people who did not state their religion)
+religiousDiversity,6,2plus,Multi-person household: At least two different religions stated (household may include people with no religion and who did not state their religion)
+accommodation,1,detached,Detached
+accommodation,2,semiDetached,Semi-detached
+accommodation,3,terraced,Terraced
+accommodation,4,flats,In a purpose-built block of flats or tenement
+accommodation,5,sharedHouse,"Part of a converted or shared house, including bedsits"
+accommodation,6,conversion,"Part of another converted building, for example, former school, church or warehouse"
+accommodation,7,commercial,"In a commercial building, for example, in an office building, hotel or over a shop"
+accommodation,8,caravan,A caravan or other mobile or temporary structure
+vehicle,-8,N/A,Does not apply
+vehicle,0,v0,No cars or vans in household
+vehicle,1,v1,1 car or van in household
+vehicle,2,v2,2 cars or vans in household
+vehicle,3,v3plus,3 or more cars or vans in household
+heating,-9,N/A,Does not apply
+heating,1,none,No central heating
+heating,2,mainsGas,Mains gas only
+heating,3,bottledGas,Tank or bottled gas only
+heating,4,elec,Electric only
+heating,5,oil,Oil only
+heating,6,wood,Wood only
+heating,7,solid,Solid fuel only
+heating,8,renewable,Renewable energy only
+heating,9,communal,District or communal heat networks only
+heating,10,other,Other central heating only
+heating,11,2plusNonRenewable,Two or more types of central heating (not including renewable energy)
+heating,12,2plusRenewable,Two or more types of central heating (including renewable energy)
+ageSexCommunal,1,m0_15,Resident: Male: Aged 0 to 15 years
+ageSexCommunal,2,m16_24,Resident: Male: Aged 16 to 24 years
+ageSexCommunal,3,m25_34,Resident: Male: Aged 25 to 34 years
+ageSexCommunal,4,m35_49,Resident: Male: Aged 35 to 49 years
+ageSexCommunal,5,m50_64,Resident: Male: Aged 50 to 64 years
+ageSexCommunal,6,m65_74,Resident: Male: Aged 65 to 74 years
+ageSexCommunal,7,m75_84,Resident: Male: Aged 75 to 84 years
+ageSexCommunal,8,m85plus,Resident: Male: Aged 85 years and over
+ageSexCommunal,9,f0_15,Resident: Female: Aged 0 to 15 years
+ageSexCommunal,10,f16_24,Resident: Female: Aged 16 to 24 years
+ageSexCommunal,11,f25_34,Resident: Female: Aged 25 to 34 years
+ageSexCommunal,12,f35_49,Resident: Female: Aged 35 to 49 years
+ageSexCommunal,13,f50_64,Resident: Female: Aged 50 to 64 years
+ageSexCommunal,14,f65_74,Resident: Female: Aged 65 to 74 years
+ageSexCommunal,15,f75_84,Resident: Female: Aged 75 to 84 years
+ageSexCommunal,16,f85plus,Resident: Female: Aged 85 years and over
+ageSexCommunal,17,staff,Staff or owner
+ageSexCommunal,18,family,Family member or partner of staff or owner
+ageSexCommunal,19,temp,Staying temporarily (no usual UK address)
+communalType,-8,N/A,Establishment not stated
+communalType,1,nhsGenHospital,Medical and care establishment: NHS: General hospital
+communalType,2,nhsMenHospital,Medical and care establishment: NHS: Mental health hospital or unit (including secure units)
+communalType,3,nhsHospital,Medical and care establishment: NHS: Other hospital
+communalType,4,laChildrensHome,Medical and care establishment: Local Authority: Children's home (including secure units)
+communalType,5,laNursingHome,Medical and care establishment: Local Authority: Care home with nursing
+communalType,6,laCareHome,Medical and care establishment: Local Authority: Care home without nursing
+communalType,7,laHome,Medical and care establishment: Local Authority: Other home
+communalType,8,social,Medical and care establishment: Registered Social Landlord or Housing Association: Home or hostel
+communalType,9,nursingHome,Medical and care establishment: Other: Care home with nursing
+communalType,10,careHome,Medical and care establishment: Other: Care home without nursing
+communalType,11,childrensHome,Medical and care establishment: Other: Children's home (including secure units)
+communalType,12,menHospital,Medical and care establishment: Other: Mental health hospital or unit (including secure units)
+communalType,13,hospital,Medical and care establishment: Other: Other hospital
+communalType,14,otherCare,Medical and care establishment: Other: Other establishment
+communalType,15,defence,Other establishment: Defence
+communalType,16,prison,Other establishment: Prison service
+communalType,17,approved,Other establishment: Approved premises (probation or bail hostel)
+communalType,18,detention,Other establishment: Detention centres and other detention
+communalType,19,education,Other establishment: Education
+communalType,20,hotel,"Other establishment: Hotel, guest house, B&B or youth hostel"
+communalType,21,shelter,Other establishment: Hostel or temporary shelter for the homeless
+communalType,22,holiday,Other establishment: Holiday accommodation
+communalType,23,temp,Other establishment: Other travel or temporary accommodation
+communalType,24,religious,Other establishment: Religious
+communalType,25,otherStaff,Other establishment: Staff or worker accommodation or Other
+bedrooms,-9,N/A,Does not apply
+bedrooms,1,b1,1 bedroom
+bedrooms,2,b2,2 bedrooms
+bedrooms,3,b3,3 bedrooms
+bedrooms,4,b4plus,4 or more bedrooms
+bedroomOccupancy,-8,N/A,Does not apply
+bedroomOccupancy,1,b2plus,Occupancy rating of bedrooms: +2 or more
+bedroomOccupancy,2,b1,Occupancy rating of bedrooms: +1
+bedroomOccupancy,3,b0,Occupancy rating of bedrooms: 0
+bedroomOccupancy,4,b-1,Occupancy rating of bedrooms: -1
+bedroomOccupancy,5,b2minus,Occupancy rating of bedrooms: -2 or less
+rooms,1,r1,1 room
+rooms,2,r2,2 rooms
+rooms,3,r3,3 rooms
+rooms,4,r4,4 rooms
+rooms,5,r5,5 rooms
+rooms,6,r6,6 rooms
+rooms,7,r7,7 rooms
+rooms,8,r8,8 rooms
+rooms,9,r9plus,9 or more rooms
+roomOccupancy,-8,N/A,Does not apply
+roomOccupancy,1,r2plus,Occupancy rating of bedrooms: +2 or more
+roomOccupancy,2,r1,Occupancy rating of bedrooms: +1
+roomOccupancy,3,r0,Occupancy rating of bedrooms: 0
+roomOccupancy,4,r-1,Occupancy rating of bedrooms: -1
+roomOccupancy,5,r2minus,Occupancy rating of bedrooms: -2 or less
+tenure,-8,N/A,Does not apply
+tenure,0,own,Owned: Owns outright
+tenure,1,mortgage,Owned: Owns with a mortgage or loan
+tenure,2,sharedOwn,Shared ownership: Shared ownership
+tenure,3,laRent,Social rented: Rents from council or Local Authority
+tenure,4,socialRent,Social rented: Other social rented
+tenure,5,privateRent,Private rented: Private landlord or letting agency
+tenure,6,otherRent,Private rented: Other private rented
+tenure,7,freeRent,Lives rent free
+secondAddress,1,none,No second address
+secondAddress,2,UK,Second address is in the UK
+secondAddress,3,overseas,Second address is outside the UK
+secondAddressPurpose,-8,N/A,Does not apply
+secondAddressPurpose,1,armedForces,Armed forces base address
+secondAddressPurpose,2,workAway,Another address when working away from home
+secondAddressPurpose,3,holiday,Holiday home
+secondAddressPurpose,4,studentTerm,Student's term-time address
+secondAddressPurpose,5,studentHome,Student's home address
+secondAddressPurpose,6,otherParent,Another parent or guardian's address
+secondAddressPurpose,7,partner,Partner's address
+secondAddressPurpose,8,other,Other
+secondAddressPurpose,9,notSpecified,Second address type not specified
+ageArrival,-8,N/A,Does not apply
+ageArrival,1,born,Born in the UK
+ageArrival,2,0_4,Arrived in the UK: Aged 0 to 4 years
+ageArrival,3,5_7,Arrived in the UK: Aged 5 to 7 years
+ageArrival,4,8_9,Arrived in the UK: Aged 8 to 9 years
+ageArrival,5,10_14,Arrived in the UK: Aged 10 to 14 years
+ageArrival,6,15,Arrived in the UK: Aged 15 years
+ageArrival,7,16_17,Arrived in the UK: Aged 16 to 17 years
+ageArrival,8,18_19,Arrived in the UK: Aged 18 to 19 years
+ageArrival,9,20_24,Arrived in the UK: Aged 20 to 24 years
+ageArrival,10,25_29,Arrived in the UK: Aged 25 to 29 years
+ageArrival,11,30_44,Arrived in the UK: Aged 30 to 44 years
+ageArrival,12,45_59,Arrived in the UK: Aged 45 to 59 years
+ageArrival,13,60_64,Arrived in the UK: Aged 60 to 64 years
+ageArrival,14,65_74,Arrived in the UK: Aged 65 to 74 years
+ageArrival,15,75_84,Arrived in the UK: Aged 75 to 84 years
+ageArrival,16,85_89,Arrived in the UK: Aged 85 to 89 years
+ageArrival,17,90plus,Arrived in the UK: Aged 90 years and over
+countryOfBirth,-8,N/A,Does not apply
+countryOfBirth,1,England,Europe: United Kingdom: England
+countryOfBirth,2,NIreland,Europe: United Kingdom: Northern Ireland
+countryOfBirth,3,Scotland,Europe: United Kingdom: Scotland
+countryOfBirth,4,Wales,Europe: United Kingdom: Wales
+countryOfBirth,5,GB,Europe: United Kingdom: Great Britain not otherwise specified
+countryOfBirth,6,UK,Europe: United Kingdom: United Kingdom not otherwise specified
+countryOfBirth,7,Ireland,Europe: Other Europe: EU countries: Member countries in March 2001: Ireland
+countryOfBirth,8,France,Europe: Other Europe: EU countries: Member countries in March 2001: France
+countryOfBirth,9,Germany,Europe: Other Europe: EU countries: Member countries in March 2001: Germany
+countryOfBirth,10,Italy,Europe: Other Europe: EU countries: Member countries in March 2001: Italy
+countryOfBirth,11,Portugal,Europe: Other Europe: EU countries: Member countries in March 2001: Portugal (including Madeira and the Azores)
+countryOfBirth,12,Spain,Europe: Other Europe: EU countries: Member countries in March 2001: Spain (including Canary Islands)
+countryOfBirth,13,EU2001,Europe: Other Europe: EU countries: Member countries in March 2001: Other member countries in March 2001
+countryOfBirth,14,Lithuania,Europe: Other Europe: EU countries: Countries that joined the EU between April 2001 and March 2011: Lithuania
+countryOfBirth,15,Poland,Europe: Other Europe: EU countries: Countries that joined the EU between April 2001 and March 2011: Poland
+countryOfBirth,16,Romania,Europe: Other Europe: EU countries: Countries that joined the EU between April 2001 and March 2011: Romania
+countryOfBirth,17,EU2011,Europe: Other Europe: EU countries: Countries that joined the EU between April 2001 and March 2011: Other EU countries
+countryOfBirth,18,Croatia,Europe: Other Europe: EU countries: Countries that joined the EU between April 2011 and March 2021: Croatia
+countryOfBirth,19,Turkey,Europe: Other Europe: Rest of Europe: Turkey
+countryOfBirth,20,Europe,Europe: Other Europe: Rest of Europe: Other Europe
+countryOfBirth,21,NAfrica,Africa: North Africa
+countryOfBirth,22,Ghana,Africa: Central and Western Africa: Ghana
+countryOfBirth,23,Nigeria,Africa: Central and Western Africa: Nigeria
+countryOfBirth,24,CWAfrica,Africa: Central and Western Africa: Other Central and Western Africa
+countryOfBirth,25,Kenya,Africa: South and Eastern Africa: Kenya
+countryOfBirth,26,Somalia,Africa: South and Eastern Africa: Somalia
+countryOfBirth,27,SAfrica,Africa: South and Eastern Africa: South Africa
+countryOfBirth,28,Zimbabwe,Africa: South and Eastern Africa: Zimbabwe
+countryOfBirth,29,SEAfrica,Africa: South and Eastern Africa: Other South and Eastern Africa
+countryOfBirth,30,Africa,Africa: Africa not otherwise specified
+countryOfBirth,31,Iran,Middle East and Asia: Middle East: Iran
+countryOfBirth,32,Iraq,Middle East and Asia: Middle East: Iraq
+countryOfBirth,33,MiddleEast,Middle East and Asia: Middle East: Other Middle East
+countryOfBirth,34,China,Middle East and Asia: Eastern Asia: China
+countryOfBirth,35,HongKong,Middle East and Asia: Eastern Asia: Hong Kong (Special Administrative Region of China)
+countryOfBirth,36,EAsia,Middle East and Asia: Eastern Asia: Other Eastern Asia
+countryOfBirth,37,Afghanistan,Middle East and Asia: Southern Asia: Afghanistan
+countryOfBirth,38,India,Middle East and Asia: Southern Asia: India
+countryOfBirth,39,Pakistan,Middle East and Asia: Southern Asia: Pakistan
+countryOfBirth,40,Bangladesh,Middle East and Asia: Southern Asia: Bangladesh
+countryOfBirth,41,SriLanka,Middle East and Asia: Southern Asia: Sri Lanka
+countryOfBirth,42,SAsia,Middle East and Asia: Southern Asia: Other Southern Asia
+countryOfBirth,43,Philippines,Middle East and Asia: South-East Asia: Philippines
+countryOfBirth,44,Malaysia,Middle East and Asia: South-East Asia: Malaysia
+countryOfBirth,45,Singapore,Middle East and Asia: South-East Asia: Singapore
+countryOfBirth,46,SEAsia,Middle East and Asia: South-East Asia: Other South-East Asia
+countryOfBirth,47,CAsia,Middle East and Asia: Central Asia
+countryOfBirth,48,US,The Americas and the Caribbean: North America: United States
+countryOfBirth,49,Canada,The Americas and the Caribbean: North America: Canada
+countryOfBirth,50,NAmerica,The Americas and the Caribbean: North America: Other North America
+countryOfBirth,51,CAmerica,The Americas and the Caribbean: Central America: All Central American countries
+countryOfBirth,52,SAmerica,The Americas and the Caribbean: South America: All South American countries
+countryOfBirth,53,Jamacia,The Americas and the Caribbean: The Caribbean: Jamaica
+countryOfBirth,54,Caribbean,The Americas and the Caribbean: The Caribbean: Other Caribbean
+countryOfBirth,55,Australia,Antarctica and Oceania: Australasia: Australia
+countryOfBirth,56,NewZealand,Antarctica and Oceania: Australasia: New Zealand
+countryOfBirth,57,Australasia,Antarctica and Oceania: Australasia: Other Australasia
+countryOfBirth,58,Oceania,Antarctica and Oceania: Other Oceania and Antarctica
+countryOfBirth,59,Other,Other
+regionOfBirth,-8,N/A,Does not apply
+regionOfBirth,1,UK,Europe: United Kingdom
+regionOfBirth,2,EU14,Europe: EU countries: European Union EU14
+regionOfBirth,3,EU8,Europe: EU countries: European Union EU8
+regionOfBirth,4,EU2,Europe: EU countries: European Union EU2
+regionOfBirth,5,EUOther,Europe: EU countries: All other EU countries
+regionOfBirth,6,Europe,Europe: Non-EU countries: All other non-EU countries
+regionOfBirth,7,Africa,Africa
+regionOfBirth,8,Asia,Middle East and Asia
+regionOfBirth,9,Americas,The Americas and the Caribbean
+regionOfBirth,10,Oceania,Antarctica and Oceania (including Australasia) and Other
+regionOfBirth,11,BritishOverseas,British Overseas
+residenceLength,-8,N/A,Does not apply
+residenceLength,1,born,Born in the UK
+residenceLength,2,10plus,10 years or more
+residenceLength,3,5_10,5 years or more but less than 10 years
+residenceLength,4,2_5,2 years or more but less than 5 years
+residenceLength,5,less2,Less than 2 years
+migration,-8,N/A,Does not apply
+migration,0,sameAddr,Address one year ago is the same as the address of enumeration
+migration,1,edAddr,Address one year ago is student term-time or boarding school address in the UK
+migration,2,ukAddr,Migrant from within the UK: Address one year ago was in the UK
+migration,3,overseasAddr,Migrant from outside the UK: Address one year ago was outside the UK
+passportCountry,-8,N/A,Does not apply
+passportCountry,1,UK,Europe: United Kingdom
+passportCountry,2,Ireland,Europe: Ireland
+passportCountry,3,France,Europe: Other Europe: EU Member countries: France
+passportCountry,4,Germany,Europe: Other Europe: EU Member countries: Germany
+passportCountry,5,Italy,Europe: Other Europe: EU Member countries: Italy
+passportCountry,6,Portugal,Europe: Other Europe: EU Member countries: Portugal
+passportCountry,7,Spain,Europe: Other Europe: EU Member countries: Spain
+passportCountry,8,Lithuania,Europe: Other Europe: EU Member countries: Lithuania
+passportCountry,9,Poland,Europe: Other Europe: EU Member countries: Poland
+passportCountry,10,Romania,Europe: Other Europe: EU Member countries: Romania
+passportCountry,11,EU,Europe: Other Europe: EU Member countries: Other EU countries
+passportCountry,12,Turkey,Europe: Other Europe: Rest of Europe: Turkey
+passportCountry,13,Europe,Europe: Other Europe: Rest of Europe: Other Europe
+passportCountry,14,NAfrica,Africa: North Africa
+passportCountry,15,Ghana,Africa: Central and Western Africa: Ghana
+passportCountry,16,Nigeria,Africa: Central and Western Africa: Nigeria
+passportCountry,17,CWAfrica,Africa: Central and Western Africa: Other Central and Western Africa
+passportCountry,18,Kenya,Africa: South and Eastern Africa: Kenya
+passportCountry,19,Somalia,Africa: South and Eastern Africa: Somalia
+passportCountry,20,SAfrica,Africa: South and Eastern Africa: South Africa
+passportCountry,21,Zimbabwe,Africa: South and Eastern Africa: Zimbabwe
+passportCountry,22,SEAfrica,Africa: South and Eastern Africa: Other South and Eastern Africa
+passportCountry,23,Iran,Middle East and Asia: Middle East: Iran
+passportCountry,24,Iraq,Middle East and Asia: Middle East: Iraq
+passportCountry,25,MiddleEast,Middle East and Asia: Middle East: Other Middle East
+passportCountry,26,China,Middle East and Asia: Eastern Asia: China
+passportCountry,27,HongKong,Middle East and Asia: Eastern Asia: Hong Kong (Special Administrative Region of China)
+passportCountry,28,Japan,Middle East and Asia: Eastern Asia: Japan
+passportCountry,29,EAsia,Middle East and Asia: Eastern Asia: Other Eastern Asia
+passportCountry,30,Afghanistan,Middle East and Asia: Southern Asia: Afghanistan
+passportCountry,31,Bangladesh,Middle East and Asia: Southern Asia: Bangladesh
+passportCountry,32,India,Middle East and Asia: Southern Asia: India
+passportCountry,33,Pakistan,Middle East and Asia: Southern Asia: Pakistan
+passportCountry,34,SriLanka,Middle East and Asia: Southern Asia: Sri Lanka
+passportCountry,35,SAsia,Middle East and Asia: Southern Asia: Other Southern Asia
+passportCountry,36,Malaysia,Middle East and Asia: South-East Asia: Malaysia
+passportCountry,37,Philippines,Middle East and Asia: South-East Asia: Philippines
+passportCountry,38,Singapore,Middle East and Asia: South-East Asia: Singapore
+passportCountry,39,SEAsia,Middle East and Asia: South-East Asia: Other South-East Asia
+passportCountry,40,CAsia,Middle East and Asia: Central Asia
+passportCountry,41,Canada,The Americas and the Caribbean: North America: Canada
+passportCountry,42,US,The Americas and the Caribbean: North America: United States
+passportCountry,43,CAmerica,The Americas and the Caribbean: Central America
+passportCountry,44,SAmerica,The Americas and the Caribbean: South America
+passportCountry,45,Jamaica,The Americas and the Caribbean: The Caribbean: Jamaica
+passportCountry,46,Caribbean,The Americas and the Caribbean: The Caribbean: Other Caribbean
+passportCountry,47,Australia,Antarctica and Oceania: Australasia: Australia
+passportCountry,48,NewZealand,Antarctica and Oceania: Australasia: New Zealand
+passportCountry,49,Oceania,Antarctica and Oceania: Other Antarctica and Oceania
+passportCountry,50,BritishOverseas,British Overseas Territories
+passportCountry,51,NoPassport,No passport held
+passportRegion,-8,N/A,Does not apply
+passportRegion,1,UK,Europe: United Kingdom
+passportRegion,2,Ireland,Europe: Ireland
+passportRegion,3,France,Europe: Other Europe: EU Member countries: France
+passportRegion,4,Germany,Europe: Other Europe: EU Member countries: Germany
+passportRegion,5,Italy,Europe: Other Europe: EU Member countries: Italy
+passportRegion,6,Portugal,Europe: Other Europe: EU Member countries: Portugal
+passportRegion,7,Spain,Europe: Other Europe: EU Member countries: Spain
+passportRegion,8,Lithuania,Europe: Other Europe: EU Member countries: Lithuania
+passportRegion,9,Poland,Europe: Other Europe: EU Member countries: Poland
+passportRegion,10,Romania,Europe: Other Europe: EU Member countries: Romania
+passportRegion,11,EU,Europe: Other Europe: EU Member countries: Other EU countries
+passportRegion,12,Turkey,Europe: Other Europe: Rest of Europe: Turkey
+passportRegion,13,Europe,Europe: Other Europe: Rest of Europe: Other Europe
+passportRegion,14,NAfrica,Africa: North Africa
+passportRegion,15,CWAfrica,Africa: Central and Western Africa
+passportRegion,16,EAfrica,Africa: South and Eastern Africa
+passportRegion,17,MiddleEast,Middle East and Asia: Middle East
+passportRegion,18,EAsia,Middle East and Asia: Eastern Asia
+passportRegion,19,SAsia,Middle East and Asia: Southern Asia
+passportRegion,20,SEAsia,Middle East and Asia: South-East Asia
+passportRegion,21,CAsia,Middle East and Asia: Central Asia
+passportRegion,22,NAmericaCaribbean,The Americas and the Caribbean: North America and the Caribbean
+passportRegion,23,CSAmerica,The Americas and the Caribbean: Central and South America
+passportRegion,24,Oceania,"Antarctica and Oceania, including Australasia"
+passportRegion,25,BritishOverseas,British Overseas Territories
+passportRegion,26,NoPassport,No passport held
+arrival,-8,N/A,Does not apply
+arrival,1,born,Born in the UK
+arrival,2,pre1951,Arrived before 1951
+arrival,3,1951_1960,Arrived 1951 to 1960
+arrival,4,§961_1970,Arrived 1961 to 1970
+arrival,5,1971_1980,Arrived 1971 to 1980
+arrival,6,1981_1990,Arrived 1981 to 1990
+arrival,7,1991_2000,Arrived 1991 to 2000
+arrival,8,2001_2010,Arrived 2001 to 2010
+arrival,9,2011_2013,Arrived 2011 to 2013
+arrival,10,2014_2016,Arrived 2014 to 2016
+arrival,11,2017_2019,Arrived 2017 to 2019
+arrival,12,2020_2021,Arrived 2020 to 2021
+shortTerm,Female,female,female
+shortTerm,Male,male,male
+hoursWorked,-8,N/A,Does not apply
+hoursWorked,1,15less,Part-time: 15 hours or less worked
+hoursWorked,2,16_30,Part-time: 16 to 30 hours worked
+hoursWorked,3,31_48,Full-time: 31 to 48 hours worked
+hoursWorked,4,49plus,Full-time: 49 or more hours worked
+econActivity,-8,N/A,Does not apply
+econActivity,1,employeePT,Economically active (excluding full-time students): In employment: Employee: Part-time
+econActivity,2,employeeFT,Economically active (excluding full-time students): In employment: Employee: Full-time
+econActivity,3,selfEmployerPT,Economically active (excluding full-time students): In employment: Self-employed with employees: Part-time
+econActivity,4,selfEmployerFT,Economically active (excluding full-time students): In employment: Self-employed with employees: Full-time
+econActivity,5,selfPT,Economically active (excluding full-time students): In employment: Self-employed without employees: Part-time
+econActivity,6,selfFT,Economically active (excluding full-time students): In employment: Self-employed without employees: Full-time
+econActivity,7,jobSeeking,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks
+econActivity,8,studentEmployeePT,Economically active and a full-time student: In employment: Employee: Part-time
+econActivity,9,studentEmployeeFT,Economically active and a full-time student: In employment: Employee: Full-time
+econActivity,10,studentSelfEmployerPT,Economically active and a full-time student: In employment: Self-employed with employees: Part-time
+econActivity,11,studentSelfEmployerFT,Economically active and a full-time student: In employment: Self-employed with employees: Full-time
+econActivity,12,studentSelfPT,Economically active and a full-time student: In employment: Self-employed without employees: Part-time
+econActivity,13,studentSelfFT,Economically active and a full-time student: In employment: Self-employed without employees: Full-time
+econActivity,14,studentJobSeeking,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks
+econActivity,15,retired,Economically inactive: Retired
+econActivity,16,student,Economically inactive: Student
+econActivity,17,care,Economically Inactive: Looking after home or family
+econActivity,18,sick,Economically inactive: Long-term sick or disabled
+econActivity,19,otherInactive,Economically inactive: Other
+industry,-8,N/A,Does not apply
+industry,1,i01,"01 Crop and animal production, hunting and related service activities"
+industry,2,i02,02 Forestry and logging
+industry,3,i03,03 Fishing and aquaculture
+industry,4,i05,05 Mining of coal and lignite
+industry,5,i06,06 Extraction of crude petroleum and natural gas
+industry,6,i07,07 Mining of metal ores
+industry,7,i08,08 Other mining and quarrying
+industry,8,i09,09 Mining support service activities
+industry,9,i10,10 Manufacture of food products
+industry,10,i11,11 Manufacture of beverages
+industry,11,i12,12 Manufacture of tobacco products
+industry,12,i13,13 Manufacture of textiles
+industry,13,i14,14 Manufacture of wearing apparel
+industry,14,i15,15 Manufacture of leather and related products
+industry,15,i16,"16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials"
+industry,16,i17,17 Manufacture of paper and paper products
+industry,17,i18,18 Printing and reproduction of recorded media
+industry,18,i19,19 Manufacture of coke and refined petroleum products
+industry,19,i20,20 Manufacture of chemicals and chemical products
+industry,20,i21,21 Manufacture of basic pharmaceutical products and pharmaceutical preparations
+industry,21,i22,22 Manufacture of rubber and plastic products
+industry,22,i23,23 Manufacture of other non-metallic mineral products
+industry,23,i24,24 Manufacture of basic metals
+industry,24,i25,"25 Manufacture of fabricated metal products, except machinery and equipment"
+industry,25,i26,"26 Manufacture of computer, electrical and optical products"
+industry,26,i27,27 Manufacture of electrical equipment
+industry,27,i28,28 Manufacture of machinery and equipment not otherwise specified
+industry,28,i29,"29 Manufacture of motor vehicles, trailers and semi-trailers"
+industry,29,i30,30 Manufacture of other transport equipment
+industry,30,i31,31 Manufacture of furniture
+industry,31,i32,32 Other Manufacturing
+industry,32,i33,33 Repair and installation of machinery and equipment
+industry,33,i35,"35 Electricity, gas, steam and air conditioning supply"
+industry,34,i36,"36 Water collection, treatment and supply"
+industry,35,i37,37 Sewerage
+industry,36,i38,"38 Waste collection, treatment and disposal activities; materials recovery"
+industry,37,i39,39 Remediation activities and other waste management services
+industry,38,i41_42_43,41 Construction of buildings; 42 Civil engineering; 43 Specialised construction activities
+industry,39,i45,45 Wholesale and retail trade and repair of motor vehicles and motorcycles
+industry,40,i46,"46 Wholesale trade, except of motor vehicles and motorcycles"
+industry,41,i47,"47 Retail trade, except of motor vehicles and motorcycles"
+industry,42,i48,48 Wholesale and retail not otherwise specified
+industry,43,i49,49 Land transport and transport via pipelines
+industry,44,i50,50 Water transport
+industry,45,i51,51 Air transport
+industry,46,i52,52 Warehousing and support activities for transportation
+industry,47,i53,53 Postal and courier activities
+industry,48,i55,55 Accommodation
+industry,49,i56,56 Food and beverage service activities
+industry,50,i58,58 Publishing activities
+industry,51,i59,"59 Motion picture, video and television production, sound recording and music publishing activities"
+industry,52,i60,60 Programming and broadcasting activities
+industry,53,i61,61 Telecommunications
+industry,54,i62,"62 Computer programming, consultancy and related activities"
+industry,55,i63,63 Information service activities
+industry,56,i64,"64 Financial service activities, except insurance and pension funding"
+industry,57,i65,"65 Insurance, reinsurance and pension funding, except compulsory social security"
+industry,58,i66,66 Activities auxiliary to financial services and insurance activities
+industry,59,i68,68 Real estate activities
+industry,60,i69,69 Legal and accounting activities
+industry,61,i70,70 Activities of head offices; management consultancy activities
+industry,62,i71,71 Architectural and engineering activities; technical testing and analysis
+industry,63,i72,72 Scientific research and development
+industry,64,i73,73 Advertising and market research
+industry,65,i74,"74 Other professional, scientific and technical activities"
+industry,66,i75,75 Veterinary activities
+industry,67,i77,77 Rental and leasing activities
+industry,68,i78,78 Employment activities
+industry,69,i79,"79 Travel agency, tour operator and other reservation service and related activities"
+industry,70,i80,80 Security and investigation activities
+industry,71,i81,81 Services to buildings and landscape activities
+industry,72,i82,"82 Office administrative, office support and other business support activities"
+industry,73,i84,84 Public administration and defence; compulsory social security
+industry,74,i85,85 Education
+industry,75,i86,86 Human health activities
+industry,76,i87,87 Residential care activities
+industry,77,i88,88 Social work activities without accommodation
+industry,78,i90,"90 Creative, arts and entertainment activities"
+industry,79,i91,"91 Libraries, archives, museums and other cultural activities"
+industry,80,i92,92 Gambling and betting activities
+industry,81,i93,93 Sports activities and amusement and recreation activities
+industry,82,i94,94 Activities of membership organisations
+industry,83,i95,95 Repair of computers and personal and household goods
+industry,84,i96,96 Other personal service activities
+industry,85,i97,97 Activities of households as employers of domestic personnel
+industry,86,i98,98 Undifferentiated goods- and services-producing activities of private households for own use
+industry,87,i99,99 Activities of extraterritorial organisations and bodies
+socioEcon,-8,N/A,Does not apply
+socioEcon,1,L1_L2_L3,"L1, L2 and L3: Higher managerial, administrative and professional occupations"
+socioEcon,2,L4_L5_L6,"L4, L5 and L6: Lower managerial, administrative and professional occupations"
+socioEcon,3,L7,L7: Intermediate occupations
+socioEcon,4,L8_L9,L8 and L9: Small employers and own account workers
+socioEcon,5,L10_L11,L10 and L11: Lower supervisory and technical occupations
+socioEcon,6,L12,L12: Semi-routine occupations
+socioEcon,7,L13,L13: Routine occupations
+socioEcon,8,L14,L14.1 and L14.2: Never worked and long-term unemployed
+socioEcon,9,L15,L15: Full-time students
+occupation,-8,N/A,Does not apply
+occupation,1,management,"1. Managers, directors and senior officials"
+occupation,2,professional,2. Professional occupations
+occupation,3,technical,3. Associate professional and technical occupations
+occupation,4,admin,4. Administrative and secretarial occupations
+occupation,5,skilledTrade,5. Skilled trades occupations
+occupation,6,service,"6. Caring, leisure and other service occupations"
+occupation,7,sales,7. Sales and customer service occupations
+occupation,8,manual,"8. Process, plant and machine operatives"
+occupation,9,elementary,9. Elementary occupations
+occupationDetailed,-8,N/A,Does not apply
+occupationDetailed,1,o111,111 Chief Executives and Senior Officials
+occupationDetailed,2,o112,112 Production Managers and Directors
+occupationDetailed,3,o113,113 Functional Managers and Directors
+occupationDetailed,4,o114,114 Directors in Logistics Warehousing and Transport
+occupationDetailed,5,o115,115 Managers and Directors in Retail and Wholesale
+occupationDetailed,6,o116,116 Senior Officers in Protective Services
+occupationDetailed,7,o117,117 Health and Social Services Managers and Directors
+occupationDetailed,8,o121,121 Managers and Proprietors in Agriculture Related Services
+occupationDetailed,9,o122,122 Managers and Proprietors in Hospitality and Leisure Services
+occupationDetailed,10,o123,123 Managers and Proprietors in Health and Care Services
+occupationDetailed,11,o124,124 Managers in Logistics Warehousing and Transport
+occupationDetailed,12,o125,125 Managers and Proprietors in Other Services
+occupationDetailed,13,o211,211 Natural and Social Science Professionals
+occupationDetailed,14,o212,212 Engineering Professionals
+occupationDetailed,15,o213,213 Information Technology Professionals
+occupationDetailed,16,o214,214 Web and Multimedia Design Professionals
+occupationDetailed,17,o215,215 Conservation and Environment Professionals
+occupationDetailed,18,o216,216 Research and Development (R&D) and Other Research Professionals
+occupationDetailed,19,o221,221 Medical Practitioners
+occupationDetailed,20,o222,222 Therapy Professionals
+occupationDetailed,21,o223,223 Nursing and Midwifery Professionals
+occupationDetailed,22,o224,224 Veterinarians
+occupationDetailed,23,o225,225 Other Health Professionals
+occupationDetailed,24,o231,231 Teaching and other Educational Professionals
+occupationDetailed,25,o232,232 Other Educational Professionals
+occupationDetailed,26,o241,241 Legal Professionals
+occupationDetailed,27,o242,242 Finance Professionals
+occupationDetailed,28,o243,243 Business Research and Administrative Professionals
+occupationDetailed,29,o244,244 Business and Financial Project Management Professionals
+occupationDetailed,30,o245,245 Architects Chartered Architectural Technologists Planning Officers Surveyors and Construction Professionals
+occupationDetailed,31,o246,246 Welfare Professionals
+occupationDetailed,32,o247,247 Librarians and Related Professionals
+occupationDetailed,33,o248,248 Quality and Regulatory Professionals
+occupationDetailed,34,o249,249 Media Professionals
+occupationDetailed,35,o311,311 Science Engineering and Production Technicians
+occupationDetailed,36,o312,312 CAD Drawing and Architectural Technicians
+occupationDetailed,37,o313,313 Information Technology Technicians
+occupationDetailed,38,o321,321 Health Associate Professionals
+occupationDetailed,39,o322,322 Welfare and Housing Associate Professionals
+occupationDetailed,40,o323,323 Teaching and Childcare Associate Professionals
+occupationDetailed,41,o324,324 Veterinary nurses
+occupationDetailed,42,o331,331 Protective Service Occupations
+occupationDetailed,43,o341,341 Artistic Literary and Media Occupations
+occupationDetailed,44,o342,342 Design Occupations
+occupationDetailed,45,o343,343 Sports and Fitness Occupations
+occupationDetailed,46,o351,351 Transport Associate Professionals
+occupationDetailed,47,o352,352 Legal Associate Professionals
+occupationDetailed,48,o353,353 Finance Associate Professionals
+occupationDetailed,49,o354,354 Business Associate Professionals
+occupationDetailed,50,o355,355 Sales Marketing and Related Associate Professionals
+occupationDetailed,51,o356,356 Public Services Associate Professionals
+occupationDetailed,52,o357,357 HR Training and Other Vocational Associate Guidance Professionals
+occupationDetailed,53,o358,358 Regulatory Associate Professionals
+occupationDetailed,54,o411,411 Administrative Occupations: Government and Related Organisations
+occupationDetailed,55,o412,412 Administrative Occupations: Finance
+occupationDetailed,56,o413,413 Administrative Occupations: Records
+occupationDetailed,57,o414,414 Administrative Occupations: Office Managers and Supervisors
+occupationDetailed,58,o415,415 Other Administrative Occupations
+occupationDetailed,59,o421,421 Secretarial and Related Occupations
+occupationDetailed,60,o511,511 Agricultural and Related Trades
+occupationDetailed,61,o521,521 Metal Forming Welding and Related Trades
+occupationDetailed,62,o522,522 Metal Machining Fitting and Instrument Making Trades
+occupationDetailed,63,o523,523 Vehicle Trades
+occupationDetailed,64,o524,524 Electrical and Electronic Trades
+occupationDetailed,65,o525,525 Skilled Metal Electrical and Electronic Trades Supervisors
+occupationDetailed,66,o531,531 Construction and Building Trades
+occupationDetailed,67,o532,532 Building Finishing Trades
+occupationDetailed,68,o533,533 Construction and Building Trades Supervisors
+occupationDetailed,69,o541,541 Textiles and Garments Trades
+occupationDetailed,70,o542,542 Printing Trades
+occupationDetailed,71,o543,543 Food Preparation and Hospitality Trades
+occupationDetailed,72,o544,544 Other Skilled Trades
+occupationDetailed,73,o611,611 Teaching and Childcare Support Occupations
+occupationDetailed,74,o612,612 Animal Care and Control Services
+occupationDetailed,75,o613,613 Caring Personal Services
+occupationDetailed,76,o621,621 Leisure and Travel Services
+occupationDetailed,77,o622,622 Hairdressers and Related Services
+occupationDetailed,78,o623,623 Housekeeping and Related Services
+occupationDetailed,79,o624,624 Cleaning and Housekeeping Managers and Supervisors
+occupationDetailed,80,o625,625 Bed and Breakfast and Guest House Owners and Proprietors
+occupationDetailed,81,o631,631 Community and Civil Enforcement Occupations
+occupationDetailed,82,o711,711 Sales Assistants and Retail Cashiers
+occupationDetailed,83,o712,712 Sales Related Occupations
+occupationDetailed,84,o713,713 Shopkeepers and Sales Supervisors
+occupationDetailed,85,o721,721 Customer Service Occupations
+occupationDetailed,86,o722,722 Customer Service Supervisors
+occupationDetailed,87,o811,811 Process Operatives
+occupationDetailed,88,o812,812 Metal Working Machine Operatives
+occupationDetailed,89,o813,813 Plant and Machine Operatives
+occupationDetailed,90,o814,814 Assemblers and Routine Operatives
+occupationDetailed,91,o815,815 Construction Operatives
+occupationDetailed,92,o816,816 Production Factory and Assembly Supervisors
+occupationDetailed,93,o821,821 Road Transport Drivers
+occupationDetailed,94,o822,822 Mobile Machine Drivers and Operatives
+occupationDetailed,95,o823,823 Other Drivers and Transport Operatives
+occupationDetailed,96,o911,911 Elementary Agricultural Occupations
+occupationDetailed,97,o912,912 Elementary Construction Occupations
+occupationDetailed,98,o913,913 Elementary Process Plant Occupations
+occupationDetailed,99,o921,921 Elementary Administration Occupations
+occupationDetailed,100,o922,922 Elementary Cleaning Occupations
+occupationDetailed,101,o923,923 Elementary Security Occupations
+occupationDetailed,102,o924,924 Elementary Sales Occupations
+occupationDetailed,103,o925,925 Elementary Storage Occupations
+occupationDetailed,104,o926,926 Other Elementary Services Occupations
+gender,-8,N/A,Does not apply
+gender,1,asBirth,Gender identity the same as sex registered at birth
+gender,2,trans,Gender identity different from sex registered at birth but no specific identity given
+gender,3,transWoman,Trans woman
+gender,4,transMan,Trans man
+gender,5,nonBinary,Non-binary
+gender,6,other,All other gender identities
+gender,7,noAnswer,Not answered
+genderGeneral,-8,N/A,Does not apply
+genderGeneral,1,asBirth,Gender identity the same as sex registered at birth
+genderGeneral,2,trans,Gender identity different from sex registered at birth but no specific identity given
+genderGeneral,3,transWoman,Trans woman
+genderGeneral,4,transMan,Trans man
+genderGeneral,5,other,All other gender identities
+genderGeneral,6,noAnswer,Not answered
+sexualOrientation,-8,N/A,Does not apply
+sexualOrientation,1,straight,Straight or Heterosexual
+sexualOrientation,2,gayOrLesbian,Gay or Lesbian
+sexualOrientation,3,bisexual,Bisexual
+sexualOrientation,4,pansexual,Pansexual
+sexualOrientation,5,asexual,Asexual
+sexualOrientation,6,queer,Queer
+sexualOrientation,7,other,All other sexual orientations
+sexualOrientation,8,noAnswer,Not answered
+sexualOrientationGeneral,-8,N/A,Does not apply
+sexualOrientationGeneral,1,straight,Straight or Heterosexual
+sexualOrientationGeneral,2,gayOrLesbian,Gay or Lesbian
+sexualOrientationGeneral,3,bisexual,Bisexual
+sexualOrientationGeneral,4,other,All other sexual orientations
+sexualOrientationGeneral,5,noAnswer,Not answered
+workDistance,-8,N/A,Does not apply
+workDistance,1,2less,Less than 2km
+workDistance,2,2_5,2km to less than 5km
+workDistance,3,5_10,5km to less than 10km
+workDistance,4,10_20,10km to less than 20km
+workDistance,5,20_30,20km to less than 30km
+workDistance,6,30_40,30km to less than 40km
+workDistance,7,40_60,40km to less than 60km
+workDistance,8,60plus,60km and over
+workDistance,9,home,Works mainly from home
+workDistance,10,offshore,"Works mainly at an offshore installation, in no fixed place, or outside the UK"
+workTravelMode,1,home,Work mainly at or from home
+workTravelMode,2,metro,"Underground, metro, light rail, tram"
+workTravelMode,3,train,Train
+workTravelMode,4,bus,"Bus, minibus or coach"
+workTravelMode,5,taxi,Taxi
+workTravelMode,6,motorcycle,"Motorcycle, scooter or moped"
+workTravelMode,7,carDriver,Driving a car or van
+workTravelMode,8,carPassenger,Passenger in a car or van
+workTravelMode,9,bicycle,Bicycle
+workTravelMode,10,foot,On foot
+workTravelMode,11,other,Other method of travel to work
+workTravelMode,12,noWork,Not in employment or aged 15 years and under
+forcesServed,-8,N/A,Does not apply
+forcesServed,1,regular,Previously served in the UK regular armed forces
+forcesServed,2,reserve,Previously served in UK reserve armed forces
+forcesServed,3,regularAndReserve,Previously served in both regular and reserve UK armed forces
+forcesServed,4,notServed,Has not previously served in any UK armed forces
+numberServed,-8,N/A,Does not apply
+numberServed,0,none,No people in the household previously served in UK armed forces
+numberServed,1,s1,1 person in the household previously served in UK armed forces
+numberServed,2,s2,2 people in the household previously served in UK armed forces
+numberServed,3,s3plus,3 or more people in the household previously served in UK armed forces
+forcesLiving,1,household,Lives in a household
+forcesLiving,2,communal,Lives in a communal establishment
+forcesServedReference,-8,N/A,Does not apply
+forcesServedReference,1,regular,Household reference person previously served in regular UK armed forces
+forcesServedReference,2,reserve,Household reference person previously served in reserve UK armed forces
+forcesServedReference,3,regularAndReserve,Household reference person previously served in both regular and reserve UK armed forces
+forcesServedReference,4,notServed,Household reference person has not previously served in regular or reserve UK armed forces
