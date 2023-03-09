@@ -1267,7 +1267,7 @@ arrival,-8,N/A,Does not apply
 arrival,1,born,Born in the UK
 arrival,2,pre1951,Arrived before 1951
 arrival,3,1951_1960,Arrived 1951 to 1960
-arrival,4,§961_1970,Arrived 1961 to 1970
+arrival,4,1961_1970,Arrived 1961 to 1970
 arrival,5,1971_1980,Arrived 1971 to 1980
 arrival,6,1981_1990,Arrived 1981 to 1990
 arrival,7,1991_2000,Arrived 1991 to 2000
