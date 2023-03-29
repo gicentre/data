@@ -1,5 +1,5 @@
 table,category,shortDesc,description
-"age","0","under1","under 1 year old"
+age,0,under1,under 1 year old
 age,1,age1,age 1
 age,2,age2,age 2
 age,3,age3,age 3
@@ -305,15 +305,15 @@ ageSex,m100,m100,male age 10
 pop,pop,population,population
 popDensity,popDensity,popDensity,population density
 households,households,households,Number of households
-householdSize,0,0,household with 0 residents
-householdSize,1,1,household with 1 resident
-householdSize,2,2,household with 2 residents
-householdSize,3,3,household with 3 residents
-householdSize,4,4,household with 4 residents
-householdSize,5,5,household with 5 residents
-householdSize,6,6,household with 6 residents
-householdSize,7,7,household with 7 residents
-householdSize,8,8plus,household with 8 or more residents
+householdSize,0,h0,household with 0 residents
+householdSize,1,h1,household with 1 resident
+householdSize,2,h2,household with 2 residents
+householdSize,3,h3,household with 3 residents
+householdSize,4,h4,household with 4 residents
+householdSize,5,h5,household with 5 residents
+householdSize,6,h6,household with 6 residents
+householdSize,7,h7,household with 7 residents
+householdSize,8,h8plus,household with 8 or more residents
 householdComposition,-8,N/A,Does not apply
 householdComposition,1,oneOver66,One-person household: Aged 66 years and over
 householdComposition,2,oneOther,One-person household: Other
