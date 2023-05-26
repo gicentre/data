@@ -1,0 +1,1 @@
+- backgroundMap.json is a topoJSON file with a `TQ` object derived from Ordnance Survey OpenMapLocal and Greenspace datasets.  © Crown copyright and database right 2023, subject to licence http://os.uk/opendata/licence
