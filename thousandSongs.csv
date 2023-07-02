@@ -11,7 +11,6 @@ id,year,title,artist,theme,spotifyUrl
 10,1929,(What Did I Do To Be So) Black And Blue,Louis Armstrong,Politics and protest,http://open.spotify.com/track/7ogRU94YDmyoE1MkMbrddk
 11,1931,Minnie the Moocher,Cab Calloway,People and places,http://open.spotify.com/track/1Ns0szGnyIV7BLkWsrkdVu
 12,1931,Devil Got My Woman,Skip James,Heartbreak,http://open.spotify.com/track/0PIFpAuiiowI88mPS6KYsj
-13,1932,Brother Can You Spare a Dime?,Bing Crosby,People and places,http://open.spotify.com/track/2Ei1sEtJU0ENRvk3sKZx0X
 14,1932,Brother Can You Spare a Dime?,Bing Crosby,Politics and protest,http://open.spotify.com/track/2Ei1sEtJU0ENRvk3sKZx0X
 15,1935,Will the Circle Be Unbroken (By and By),The Carter Family,Life and death,
 16,1936,Cross Road Blues,Robert Johnson,People and places,
@@ -171,7 +170,6 @@ id,year,title,artist,theme,spotifyUrl
 170,1965,Unchained Melody,The Righteous Brothers,Love,http://open.spotify.com/track/2ACjOtICHXrAlP3ijVMSvb
 171,1965,Make it Easy on Yourself,The Walker Brothers,Heartbreak,http://open.spotify.com/track/5RT0MynLRywe8D3UHJ4UNG
 172,1965,My Generation,The Who,Politics and protest,http://open.spotify.com/track/4kxrawSkeAoJiASQArwqYO
-173,1965,My Generation,The Who,Party songs,http://open.spotify.com/track/4kxrawSkeAoJiASQArwqYO
 174,1965,Here Comes the Night,Them/Van Morrison,Love,http://open.spotify.com/track/7knFQrGf88XnKjgyGrB70p
 175,1966,So Nice (Summer Samba),Astrud Gilberto,Life and death,http://open.spotify.com/track/155rAbTUh7q24pynaJsQLu
 176,1966,I’ve Got to Go Back Home,Bob Andy,People and places,
@@ -272,7 +270,6 @@ id,year,title,artist,theme,spotifyUrl
 271,1968,Yer Blues,The Beatles,Life and death,
 272,1968,Goin’ Back,The Byrds,Life and death,http://open.spotify.com/track/27sI9GC4xswPEHxBDZU7lZ
 273,1968,Triad,The Byrds,Sex,http://open.spotify.com/track/3Vcbq1XGXbvwXT9wC4XJjj
-274,1968,The Village Green Preservation Society,The Kinks,People and places,
 275,1968,The Village Green Preservation Society,The Kinks,Politics and protest,
 276,1968,Street Fighting Man,The Rolling Stones,Politics and protest,http://open.spotify.com/track/7eZ2NUG1G7SKssQqt4uRcy
 277,1968,Long Walk to DC,The Staple Singers,Politics and protest,http://open.spotify.com/track/7yDbI673oElwJy891HuBHZ
@@ -503,7 +500,6 @@ id,year,title,artist,theme,spotifyUrl
 502,1977,Solsbury Hill,Peter Gabriel,People and places,
 503,1977,Baltimore,Randy Newman,People and places,
 504,1977,Short People,Randy Newman,Politics and protest,http://open.spotify.com/track/6emIUUgOV0lPgUYbJ1RZ7I
-505,1977,Short People,Randy Newman,Party songs,http://open.spotify.com/track/6emIUUgOV0lPgUYbJ1RZ7I
 506,1977,Runaway,Salsoul Orchestra,Party songs,
 507,1977,God Save the Queen,Sex Pistols,Politics and protest,http://open.spotify.com/track/7mkLlx81e3LaCrPVZYOBCT
 508,1977,If the Kids Are United,Sham 69,Politics and protest,http://open.spotify.com/track/2ZybCRD7fboSUv7HkXyjuN
@@ -658,7 +654,6 @@ id,year,title,artist,theme,spotifyUrl
 657,1983,"Johnsburg, Illinois",Tom Waits,People and places,http://open.spotify.com/track/1Opgvak0Qc2kyLVLFbuu1V
 658,1983,Sunday Bloody Sunday,U2,Politics and protest,http://open.spotify.com/track/7JLEWweiny60arxyKTKIwl
 659,1983,Break Dance – Electric Boogie,West Street Mob,Party songs,
-660,1984,Smalltown Boy,Bronski Beat,People and places,http://open.spotify.com/track/1nz1xzqPN4xYZtR4zgiLxt
 661,1984,Smalltown Boy,Bronski Beat,Politics and protest,http://open.spotify.com/track/1nz1xzqPN4xYZtR4zgiLxt
 662,1984,Born in the USA,Bruce Springsteen,Politics and protest,http://open.spotify.com/track/36b2xkXNJKRCWeUrsC3jyQ
 663,1984,No Surrender,Bruce Springsteen,Life and death,http://open.spotify.com/track/5eMjyo7t0lAl5PobsAqSe2
@@ -701,7 +696,6 @@ id,year,title,artist,theme,spotifyUrl
 700,1986,Levi Stubbs’ Tears,Billy Bragg,People and places,
 701,1986,Just Say No,Cast of Grange Hill,Politics and protest,
 702,1986,I Hope You’re Happy Now,Elvis Costello and the Attractions,Heartbreak,http://open.spotify.com/track/0lJeIRRrwRmnkRWpjai96c
-703,1986,I Want You,Elvis Costello and the Attractions,Heartbreak,http://open.spotify.com/track/4LBnvKaSC9RqnFYA0LDIGt
 704,1986,I Want You,Elvis Costello and the Attractions,Sex,http://open.spotify.com/track/4LBnvKaSC9RqnFYA0LDIGt
 705,1986,Jack of All Parades,Elvis Costello and the Attractions,Love,
 706,1986,All I Want for Christmas Is a Dukla Prague Away Kit,Half Man Half Biscuit,Party songs,
