@@ -3,7 +3,7 @@
 <metadata><bounds minlat="51.454747344329348" minlon="-0.226577288349427" maxlat="51.512066209060251" maxlon="-0.119128381729059"/></metadata>                  
 <rte>
   <name>P1 Westminster</name>
-  <desc>10130.8006460475</desc>
+  <desc>10414.38704099705</desc>
   <src>24</src>
   <number>1</number>
   <rtept lat="51.511749449571887" lon="-0.119691753465002">
@@ -63,6 +63,14 @@
   <rtept lat="51.496191343957541" lon="-0.134868404941369">
   </rtept>
   <rtept lat="51.495950162008114" lon="-0.135136617250561">
+  </rtept>
+  <rtept lat="51.494831149902993" lon="-0.13421294572668">
+  </rtept>
+  <rtept lat="51.49459148" lon="-0.134234258">
+  </rtept>
+  <rtept lat="51.495056525714325" lon="-0.134544590341121">
+  </rtept>
+  <rtept lat="51.495448943811283" lon="-0.135692168836153">
   </rtept>
   <rtept lat="51.495806464203625" lon="-0.135481702705043">
   </rtept>
@@ -129,10 +137,6 @@
   <rtept lat="51.496488531691021" lon="-0.14219601762451">
   </rtept>
   <rtept lat="51.496546695543735" lon="-0.142881970860614">
-  </rtept>
-  <rtept lat="51.496831645813302" lon="-0.142954582071778">
-  </rtept>
-  <rtept lat="51.496577619421259" lon="-0.14317540681969">
   </rtept>
   <rtept lat="51.496718073510984" lon="-0.145076789461">
   </rtept>
@@ -1736,53 +1740,53 @@
   <desc>Abbey Orchard Street, Westminster</desc>
   <src>108</src>
 </wpt>
-<wpt lat="51.49582705" lon="-0.13547809">
-  <name>5.RR</name>
+<wpt lat="51.49459148" lon="-0.134234258">
+  <name>5.GS</name>
   <cmt>P1.05</cmt>
+  <desc>Greycoat Street , Westminster</desc>
+  <src>353</src>
+</wpt>
+<wpt lat="51.49582705" lon="-0.13547809">
+  <name>6.RR</name>
+  <cmt>P1.06</cmt>
   <desc>Rochester Row, Westminster</desc>
   <src>118</src>
 </wpt>
 <wpt lat="51.49782999" lon="-0.135440826">
-  <name>6.BP</name>
-  <cmt>P1.06</cmt>
+  <name>7.BP</name>
+  <cmt>P1.07</cmt>
   <desc>Butler Place, Westminster</desc>
   <src>359</src>
 </wpt>
 <wpt lat="51.49886563" lon="-0.137424571">
-  <name>7.BG</name>
-  <cmt>P1.07</cmt>
+  <name>8.BG</name>
+  <cmt>P1.08</cmt>
   <desc>Buckingham Gate, Westminster</desc>
   <src>646</src>
 </wpt>
 <wpt lat="51.497998" lon="-0.14296064">
-  <name>8.WR</name>
-  <cmt>P1.08</cmt>
+  <name>9.WR</name>
+  <cmt>P1.09</cmt>
   <desc>Warwick Row, Westminster</desc>
   <src>316</src>
 </wpt>
 <wpt lat="51.49769846" lon="-0.137598896">
-  <name>9.KGH</name>
-  <cmt>P1.09</cmt>
+  <name>10.KGH</name>
+  <cmt>P1.10</cmt>
   <desc>Kings Gate House, Westminster</desc>
   <src>799</src>
 </wpt>
 <wpt lat="51.49675303" lon="-0.138733562">
-  <name>10.HP</name>
-  <cmt>P1.10</cmt>
+  <name>11.HP</name>
+  <cmt>P1.11</cmt>
   <desc>Howick Place, Westminster</desc>
   <src>360</src>
 </wpt>
 <wpt lat="51.49616092" lon="-0.140947636">
-  <name>11.AP</name>
-  <cmt>P1.11</cmt>
+  <name>12.AP</name>
+  <cmt>P1.12</cmt>
   <desc>Ashley Place, Victoria</desc>
   <src>177</src>
-</wpt>
-<wpt lat="51.496863" lon="-0.1429434">
-  <name>12.AS</name>
-  <cmt>P1.12</cmt>
-  <desc>Allington Street, Victoria</desc>
-  <src>826</src>
 </wpt>
 <wpt lat="51.50135267" lon="-0.153194766">
   <name>13.GC</name>
@@ -1904,93 +1908,93 @@
   <desc>St. Luke's Church, Chelsea</desc>
   <src>218</src>
 </wpt>
-<wpt lat="51.486892" lon="-0.170983">
-  <name>33.MR</name>
-  <cmt>P2.09</cmt>
-  <desc>Manresa Road, Chelsea</desc>
-  <src>529</src>
-</wpt>
 <wpt lat="51.48802358" lon="-0.166878535">
-  <name>34.FS</name>
+  <name>33.FS</name>
   <cmt>P2.09</cmt>
   <desc>Flood Street, Chelsea</desc>
   <src>345</src>
 </wpt>
+<wpt lat="51.486892" lon="-0.170983">
+  <name>34.MR</name>
+  <cmt>P2.10</cmt>
+  <desc>Manresa Road, Chelsea</desc>
+  <src>529</src>
+</wpt>
 <wpt lat="51.48498496" lon="-0.167919869">
   <name>35.PS</name>
-  <cmt>P2.10</cmt>
+  <cmt>P2.11</cmt>
   <desc>Phene Street, Chelsea</desc>
   <src>662</src>
 </wpt>
 <wpt lat="51.47729232" lon="-0.16478637">
   <name>36.EE</name>
-  <cmt>P2.11</cmt>
+  <cmt>P2.12</cmt>
   <desc>Ethelburga Estate, Battersea Park</desc>
   <src>658</src>
 </wpt>
 <wpt lat="51.47439218" lon="-0.163347594">
   <name>37.ABR</name>
-  <cmt>P2.12</cmt>
+  <cmt>P2.13</cmt>
   <desc>Albert Bridge Road, Battersea Park</desc>
   <src>710</src>
 </wpt>
 <wpt lat="51.47515398" lon="-0.159169801">
   <name>38.PoWD</name>
-  <cmt>P2.13</cmt>
+  <cmt>P2.14</cmt>
   <desc>Prince of Wales Drive, Battersea Park</desc>
   <src>756</src>
 </wpt>
 <wpt lat="51.474376" lon="-0.155442787">
   <name>39.AR</name>
-  <cmt>P2.14</cmt>
+  <cmt>P2.15</cmt>
   <desc>Austin Road, Battersea Park</desc>
   <src>664</src>
 </wpt>
 <wpt lat="51.47505096" lon="-0.150908371">
   <name>40.AS</name>
-  <cmt>P2.15</cmt>
+  <cmt>P2.16</cmt>
   <desc>Alfreda Street, Battersea Park</desc>
   <src>726</src>
 </wpt>
 <wpt lat="51.47286577" lon="-0.148059277">
   <name>41.SR</name>
-  <cmt>P2.16</cmt>
+  <cmt>P2.17</cmt>
   <desc>Silverthorne Road, Battersea</desc>
   <src>640</src>
 </wpt>
 <wpt lat="51.47047503" lon="-0.152130083">
   <name>42.SG</name>
-  <cmt>P2.17</cmt>
+  <cmt>P2.18</cmt>
   <desc>Stanley Grove, Battersea</desc>
   <src>690</src>
 </wpt>
 <wpt lat="51.4687905" lon="-0.158230901">
   <name>43.HS</name>
-  <cmt>P2.18</cmt>
+  <cmt>P2.19</cmt>
   <desc>Holden Street, Battersea</desc>
   <src>627</src>
 </wpt>
 <wpt lat="51.4710956" lon="-0.157850096">
   <name>44.CR</name>
-  <cmt>P2.19</cmt>
+  <cmt>P2.20</cmt>
   <desc>Culvert Road, Battersea</desc>
   <src>750</src>
 </wpt>
 <wpt lat="51.47053858" lon="-0.163041605">
   <name>45.SL</name>
-  <cmt>P2.20</cmt>
+  <cmt>P2.21</cmt>
   <desc>Sheepcote Lane, Battersea</desc>
   <src>632</src>
 </wpt>
 <wpt lat="51.47518024" lon="-0.167160736">
   <name>46.SL</name>
-  <cmt>P2.21</cmt>
+  <cmt>P2.22</cmt>
   <desc>Surrey Lane, Battersea</desc>
   <src>620</src>
 </wpt>
 <wpt lat="51.47768469" lon="-0.170329317">
   <name>47.WR</name>
-  <cmt>P2.22</cmt>
+  <cmt>P2.23</cmt>
   <desc>Westbridge Road, Battersea</desc>
   <src>680</src>
 </wpt>

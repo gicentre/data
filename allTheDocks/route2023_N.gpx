@@ -1898,51 +1898,51 @@
   <desc>Greenberry Street, St.John's Wood</desc>
   <src>590</src>
 </wpt>
-<wpt lat="51.53589283" lon="-0.160854428">
-  <name>39.PAR</name>
-  <cmt>N2.14</cmt>
-  <desc>Prince Albert Road, The Regent's Park</desc>
-  <src>329</src>
-</wpt>
 <wpt lat="51.53304322" lon="-0.172528678">
-  <name>40.WR</name>
+  <name>39.WR</name>
   <cmt>N2.15</cmt>
   <desc>Wellington Road, St. John's Wood</desc>
   <src>110</src>
 </wpt>
-<wpt lat="51.53583617" lon="-0.156285395">
-  <name>41.LZ</name>
-  <cmt>N2.15</cmt>
-  <desc>London Zoo, The Regent's Park</desc>
-  <src>271</src>
-</wpt>
 <wpt lat="51.53430039" lon="-0.1680743">
-  <name>42.CS</name>
+  <name>40.CS</name>
   <cmt>N2.16</cmt>
   <desc>Charlbert Street, St. John's Wood</desc>
   <src>7</src>
 </wpt>
+<wpt lat="51.53589283" lon="-0.160854428">
+  <name>41.PAR</name>
+  <cmt>N2.17</cmt>
+  <desc>Prince Albert Road, The Regent's Park</desc>
+  <src>329</src>
+</wpt>
+<wpt lat="51.53583617" lon="-0.156285395">
+  <name>42.LZ</name>
+  <cmt>N2.18</cmt>
+  <desc>London Zoo, The Regent's Park</desc>
+  <src>271</src>
+</wpt>
 <wpt lat="51.53692216" lon="-0.150181444">
   <name>43.LZCP</name>
-  <cmt>N2.16</cmt>
+  <cmt>N2.19</cmt>
   <desc>London Zoo Car Park, The Regent's Park</desc>
   <src>343</src>
 </wpt>
 <wpt lat="51.537349" lon="-0.147154">
   <name>44.GA</name>
-  <cmt>N2.17</cmt>
+  <cmt>N2.20</cmt>
   <desc>Gloucester Avenue, Camden Town</desc>
   <src>535</src>
 </wpt>
 <wpt lat="51.538071" lon="-0.144664">
   <name>45.P</name>
-  <cmt>N2.18</cmt>
+  <cmt>N2.21</cmt>
   <desc>Parkway, Camden Town</desc>
   <src>456</src>
 </wpt>
 <wpt lat="51.539099" lon="-0.141728">
   <name>46.GR</name>
-  <cmt>N2.19</cmt>
+  <cmt>N2.22</cmt>
   <desc>Greenland Road, Camden Town</desc>
   <src>572</src>
 </wpt>
