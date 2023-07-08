@@ -1410,7 +1410,7 @@
 </rte>
 <rte>
   <name>P7 Knightsbridge</name>
-  <desc>11251.32707448676</desc>
+  <desc>10865.175110717</desc>
   <src>32</src>
   <number>7</number>
   <rtept lat="51.49085368" lon="-0.196170309">
@@ -1448,14 +1448,6 @@
   <rtept lat="51.493408189523528" lon="-0.186006116063248">
   </rtept>
   <rtept lat="51.493770603802837" lon="-0.18429144235282">
-  </rtept>
-  <rtept lat="51.495008984862523" lon="-0.184913582450783">
-  </rtept>
-  <rtept lat="51.495239080797724" lon="-0.18497327672217">
-  </rtept>
-  <rtept lat="51.495366627741291" lon="-0.185251102763291">
-  </rtept>
-  <rtept lat="51.495255421596653" lon="-0.184901154274612">
   </rtept>
   <rtept lat="51.493784485526689" lon="-0.184209814265966">
   </rtept>
@@ -2498,23 +2490,23 @@
   <desc>Trebovir Road, Earl's Court</desc>
   <src>158</src>
 </wpt>
-<wpt lat="51.49159394" lon="-0.192369256">
-  <name>131.PR</name>
+<wpt lat="51.49334336" lon="-0.194757949">
+  <name>131.NP</name>
   <cmt>P7.01</cmt>
+  <desc>Nevern Place, Earl's Court</desc>
+  <src>332</src>
+</wpt>
+<wpt lat="51.49159394" lon="-0.192369256">
+  <name>132.PR</name>
+  <cmt>P7.02</cmt>
   <desc>Penywern Road, Earl's Court</desc>
   <src>37</src>
 </wpt>
 <wpt lat="51.49363156" lon="-0.190603326">
-  <name>132.KP</name>
-  <cmt>P7.02</cmt>
+  <name>133.KP</name>
+  <cmt>P7.03</cmt>
   <desc>Knaresborough Place, Earl's Court</desc>
   <src>296</src>
-</wpt>
-<wpt lat="51.49536226" lon="-0.185296516">
-  <name>133.EG</name>
-  <cmt>P7.03</cmt>
-  <desc>Emperor's Gate, South Kensington</desc>
-  <src>128</src>
 </wpt>
 <wpt lat="51.49418566" lon="-0.18267094">
   <name>134.GRS</name>
@@ -2654,17 +2646,17 @@
   <desc>Pall Mall East, West End</desc>
   <src>233</src>
 </wpt>
-<wpt lat="51.50810309" lon="-0.12602103">
-  <name>157.CS</name>
-  <cmt>P7.27</cmt>
-  <desc>Craven Street, Strand</desc>
-  <src>341</src>
-</wpt>
 <wpt lat="51.50908747" lon="-0.129697889">
-  <name>158.SMS</name>
-  <cmt>P7.28</cmt>
+  <name>157.SMS</name>
+  <cmt>P7.27</cmt>
   <desc>St. Martin's Street, West End</desc>
   <src>325</src>
+</wpt>
+<wpt lat="51.50810309" lon="-0.12602103">
+  <name>158.CS</name>
+  <cmt>P7.28</cmt>
+  <desc>Craven Street, Strand</desc>
+  <src>341</src>
 </wpt>
 <wpt lat="51.50946212" lon="-0.124749274">
   <name>159.WIS</name>

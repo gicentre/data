@@ -325,7 +325,7 @@
 <rte>
   <name>W2 South Kensington</name>
   <cmt></cmt>
-  <desc>10318.3287769593</desc>
+  <desc>10624.36250862093</desc>
   <src>25</src>
   <number>2</number>
   <rtept lat="51.510112211361111" lon="-0.155755229430069">
@@ -476,11 +476,19 @@
   </rtept>
   <rtept lat="51.49647610602991" lon="-0.183260883556161">
   </rtept>
-  <rtept lat="51.496652752072031" lon="-0.183506641649316">
+  <rtept lat="51.496166892667482" lon="-0.183226411638058">
   </rtept>
-  <rtept lat="51.496592084170743" lon="-0.184064185994067">
+  <rtept lat="51.495866210736338" lon="-0.183227424294146">
   </rtept>
-  <rtept lat="51.496567968817935" lon="-0.185114118063175">
+  <rtept lat="51.495831339220693" lon="-0.184947718624413">
+  </rtept>
+  <rtept lat="51.495168167949238" lon="-0.184930280887998">
+  </rtept>
+  <rtept lat="51.495337502026452" lon="-0.18527389808142">
+  </rtept>
+  <rtept lat="51.49531994824455" lon="-0.18502278386451">
+  </rtept>
+  <rtept lat="51.496573024995342" lon="-0.185181008905902">
   </rtept>
   <rtept lat="51.496718613128849" lon="-0.188309057337309">
   </rtept>
@@ -2088,29 +2096,29 @@
   <desc>Gloucester Road (Central), South Kensington</desc>
   <src>113</src>
 </wpt>
-<wpt lat="51.49586666" lon="-0.191933711">
-  <name>42.LG</name>
+<wpt lat="51.49536226" lon="-0.185296516">
+  <name>42.EG</name>
   <cmt>W2.14</cmt>
+  <desc>Emperor's Gate, South Kensington</desc>
+  <src>128</src>
+</wpt>
+<wpt lat="51.49586666" lon="-0.191933711">
+  <name>43.LG</name>
+  <cmt>W2.15</cmt>
   <desc>Lexham Gardens, Kensington</desc>
   <src>155</src>
 </wpt>
 <wpt lat="51.496481" lon="-0.192404">
-  <name>43.MR</name>
-  <cmt>W2.15</cmt>
+  <name>44.MR</name>
+  <cmt>W2.16</cmt>
   <desc>Marloes Road, Kensington</desc>
   <src>384</src>
 </wpt>
 <wpt lat="51.4973875" lon="-0.197245586">
-  <name>44.AV</name>
-  <cmt>W2.16</cmt>
+  <name>45.AV</name>
+  <cmt>W2.17</cmt>
   <desc>Abingdon Villas, Kensington</desc>
   <src>38</src>
-</wpt>
-<wpt lat="51.49334336" lon="-0.194757949">
-  <name>45.NP</name>
-  <cmt>W2.17</cmt>
-  <desc>Nevern Place, Earl's Court</desc>
-  <src>332</src>
 </wpt>
 <wpt lat="51.49372451" lon="-0.198286569">
   <name>46.WCR</name>

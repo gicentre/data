@@ -2662,17 +2662,17 @@
   <desc>Smith Square, Westminster</desc>
   <src>281</src>
 </wpt>
-<wpt lat="51.49812559" lon="-0.132102166">
-  <name>148.AOS</name>
-  <cmt>S7.16</cmt>
-  <desc>Abbey Orchard Street, Westminster</desc>
-  <src>108</src>
-</wpt>
 <wpt lat="51.49764" lon="-0.12597218">
-  <name>149.AG</name>
-  <cmt>S7.17</cmt>
+  <name>148.AG</name>
+  <cmt>S7.16</cmt>
   <desc>Abingdon Green, Westminster</desc>
   <src>583</src>
+</wpt>
+<wpt lat="51.49812559" lon="-0.132102166">
+  <name>149.AOS</name>
+  <cmt>S7.17</cmt>
+  <desc>Abbey Orchard Street, Westminster</desc>
+  <src>108</src>
 </wpt>
 <wpt lat="51.50070305" lon="-0.129698963">
   <name>150.SG</name>
