@@ -3,7 +3,8 @@
 <metadata><bounds minlat="51.488991680083259" minlon="-0.236850291209094" maxlat="51.524302314343984" maxlon="-0.119618561165471"/></metadata>                  
 <rte>
   <name>W1 Mayfair</name>
-  <desc>10275.76034190729</desc>
+  <cmt></cmt>
+  <desc>10267.32721480085</desc>
   <src>29</src>
   <number>1</number>
   <rtept lat="51.511707242179291" lon="-0.119688904847661">
@@ -74,13 +75,13 @@
   </rtept>
   <rtept lat="51.512494661921473" lon="-0.133223458830324">
   </rtept>
-  <rtept lat="51.514074913293101" lon="-0.134477274539621">
+  <rtept lat="51.512992749588236" lon="-0.133639806211464">
   </rtept>
-  <rtept lat="51.513885612164728" lon="-0.135084777929268">
+  <rtept lat="51.512620977564112" lon="-0.134586872690838">
   </rtept>
-  <rtept lat="51.513760544079084" lon="-0.13524573206974">
+  <rtept lat="51.513366988679898" lon="-0.135264919390071">
   </rtept>
-  <rtept lat="51.513666935620542" lon="-0.135557743796715">
+  <rtept lat="51.5136846" lon="-0.135580879">
   </rtept>
   <rtept lat="51.513479804179113" lon="-0.136119292283002">
   </rtept>
@@ -315,6 +316,7 @@
 </rte>
 <rte>
   <name>W2 South Kensington</name>
+  <cmt></cmt>
   <desc>10176.93203042954</desc>
   <src>24</src>
   <number>2</number>
@@ -579,6 +581,7 @@
 </rte>
 <rte>
   <name>W3 Kensington</name>
+  <cmt></cmt>
   <desc>10601.06655206763</desc>
   <src>23</src>
   <number>3</number>
@@ -803,6 +806,7 @@
 </rte>
 <rte>
   <name>W4 Shepherds Bush</name>
+  <cmt></cmt>
   <desc>11162.54393342587</desc>
   <src>17</src>
   <number>4</number>
@@ -1113,6 +1117,7 @@
 </rte>
 <rte>
   <name>W5 Notting Hill</name>
+  <cmt></cmt>
   <desc>10261.91357942307</desc>
   <src>20</src>
   <number>5</number>
@@ -1349,7 +1354,8 @@
 </rte>
 <rte>
   <name>W6 Paddington</name>
-  <desc>10185.29408325337</desc>
+  <cmt></cmt>
+  <desc>10124.10288465595</desc>
   <src>24</src>
   <number>6</number>
   <rtept lat="51.51791921" lon="-0.188098863">
@@ -1380,13 +1386,11 @@
   </rtept>
   <rtept lat="51.514593077547637" lon="-0.181034063363826">
   </rtept>
-  <rtept lat="51.513572144874622" lon="-0.179739091861672">
+  <rtept lat="51.515565366500773" lon="-0.179399374812363">
   </rtept>
-  <rtept lat="51.513432260701521" lon="-0.179732382164769">
+  <rtept lat="51.515684" lon="-0.179399">
   </rtept>
-  <rtept lat="51.513482368514389" lon="-0.179453929743321">
-  </rtept>
-  <rtept lat="51.51488606274274" lon="-0.176970309540726">
+  <rtept lat="51.515659750726776" lon="-0.179151894737267">
   </rtept>
   <rtept lat="51.516002812667502" lon="-0.178550649041303">
   </rtept>
@@ -1426,7 +1430,17 @@
   </rtept>
   <rtept lat="51.514394131217614" lon="-0.183957941118769">
   </rtept>
-  <rtept lat="51.511174520343225" lon="-0.182920628287389">
+  <rtept lat="51.512274344087089" lon="-0.18326178324655">
+  </rtept>
+  <rtept lat="51.512551540547669" lon="-0.182277801690346">
+  </rtept>
+  <rtept lat="51.513253632097623" lon="-0.180048807144387">
+  </rtept>
+  <rtept lat="51.51348" lon="-0.17977">
+  </rtept>
+  <rtept lat="51.512384119985185" lon="-0.178167253762424">
+  </rtept>
+  <rtept lat="51.511989779887784" lon="-0.177803312039032">
   </rtept>
   <rtept lat="51.511654" lon="-0.179668">
   </rtept>
@@ -1603,8 +1617,9 @@
 </rte>
 <rte>
   <name>W7 Marylebone</name>
-  <desc>9096.550771918295</desc>
-  <src>25</src>
+  <cmt></cmt>
+  <desc>9062.079427729799</desc>
+  <src>24</src>
   <number>7</number>
   <rtept lat="51.516204" lon="-0.155525">
   </rtept>
@@ -1808,13 +1823,9 @@
   </rtept>
   <rtept lat="51.513399349082285" lon="-0.122097073982636">
   </rtept>
-  <rtept lat="51.51250626533205" lon="-0.120951684079742">
+  <rtept lat="51.512498957460721" lon="-0.120964013281388">
   </rtept>
-  <rtept lat="51.512172774120941" lon="-0.120550144806016">
-  </rtept>
-  <rtept lat="51.511955448774231" lon="-0.120713046214896">
-  </rtept>
-  <rtept lat="51.512058566666198" lon="-0.120364431345784">
+  <rtept lat="51.512105573166579" lon="-0.120511821705114">
   </rtept>
   <rtept lat="51.511756738863006" lon="-0.119618561165471">
   </rtept>
@@ -2511,35 +2522,35 @@
   <desc>Cleveland Gardens, Bayswater</desc>
   <src>164</src>
 </wpt>
-<wpt lat="51.51348" lon="-0.17977">
-  <name>116.DT</name>
-  <cmt>W6.03</cmt>
-  <desc>Devonshire Terrace, Bayswater</desc>
-  <src>397</src>
-</wpt>
 <wpt lat="51.51641749" lon="-0.179135079">
-  <name>117.EM</name>
-  <cmt>W6.04</cmt>
+  <name>116.EM</name>
+  <cmt>W6.03</cmt>
   <desc>Eastbourne Mews, Paddington</desc>
   <src>330</src>
 </wpt>
 <wpt lat="51.517932" lon="-0.183716959">
-  <name>118.OT</name>
-  <cmt>W6.05</cmt>
+  <name>117.OT</name>
+  <cmt>W6.04</cmt>
   <desc>Orsett Terrace, Bayswater</desc>
   <src>165</src>
 </wpt>
 <wpt lat="51.51616" lon="-0.18697">
-  <name>119.BBRW</name>
-  <cmt>W6.06</cmt>
+  <name>118.BBRW</name>
+  <cmt>W6.05</cmt>
   <desc>Bishop's Bridge Road West, Bayswater</desc>
   <src>568</src>
 </wpt>
 <wpt lat="51.51552971" lon="-0.190240716">
-  <name>120.WG</name>
-  <cmt>W6.07</cmt>
+  <name>119.WG</name>
+  <cmt>W6.06</cmt>
   <desc>Westbourne Grove, Bayswater</desc>
   <src>105</src>
+</wpt>
+<wpt lat="51.51348" lon="-0.17977">
+  <name>120.DT</name>
+  <cmt>W6.07</cmt>
+  <desc>Devonshire Terrace, Bayswater</desc>
+  <src>397</src>
 </wpt>
 <wpt lat="51.511654" lon="-0.179668">
   <name>121.LG</name>
@@ -2781,15 +2792,9 @@
   <desc>Drury Lane, Covent Garden</desc>
   <src>18</src>
 </wpt>
-<wpt lat="51.51196803" lon="-0.120718759">
-  <name>161.TS</name>
-  <cmt>W7.24</cmt>
-  <desc>Tavistock Street, Covent Garden</desc>
-  <src>335</src>
-</wpt>
 <wpt lat="51.51175646" lon="-0.119643424">
-  <name>162.WS</name>
-  <cmt>W7.25</cmt>
+  <name>161.WS</name>
+  <cmt>W7.24</cmt>
   <desc>Wellington Street , Strand</desc>
   <src>500338</src>
 </wpt>

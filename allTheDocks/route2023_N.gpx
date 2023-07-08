@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <gpx version="1.1" creator="GDAL 3.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-<metadata><bounds minlat="51.511077105574707" minlon="-0.184379797106065" maxlat="51.549559658708702" maxlon="-0.003608000005900"/></metadata>                  
+<metadata><bounds minlat="51.511786613828846" minlon="-0.184379797106065" maxlat="51.549559658708702" maxlon="-0.003608000005900"/></metadata>                  
 <rte>
   <name>N1 Euston</name>
   <desc>10396.40561819005</desc>
@@ -1088,8 +1088,8 @@
 <rte>
   <name>N6 Shoreditch</name>
   <cmt></cmt>
-  <desc>10473.76464781503</desc>
-  <src>30</src>
+  <desc>10264.3029488128</desc>
+  <src>29</src>
   <number>6</number>
   <rtept lat="51.53213" lon="-0.08299">
   </rtept>
@@ -1129,31 +1129,15 @@
   </rtept>
   <rtept lat="51.531060063627265" lon="-0.075909273196308">
   </rtept>
-  <rtept lat="51.530573072312492" lon="-0.075880512173895">
+  <rtept lat="51.530610499568972" lon="-0.075892064732084">
   </rtept>
-  <rtept lat="51.530588615345657" lon="-0.07471404578104">
+  <rtept lat="51.530633828535763" lon="-0.076580880289824">
   </rtept>
-  <rtept lat="51.530356112721194" lon="-0.074050676083204">
+  <rtept lat="51.529746028252298" lon="-0.07677677271238">
   </rtept>
-  <rtept lat="51.530266051652312" lon="-0.07396800297881">
+  <rtept lat="51.528698573308766" lon="-0.077338278376488">
   </rtept>
-  <rtept lat="51.530253358328771" lon="-0.073843385303757">
-  </rtept>
-  <rtept lat="51.529826300468351" lon="-0.073474587007474">
-  </rtept>
-  <rtept lat="51.52924355902951" lon="-0.074251179647057">
-  </rtept>
-  <rtept lat="51.528685922532773" lon="-0.074595830620572">
-  </rtept>
-  <rtept lat="51.528163257020324" lon="-0.074477634263848">
-  </rtept>
-  <rtept lat="51.528063987637459" lon="-0.075665220851398">
-  </rtept>
-  <rtept lat="51.528103816798996" lon="-0.076024000452665">
-  </rtept>
-  <rtept lat="51.527388115740187" lon="-0.077067541217035">
-  </rtept>
-  <rtept lat="51.527155512969578" lon="-0.077628226884466">
+  <rtept lat="51.528748023383798" lon="-0.077848441100659">
   </rtept>
   <rtept lat="51.526793054983301" lon="-0.078031155282818">
   </rtept>
@@ -1169,7 +1153,7 @@
   </rtept>
   <rtept lat="51.524622638700606" lon="-0.077256444406845">
   </rtept>
-  <rtept lat="51.523788478606868" lon="-0.077215314683158">
+  <rtept lat="51.524299631489129" lon="-0.077174639394378">
   </rtept>
   <rtept lat="51.523007127712958" lon="-0.077492363177709">
   </rtept>
@@ -1396,7 +1380,7 @@
 </rte>
 <rte>
   <name>N7 Kings Cross</name>
-  <desc>8970.401207940988</desc>
+  <desc>9061.096413701292</desc>
   <src>29</src>
   <number>7</number>
   <rtept lat="51.52450027041025" lon="-0.116182254144755">
@@ -1653,19 +1637,15 @@
   </rtept>
   <rtept lat="51.513107114605369" lon="-0.117354394064518">
   </rtept>
-  <rtept lat="51.512871462640867" lon="-0.11806814920172">
+  <rtept lat="51.512908752349382" lon="-0.117977462683076">
   </rtept>
-  <rtept lat="51.512392589264479" lon="-0.118577652449158">
+  <rtept lat="51.513681852205664" lon="-0.12003378943905">
   </rtept>
-  <rtept lat="51.511575394796786" lon="-0.118833253817429">
+  <rtept lat="51.512673844803231" lon="-0.121156833604261">
   </rtept>
-  <rtept lat="51.511388837058952" lon="-0.118886856157256">
+  <rtept lat="51.512172774120941" lon="-0.120550144806016">
   </rtept>
-  <rtept lat="51.511077105574707" lon="-0.119695539166764">
-  </rtept>
-  <rtept lat="51.511173767687048" lon="-0.119768080301296">
-  </rtept>
-  <rtept lat="51.511316977161236" lon="-0.119284487698141">
+  <rtept lat="51.512008261898423" lon="-0.120034184321378">
   </rtept>
   <rtept lat="51.511786613828846" lon="-0.119658245222883">
   </rtept>
@@ -2312,332 +2292,326 @@
   <desc>Hoxton Station, Hoxton</desc>
   <src>539</src>
 </wpt>
-<wpt lat="51.528187" lon="-0.075375">
-  <name>108.CR</name>
-  <cmt>N6.05</cmt>
-  <desc>Columbia Road, Shoreditch</desc>
-  <src>401</src>
-</wpt>
 <wpt lat="51.5263778" lon="-0.078130921">
-  <name>109.SHS</name>
-  <cmt>N6.06</cmt>
+  <name>108.SHS</name>
+  <cmt>N6.05</cmt>
   <desc>Shoreditch High Street, Shoreditch</desc>
   <src>39</src>
 </wpt>
 <wpt lat="51.52452699" lon="-0.079248081">
-  <name>110.NIY</name>
-  <cmt>N6.07</cmt>
+  <name>109.NIY</name>
+  <cmt>N6.06</cmt>
   <desc>New Inn Yard, Shoreditch</desc>
   <src>58</src>
 </wpt>
 <wpt lat="51.52127071" lon="-0.0755789">
-  <name>111.CS</name>
-  <cmt>N6.08</cmt>
+  <name>110.CS</name>
+  <cmt>N6.07</cmt>
   <desc>Commercial Street, Shoreditch</desc>
   <src>40</src>
 </wpt>
 <wpt lat="51.518908" lon="-0.079249">
-  <name>112.BS</name>
-  <cmt>N6.09</cmt>
+  <name>111.BS</name>
+  <cmt>N6.08</cmt>
   <desc>Brushfield Street, Liverpool Street</desc>
   <src>251</src>
 </wpt>
 <wpt lat="51.52111369" lon="-0.078869751">
-  <name>113.NF</name>
-  <cmt>N6.10</cmt>
+  <name>112.NF</name>
+  <cmt>N6.09</cmt>
   <desc>Norton Folgate, Liverpool Street</desc>
   <src>122</src>
 </wpt>
 <wpt lat="51.521668" lon="-0.079608554">
-  <name>114.WS</name>
-  <cmt>N6.11</cmt>
+  <name>113.WS</name>
+  <cmt>N6.10</cmt>
   <desc>Worship Street, Shoreditch</desc>
   <src>175</src>
 </wpt>
 <wpt lat="51.523196" lon="-0.083067">
-  <name>115.CS</name>
-  <cmt>N6.12</cmt>
+  <name>114.CS</name>
+  <cmt>N6.11</cmt>
   <desc>Clifton Street, Shoreditch</desc>
   <src>323</src>
 </wpt>
 <wpt lat="51.52469624" lon="-0.084439283">
-  <name>116.LC</name>
-  <cmt>N6.13</cmt>
+  <name>115.LC</name>
+  <cmt>N6.12</cmt>
   <desc>Leonard Circus , Shoreditch</desc>
   <src>32</src>
 </wpt>
 <wpt lat="51.52295439" lon="-0.094934859">
-  <name>117.RS</name>
-  <cmt>N6.14</cmt>
+  <name>116.RS</name>
+  <cmt>N6.13</cmt>
   <desc>Roscoe Street, St. Luke's</desc>
   <src>52</src>
 </wpt>
 <wpt lat="51.52174785" lon="-0.094475072">
-  <name>118.GL</name>
-  <cmt>N6.15</cmt>
+  <name>117.GL</name>
+  <cmt>N6.14</cmt>
   <desc>Golden Lane, Barbican</desc>
   <src>54</src>
 </wpt>
 <wpt lat="51.5208417" lon="-0.097340162">
-  <name>119.AS</name>
-  <cmt>N6.16</cmt>
+  <name>118.AS</name>
+  <cmt>N6.15</cmt>
   <desc>Aldersgate Street, Barbican</desc>
   <src>95</src>
 </wpt>
 <wpt lat="51.52285301" lon="-0.099994052">
-  <name>120.BS</name>
-  <cmt>N6.17</cmt>
+  <name>119.BS</name>
+  <cmt>N6.16</cmt>
   <desc>Berry Street, Clerkenwell</desc>
   <src>246</src>
 </wpt>
 <wpt lat="51.52486887" lon="-0.099489485">
-  <name>121.SSC</name>
-  <cmt>N6.18</cmt>
+  <name>120.SSC</name>
+  <cmt>N6.17</cmt>
   <desc>Sadlers Sports Centre, Finsbury</desc>
   <src>78</src>
 </wpt>
 <wpt lat="51.52600832" lon="-0.096317627">
-  <name>122.FLC</name>
-  <cmt>N6.19</cmt>
+  <name>121.FLC</name>
+  <cmt>N6.18</cmt>
   <desc>Finsbury Leisure Centre, St. Luke's</desc>
   <src>107</src>
 </wpt>
 <wpt lat="51.529423" lon="-0.097122">
-  <name>123.MR</name>
-  <cmt>N6.20</cmt>
+  <name>122.MR</name>
+  <cmt>N6.19</cmt>
   <desc>Macclesfield Rd, St Lukes</desc>
   <src>351</src>
 </wpt>
 <wpt lat="51.530344" lon="-0.100168">
-  <name>124.CR</name>
-  <cmt>N6.21</cmt>
+  <name>123.CR</name>
+  <cmt>N6.20</cmt>
   <desc>City Road, Angel</desc>
   <src>365</src>
 </wpt>
 <wpt lat="51.528246" lon="-0.10102611">
-  <name>125.GRCU</name>
-  <cmt>N6.22</cmt>
+  <name>124.GRCU</name>
+  <cmt>N6.21</cmt>
   <desc>Goswell Road (City Uni), Finsbury</desc>
   <src>344</src>
 </wpt>
 <wpt lat="51.52836014" lon="-0.104724625">
-  <name>126.SJS</name>
-  <cmt>N6.23</cmt>
+  <name>125.SJS</name>
+  <cmt>N6.22</cmt>
   <desc>St. John Street, Finsbury</desc>
   <src>123</src>
 </wpt>
 <wpt lat="51.52671796" lon="-0.104298194">
-  <name>127.FL</name>
-  <cmt>N6.24</cmt>
+  <name>126.FL</name>
+  <cmt>N6.23</cmt>
   <desc>Finsbury Library , Finsbury</desc>
   <src>51</src>
 </wpt>
 <wpt lat="51.526153" lon="-0.102208">
-  <name>128.PS</name>
-  <cmt>N6.25</cmt>
+  <name>127.PS</name>
+  <cmt>N6.24</cmt>
   <desc>Percival Street, Finsbury</desc>
   <src>544</src>
 </wpt>
 <wpt lat="51.52326004" lon="-0.104708922">
-  <name>129.CG</name>
-  <cmt>N6.26</cmt>
+  <name>128.CG</name>
+  <cmt>N6.25</cmt>
   <desc>Clerkenwell Green, Clerkenwell</desc>
   <src>135</src>
 </wpt>
 <wpt lat="51.52352001" lon="-0.108340165">
-  <name>130.FL</name>
-  <cmt>N6.27</cmt>
+  <name>129.FL</name>
+  <cmt>N6.26</cmt>
   <desc>Farringdon Lane, Clerkenwell</desc>
   <src>72</src>
 </wpt>
 <wpt lat="51.5216612" lon="-0.109006325">
-  <name>131.HW</name>
-  <cmt>N6.28</cmt>
+  <name>130.HW</name>
+  <cmt>N6.27</cmt>
   <desc>Hatton Wall, Holborn</desc>
   <src>17</src>
 </wpt>
 <wpt lat="51.5222641" lon="-0.114079481">
-  <name>132.NS</name>
-  <cmt>N6.29</cmt>
+  <name>131.NS</name>
+  <cmt>N6.28</cmt>
   <desc>Northington Street , Holborn</desc>
   <src>22</src>
 </wpt>
 <wpt lat="51.524564" lon="-0.116279">
-  <name>133.WS</name>
-  <cmt>N6.30</cmt>
+  <name>132.WS</name>
+  <cmt>N6.29</cmt>
   <desc>Wren Street, Holborn</desc>
   <src>433</src>
 </wpt>
 <wpt lat="51.52659961" lon="-0.112432615">
-  <name>134.MS</name>
+  <name>133.MS</name>
   <cmt>N7.01</cmt>
   <desc>Margery Street, Clerkenwell</desc>
   <src>204</src>
 </wpt>
 <wpt lat="51.52644342" lon="-0.109256828">
-  <name>135.TS</name>
+  <name>134.TS</name>
   <cmt>N7.02</cmt>
   <desc>Tysoe Street, Clerkenwell</desc>
   <src>264</src>
 </wpt>
 <wpt lat="51.5278427" lon="-0.1080682">
-  <name>136.HS</name>
+  <name>135.HS</name>
   <cmt>N7.03</cmt>
   <desc>Hardwick Street, Clerkenwell</desc>
   <src>170</src>
 </wpt>
 <wpt lat="51.52916347" lon="-0.109970527">
-  <name>137.RS</name>
+  <name>136.RS</name>
   <cmt>N7.04</cmt>
   <desc>River Street , Clerkenwell</desc>
   <src>1</src>
 </wpt>
 <wpt lat="51.53051587" lon="-0.106408455">
-  <name>138.CS</name>
+  <name>137.CS</name>
   <cmt>N7.05</cmt>
   <desc>Chadwell Street, Angel</desc>
   <src>254</src>
 </wpt>
 <wpt lat="51.53219984" lon="-0.105480698">
-  <name>139.TS</name>
+  <name>138.TS</name>
   <cmt>N7.06</cmt>
   <desc>Torrens Street, Angel</desc>
   <src>75</src>
 </wpt>
 <wpt lat="51.53166681" lon="-0.109914711">
-  <name>140.CS</name>
+  <name>139.CS</name>
   <cmt>N7.07</cmt>
   <desc>Claremont Square, Angel</desc>
   <src>189</src>
 </wpt>
 <wpt lat="51.53136059" lon="-0.117069978">
-  <name>141.CS</name>
+  <name>140.CS</name>
   <cmt>N7.08</cmt>
   <desc>Calshot Street , King's Cross</desc>
   <src>70</src>
 </wpt>
 <wpt lat="51.531066" lon="-0.11934">
-  <name>142.NS</name>
+  <name>141.NS</name>
   <cmt>N7.09</cmt>
   <desc>Northdown Street, King's Cross</desc>
   <src>593</src>
 </wpt>
 <wpt lat="51.52891573" lon="-0.115480888">
-  <name>143.GPS</name>
+  <name>142.GPS</name>
   <cmt>N7.10</cmt>
   <desc>Great Percy Street, Clerkenwell</desc>
   <src>227</src>
 </wpt>
 <wpt lat="51.52728093" lon="-0.11829517">
-  <name>144.AS</name>
+  <name>143.AS</name>
   <cmt>N7.11</cmt>
   <desc>Ampton Street , Clerkenwell</desc>
   <src>26</src>
 </wpt>
 <wpt lat="51.528279" lon="-0.11955857">
-  <name>145.CS</name>
+  <name>144.CS</name>
   <cmt>N7.12</cmt>
   <desc>Cromer Street, Bloomsbury</desc>
   <src>793</src>
 </wpt>
 <wpt lat="51.53005939" lon="-0.120973687">
-  <name>146.SCS</name>
+  <name>145.SCS</name>
   <cmt>N7.13</cmt>
   <desc>St. Chad's Street, King's Cross</desc>
   <src>4</src>
 </wpt>
 <wpt lat="51.53019988" lon="-0.122299441">
-  <name>147.BS</name>
+  <name>146.BS</name>
   <cmt>N7.14</cmt>
   <desc>Birkenhead Street, King's Cross</desc>
   <src>798</src>
 </wpt>
 <wpt lat="51.52994371" lon="-0.123616824">
-  <name>148.BS</name>
+  <name>147.BS</name>
   <cmt>N7.15</cmt>
   <desc>Belgrove Street , King's Cross</desc>
   <src>14</src>
 </wpt>
 <wpt lat="51.5293" lon="-0.12827903">
-  <name>149.OS</name>
+  <name>148.OS</name>
   <cmt>N7.16</cmt>
   <desc>Ossulston Street, Somers Town</desc>
   <src>797</src>
 </wpt>
 <wpt lat="51.52635795" lon="-0.125979294">
-  <name>150.CG</name>
+  <name>149.CG</name>
   <cmt>N7.17</cmt>
   <desc>Cartwright Gardens , Bloomsbury</desc>
   <src>16</src>
 </wpt>
 <wpt lat="51.5262503" lon="-0.123509611">
-  <name>151.TP</name>
+  <name>150.TP</name>
   <cmt>N7.18</cmt>
   <desc>Tavistock Place, Bloomsbury</desc>
   <src>89</src>
 </wpt>
 <wpt lat="51.524" lon="-0.12640984">
-  <name>152.CS</name>
+  <name>151.CS</name>
   <cmt>N7.19</cmt>
   <desc>Coram Street, Bloomsbury</desc>
   <src>796</src>
 </wpt>
 <wpt lat="51.52341837" lon="-0.124121774">
-  <name>153.RSS</name>
+  <name>152.RSS</name>
   <cmt>N7.20</cmt>
   <desc>Russell Square Station, Bloomsbury</desc>
   <src>77</src>
 </wpt>
 <wpt lat="51.52395143" lon="-0.122502346">
-  <name>154.BS</name>
+  <name>153.BS</name>
   <cmt>N7.21</cmt>
   <desc>Brunswick Square, Bloomsbury</desc>
   <src>11</src>
 </wpt>
 <wpt lat="51.52334672" lon="-0.120202614">
-  <name>155.GS</name>
+  <name>154.GS</name>
   <cmt>N7.22</cmt>
   <desc>Guilford Street , Bloomsbury</desc>
   <src>57</src>
 </wpt>
 <wpt lat="51.52059681" lon="-0.116688468">
-  <name>156.TR</name>
+  <name>155.TR</name>
   <cmt>N7.23</cmt>
   <desc>Theobald's Road , Holborn</desc>
   <src>68</src>
 </wpt>
 <wpt lat="51.51943538" lon="-0.119123345">
-  <name>157.RLS</name>
+  <name>156.RLS</name>
   <cmt>N7.24</cmt>
   <desc>Red Lion Square, Holborn</desc>
   <src>23</src>
 </wpt>
 <wpt lat="51.51824" lon="-0.11655">
-  <name>158.RLS</name>
+  <name>157.RLS</name>
   <cmt>N7.25</cmt>
   <desc>Red Lion Street, Holborn</desc>
   <src>436</src>
 </wpt>
 <wpt lat="51.51627788" lon="-0.118272992">
-  <name>159.LIF</name>
+  <name>158.LIF</name>
   <cmt>N7.26</cmt>
   <desc>Lincoln's Inn Fields, Holborn</desc>
   <src>809</src>
 </wpt>
 <wpt lat="51.515208" lon="-0.117863">
-  <name>160.SS</name>
+  <name>159.SS</name>
   <cmt>N7.27</cmt>
   <desc>Sardinia Street, Holborn</desc>
   <src>372</src>
 </wpt>
 <wpt lat="51.513875" lon="-0.117774">
-  <name>161.KS</name>
+  <name>160.KS</name>
   <cmt>N7.28</cmt>
   <desc>Kingsway Southbound, Strand</desc>
   <src>594</src>
 </wpt>
 <wpt lat="51.51175646" lon="-0.119643424">
-  <name>162.WS</name>
+  <name>161.WS</name>
   <cmt>N7.29</cmt>
   <desc>Wellington Street , Strand</desc>
   <src>600338</src>
