@@ -3,11 +3,9 @@
 <metadata><bounds minlat="51.486007057289086" minlon="-0.121198384411250" maxlat="51.536039469999999" maxlon="-0.002294546581175"/></metadata>                  
 <rte>
   <name>E1 City of London</name>
-  <desc>10387.63338379309</desc>
+  <desc>10321.98559034259</desc>
   <src>36</src>
   <number>1</number>
-  <rtept lat="51.511728693175172" lon="-0.119649051211803">
-  </rtept>
   <rtept lat="51.512132877814402" lon="-0.120338207565925">
   </rtept>
   <rtept lat="51.512354643616121" lon="-0.119859222964739">
@@ -1660,7 +1658,7 @@
 <rte>
   <name>E7 Aldgate</name>
   <cmt></cmt>
-  <desc>10248.42658455035</desc>
+  <desc>10276.7017463207</desc>
   <src>24</src>
   <number>7</number>
   <rtept lat="51.504719" lon="-0.063531">
@@ -2041,7 +2039,11 @@
   </rtept>
   <rtept lat="51.512651002474385" lon="-0.12119838441125">
   </rtept>
-  <rtept lat="51.512177929849862" lon="-0.120636608418302">
+  <rtept lat="51.512193847171829" lon="-0.120655472610009">
+  </rtept>
+  <rtept lat="51.51196803" lon="-0.120718759">
+  </rtept>
+  <rtept lat="51.512074302668879" lon="-0.120462111955012">
   </rtept>
   <rtept lat="51.511756738863006" lon="-0.119618561165471">
   </rtept>
@@ -3006,9 +3008,15 @@
   <desc>Chancery Lane, Holborn</desc>
   <src>82</src>
 </wpt>
-<wpt lat="51.51175646" lon="-0.119643424">
-  <name>161.WS</name>
+<wpt lat="51.51196803" lon="-0.120718759">
+  <name>161.TS</name>
   <cmt>E7.24</cmt>
+  <desc>Tavistock Street, Covent Garden</desc>
+  <src>400335</src>
+</wpt>
+<wpt lat="51.51175646" lon="-0.119643424">
+  <name>162.WS</name>
+  <cmt>E7.25</cmt>
   <desc>Wellington Street , Strand</desc>
   <src>700338</src>
 </wpt>
