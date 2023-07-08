@@ -4,8 +4,8 @@
 <rte>
   <name>S1 Lambeth</name>
   <cmt></cmt>
-  <desc>10029.89547459432</desc>
-  <src>32</src>
+  <desc>9235.65094510205</desc>
+  <src>30</src>
   <number>1</number>
   <rtept lat="51.511656406938918" lon="-0.119628894305802">
   </rtept>
@@ -105,35 +105,9 @@
   </rtept>
   <rtept lat="51.500139419999989" lon="-0.113936001">
   </rtept>
-  <rtept lat="51.499840929354875" lon="-0.114481980025438">
+  <rtept lat="51.499866911544856" lon="-0.114394937698534">
   </rtept>
-  <rtept lat="51.500140033672203" lon="-0.114859808197475">
-  </rtept>
-  <rtept lat="51.5005831657747" lon="-0.115760477444085">
-  </rtept>
-  <rtept lat="51.500477691663242" lon="-0.116335552599812">
-  </rtept>
-  <rtept lat="51.500107188367956" lon="-0.116573318703426">
-  </rtept>
-  <rtept lat="51.499459611341848" lon="-0.116851525799185">
-  </rtept>
-  <rtept lat="51.498785726997248" lon="-0.11699538868093">
-  </rtept>
-  <rtept lat="51.498237632143855" lon="-0.117453263184102">
-  </rtept>
-  <rtept lat="51.498921081878677" lon="-0.116777003039844">
-  </rtept>
-  <rtept lat="51.498373942868419" lon="-0.115039111150102">
-  </rtept>
-  <rtept lat="51.498227586505486" lon="-0.114948423929242">
-  </rtept>
-  <rtept lat="51.497744487198482" lon="-0.113440078499908">
-  </rtept>
-  <rtept lat="51.498459136057662" lon="-0.112452945308478">
-  </rtept>
-  <rtept lat="51.498793619809085" lon="-0.112603560285038">
-  </rtept>
-  <rtept lat="51.499151621423138" lon="-0.112275049308183">
+  <rtept lat="51.498948594612905" lon="-0.112486804712051">
   </rtept>
   <rtept lat="51.499140257712185" lon="-0.112017338161097">
   </rtept>
@@ -1504,8 +1478,8 @@
 <rte>
   <name>S7 Westminster</name>
   <cmt></cmt>
-  <desc>10492.95252510655</desc>
-  <src>27</src>
+  <desc>11497.06043685036</desc>
+  <src>30</src>
   <number>7</number>
   <rtept lat="51.48836528" lon="-0.129361842">
   </rtept>
@@ -1581,13 +1555,13 @@
   </rtept>
   <rtept lat="51.494188667442423" lon="-0.134508567815012">
   </rtept>
-  <rtept lat="51.493721861662223" lon="-0.133289984423988">
+  <rtept lat="51.494607303961786" lon="-0.134194083868136">
   </rtept>
-  <rtept lat="51.493043855113818" lon="-0.133711227601197">
+  <rtept lat="51.495088350053805" lon="-0.132811257627948">
   </rtept>
-  <rtept lat="51.492880782871509" lon="-0.133157165353037">
+  <rtept lat="51.494923813097799" lon="-0.132560782260135">
   </rtept>
-  <rtept lat="51.49290027404615" lon="-0.132311814697703">
+  <rtept lat="51.494861436231488" lon="-0.132340424643583">
   </rtept>
   <rtept lat="51.492049223508303" lon="-0.132234780629672">
   </rtept>
@@ -1627,11 +1601,7 @@
   </rtept>
   <rtept lat="51.493889556405918" lon="-0.128929937439543">
   </rtept>
-  <rtept lat="51.494755852864621" lon="-0.128987909712559">
-  </rtept>
-  <rtept lat="51.494799117702179" lon="-0.130481509776171">
-  </rtept>
-  <rtept lat="51.494893543644203" lon="-0.130468399190651">
+  <rtept lat="51.494872837487918" lon="-0.129061432812175">
   </rtept>
   <rtept lat="51.494864961606019" lon="-0.127963281169674">
   </rtept>
@@ -1661,21 +1631,45 @@
   </rtept>
   <rtept lat="51.49764" lon="-0.12597218">
   </rtept>
-  <rtept lat="51.497742733198855" lon="-0.125754302923146">
+  <rtept lat="51.497587802765182" lon="-0.126398065519741">
   </rtept>
-  <rtept lat="51.498287711658463" lon="-0.125794401487639">
+  <rtept lat="51.497586407870102" lon="-0.126805915688935">
   </rtept>
-  <rtept lat="51.499137739077462" lon="-0.126062234626517">
+  <rtept lat="51.497917015379571" lon="-0.128420293277942">
   </rtept>
-  <rtept lat="51.500131094537565" lon="-0.126351260194499">
+  <rtept lat="51.497570422087961" lon="-0.128633465794924">
   </rtept>
-  <rtept lat="51.500234579942294" lon="-0.126565629548856">
+  <rtept lat="51.497469993992702" lon="-0.129415365881444">
   </rtept>
-  <rtept lat="51.500380231785627" lon="-0.127426831118906">
+  <rtept lat="51.497825328094855" lon="-0.129506283784102">
   </rtept>
-  <rtept lat="51.500943028543489" lon="-0.127352739443695">
+  <rtept lat="51.498060061041571" lon="-0.129871062147573">
   </rtept>
-  <rtept lat="51.500991882487291" lon="-0.126709453414866">
+  <rtept lat="51.498376423657312" lon="-0.130002545133768">
+  </rtept>
+  <rtept lat="51.498322091207484" lon="-0.131489282663831">
+  </rtept>
+  <rtept lat="51.498110984680025" lon="-0.13216881916626">
+  </rtept>
+  <rtept lat="51.498421965133744" lon="-0.132530495304559">
+  </rtept>
+  <rtept lat="51.499513396670025" lon="-0.129601201738405">
+  </rtept>
+  <rtept lat="51.499801861172266" lon="-0.129535875960097">
+  </rtept>
+  <rtept lat="51.500142454845438" lon="-0.129538294176067">
+  </rtept>
+  <rtept lat="51.500359660146955" lon="-0.129597909561807">
+  </rtept>
+  <rtept lat="51.50070305" lon="-0.129698963">
+  </rtept>
+  <rtept lat="51.501268367692134" lon="-0.129493737571055">
+  </rtept>
+  <rtept lat="51.501142489291155" lon="-0.127627703262678">
+  </rtept>
+  <rtept lat="51.501087018334992" lon="-0.127163017551106">
+  </rtept>
+  <rtept lat="51.501046187088541" lon="-0.126699405997167">
   </rtept>
   <rtept lat="51.500881510432912" lon="-0.123859188339577">
   </rtept>
@@ -1761,19 +1755,29 @@
   </rtept>
   <rtept lat="51.51258165660672" lon="-0.115062129834246">
   </rtept>
-  <rtept lat="51.512381567629738" lon="-0.115833112970895">
+  <rtept lat="51.512460935456787" lon="-0.115575034844903">
   </rtept>
-  <rtept lat="51.511948000781857" lon="-0.117253552441623">
+  <rtept lat="51.512450025984222" lon="-0.115879271592192">
   </rtept>
-  <rtept lat="51.511100202461741" lon="-0.119628919091573">
+  <rtept lat="51.512732565408712" lon="-0.116095450079373">
   </rtept>
-  <rtept lat="51.51116582959137" lon="-0.119703655465889">
+  <rtept lat="51.513273732345652" lon="-0.116022481954024">
   </rtept>
-  <rtept lat="51.51129857890573" lon="-0.119276569147574">
+  <rtept lat="51.51318340437146" lon="-0.117283568256502">
   </rtept>
-  <rtept lat="51.511728693175172" lon="-0.119649051211803">
+  <rtept lat="51.512952451102215" lon="-0.117985059817889">
   </rtept>
-  <rtept lat="51.511728693175172" lon="-0.119649051211803">
+  <rtept lat="51.513701071296957" lon="-0.120013247284474">
+  </rtept>
+  <rtept lat="51.512673844803231" lon="-0.121156833604261">
+  </rtept>
+  <rtept lat="51.512183485211573" lon="-0.120598938420118">
+  </rtept>
+  <rtept lat="51.51196803" lon="-0.120718759">
+  </rtept>
+  <rtept lat="51.512027780937316" lon="-0.120411265176841">
+  </rtept>
+  <rtept lat="51.511725669239716" lon="-0.119630496823061">
   </rtept>
 </rte>
 <wpt lat="51.51175646" lon="-0.119643424">
@@ -1860,885 +1864,891 @@
   <desc>Lower Marsh, Waterloo</desc>
   <src>347</src>
 </wpt>
-<wpt lat="51.5000892" lon="-0.116628701">
-  <name>15.LPR</name>
-  <cmt>S1.15</cmt>
-  <desc>Lambeth Palace Road, Waterloo</desc>
-  <src>815</src>
-</wpt>
-<wpt lat="51.49824168" lon="-0.117495865">
-  <name>16.AP</name>
-  <cmt>S1.16</cmt>
-  <desc>Archbishop's Park, Waterloo</desc>
-  <src>641</src>
-</wpt>
 <wpt lat="51.49914063" lon="-0.112031483">
-  <name>17.LNS</name>
-  <cmt>S1.17</cmt>
+  <name>15.LNS</name>
+  <cmt>S1.15</cmt>
   <desc>Lambeth North Station, Waterloo</desc>
   <src>284</src>
 </wpt>
 <wpt lat="51.498386" lon="-0.107913">
-  <name>18.WBR</name>
-  <cmt>S1.18</cmt>
+  <name>16.WBR</name>
+  <cmt>S1.16</cmt>
   <desc>Westminster Bridge Road, Elephant &amp; Castle</desc>
   <src>548</src>
 </wpt>
 <wpt lat="51.49775" lon="-0.10988">
-  <name>19.KEW</name>
-  <cmt>S1.19</cmt>
+  <name>17.KEW</name>
+  <cmt>S1.17</cmt>
   <desc>King Edward Walk, Waterloo</desc>
   <src>371</src>
 </wpt>
 <wpt lat="51.49571828" lon="-0.110889274">
-  <name>20.KR</name>
-  <cmt>S1.20</cmt>
+  <name>18.KR</name>
+  <cmt>S1.18</cmt>
   <desc>Kennington Road , Vauxhall</desc>
   <src>235</src>
 </wpt>
 <wpt lat="51.49368637" lon="-0.111014912">
-  <name>21.WTW</name>
-  <cmt>S1.21</cmt>
+  <name>19.WTW</name>
+  <cmt>S1.19</cmt>
   <desc>Walnut Tree Walk, Vauxhall</desc>
   <src>91</src>
 </wpt>
 <wpt lat="51.495656" lon="-0.114605">
-  <name>22.SS</name>
-  <cmt>S1.22</cmt>
+  <name>20.SS</name>
+  <cmt>S1.20</cmt>
   <desc>Sail Street, Vauxhall</desc>
   <src>441</src>
 </wpt>
 <wpt lat="51.49488108" lon="-0.117974901">
-  <name>23.LR</name>
-  <cmt>S1.23</cmt>
+  <name>21.LR</name>
+  <cmt>S1.21</cmt>
   <desc>Lambeth Road, Vauxhall</desc>
   <src>139</src>
 </wpt>
 <wpt lat="51.49369988" lon="-0.121394101">
-  <name>24.FBP</name>
-  <cmt>S1.24</cmt>
+  <name>22.FBP</name>
+  <cmt>S1.22</cmt>
   <desc>Fire Brigade Pier, Vauxhall</desc>
   <src>387</src>
 </wpt>
 <wpt lat="51.49288067" lon="-0.114934001">
-  <name>25.LS</name>
-  <cmt>S1.25</cmt>
+  <name>23.LS</name>
+  <cmt>S1.23</cmt>
   <desc>Lollard Street, Vauxhall</desc>
   <src>117</src>
 </wpt>
 <wpt lat="51.4908679" lon="-0.116911864">
-  <name>26.BPR</name>
-  <cmt>S1.26</cmt>
+  <name>24.BPR</name>
+  <cmt>S1.24</cmt>
   <desc>Black Prince Road, Vauxhall</desc>
   <src>310</src>
 </wpt>
 <wpt lat="51.48947903" lon="-0.115156562">
-  <name>27.SS</name>
-  <cmt>S1.27</cmt>
+  <name>25.SS</name>
+  <cmt>S1.25</cmt>
   <desc>Sancroft Street, Vauxhall</desc>
   <src>86</src>
 </wpt>
 <wpt lat="51.486965" lon="-0.116625">
-  <name>28.VS</name>
-  <cmt>S1.28</cmt>
+  <name>26.VS</name>
+  <cmt>S1.26</cmt>
   <desc>Vauxhall Street, Vauxhall</desc>
   <src>352</src>
 </wpt>
 <wpt lat="51.48894022" lon="-0.111435796">
-  <name>29.KC</name>
-  <cmt>S1.29</cmt>
+  <name>27.KC</name>
+  <cmt>S1.27</cmt>
   <desc>Kennington Cross, Kennington</desc>
   <src>144</src>
 </wpt>
 <wpt lat="51.488105" lon="-0.110121">
-  <name>30.CS</name>
-  <cmt>S1.30</cmt>
+  <name>28.CS</name>
+  <cmt>S1.28</cmt>
   <desc>Cleaver Street, Kennington</desc>
   <src>412</src>
 </wpt>
 <wpt lat="51.488852" lon="-0.105593">
-  <name>31.KS</name>
-  <cmt>S1.31</cmt>
+  <name>29.KS</name>
+  <cmt>S1.29</cmt>
   <desc>Kennington Station, Kennington</desc>
   <src>435</src>
 </wpt>
 <wpt lat="51.4907579" lon="-0.106323685">
-  <name>32.CGE</name>
-  <cmt>S1.32</cmt>
+  <name>30.CGE</name>
+  <cmt>S1.30</cmt>
   <desc>Cotton Garden Estate, Kennington</desc>
   <src>62</src>
 </wpt>
 <wpt lat="51.49217002" lon="-0.101536865">
-  <name>33.HS</name>
+  <name>31.HS</name>
   <cmt>S2.01</cmt>
   <desc>Hampton Street, Walworth</desc>
   <src>152</src>
 </wpt>
 <wpt lat="51.493146" lon="-0.099828">
-  <name>34.S</name>
+  <name>32.S</name>
   <cmt>S2.02</cmt>
   <desc>Strata, Elephant &amp; Castle</desc>
   <src>409</src>
 </wpt>
 <wpt lat="51.49612799" lon="-0.106000855">
-  <name>35.GS</name>
+  <name>33.GS</name>
   <cmt>S2.03</cmt>
   <desc>Geraldine Street, Elephant &amp; Castle</desc>
   <src>297</src>
 </wpt>
 <wpt lat="51.49605" lon="-0.104193">
-  <name>36.GS</name>
+  <name>34.GS</name>
   <cmt>S2.04</cmt>
   <desc>Gaywood Street, Elephant &amp; Castle</desc>
   <src>549</src>
 </wpt>
 <wpt lat="51.49652013" lon="-0.101384068">
-  <name>37.OS</name>
+  <name>35.OS</name>
   <cmt>S2.05</cmt>
   <desc>Ontario Street, Elephant &amp; Castle</desc>
   <src>324</src>
 </wpt>
 <wpt lat="51.49889832" lon="-0.100440521">
-  <name>38.BR</name>
+  <name>36.BR</name>
   <cmt>S2.06</cmt>
   <desc>Borough Road, Elephant &amp; Castle</desc>
   <src>92</src>
 </wpt>
 <wpt lat="51.49874469" lon="-0.103132904">
-  <name>39.LSBU</name>
+  <name>37.LSBU</name>
   <cmt>S2.07</cmt>
   <desc>LSBU (Borough Road), Elephant &amp; Castle</desc>
   <src>262</src>
 </wpt>
 <wpt lat="51.50069361" lon="-0.102091246">
-  <name>40.WS</name>
+  <name>38.WS</name>
   <cmt>S2.08</cmt>
   <desc>Webber Street , Southwark</desc>
   <src>80</src>
 </wpt>
 <wpt lat="51.50173215" lon="-0.100292412">
-  <name>41.GSS</name>
+  <name>39.GSS</name>
   <cmt>S2.09</cmt>
   <desc>Great Suffolk Street, The Borough</desc>
   <src>645</src>
 </wpt>
 <wpt lat="51.504044" lon="-0.104778">
-  <name>42.SS2</name>
+  <name>40.SS2</name>
   <cmt>S2.10</cmt>
   <desc>Southwark Station 2, Southwark</desc>
   <src>421</src>
 </wpt>
 <wpt lat="51.504043" lon="-0.105312">
-  <name>43.SS1</name>
+  <name>41.SS1</name>
   <cmt>S2.11</cmt>
   <desc>Southwark Station 1, Southwark</desc>
   <src>420</src>
 </wpt>
 <wpt lat="51.50724437" lon="-0.106237501">
-  <name>44.MW</name>
+  <name>42.MW</name>
   <cmt>S2.12</cmt>
   <desc>Milroy Walk, South Bank</desc>
   <src>195</src>
 </wpt>
 <wpt lat="51.508033" lon="-0.10682363">
-  <name>45.SC</name>
+  <name>43.SC</name>
   <cmt>S2.13</cmt>
   <desc>Sea Containers, South Bank</desc>
   <src>839</src>
 </wpt>
 <wpt lat="51.50669284" lon="-0.103137426">
-  <name>46.PL</name>
+  <name>44.PL</name>
   <cmt>S2.14</cmt>
   <desc>Poured Lines, Bankside</desc>
   <src>230</src>
 </wpt>
 <wpt lat="51.50581776" lon="-0.100186337">
-  <name>47.BM</name>
+  <name>45.BM</name>
   <cmt>S2.15</cmt>
   <desc>Bankside Mix, Bankside</desc>
   <src>193</src>
 </wpt>
 <wpt lat="51.50540994" lon="-0.098341088">
-  <name>48.SS</name>
+  <name>46.SS</name>
   <cmt>S2.16</cmt>
   <desc>Southwark Street, Bankside</desc>
   <src>803</src>
 </wpt>
 <wpt lat="51.50522417" lon="-0.098031812">
-  <name>49.LS</name>
+  <name>47.LS</name>
   <cmt>S2.17</cmt>
   <desc>Lavington Street, Bankside</desc>
   <src>801</src>
 </wpt>
 <wpt lat="51.50368837" lon="-0.098497684">
-  <name>50.US</name>
+  <name>48.US</name>
   <cmt>S2.18</cmt>
   <desc>Union Street, The Borough</desc>
   <src>196</src>
 </wpt>
 <wpt lat="51.50672529" lon="-0.098807246">
-  <name>51.TM</name>
+  <name>49.TM</name>
   <cmt>S2.19</cmt>
   <desc>Tate Modern, Bankside</desc>
   <src>810</src>
 </wpt>
 <wpt lat="51.5073853" lon="-0.096440751">
-  <name>52.NGW</name>
+  <name>50.NGW</name>
   <cmt>S2.20</cmt>
   <desc>New Globe Walk, Bankside</desc>
   <src>9</src>
 </wpt>
 <wpt lat="51.50597426" lon="-0.092754157">
-  <name>53.PS</name>
+  <name>51.PS</name>
   <cmt>S2.21</cmt>
   <desc>Park Street, Bankside</desc>
   <src>10</src>
 </wpt>
 <wpt lat="51.50462759" lon="-0.091773776">
-  <name>54.HE</name>
+  <name>52.HE</name>
   <cmt>S2.22</cmt>
   <desc>Hop Exchange, The Borough</desc>
   <src>194</src>
 </wpt>
 <wpt lat="51.50630441" lon="-0.087262995">
-  <name>55.DSH</name>
+  <name>53.DSH</name>
   <cmt>S2.23</cmt>
   <desc>Duke Street Hill, London Bridge</desc>
   <src>732</src>
 </wpt>
 <wpt lat="51.50215353" lon="-0.083632928">
-  <name>56.S</name>
+  <name>54.S</name>
   <cmt>S2.24</cmt>
   <desc>Snowsfields, London Bridge</desc>
   <src>706</src>
 </wpt>
 <wpt lat="51.50088934" lon="-0.083159352">
-  <name>57.TG</name>
+  <name>55.TG</name>
   <cmt>S2.25</cmt>
   <desc>Tyers Gate, Bermondsey</desc>
   <src>314</src>
 </wpt>
 <wpt lat="51.50064702" lon="-0.078600401">
-  <name>58.TS</name>
+  <name>56.TS</name>
   <cmt>S2.26</cmt>
   <desc>Tanner Street, Bermondsey</desc>
   <src>85</src>
 </wpt>
 <wpt lat="51.5034938" lon="-0.07962099">
-  <name>59.TS</name>
+  <name>57.TS</name>
   <cmt>S2.27</cmt>
   <desc>Tooley Street, Bermondsey</desc>
   <src>278</src>
 </wpt>
 <wpt lat="51.50227992" lon="-0.074189225">
-  <name>60.CS</name>
+  <name>58.CS</name>
   <cmt>S2.28</cmt>
   <desc>Curlew Street, Shad Thames</desc>
   <src>298</src>
 </wpt>
 <wpt lat="51.500845" lon="-0.074704305">
-  <name>61.TW</name>
+  <name>59.TW</name>
   <cmt>S2.29</cmt>
   <desc>Tower Wharf, Bermondsey</desc>
   <src>841</src>
 </wpt>
 <wpt lat="51.498585" lon="-0.068981764">
-  <name>62.GR</name>
+  <name>60.GR</name>
   <cmt>S2.30</cmt>
   <desc>George Row, Bermondsey</desc>
   <src>840</src>
 </wpt>
 <wpt lat="51.497995" lon="-0.063471392">
-  <name>63.BS</name>
+  <name>61.BS</name>
   <cmt>S3.01</cmt>
   <desc>Bermondsey Station, Bermondsey</desc>
   <src>845</src>
 </wpt>
 <wpt lat="51.499169" lon="-0.055846029">
-  <name>64.RR</name>
+  <name>62.RR</name>
   <cmt>S3.02</cmt>
   <desc>Rotherhithe Roundabout, Rotherhithe</desc>
   <src>411</src>
 </wpt>
 <wpt lat="51.498439" lon="-0.049150215">
-  <name>65.CWS</name>
+  <name>63.CWS</name>
   <cmt>S3.03</cmt>
   <desc>Canada Water Station, Rotherhithe</desc>
   <src>844</src>
 </wpt>
 <wpt lat="51.4954" lon="-0.061698585">
-  <name>66.CR</name>
+  <name>64.CR</name>
   <cmt>S3.04</cmt>
   <desc>Clements Road, Bermondsey</desc>
   <src>687</src>
 </wpt>
 <wpt lat="51.488067" lon="-0.057774596">
-  <name>67.SBS</name>
+  <name>65.SBS</name>
   <cmt>S3.05</cmt>
   <desc>South Bermondsey Station, Bermondsey</desc>
   <src>847</src>
 </wpt>
 <wpt lat="51.492221" lon="-0.0625131">
-  <name>68.TB</name>
+  <name>66.TB</name>
   <cmt>S3.06</cmt>
   <desc>The Blue, Bermondsey</desc>
   <src>851</src>
 </wpt>
 <wpt lat="51.492668" lon="-0.072350665">
-  <name>69.HA</name>
+  <name>67.HA</name>
   <cmt>S3.07</cmt>
   <desc>Harris Academy, Bermondsey</desc>
   <src>666</src>
 </wpt>
 <wpt lat="51.495598" lon="-0.078893">
-  <name>70.CS</name>
+  <name>68.CS</name>
   <cmt>S3.08</cmt>
   <desc>Crimscott Street, Bermondsey</desc>
   <src>849</src>
 </wpt>
 <wpt lat="51.49785559" lon="-0.081608045">
-  <name>71.BS</name>
+  <name>69.BS</name>
   <cmt>S3.09</cmt>
   <desc>Bermondsey Street, Bermondsey</desc>
   <src>321</src>
 </wpt>
 <wpt lat="51.49907558" lon="-0.085666316">
-  <name>72.LL</name>
+  <name>70.LL</name>
   <cmt>S3.10</cmt>
   <desc>Long Lane , Bermondsey</desc>
   <src>308</src>
 </wpt>
 <wpt lat="51.50082346" lon="-0.089740764">
-  <name>73.ES</name>
+  <name>71.ES</name>
   <cmt>S3.11</cmt>
   <desc>Empire Square, The Borough</desc>
   <src>269</src>
 </wpt>
 <wpt lat="51.50029631" lon="-0.092762704">
-  <name>74.SS</name>
+  <name>72.SS</name>
   <cmt>S3.12</cmt>
   <desc>Swan Street, The Borough</desc>
   <src>295</src>
 </wpt>
 <wpt lat="51.50069491" lon="-0.094524319">
-  <name>75.BHS</name>
+  <name>73.BHS</name>
   <cmt>S3.13</cmt>
   <desc>Borough High Street, The Borough</desc>
   <src>125</src>
 </wpt>
 <wpt lat="51.49859784" lon="-0.096191134">
-  <name>76.HR</name>
+  <name>74.HR</name>
   <cmt>S3.14</cmt>
   <desc>Harper Road, The Borough</desc>
   <src>249</src>
 </wpt>
 <wpt lat="51.49679128" lon="-0.093913472">
-  <name>77.DS</name>
+  <name>75.DS</name>
   <cmt>S3.15</cmt>
   <desc>Dickens Square, Borough</desc>
   <src>317</src>
 </wpt>
 <wpt lat="51.49443626" lon="-0.092921165">
-  <name>78.NKR</name>
+  <name>76.NKR</name>
   <cmt>S3.16</cmt>
   <desc>New Kent Road, The Borough</desc>
   <src>156</src>
 </wpt>
 <wpt lat="51.49738251" lon="-0.089446947">
-  <name>79.GDS</name>
+  <name>77.GDS</name>
   <cmt>S3.17</cmt>
   <desc>Great Dover Street, The Borough</desc>
   <src>61</src>
 </wpt>
 <wpt lat="51.49506109" lon="-0.085814489">
-  <name>80.BA</name>
+  <name>78.BA</name>
   <cmt>S3.18</cmt>
   <desc>Bricklayers Arms, Borough</desc>
   <src>94</src>
 </wpt>
 <wpt lat="51.49148474" lon="-0.090220911">
-  <name>81.RR</name>
+  <name>79.RR</name>
   <cmt>S3.19</cmt>
   <desc>Rodney Road , Walworth</desc>
   <src>223</src>
 </wpt>
 <wpt lat="51.492807" lon="-0.091938">
-  <name>82.VP</name>
+  <name>80.VP</name>
   <cmt>S4.01</cmt>
   <desc>Victory Place, Walworth</desc>
   <src>820</src>
 </wpt>
 <wpt lat="51.491327" lon="-0.096518684">
-  <name>83.WS</name>
+  <name>81.WS</name>
   <cmt>S4.02</cmt>
   <desc>Walworth Square, Walworth</desc>
   <src>725</src>
 </wpt>
 <wpt lat="51.489102" lon="-0.0915489">
-  <name>84.BS</name>
+  <name>82.BS</name>
   <cmt>S4.03</cmt>
   <desc>Brandon Street, Walworth</desc>
   <src>850</src>
 </wpt>
 <wpt lat="51.48224" lon="-0.0942844">
-  <name>85.BPAR</name>
+  <name>83.BPAR</name>
   <cmt>S4.04</cmt>
   <desc>Burgess Park Albany Road, Walworth</desc>
   <src>846</src>
 </wpt>
 <wpt lat="51.48692917" lon="-0.102996299">
-  <name>86.DG</name>
+  <name>84.DG</name>
   <cmt>S4.05</cmt>
   <desc>Doddington Grove, Kennington</desc>
   <src>580</src>
 </wpt>
 <wpt lat="51.48478899" lon="-0.110683213">
-  <name>87.KRPO</name>
+  <name>85.KRPO</name>
   <cmt>S4.06</cmt>
   <desc>Kennington Road Post Office, Oval</desc>
   <src>149</src>
 </wpt>
 <wpt lat="51.483145" lon="-0.113134">
-  <name>88.KO</name>
+  <name>86.KO</name>
   <cmt>S4.07</cmt>
   <desc>Kennington Oval, Oval</desc>
   <src>440</src>
 </wpt>
 <wpt lat="51.48267821" lon="-0.117661574">
-  <name>89.AE</name>
+  <name>87.AE</name>
   <cmt>S4.08</cmt>
   <desc>Ashmole Estate, Oval</desc>
   <src>654</src>
 </wpt>
 <wpt lat="51.479601" lon="-0.11147178">
-  <name>90.CR</name>
+  <name>88.CR</name>
   <cmt>S4.09</cmt>
   <desc>Cranmer Road, Stockwell</desc>
   <src>827</src>
 </wpt>
 <wpt lat="51.477839" lon="-0.116493">
-  <name>91.CS</name>
+  <name>89.CS</name>
   <cmt>S4.10</cmt>
   <desc>Caldwell Street, Stockwell</desc>
   <src>603</src>
 </wpt>
 <wpt lat="51.47659006" lon="-0.118256789">
-  <name>92.AS</name>
+  <name>90.AS</name>
   <cmt>S4.11</cmt>
   <desc>Albert Square, Stockwell</desc>
   <src>802</src>
 </wpt>
 <wpt lat="51.473874" lon="-0.11258096">
-  <name>93.NR</name>
+  <name>91.NR</name>
   <cmt>S4.12</cmt>
   <desc>Normandy Road, Stockwell</desc>
   <src>828</src>
 </wpt>
 <wpt lat="51.469202" lon="-0.11902256">
-  <name>94.SR</name>
+  <name>92.SR</name>
   <cmt>S4.13</cmt>
   <desc>Sidney Road, Stockwell</desc>
   <src>830</src>
 </wpt>
 <wpt lat="51.469217" lon="-0.11268674">
-  <name>95.WR</name>
+  <name>93.WR</name>
   <cmt>S4.14</cmt>
   <desc>Wynne Road, Stockwell</desc>
   <src>829</src>
 </wpt>
 <wpt lat="51.466232" lon="-0.11317995">
-  <name>96.SJC</name>
+  <name>94.SJC</name>
   <cmt>S4.15</cmt>
   <desc>St John's Crescent, Brixton</desc>
   <src>831</src>
 </wpt>
 <wpt lat="51.460232" lon="-0.11537509">
-  <name>97.SR</name>
+  <name>95.SR</name>
   <cmt>S4.16</cmt>
   <desc>Saltoun Road, Brixton</desc>
   <src>833</src>
 </wpt>
 <wpt lat="51.464019" lon="-0.11578197">
-  <name>98.FR</name>
+  <name>96.FR</name>
   <cmt>S4.17</cmt>
   <desc>Ferndale Road, Brixton</desc>
   <src>832</src>
 </wpt>
 <wpt lat="51.464995" lon="-0.13090885">
-  <name>99.GR</name>
+  <name>97.GR</name>
   <cmt>S5.01</cmt>
   <desc>Gauden Road, Clapham</desc>
   <src>808</src>
 </wpt>
 <wpt lat="51.461388" lon="-0.13922146">
-  <name>100.CCS</name>
+  <name>98.CCS</name>
   <cmt>S5.02</cmt>
   <desc>Clapham Common Station, Clapham Common</desc>
   <src>355</src>
 </wpt>
 <wpt lat="51.461376" lon="-0.14780467">
-  <name>101.VR</name>
+  <name>99.VR</name>
   <cmt>S5.03</cmt>
   <desc>Victoria Rise, Clapham Common</desc>
   <src>794</src>
 </wpt>
 <wpt lat="51.46134382" lon="-0.159322467">
-  <name>102.CCNS</name>
+  <name>100.CCNS</name>
   <cmt>S5.04</cmt>
   <desc>Clapham Common North Side, Clapham Common</desc>
   <src>768</src>
 </wpt>
 <wpt lat="51.46192307" lon="-0.165297857">
-  <name>103.LR</name>
+  <name>101.LR</name>
   <cmt>S5.05</cmt>
   <desc>Limburg Road, Clapham Junction</desc>
   <src>777</src>
 </wpt>
 <wpt lat="51.46239255" lon="-0.16829214">
-  <name>104.SJR</name>
+  <name>102.SJR</name>
   <cmt>S5.06</cmt>
   <desc>St. John's Road, Clapham Junction</desc>
   <src>764</src>
 </wpt>
 <wpt lat="51.46506424" lon="-0.163750945">
-  <name>105.DR</name>
+  <name>103.DR</name>
   <cmt>S5.07</cmt>
   <desc>Dorothy Road, Clapham Junction</desc>
   <src>683</src>
 </wpt>
 <wpt lat="51.46512358" lon="-0.157788279">
-  <name>106.SR</name>
+  <name>104.SR</name>
   <cmt>S5.08</cmt>
   <desc>Sugden Road, Clapham</desc>
   <src>609</src>
 </wpt>
 <wpt lat="51.46718562" lon="-0.152248582">
-  <name>107.AC</name>
+  <name>105.AC</name>
   <cmt>S5.09</cmt>
   <desc>Ashley Crescent, Battersea</desc>
   <src>670</src>
 </wpt>
 <wpt lat="51.46866929" lon="-0.146544642">
-  <name>108.HR</name>
+  <name>106.HR</name>
   <cmt>S5.10</cmt>
   <desc>Heath Road, Battersea</desc>
   <src>677</src>
 </wpt>
 <wpt lat="51.46925984" lon="-0.141812513">
-  <name>109.WR</name>
+  <name>107.WR</name>
   <cmt>S5.11</cmt>
   <desc>Wandsworth Rd, Isley Court, Wandsworth Road</desc>
   <src>612</src>
 </wpt>
 <wpt lat="51.47311696" lon="-0.137235175">
-  <name>110.SR</name>
+  <name>108.SR</name>
   <cmt>S5.12</cmt>
   <desc>Stewart's Road, Wandsworth Road</desc>
   <src>714</src>
 </wpt>
 <wpt lat="51.472993" lon="-0.133972">
-  <name>111.UG</name>
+  <name>109.UG</name>
   <cmt>S5.13</cmt>
   <desc>Union Grove, Wandsworth Road</desc>
   <src>602</src>
 </wpt>
 <wpt lat="51.4729184" lon="-0.132102704">
-  <name>112.CG</name>
+  <name>110.CG</name>
   <cmt>S5.14</cmt>
   <desc>Courland Grove, Wandsworth Road</desc>
   <src>624</src>
 </wpt>
 <wpt lat="51.47073264" lon="-0.126994068">
-  <name>113.CW</name>
+  <name>111.CW</name>
   <cmt>S5.15</cmt>
   <desc>Clarence Walk, Stockwell</desc>
   <src>630</src>
 </wpt>
 <wpt lat="51.47143307" lon="-0.123670736">
-  <name>114.CR</name>
+  <name>112.CR</name>
   <cmt>S5.16</cmt>
   <desc>Clapham Road, Lingham Street, Stockwell</desc>
   <src>814</src>
 </wpt>
 <wpt lat="51.47250956" lon="-0.122831913">
-  <name>115.BR</name>
+  <name>113.BR</name>
   <cmt>S5.17</cmt>
   <desc>Binfield Road, Stockwell</desc>
   <src>772</src>
 </wpt>
 <wpt lat="51.47614939" lon="-0.1232585">
-  <name>116.TL</name>
+  <name>114.TL</name>
   <cmt>S5.18</cmt>
   <desc>Teversham Lane, Stockwell</desc>
   <src>669</src>
 </wpt>
 <wpt lat="51.481747" lon="-0.124642">
-  <name>117.SLR</name>
+  <name>115.SLR</name>
   <cmt>S5.19</cmt>
   <desc>South Lambeth Road, Vauxhall</desc>
   <src>600</src>
 </wpt>
 <wpt lat="51.47787084" lon="-0.126874471">
-  <name>118.HR</name>
+  <name>116.HR</name>
   <cmt>S6.01</cmt>
   <desc>Hartington Road, Stockwell</desc>
   <src>676</src>
 </wpt>
 <wpt lat="51.4795017" lon="-0.141770709">
-  <name>119.BPR</name>
+  <name>117.BPR</name>
   <cmt>S6.02</cmt>
   <desc>Battersea Park Road, Nine Elms</desc>
   <src>631</src>
 </wpt>
 <wpt lat="51.477966" lon="-0.14785703">
-  <name>120.GH</name>
+  <name>118.GH</name>
   <cmt>S6.03</cmt>
   <desc>Gas Holders, Battersea Park</desc>
   <src>834</src>
 </wpt>
 <wpt lat="51.47761941" lon="-0.149551631">
-  <name>121.QC</name>
+  <name>119.QC</name>
   <cmt>S6.04</cmt>
   <desc>Queen's Circus, Battersea Park</desc>
   <src>625</src>
 </wpt>
 <wpt lat="51.48112194" lon="-0.149035375">
-  <name>122.SW</name>
+  <name>120.SW</name>
   <cmt>S6.05</cmt>
   <desc>Sopwith Way, Battersea Park</desc>
   <src>800</src>
 </wpt>
 <wpt lat="51.485821" lon="-0.149004">
-  <name>123.CB</name>
+  <name>121.CB</name>
   <cmt>S6.06</cmt>
   <desc>Chelsea Bridge, Pimlico</desc>
   <src>419</src>
 </wpt>
 <wpt lat="51.4853572" lon="-0.142207481">
-  <name>124.GR</name>
+  <name>122.GR</name>
   <cmt>S6.07</cmt>
   <desc>Grosvenor Road, Pimlico</desc>
   <src>245</src>
 </wpt>
 <wpt lat="51.48483991" lon="-0.138089062">
-  <name>125.CS</name>
+  <name>123.CS</name>
   <cmt>S6.08</cmt>
   <desc>Claverton Street, Pimlico</desc>
   <src>291</src>
 </wpt>
 <wpt lat="51.48350749" lon="-0.147714557">
-  <name>126.BPS</name>
+  <name>124.BPS</name>
   <cmt>S6.09</cmt>
   <desc>Battersea Power Station, Battersea Park</desc>
   <src>821</src>
 </wpt>
 <wpt lat="51.48133547" lon="-0.138212296">
-  <name>127.RS</name>
+  <name>125.RS</name>
   <cmt>S6.10</cmt>
   <desc>Riverlight South, Nine Elms</desc>
   <src>817</src>
 </wpt>
 <wpt lat="51.482362" lon="-0.13612398">
-  <name>128.RN</name>
+  <name>126.RN</name>
   <cmt>S6.11</cmt>
   <desc>Riverlight North, Nine Elms</desc>
   <src>183</src>
 </wpt>
 <wpt lat="51.48591714" lon="-0.124469948">
-  <name>129.VC</name>
+  <name>127.VC</name>
   <cmt>S6.12</cmt>
   <desc>Vauxhall Cross, Vauxhall</desc>
   <src>74</src>
 </wpt>
 <wpt lat="51.4863434" lon="-0.122492418">
-  <name>130.KLRB</name>
+  <name>128.KLRB</name>
   <cmt>S6.13</cmt>
   <desc>Kennington Lane Rail Bridge, Vauxhall</desc>
   <src>270</src>
 </wpt>
 <wpt lat="51.48780745" lon="-0.122759626">
-  <name>131.NSGW</name>
+  <name>129.NSGW</name>
   <cmt>S6.14</cmt>
   <desc>New Spring Gardens Walk, Vauxhall</desc>
   <src>813</src>
 </wpt>
 <wpt lat="51.488124" lon="-0.120903">
-  <name>132.VW</name>
+  <name>130.VW</name>
   <cmt>S6.15</cmt>
   <desc>Vauxhall Walk, Vauxhall</desc>
   <src>437</src>
 </wpt>
 <wpt lat="51.49043573" lon="-0.122806861">
-  <name>133.AE</name>
+  <name>131.AE</name>
   <cmt>S6.16</cmt>
   <desc>Albert Embankment, Vauxhall</desc>
   <src>100</src>
 </wpt>
 <wpt lat="51.48836528" lon="-0.129361842">
-  <name>134.VB</name>
+  <name>132.VB</name>
   <cmt>S6.17</cmt>
   <desc>Vauxhall Bridge , Pimlico</desc>
   <src>146</src>
 </wpt>
 <wpt lat="51.48997562" lon="-0.132845681">
-  <name>135.RS</name>
+  <name>133.RS</name>
   <cmt>S7.01</cmt>
   <desc>Rampayne Street, Pimlico</desc>
   <src>190</src>
 </wpt>
 <wpt lat="51.488226" lon="-0.135635511">
-  <name>136.SGS</name>
+  <name>134.SGS</name>
   <cmt>S7.02</cmt>
   <desc>St. George's Square, Pimlico</desc>
   <src>294</src>
 </wpt>
 <wpt lat="51.48805753" lon="-0.140741432">
-  <name>137.AS</name>
+  <name>135.AS</name>
   <cmt>S7.03</cmt>
   <desc>Alderney Street, Pimlico</desc>
   <src>185</src>
 </wpt>
 <wpt lat="51.48985626" lon="-0.141923621">
-  <name>138.WS</name>
+  <name>136.WS</name>
   <cmt>S7.04</cmt>
   <desc>Warwick Square, Pimlico</desc>
   <src>178</src>
 </wpt>
 <wpt lat="51.49096258" lon="-0.139625122">
-  <name>139.GS</name>
+  <name>137.GS</name>
   <cmt>S7.05</cmt>
   <desc>Gloucester Street, Pimlico</desc>
   <src>243</src>
 </wpt>
 <wpt lat="51.49320445" lon="-0.144132875">
-  <name>140.GS</name>
+  <name>138.GS</name>
   <cmt>S7.06</cmt>
   <desc>Belgrave Road, Victoria</desc>
   <src>268</src>
 </wpt>
 <wpt lat="51.49234577" lon="-0.141334487">
-  <name>141.GS</name>
+  <name>139.GS</name>
   <cmt>S7.07</cmt>
   <desc>Guildhouse Street, Victoria</desc>
   <src>161</src>
 </wpt>
 <wpt lat="51.49211134" lon="-0.138364847">
-  <name>142.TS</name>
+  <name>140.TS</name>
   <cmt>S7.08</cmt>
   <desc>Tachbrook Street, Victoria</desc>
   <src>148</src>
 </wpt>
 <wpt lat="51.49398524" lon="-0.136928582">
-  <name>143.VS</name>
+  <name>141.VS</name>
   <cmt>S7.09</cmt>
   <desc>Vincent Square, Westminster</desc>
   <src>299</src>
 </wpt>
-<wpt lat="51.49206037" lon="-0.132224622">
-  <name>144.RS</name>
+<wpt lat="51.49459148" lon="-0.134234258">
+  <name>142.GS</name>
   <cmt>S7.10</cmt>
+  <desc>Greycoat Street , Westminster</desc>
+  <src>353</src>
+</wpt>
+<wpt lat="51.49206037" lon="-0.132224622">
+  <name>143.RS</name>
+  <cmt>S7.11</cmt>
   <desc>Regency Street, Westminster</desc>
   <src>267</src>
 </wpt>
 <wpt lat="51.493072" lon="-0.129925">
-  <name>145.VS</name>
-  <cmt>S7.11</cmt>
+  <name>144.VS</name>
+  <cmt>S7.12</cmt>
   <desc>Vincent Street, Pimlico</desc>
   <src>426</src>
 </wpt>
 <wpt lat="51.49188409" lon="-0.125674815">
-  <name>146.MT</name>
-  <cmt>S7.12</cmt>
+  <name>145.MT</name>
+  <cmt>S7.13</cmt>
   <desc>Millbank Tower, Pimlico</desc>
   <src>376</src>
 </wpt>
 <wpt lat="51.493978" lon="-0.127554">
-  <name>147.PS</name>
-  <cmt>S7.13</cmt>
+  <name>146.PS</name>
+  <cmt>S7.14</cmt>
   <desc>Page Street, Westminster</desc>
   <src>558</src>
 </wpt>
-<wpt lat="51.49481649" lon="-0.13045856">
-  <name>148.HR</name>
-  <cmt>S7.14</cmt>
-  <desc>Horseferry Road, Westminster</desc>
-  <src>221</src>
-</wpt>
 <wpt lat="51.49580589" lon="-0.127575233">
-  <name>149.SS</name>
+  <name>147.SS</name>
   <cmt>S7.15</cmt>
   <desc>Smith Square, Westminster</desc>
   <src>281</src>
 </wpt>
-<wpt lat="51.49764" lon="-0.12597218">
-  <name>150.AG</name>
+<wpt lat="51.49812559" lon="-0.132102166">
+  <name>148.AOS</name>
   <cmt>S7.16</cmt>
+  <desc>Abbey Orchard Street, Westminster</desc>
+  <src>108</src>
+</wpt>
+<wpt lat="51.49764" lon="-0.12597218">
+  <name>149.AG</name>
+  <cmt>S7.17</cmt>
   <desc>Abingdon Green, Westminster</desc>
   <src>583</src>
 </wpt>
+<wpt lat="51.50070305" lon="-0.129698963">
+  <name>150.SG</name>
+  <cmt>S7.18</cmt>
+  <desc>Storey's Gate, Westminster</desc>
+  <src>762</src>
+</wpt>
 <wpt lat="51.501513" lon="-0.12382322">
   <name>151.WP</name>
-  <cmt>S7.17</cmt>
+  <cmt>S7.19</cmt>
   <desc>Westminster Pier, Westminster</desc>
   <src>818</src>
 </wpt>
 <wpt lat="51.50654321" lon="-0.123179697">
   <name>152.WP</name>
-  <cmt>S7.18</cmt>
+  <cmt>S7.20</cmt>
   <desc>Whitehall Place, Strand</desc>
   <src>229</src>
 </wpt>
 <wpt lat="51.506767" lon="-0.123702">
   <name>153.NA</name>
-  <cmt>S7.19</cmt>
+  <cmt>S7.21</cmt>
   <desc>Northumberland Avenue, Strand</desc>
   <src>354</src>
 </wpt>
 <wpt lat="51.50963123" lon="-0.119047563">
   <name>154.ES</name>
-  <cmt>S7.20</cmt>
+  <cmt>S7.22</cmt>
   <desc>Embankment (Savoy), Strand</desc>
   <src>309</src>
 </wpt>
 <wpt lat="51.509943" lon="-0.117619">
   <name>155.SH</name>
-  <cmt>S7.21</cmt>
+  <cmt>S7.23</cmt>
   <desc>Somerset House, Strand</desc>
   <src>564</src>
 </wpt>
 <wpt lat="51.511726" lon="-0.11385596">
   <name>156.AS</name>
-  <cmt>S7.22</cmt>
+  <cmt>S7.24</cmt>
   <desc>Arundel Street, Temple</desc>
   <src>79</src>
 </wpt>
 <wpt lat="51.510981" lon="-0.10832249">
   <name>157.TG</name>
-  <cmt>S7.23</cmt>
+  <cmt>S7.25</cmt>
   <desc>Temple Gardens, Temple</desc>
   <src>842</src>
 </wpt>
 <wpt lat="51.511891" lon="-0.107349">
   <name>158.TS</name>
-  <cmt>S7.24</cmt>
+  <cmt>S7.26</cmt>
   <desc>Tallis Street, Temple</desc>
   <src>773</src>
 </wpt>
 <wpt lat="51.51382102" lon="-0.107927706">
   <name>159.BS</name>
-  <cmt>S7.25</cmt>
+  <cmt>S7.27</cmt>
   <desc>Bouverie Street, Temple</desc>
   <src>27</src>
 </wpt>
 <wpt lat="51.512582" lon="-0.1150573">
   <name>160.S</name>
-  <cmt>S7.26</cmt>
+  <cmt>S7.28</cmt>
   <desc>Strand, Strand</desc>
   <src>174</src>
 </wpt>
+<wpt lat="51.51196803" lon="-0.120718759">
+  <name>161.TS</name>
+  <cmt>S7.29</cmt>
+  <desc>Tavistock Street, Covent Garden</desc>
+  <src>200335</src>
+</wpt>
 <wpt lat="51.51175646" lon="-0.119643424">
-  <name>161.WS</name>
-  <cmt>S7.27</cmt>
+  <name>162.WS</name>
+  <cmt>S7.30</cmt>
   <desc>Wellington Street , Strand</desc>
   <src>800338</src>
 </wpt>

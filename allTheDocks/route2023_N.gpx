@@ -1380,7 +1380,7 @@
 </rte>
 <rte>
   <name>N7 Kings Cross</name>
-  <desc>9061.096413701292</desc>
+  <desc>9085.092652849804</desc>
   <src>29</src>
   <number>7</number>
   <rtept lat="51.52450027041025" lon="-0.116182254144755">
@@ -1643,9 +1643,11 @@
   </rtept>
   <rtept lat="51.512673844803231" lon="-0.121156833604261">
   </rtept>
-  <rtept lat="51.512172774120941" lon="-0.120550144806016">
+  <rtept lat="51.512207087811952" lon="-0.120649095590906">
   </rtept>
-  <rtept lat="51.512008261898423" lon="-0.120034184321378">
+  <rtept lat="51.51196803" lon="-0.120718759">
+  </rtept>
+  <rtept lat="51.51199373253737" lon="-0.120202997117475">
   </rtept>
   <rtept lat="51.511786613828846" lon="-0.119658245222883">
   </rtept>
@@ -2610,9 +2612,15 @@
   <desc>Kingsway Southbound, Strand</desc>
   <src>594</src>
 </wpt>
-<wpt lat="51.51175646" lon="-0.119643424">
-  <name>161.WS</name>
+<wpt lat="51.51196803" lon="-0.120718759">
+  <name>161.TS</name>
   <cmt>N7.29</cmt>
+  <desc>Tavistock Street, Covent Garden</desc>
+  <src>300335</src>
+</wpt>
+<wpt lat="51.51175646" lon="-0.119643424">
+  <name>162.WS</name>
+  <cmt>N7.30</cmt>
   <desc>Wellington Street , Strand</desc>
   <src>600338</src>
 </wpt>
