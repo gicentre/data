@@ -1586,3 +1586,283 @@ forcesServedReference,1,regular,Household reference person previously served in 
 forcesServedReference,2,reserve,Household reference person previously served in reserve UK armed forces
 forcesServedReference,3,regularAndReserve,Household reference person previously served in both regular and reserve UK armed forces
 forcesServedReference,4,notServed,Household reference person has not previously served in regular or reserve UK armed forces
+welshLanguage,-8,N/A,Does not apply
+welshLanguage,0,understand,Can understand spoken Welsh only
+welshLanguage,1,all,"Can speak, read and write Welsh"
+welshLanguage,2,speak,Can speak but cannot read or write Welsh
+welshLanguage,3,speakRead,Can speak and read but cannot write Welsh
+welshLanguage,4,read,Can read but cannot speak or write Welsh
+welshLanguage,5,write,Can write but cannot speak or read Welsh
+welshLanguage,6,readWrite,Can read and write but cannot speak Welsh
+welshLanguage,7,other,Can speak and other combinations of skills in Welsh
+welshLanguage,8,none,No skills in Welsh
+welshSpoken,-8,N/A,Does not apply
+welshSpoken,0,cannot,Cannot speak Welsh
+welshSpoken,1,can,Can speak Welsh
+welshWritten,-8,N/A,Does not apply
+welshWritten,0,cannot,Cannot write Welsh
+welshWritten,1,can,Can write Welsh
+welshReading,-8,N/A,Does not apply
+welshReading,0,cannot,Cannot read Welsh
+welshReading,1,can,Can read Welsh
+welshUnderstanding,-8,N/A,Does not apply
+welshUnderstanding,0,cannot,Cannot understand spoken Welsh
+welshUnderstanding,1,can,Can understand spoken Welsh
+welshSpokenAge,x0,x0,child under 1 does not apply
+welshSpokenAge,x1,x1,age 1 does not apply
+welshSpokenAge,x2,x2,age 2 does not apply
+welshSpokenAge,x3,x3,age 3 does not apply
+welshSpokenAge,x4,x4,age 4 does not apply
+welshSpokenAge,x5,x5,age 5 does not apply
+welshSpokenAge,x6,x6,age 6 does not apply
+welshSpokenAge,x7,x7,age 7 does not apply
+welshSpokenAge,x8,x8,age 8 does not apply
+welshSpokenAge,x9,x9,age 9 does not apply
+welshSpokenAge,x10,x10,age 10 does not apply
+welshSpokenAge,x11,x11,age 11 does not apply
+welshSpokenAge,x12,x12,age 12 does not apply
+welshSpokenAge,x13,x13,age 13 does not apply
+welshSpokenAge,x14,x14,age 14 does not apply
+welshSpokenAge,x15,x15,age 15 does not apply
+welshSpokenAge,x16,x16,age 16 does not apply
+welshSpokenAge,x17,x17,age 17 does not apply
+welshSpokenAge,x18,x18,age 18 does not apply
+welshSpokenAge,x19,x19,age 19 does not apply
+welshSpokenAge,x20,x20,age 20 does not apply
+welshSpokenAge,x21,x21,age 21 does not apply
+welshSpokenAge,x22,x22,age 22 does not apply
+welshSpokenAge,x23,x23,age 23 does not apply
+welshSpokenAge,x24,x24,age 24 does not apply
+welshSpokenAge,x25,x25,age 25 does not apply
+welshSpokenAge,x26,x26,age 26 does not apply
+welshSpokenAge,x27,x27,age 27 does not apply
+welshSpokenAge,x28,x28,age 28 does not apply
+welshSpokenAge,x29,x29,age 29 does not apply
+welshSpokenAge,x30,x30,age 30 does not apply
+welshSpokenAge,x31,x31,age 31 does not apply
+welshSpokenAge,x32,x32,age 32 does not apply
+welshSpokenAge,x33,x33,age 33 does not apply
+welshSpokenAge,x34,x34,age 34 does not apply
+welshSpokenAge,x35,x35,age 35 does not apply
+welshSpokenAge,x36,x36,age 36 does not apply
+welshSpokenAge,x37,x37,age 37 does not apply
+welshSpokenAge,x38,x38,age 38 does not apply
+welshSpokenAge,x39,x39,age 39 does not apply
+welshSpokenAge,x40,x40,age 40 does not apply
+welshSpokenAge,x41,x41,age 41 does not apply
+welshSpokenAge,x42,x42,age 42 does not apply
+welshSpokenAge,x43,x43,age 43 does not apply
+welshSpokenAge,x44,x44,age 44 does not apply
+welshSpokenAge,x45,x45,age 45 does not apply
+welshSpokenAge,x46,x46,age 46 does not apply
+welshSpokenAge,x47,x47,age 47 does not apply
+welshSpokenAge,x48,x48,age 48 does not apply
+welshSpokenAge,x49,x49,age 49 does not apply
+welshSpokenAge,x50,x50,age 50 does not apply
+welshSpokenAge,x51,x51,age 51 does not apply
+welshSpokenAge,x52,x52,age 52 does not apply
+welshSpokenAge,x53,x53,age 53 does not apply
+welshSpokenAge,x54,x54,age 54 does not apply
+welshSpokenAge,x55,x55,age 55 does not apply
+welshSpokenAge,x56,x56,age 56 does not apply
+welshSpokenAge,x57,x57,age 57 does not apply
+welshSpokenAge,x58,x58,age 58 does not apply
+welshSpokenAge,x59,x59,age 59 does not apply
+welshSpokenAge,x60,x60,age 60 does not apply
+welshSpokenAge,x61,x61,age 61 does not apply
+welshSpokenAge,x62,x62,age 62 does not apply
+welshSpokenAge,x63,x63,age 63 does not apply
+welshSpokenAge,x64,x64,age 64 does not apply
+welshSpokenAge,x65,x65,age 65 does not apply
+welshSpokenAge,x66,x66,age 66 does not apply
+welshSpokenAge,x67,x67,age 67 does not apply
+welshSpokenAge,x68,x68,age 68 does not apply
+welshSpokenAge,x69,x69,age 69 does not apply
+welshSpokenAge,x70,x70,age 70 does not apply
+welshSpokenAge,x71,x71,age 71 does not apply
+welshSpokenAge,x72,x72,age 72 does not apply
+welshSpokenAge,x73,x73,age 73 does not apply
+welshSpokenAge,x74,x74,age 74 does not apply
+welshSpokenAge,x75,x75,age 75 does not apply
+welshSpokenAge,x76,x76,age 76 does not apply
+welshSpokenAge,x77,x77,age 77 does not apply
+welshSpokenAge,x78,x78,age 78 does not apply
+welshSpokenAge,x79,x79,age 79 does not apply
+welshSpokenAge,x80,x80,age 80 does not apply
+welshSpokenAge,x81,x81,age 81 does not apply
+welshSpokenAge,x82,x82,age 82 does not apply
+welshSpokenAge,x83,x83,age 83 does not apply
+welshSpokenAge,x84,x84,age 84 does not apply
+welshSpokenAge,x85,x85,age 85 or over does not apply
+welshSpokenAge,s0,s0,child under 1 can speak Welsh
+welshSpokenAge,s1,s1,age 1 can speak Welsh
+welshSpokenAge,s2,s2,age 2 can speak Welsh
+welshSpokenAge,s3,s3,age 3 can speak Welsh
+welshSpokenAge,s4,s4,age 4 can speak Welsh
+welshSpokenAge,s5,s5,age 5 can speak Welsh
+welshSpokenAge,s6,s6,age 6 can speak Welsh
+welshSpokenAge,s7,s7,age 7 can speak Welsh
+welshSpokenAge,s8,s8,age 8 can speak Welsh
+welshSpokenAge,s9,s9,age 9 can speak Welsh
+welshSpokenAge,s10,s10,age 10 can speak Welsh
+welshSpokenAge,s11,s11,age 11 can speak Welsh
+welshSpokenAge,s12,s12,age 12 can speak Welsh
+welshSpokenAge,s13,s13,age 13 can speak Welsh
+welshSpokenAge,s14,s14,age 14 can speak Welsh
+welshSpokenAge,s15,s15,age 15 can speak Welsh
+welshSpokenAge,s16,s16,age 16 can speak Welsh
+welshSpokenAge,s17,s17,age 17 can speak Welsh
+welshSpokenAge,s18,s18,age 18 can speak Welsh
+welshSpokenAge,s19,s19,age 19 can speak Welsh
+welshSpokenAge,s20,s20,age 20 can speak Welsh
+welshSpokenAge,s21,s21,age 21 can speak Welsh
+welshSpokenAge,s22,s22,age 22 can speak Welsh
+welshSpokenAge,s23,s23,age 23 can speak Welsh
+welshSpokenAge,s24,s24,age 24 can speak Welsh
+welshSpokenAge,s25,s25,age 25 can speak Welsh
+welshSpokenAge,s26,s26,age 26 can speak Welsh
+welshSpokenAge,s27,s27,age 27 can speak Welsh
+welshSpokenAge,s28,s28,age 28 can speak Welsh
+welshSpokenAge,s29,s29,age 29 can speak Welsh
+welshSpokenAge,s30,s30,age 30 can speak Welsh
+welshSpokenAge,s31,s31,age 31 can speak Welsh
+welshSpokenAge,s32,s32,age 32 can speak Welsh
+welshSpokenAge,s33,s33,age 33 can speak Welsh
+welshSpokenAge,s34,s34,age 34 can speak Welsh
+welshSpokenAge,s35,s35,age 35 can speak Welsh
+welshSpokenAge,s36,s36,age 36 can speak Welsh
+welshSpokenAge,s37,s37,age 37 can speak Welsh
+welshSpokenAge,s38,s38,age 38 can speak Welsh
+welshSpokenAge,s39,s39,age 39 can speak Welsh
+welshSpokenAge,s40,s40,age 40 can speak Welsh
+welshSpokenAge,s41,s41,age 41 can speak Welsh
+welshSpokenAge,s42,s42,age 42 can speak Welsh
+welshSpokenAge,s43,s43,age 43 can speak Welsh
+welshSpokenAge,s44,s44,age 44 can speak Welsh
+welshSpokenAge,s45,s45,age 45 can speak Welsh
+welshSpokenAge,s46,s46,age 46 can speak Welsh
+welshSpokenAge,s47,s47,age 47 can speak Welsh
+welshSpokenAge,s48,s48,age 48 can speak Welsh
+welshSpokenAge,s49,s49,age 49 can speak Welsh
+welshSpokenAge,s50,s50,age 50 can speak Welsh
+welshSpokenAge,s51,s51,age 51 can speak Welsh
+welshSpokenAge,s52,s52,age 52 can speak Welsh
+welshSpokenAge,s53,s53,age 53 can speak Welsh
+welshSpokenAge,s54,s54,age 54 can speak Welsh
+welshSpokenAge,s55,s55,age 55 can speak Welsh
+welshSpokenAge,s56,s56,age 56 can speak Welsh
+welshSpokenAge,s57,s57,age 57 can speak Welsh
+welshSpokenAge,s58,s58,age 58 can speak Welsh
+welshSpokenAge,s59,s59,age 59 can speak Welsh
+welshSpokenAge,s60,s60,age 60 can speak Welsh
+welshSpokenAge,s61,s61,age 61 can speak Welsh
+welshSpokenAge,s62,s62,age 62 can speak Welsh
+welshSpokenAge,s63,s63,age 63 can speak Welsh
+welshSpokenAge,s64,s64,age 64 can speak Welsh
+welshSpokenAge,s65,s65,age 65 can speak Welsh
+welshSpokenAge,s66,s66,age 66 can speak Welsh
+welshSpokenAge,s67,s67,age 67 can speak Welsh
+welshSpokenAge,s68,s68,age 68 can speak Welsh
+welshSpokenAge,s69,s69,age 69 can speak Welsh
+welshSpokenAge,s70,s70,age 70 can speak Welsh
+welshSpokenAge,s71,s71,age 71 can speak Welsh
+welshSpokenAge,s72,s72,age 72 can speak Welsh
+welshSpokenAge,s73,s73,age 73 can speak Welsh
+welshSpokenAge,s74,s74,age 74 can speak Welsh
+welshSpokenAge,s75,s75,age 75 can speak Welsh
+welshSpokenAge,s76,s76,age 76 can speak Welsh
+welshSpokenAge,s77,s77,age 77 can speak Welsh
+welshSpokenAge,s78,s78,age 78 can speak Welsh
+welshSpokenAge,s79,s79,age 79 can speak Welsh
+welshSpokenAge,s80,s80,age 80 can speak Welsh
+welshSpokenAge,s81,s81,age 81 can speak Welsh
+welshSpokenAge,s82,s82,age 82 can speak Welsh
+welshSpokenAge,s83,s83,age 83 can speak Welsh
+welshSpokenAge,s84,s84,age 84 can speak Welsh
+welshSpokenAge,s85,s85,age 85 or over can speak Welsh
+welshSpokenAge,n0,n0,child under 1 cannot speak Welsh
+welshSpokenAge,n1,n1,age 1 cannot speak Welsh
+welshSpokenAge,n2,n2,age 2 cannot speak Welsh
+welshSpokenAge,n3,n3,age 3 cannot speak Welsh
+welshSpokenAge,n4,n4,age 4 cannot speak Welsh
+welshSpokenAge,n5,n5,age 5 cannot speak Welsh
+welshSpokenAge,n6,n6,age 6 cannot speak Welsh
+welshSpokenAge,n7,n7,age 7 cannot speak Welsh
+welshSpokenAge,n8,n8,age 8 cannot speak Welsh
+welshSpokenAge,n9,n9,age 9 cannot speak Welsh
+welshSpokenAge,n10,n10,age 10 cannot speak Welsh
+welshSpokenAge,n11,n11,age 11 cannot speak Welsh
+welshSpokenAge,n12,n12,age 12 cannot speak Welsh
+welshSpokenAge,n13,n13,age 13 cannot speak Welsh
+welshSpokenAge,n14,n14,age 14 cannot speak Welsh
+welshSpokenAge,n15,n15,age 15 cannot speak Welsh
+welshSpokenAge,n16,n16,age 16 cannot speak Welsh
+welshSpokenAge,n17,n17,age 17 cannot speak Welsh
+welshSpokenAge,n18,n18,age 18 cannot speak Welsh
+welshSpokenAge,n19,n19,age 19 cannot speak Welsh
+welshSpokenAge,n20,n20,age 20 cannot speak Welsh
+welshSpokenAge,n21,n21,age 21 cannot speak Welsh
+welshSpokenAge,n22,n22,age 22 cannot speak Welsh
+welshSpokenAge,n23,n23,age 23 cannot speak Welsh
+welshSpokenAge,n24,n24,age 24 cannot speak Welsh
+welshSpokenAge,n25,n25,age 25 cannot speak Welsh
+welshSpokenAge,n26,n26,age 26 cannot speak Welsh
+welshSpokenAge,n27,n27,age 27 cannot speak Welsh
+welshSpokenAge,n28,n28,age 28 cannot speak Welsh
+welshSpokenAge,n29,n29,age 29 cannot speak Welsh
+welshSpokenAge,n30,n30,age 30 cannot speak Welsh
+welshSpokenAge,n31,n31,age 31 cannot speak Welsh
+welshSpokenAge,n32,n32,age 32 cannot speak Welsh
+welshSpokenAge,n33,n33,age 33 cannot speak Welsh
+welshSpokenAge,n34,n34,age 34 cannot speak Welsh
+welshSpokenAge,n35,n35,age 35 cannot speak Welsh
+welshSpokenAge,n36,n36,age 36 cannot speak Welsh
+welshSpokenAge,n37,n37,age 37 cannot speak Welsh
+welshSpokenAge,n38,n38,age 38 cannot speak Welsh
+welshSpokenAge,n39,n39,age 39 cannot speak Welsh
+welshSpokenAge,n40,n40,age 40 cannot speak Welsh
+welshSpokenAge,n41,n41,age 41 cannot speak Welsh
+welshSpokenAge,n42,n42,age 42 cannot speak Welsh
+welshSpokenAge,n43,n43,age 43 cannot speak Welsh
+welshSpokenAge,n44,n44,age 44 cannot speak Welsh
+welshSpokenAge,n45,n45,age 45 cannot speak Welsh
+welshSpokenAge,n46,n46,age 46 cannot speak Welsh
+welshSpokenAge,n47,n47,age 47 cannot speak Welsh
+welshSpokenAge,n48,n48,age 48 cannot speak Welsh
+welshSpokenAge,n49,n49,age 49 cannot speak Welsh
+welshSpokenAge,n50,n50,age 50 cannot speak Welsh
+welshSpokenAge,n51,n51,age 51 cannot speak Welsh
+welshSpokenAge,n52,n52,age 52 cannot speak Welsh
+welshSpokenAge,n53,n53,age 53 cannot speak Welsh
+welshSpokenAge,n54,n54,age 54 cannot speak Welsh
+welshSpokenAge,n55,n55,age 55 cannot speak Welsh
+welshSpokenAge,n56,n56,age 56 cannot speak Welsh
+welshSpokenAge,n57,n57,age 57 cannot speak Welsh
+welshSpokenAge,n58,n58,age 58 cannot speak Welsh
+welshSpokenAge,n59,n59,age 59 cannot speak Welsh
+welshSpokenAge,n60,n60,age 60 cannot speak Welsh
+welshSpokenAge,n61,n61,age 61 cannot speak Welsh
+welshSpokenAge,n62,n62,age 62 cannot speak Welsh
+welshSpokenAge,n63,n63,age 63 cannot speak Welsh
+welshSpokenAge,n64,n64,age 64 cannot speak Welsh
+welshSpokenAge,n65,n65,age 65 cannot speak Welsh
+welshSpokenAge,n66,n66,age 66 cannot speak Welsh
+welshSpokenAge,n67,n67,age 67 cannot speak Welsh
+welshSpokenAge,n68,n68,age 68 cannot speak Welsh
+welshSpokenAge,n69,n69,age 69 cannot speak Welsh
+welshSpokenAge,n70,n70,age 70 cannot speak Welsh
+welshSpokenAge,n71,n71,age 71 cannot speak Welsh
+welshSpokenAge,n72,n72,age 72 cannot speak Welsh
+welshSpokenAge,n73,n73,age 73 cannot speak Welsh
+welshSpokenAge,n74,n74,age 74 cannot speak Welsh
+welshSpokenAge,n75,n75,age 75 cannot speak Welsh
+welshSpokenAge,n76,n76,age 76 cannot speak Welsh
+welshSpokenAge,n77,n77,age 77 cannot speak Welsh
+welshSpokenAge,n78,n78,age 78 cannot speak Welsh
+welshSpokenAge,n79,n79,age 79 cannot speak Welsh
+welshSpokenAge,n80,n80,age 80 cannot speak Welsh
+welshSpokenAge,n81,n81,age 81 cannot speak Welsh
+welshSpokenAge,n82,n82,age 82 cannot speak Welsh
+welshSpokenAge,n83,n83,age 83 cannot speak Welsh
+welshSpokenAge,n84,n84,age 84 cannot speak Welsh
+welshSpokenAge,n85,n85,age 85 or over cannot speak Welsh
