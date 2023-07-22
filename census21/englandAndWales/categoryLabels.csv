@@ -1866,3 +1866,7 @@ welshSpokenAge,n82,n82,age 82 cannot speak Welsh
 welshSpokenAge,n83,n83,age 83 cannot speak Welsh
 welshSpokenAge,n84,n84,age 84 cannot speak Welsh
 welshSpokenAge,n85,n85,age 85 or over cannot speak Welsh
+employmentHistory,-8,N/A,Does not apply
+employmentHistory,1,worked12,Not in employment: Worked in the last 12 months
+employmentHistory,2,notWorked12,Not in employment: Not worked in the last 12 months
+employmentHistory,3,neverWorked,Not in employment: Never worked
