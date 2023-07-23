@@ -1902,3 +1902,8 @@ care,3,10_19,Provides 10 to 19 hours unpaid care a week
 care,4,20_34,Provides 20 to 34 hours unpaid care a week
 care,5,35_49,Provides 35 to 49 hours unpaid care a week
 care,6,50plus,Provides 50 or more hours unpaid care a week
+careASP,-8,N/A,Does not apply
+careASP,1,none,Provides no unpaid care
+careASP,2,19less,Provides 19 hours or less unpaid care a week
+careASP,3,20_49,Provides 20 to 49 hours unpaid care a week
+careASP,4,50plus,Provides 50 or more hours unpaid care a week
