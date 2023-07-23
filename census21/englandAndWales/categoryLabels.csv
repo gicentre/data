@@ -1870,3 +1870,9 @@ employmentHistory,-8,N/A,Does not apply
 employmentHistory,1,worked12,Not in employment: Worked in the last 12 months
 employmentHistory,2,notWorked12,Not in employment: Not worked in the last 12 months
 employmentHistory,3,neverWorked,Not in employment: Never worked
+health,-8,N/A,Does not apply
+health,1,vGood,Very good health
+health,2,good,Good health
+health,3,fair,Fair health
+health,4,bad, Bad health
+health,5,vBad,Very bad health
