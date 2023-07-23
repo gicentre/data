@@ -1887,3 +1887,7 @@ disability,1,limited,Disabled under the Equality Act: Day-to-day activities limi
 disability,2,mildLimited,Disabled under the Equality Act: Day-to-day activities limited a little
 disability,3,notLimited,Not disabled under the Equality Act: Has long-term physical or mental health condition but day-to-day activities are not limited
 disability,4,none,Not disabled under the Equality Act: No long-term physical or mental health conditions
+disabilityASP,-8,N/A,Does not apply
+disabilityASP,1,limited,Disabled under the Equality Act: Day-to-day activities limited a lot
+disabilityASP,2,mildLimited,Disabled under the Equality Act: Day-to-day activities limited a little
+disabilityASP,3,notLimited,Not disabled under the Equality Act
