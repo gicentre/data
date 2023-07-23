@@ -1882,3 +1882,8 @@ healthASP,2,good,Good health
 healthASP,3,fair,Fair health
 healthASP,4,bad,Bad health
 healthASP,5,vBad,Very bad health
+disability,-8,N/A,Does not apply
+disability,1,limited,Disabled under the Equality Act: Day-to-day activities limited a lot
+disability,2,mildLimited,Disabled under the Equality Act: Day-to-day activities limited a little
+disability,3,notLimited,Not disabled under the Equality Act: Has long-term physical or mental health condition but day-to-day activities are not limited
+disability,4,none,Not disabled under the Equality Act: No long-term physical or mental health conditions
