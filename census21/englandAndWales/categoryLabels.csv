@@ -1874,5 +1874,11 @@ health,-8,N/A,Does not apply
 health,1,vGood,Very good health
 health,2,good,Good health
 health,3,fair,Fair health
-health,4,bad, Bad health
+health,4,bad,Bad health
 health,5,vBad,Very bad health
+healthASP,-8,N/A,Does not apply
+healthASP,1,vGood,Very good health
+healthASP,2,good,Good health
+healthASP,3,fair,Fair health
+healthASP,4,bad,Bad health
+healthASP,5,vBad,Very bad health
