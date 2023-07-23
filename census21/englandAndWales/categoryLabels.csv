@@ -1895,3 +1895,10 @@ disabilityHousehold,-8,N/A,Does not apply
 disabilityHousehold,0,none,No people disabled under the Equality Act in household
 disabilityHousehold,1,1person,1 person disabled under the Equality Act in household
 disabilityHousehold,2,2plus,2 or more people disabled under the Equality Act in household
+care,-8,N/A,Does not apply
+care,1,none,Provides no unpaid care
+care,2,9less,Provides 9 hours or less unpaid care a week
+care,3,10_19,Provides 10 to 19 hours unpaid care a week
+care,4,20_34,Provides 20 to 34 hours unpaid care a week
+care,5,35_49,Provides 35 to 49 hours unpaid care a week
+care,6,50plus,Provides 50 or more hours unpaid care a week
