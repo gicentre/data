@@ -1891,3 +1891,7 @@ disabilityASP,-8,N/A,Does not apply
 disabilityASP,1,limited,Disabled under the Equality Act: Day-to-day activities limited a lot
 disabilityASP,2,mildLimited,Disabled under the Equality Act: Day-to-day activities limited a little
 disabilityASP,3,notLimited,Not disabled under the Equality Act
+disabilityHousehold,-8,N/A,Does not apply
+disabilityHousehold,0,none,No people disabled under the Equality Act in household
+disabilityHousehold,1,1person,1 person disabled under the Equality Act in household
+disabilityHousehold,2,2plus,2 or more people disabled under the Equality Act in household
