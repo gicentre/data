@@ -1,0 +1,176 @@
+country,alpha2,alpha3,continent,region,income,population,lifeExpectancy
+Angola,AO,AGO,Africa,Sub-Saharan Africa,2446.65,10442812,43.56
+Benin,BJ,BEN,Africa,Sub-Saharan Africa,1307.57,6627964,58.34
+Botswana,BW,BWA,Africa,Sub-Saharan Africa,10107.99,1607069,50.65
+Burkina Faso,BF,BFA,Africa,Sub-Saharan Africa,1001.48,11308552,50.37
+Burundi,BI,BDI,Africa,Sub-Saharan Africa,443.76,6621126,46.90
+Cameroon,CM,CMR,Africa,Sub-Saharan Africa,1803.44,15233673,51.52
+Cape Verde,CV,CPV,Africa,Sub-Saharan Africa,2291.29,401343,68.98
+Chad,TD,TCD,Africa,Sub-Saharan Africa,1017.03,8316481,49.30
+Comoros,KM,COM,Africa,Sub-Saharan Africa,1090.79,578400,61.85
+"Congo, Dem. Rep.",CD,COD,Africa,Sub-Saharan Africa,292.45,52021832,46.34
+"Congo, Republic",CG,COG,Africa,Sub-Saharan Africa,3423.52,3102404,53.58
+Cote d'Ivoire,CI,CIV,Africa,Sub-Saharan Africa,1746.31,15563387,55.45
+Equatorial Guinea,GQ,GNQ,Africa,Sub-Saharan Africa,5240.45,473216,48.74
+Eritrea,ER,ERI,Africa,Sub-Saharan Africa,741.57,4356581,55.94
+Ethiopia,ET,ETH,Africa,Sub-Saharan Africa,512.36,64690052,51.40
+Gabon,GA,GAB,Africa,Sub-Saharan Africa,12764.05,1235484,59.90
+Ghana,GH,GHA,Africa,Sub-Saharan Africa,1067.6,19657719,57.91
+Guinea,GN,GIN,Africa,Sub-Saharan Africa,906.62,8638858,53.27
+Guinea-Bissau,GW,GNB,Africa,Sub-Saharan Africa,632.08,1278273,45.84
+Kenya,KE,KEN,Africa,Sub-Saharan Africa,1318.49,29985839,52.82
+Lesotho,LS,LSO,Africa,Sub-Saharan Africa,1186.64,2037961,50.48
+Liberia,LR,LBR,Africa,Sub-Saharan Africa,519.49,2693780,54.44
+Madagascar,MG,MDG,Africa,Sub-Saharan Africa,1027.09,15506472,56.51
+Malawi,MW,MWI,Africa,Sub-Saharan Africa,713.78,11258163,50.99
+Mali,ML,MLI,Africa,Sub-Saharan Africa,854.73,10072267,45.64
+Mauritania,MR,MRT,Africa,Sub-Saharan Africa,1540.84,2667859,56.50
+Mauritius,MU,MUS,Africa,Sub-Saharan Africa,8290.95,1179368,71.32
+Mozambique,MZ,MOZ,Africa,Sub-Saharan Africa,542.81,17768457,47.65
+Namibia,NA,NAM,Africa,Sub-Saharan Africa,4022.88,1905659,58.78
+Niger,NE,NER,Africa,Sub-Saharan Africa,577.19,10516111,46.41
+Nigeria,NG,NGA,Africa,Sub-Saharan Africa,1619.12,114306700,45.90
+Reunion,RE,REU,Africa,Sub-Saharan Africa,6084.03,720934,75.27
+Rwanda,RW,RWA,Africa,Sub-Saharan Africa,704.04,7507056,43.10
+Sao Tome and Principe,ST,STP,Africa,Sub-Saharan Africa,1320.58,159883,63.78
+Senegal,SN,SEN,Africa,Sub-Saharan Africa,1511.49,10324150,54.07
+Sierra Leone,SL,SLE,Africa,Sub-Saharan Africa,517.67,4808817,41.88
+Somalia,SO,SOM,Africa,Sub-Saharan Africa,881.51,7253137,48.37
+South Africa,ZA,ZAF,Africa,Sub-Saharan Africa,7454.45,44066197,55.77
+Sudan,SD,SDN,Africa,Sub-Saharan Africa,1874.02,35079814,56.06
+Swaziland,SZ,SWZ,Africa,Sub-Saharan Africa,4021.22,1109750,50.75
+Tanzania,TZ,TZA,Africa,Sub-Saharan Africa,826.23,33065142,50.74
+Togo,TG,TGO,Africa,Sub-Saharan Africa,890.36,4711655,59.76
+Uganda,UG,UGA,Africa,Sub-Saharan Africa,881.21,23248553,46.31
+Zambia,ZM,ZMB,Africa,Sub-Saharan Africa,1035.9,10116606,42.04
+Zimbabwe,ZW,ZWE,Africa,Sub-Saharan Africa,745.77,11751323,43.32
+Afghanistan,AF,AFG,Asia,South Asia,663.91,23898198,41.83
+Bangladesh,BD,BGD,Asia,South Asia,1075,130406594,61.29
+Bhutan,BT,BTN,Asia,South Asia,2922.11,2005222,61.36
+India,IN,IND,Asia,South Asia,1648,1007702000,61.26
+Maldives,MV,MDV,Asia,South Asia,3433.5,301475,66.04
+Nepal,NP,NPL,Asia,South Asia,1054.79,24702119,61.69
+Pakistan,PK,PAK,Asia,South Asia,2086,146342958,63.91
+Sri Lanka,LK,LKA,Asia,South Asia,2997.69,19238575,70.95
+Algeria,DZ,DZA,Africa,Middle East & North Africa,5098.85,30409300,70.08
+Bahrain,BH,BHR,Asia,Middle East & North Africa,22015.32,634137,74.38
+Djibouti,DJ,DJI,Africa,Middle East & North Africa,1894.04,430822,53.57
+Iraq,IQ,IRQ,Asia,Middle East & North Africa,3951.74,22675617,71.24
+Israel,IL,ISR,Asia,Middle East & North Africa,22834.93,5842454,78.75
+Jordan,JO,JOR,Asia,Middle East & North Africa,3664.56,4998564,70.55
+Kuwait,KW,KWT,Asia,Middle East & North Africa,36397.96,1973572,76.55
+Lebanon,LB,LBN,Asia,Middle East & North Africa,8809.99,3578036,70.65
+Libya,LY,LBY,Africa,Middle East & North Africa,9139.68,5115450,72.25
+Morocco,MA,MAR,Africa,Middle East & North Africa,3073.43,30122350,68.69
+Oman,OM,OMN,Asia,Middle East & North Africa,19204.29,2533389,73.35
+Qatar,QA,QAT,Asia,Middle East & North Africa,60394.43,744483,73.18
+Saudi Arabia,SA,SAU,Asia,Middle East & North Africa,20001.87,23153090,71.12
+Tunisia,TN,TUN,Africa,Middle East & North Africa,5480.32,9563816,72.56
+United Arab Emirates,AE,ARE,Asia,Middle East & North Africa,30012.32,2369153,76.42
+West Bank and Gaza,PS,PSE,Asia,Middle East & North Africa,7586.32,3152361,71.76
+Yemen,YE,YEM,Asia,Middle East & North Africa,2217.07,17479206,59.17
+Argentina,AR,ARG,South America,America,10571.36,37497728,73.77
+Aruba,AW,ABW,North America,America,28711.44,69539,73.68
+Barbados,BB,BRB,North America,America,14982.12,273483,75.41
+Belize,BZ,BLZ,North America,America,6545.45,247887,74.11
+Bolivia,BO,BOL,South America,America,3394.71,8152620,62.95
+Brazil,BR,BRA,South America,America,8056.06,175552771,70.19
+Canada,CA,CAN,North America,America,32448.61,31278097,79.41
+Chile,CL,CHL,South America,America,10435.17,15153450,77.01
+Colombia,CO,COL,South America,America,5749.55,39685655,70.98
+Costa Rica,CR,CRI,North America,America,7672.85,3710558,77.74
+Cuba,CU,CUB,North America,America,6115.59,11134273,76.64
+Ecuador,EC,ECU,South America,America,5616.42,12505204,73.36
+El Salvador,SV,SLV,North America,America,5341.27,6122515,69.53
+Grenada,GD,GRD,North America,America,8655.03,89312,73.53
+Guatemala,GT,GTM,North America,America,4884.72,10625732,67.74
+Guyana,GY,GUY,South America,America,3141.35,755171,63.18
+Haiti,HT,HTI,North America,America,1344.49,7306302,59.12
+Honduras,HN,HND,North America,America,3093.71,6347658,70.29
+Jamaica,JM,JAM,North America,America,6934.03,2615467,71.02
+Mexico,MX,MEX,North America,America,10894.51,99926620,74.26
+Netherlands Antilles,AN,ANT,North America,America,22284.26,210134,74.95
+Nicaragua,NI,NIC,North America,America,2490.8,4932420,69.64
+Panama,PA,PAN,North America,America,7405.97,2889485,74.29
+Paraguay,PY,PRY,South America,America,3907.3,5585828,70.07
+Peru,PE,PER,South America,America,5791.37,25979722,70.51
+Puerto Rico,PR,PRI,North America,America,18568.22,3815909,76.32
+Suriname,SR,SUR,South America,America,5677.29,429323,68.11
+Trinidad and Tobago,TT,TTO,North America,America,10496.91,1118204,68.48
+United States,US,USA,North America,America,39758.5,282338631,77.13
+Uruguay,UY,URY,South America,America,9092.32,3323876,74.66
+Albania,AL,ALB,Europe,Europe & Central Asia,4195.21,3473835,74.36
+Armenia,AM,ARM,Asia,Europe & Central Asia,2114.06,3042556,71.19
+Austria,AT,AUT,Europe,Europe & Central Asia,32008.5,8113413,78.33
+Azerbaijan,AZ,AZE,Asia,Europe & Central Asia,2533.17,7748163,67.14
+Belarus,BY,BLR,Europe,Europe & Central Asia,5936.24,10366719,68.99
+Belgium,BE,BEL,Europe,Europe & Central Asia,29940.2,10263618,77.91
+Bosnia and Herzegovina,BA,BIH,Europe,Europe & Central Asia,5733.15,4035457,74.49
+Bulgaria,BG,BGR,Europe,Europe & Central Asia,6907.01,7818495,71.59
+Croatia,HR,HRV,Europe,Europe & Central Asia,10582.67,4410830,74.81
+Cyprus,CY,CYP,Europe,Europe & Central Asia,22821.38,758363,78.54
+Denmark,DK,DNK,Europe,Europe & Central Asia,31805.54,5337416,76.90
+Estonia,EE,EST,Europe,Europe & Central Asia,11244.49,1379835,70.80
+Finland,FI,FIN,Europe,Europe & Central Asia,27171.97,5168595,77.76
+France,FR,FRA,Europe,Europe & Central Asia,28636.15,59381628,79.23
+Georgia,GE,GEO,Asia,Europe & Central Asia,2332.22,4777209,71.36
+Germany,DE,DEU,Europe,Europe & Central Asia,29726.88,82187909,78.21
+Greece,GR,GRC,Europe,Europe & Central Asia,20675.21,10559110,77.53
+Hungary,HU,HUN,Europe,Europe & Central Asia,13592.35,10137449,71.86
+Iceland,IS,ISL,Europe,Europe & Central Asia,31092.03,281043,79.72
+Ireland,IE,IRL,Europe,Europe & Central Asia,30827.98,3791690,76.66
+Italy,IT,ITA,Europe,Europe & Central Asia,27160.47,57719337,79.73
+Kazakhstan,KZ,KAZ,Asia,Europe & Central Asia,5366.02,15032140,63.56
+Latvia,LV,LVA,Europe,Europe & Central Asia,8649.22,2376178,70.57
+Lithuania,LT,LTU,Europe,Europe & Central Asia,9631.65,3654387,72.18
+Luxembourg,LU,LUX,Europe,Europe & Central Asia,63924.16,438777,77.82
+Macedonia FYR,MK,MKD,Europe,Europe & Central Asia,6975.62,2014512,73.01
+Malta,MT,MLT,Europe,Europe & Central Asia,20276.2,389947,78.06
+Moldova,MD,MDA,Europe,Europe & Central Asia,1692.09,4430654,66.76
+Montenegro,ME,MNE,Europe,Europe & Central Asia,6185.69,732302,74.89
+Netherlands,NL,NLD,Europe,Europe & Central Asia,33000.17,15907853,78.24
+Norway,NO,NOR,Europe,Europe & Central Asia,43174,4492400,78.76
+Poland,PL,POL,Europe,Europe & Central Asia,11680.79,38654164,73.91
+Portugal,PT,PRT,Europe,Europe & Central Asia,19609.73,10335597,76.84
+Romania,RO,ROU,Europe,Europe & Central Asia,7089.83,22451921,70.48
+Serbia,RS,SRB,Europe,Europe & Central Asia,6607.33,10117908,72.69
+Slovak Republic,SK,SVK,Europe,Europe & Central Asia,12689.76,5400320,73.19
+Slovenia,SI,SVN,Europe,Europe & Central Asia,19399.69,2010557,76.11
+Spain,ES,ESP,Europe,Europe & Central Asia,23410.16,40016081,79.34
+Sweden,SE,SWE,Europe,Europe & Central Asia,28659,8923569,79.84
+Switzerland,CH,CHE,Europe,Europe & Central Asia,34386.9,7266920,79.99
+Tajikistan,TJ,TJK,Asia,Europe & Central Asia,1001.5,6440732,63.54
+Turkey,TR,TUR,Asia,Europe & Central Asia,6803.29,65666677,69.97
+Turkmenistan,TM,TKM,Asia,Europe & Central Asia,3289.74,4518268,63.92
+Ukraine,UA,UKR,Europe,Europe & Central Asia,3700.35,49007559,67.79
+United Kingdom,GB,GBR,Europe,Europe & Central Asia,28644.71,59522468,78.04
+Uzbekistan,UZ,UZB,Asia,Europe & Central Asia,1635.22,24755519,66.99
+Australia,AU,AUS,Oceania,East Asia & Pacific,29241.51,19164620,79.93
+Brunei,BN,BRN,Asia,East Asia & Pacific,48020.35,336376,75.93
+Cambodia,KH,KHM,Asia,East Asia & Pacific,833.36,12466262,57.08
+China,CN,CHN,Asia,East Asia & Pacific,3012.12,1262645000,71.29
+Fiji,FJ,FJI,Oceania,East Asia & Pacific,3856.32,832494,67.28
+French Polynesia,PF,PYF,Oceania,East Asia & Pacific,24659.01,249110,72.24
+Hong Kong,HK,HKG,Asia,East Asia & Pacific,29972.38,6658720,80.83
+Indonesia,ID,IDN,Asia,East Asia & Pacific,2714.94,206265000,67.41
+Japan,JP,JPN,Asia,East Asia & Pacific,28559.6,126699784,81.35
+Korea Dem Rep,KP,PRK,Asia,East Asia & Pacific,1690,21647682,66.96
+Korea Rep,KR,KOR,Asia,East Asia & Pacific,16996,47351083,75.92
+Macao,MO,MAC,Asia,East Asia & Pacific,22512.56,431338,79.04
+Malaysia,MY,MYS,Asia,East Asia & Pacific,10161.49,21793293,72.50
+Micronesia,FM,FSM,Oceania,East Asia & Pacific,5530.16,107754,67.29
+Mongolia,MN,MNG,Asia,East Asia & Pacific,2017.51,2600835,64.19
+Myanmar,MM,MMR,Asia,East Asia & Pacific,1034.45,44702243,59.94
+New Caledonia,NC,NCL,Oceania,East Asia & Pacific,33884.5,201816,73.92
+New Zealand,NZ,NZL,Oceania,East Asia & Pacific,21895.16,3819762,78.90
+Papua New Guinea,PG,PNG,Oceania,East Asia & Pacific,1821.68,4926984,57.74
+Philippines,PH,PHL,Asia,East Asia & Pacific,2598.89,79739825,69.49
+Samoa,WS,WSM,Oceania,East Asia & Pacific,4090.83,179466,69.28
+Singapore,SG,SGP,Asia,East Asia & Pacific,36834.85,4036753,77.93
+Solomon Islands,SB,SLB,Oceania,East Asia & Pacific,1802.02,466194,62.15
+Taiwan,TW,TWN,Asia,East Asia & Pacific,23525,22151237,76.07
+Thailand,TH,THA,Asia,East Asia & Pacific,5578.4,61862928,68.09
+Timor-Leste,TL,TLS,Oceania,East Asia & Pacific,2743.19,846599,56.23
+Tonga,TO,TON,Oceania,East Asia & Pacific,4886.27,102321,70.75
+Vietnam,VN,VNM,Asia,East Asia & Pacific,1577.53,79060410,72.08
+Vanuatu,VU,VUT,Oceania,East Asia & Pacific,3762.19,189618,67.42
