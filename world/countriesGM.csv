@@ -45,11 +45,13 @@ Christmas Island,CX,CXR,Asia,East Asia & Pacific,105.690449,-10.447525
 Cocos (Keeling) Islands,CC,CCK,Asia,East Asia & Pacific,96.88,-12.14
 Colombia,CO,COL,South America,America,-74.297333,4.570868
 Comoros,KM,COM,Africa,Sub-Saharan Africa,43.872219,-11.875001
+"Congo, Rep.",CG,COG,Africa,Sub-Saharan Africa,15.827659,-0.228021
 "Congo, Republic",CG,COG,Africa,Sub-Saharan Africa,15.827659,-0.228021
 "Congo, Dem. Rep.",CD,COD,Africa,Sub-Saharan Africa,15.827659,-0.228021
 Cook Islands,CK,COK,Oceania,East Asia & Pacific,-159.777671,-21.236736
 Costa Rica,CR,CRI,North America,America,-83.753428,9.748917
 Cote D'Ivoire,CI,CIV,Africa,Sub-Saharan Africa,-5.54708,7.539989
+Cote d'Ivoire,CI,CIV,Africa,Sub-Saharan Africa,-5.54708,7.539989
 Croatia,HR,HRV,Europe,Europe & Central Asia,15.2,45.1
 Cuba,CU,CUB,North America,America,-77.781167,21.521757
 Cyprus,CY,CYP,Europe,Europe & Central Asia,33.429859,35.126413
@@ -89,6 +91,7 @@ Guinea,GN,GIN,Africa,Sub-Saharan Africa,-9.696645,9.945587
 Guinea-Bissau,GW,GNB,Africa,Sub-Saharan Africa,-15.180413,11.803749
 Guyana,GY,GUY,South America,America,-58.93018,4.860416
 Haiti,HT,HTI,North America,America,-72.285215,18.971187
+Holy See,VA,VAT,Europe,Europe & Central Asia,12.452,41.911
 Holy See (Vatican City State),VA,VAT,Europe,Europe & Central Asia,12.452,41.911
 Honduras,HN,HND,North America,America,-86.241905,15.199999
 "Hong Kong, China",HK,HKG,Asia,East Asia & Pacific,114.109497,22.396428
@@ -110,10 +113,14 @@ Kazakhstan,KZ,KAZ,Asia,Europe & Central Asia,66.923684,48.019573
 Kenya,KE,KEN,Africa,Sub-Saharan Africa,37.906193,-0.023559
 Kiribati,KI,KIR,Oceania,East Asia & Pacific,-168.734039,-3.370417
 "Korea, Dem. Republic",KP,PRK,Asia,East Asia & Pacific,127,40
+North Korea,KP,PRK,Asia,East Asia & Pacific,127,40
 "Korea, Republic",KR,KOR,Asia,East Asia & Pacific,126.9667,37.55
+South Korea,KR,KOR,Asia,East Asia & Pacific,126.9667,37.55
 Kuwait,KW,KWT,Asia,Middle East & North Africa,47.481766,29.31166
+Kyrgyz Republic,KG,KGZ,Asia,Europe & Central Asia,74.766098,41.20438
 Kyrgyzstan,KG,KGZ,Asia,Europe & Central Asia,74.766098,41.20438
 Laos,LA,LAO,Asia,East Asia & Pacific,102.495496,19.85627
+Lao,LA,LAO,Asia,East Asia & Pacific,102.495496,19.85627
 Latvia,LV,LVA,Europe,Europe & Central Asia,24.603189,56.879635
 Lebanon,LB,LBN,Asia,Middle East & North Africa,35.862285,33.854721
 Lesotho,LS,LSO,Africa,Sub-Saharan Africa,28.233608,-29.609988
@@ -123,6 +130,7 @@ Liechtenstein,LI,LIE,Europe,Europe & Central Asia,9.555373,47.166
 Lithuania,LT,LTU,Europe,Europe & Central Asia,23.881275,55.169438
 Luxembourg,LU,LUX,Europe,Europe & Central Asia,6.129583,49.815273
 "Macao, China",MO,MAC,Asia,East Asia & Pacific,113.543873,22.198745
+North Macedonia,MK,MKD,Europe,Europe & Central Asia,21.745275,41.608635
 "Macedonia, FYR",MK,MKD,Europe,Europe & Central Asia,21.745275,41.608635
 Madagascar,MG,MDG,Africa,Sub-Saharan Africa,46.869107,-18.766947
 Malawi,MW,MWI,Africa,Sub-Saharan Africa,34.301525,-13.254308
@@ -163,6 +171,7 @@ Oman,OM,OMN,Asia,Middle East & North Africa,55.923255,21.512583
 Pakistan,PK,PAK,Asia,South Asia,69.345116,30.375321
 Palau,PW,PLW,Oceania,East Asia & Pacific,134.58252,7.51498
 "Palestinian Territory, Occupied",PS,PSE,Asia,Middle East & North Africa,17.266614,42.094445
+Palestine,PS,PSE,Asia,Middle East & North Africa,17.266614,42.094445
 Panama,PA,PAN,North America,America,-80.782127,8.537981
 Papua New Guinea,PG,PNG,Oceania,East Asia & Pacific,143.95555,-6.314993
 Paraguay,PY,PRY,South America,America,-58.443832,-23.442503
@@ -180,9 +189,12 @@ Rwanda,RW,RWA,Africa,Sub-Saharan Africa,29.873888,-1.940278
 Saint Barthelemy,BL,BLM,North America,America,-62.833,17.9
 "Saint Helena, Ascension and Tristan da Cunha",SH,SHN,Africa,Sub-Saharan Africa,-10.030696,-24.143474
 Saint Kitts and Nevis,KN,KNA,North America,America,-62.782998,17.357822
+St. Kitts and Nevis,KN,KNA,North America,America,-62.782998,17.357822
+St. Lucia,LC,LCA,North America,America,-60.978893,13.909444
 Saint Lucia,LC,LCA,North America,America,-60.978893,13.909444
 Saint Martin (French part),MF,MAF,North America,America,5.885031,43.589046
 Saint Pierre and Miquelon,PM,SPM,North America,America,-56.27111,46.941936
+St. Vincent and the Grenadines,VC,VCT,North America,America,-61.287228,12.984305
 Saint Vincent and the Grenadines,VC,VCT,North America,America,-61.287228,12.984305
 Samoa,WS,WSM,Oceania,East Asia & Pacific,-172.104629,-13.759029
 San Marino,SM,SMR,Europe,Europe & Central Asia,12.457777,43.94236
@@ -195,6 +207,7 @@ Seychelles,SC,SYC,Africa,Sub-Saharan Africa,55.491977,-4.679574
 Sierra Leone,SL,SLE,Africa,Sub-Saharan Africa,-11.779889,8.460555
 Singapore,SG,SGP,Asia,East Asia & Pacific,103.819836,1.352083
 Slovak republic,SK,SVK,Europe,Europe & Central Asia,19.699024,48.669026
+Slovak Republic,SK,SVK,Europe,Europe & Central Asia,19.699024,48.669026
 Slovenia,SI,SVN,Europe,Europe & Central Asia,14.995463,46.151241
 Solomon Islands,SB,SLB,Oceania,East Asia & Pacific,160.156194,-9.64571
 Somalia,SO,SOM,Africa,Sub-Saharan Africa,46.199616,5.152149
@@ -204,10 +217,12 @@ Sri Lanka,LK,LKA,Asia,South Asia,80.771797,7.873054
 Sudan,SD,SDN,Africa,Sub-Saharan Africa,30.217636,12.862807
 Suriname,SR,SUR,South America,America,-56.027783,3.919305
 Svalbard and Jan Mayen,SJ,SJM,Europe,Europe & Central Asia,23.670272,77.553604
+Eswatini,SZ,SWZ,Africa,Sub-Saharan Africa,31.465866,-26.522503
 Swaziland,SZ,SWZ,Africa,Sub-Saharan Africa,31.465866,-26.522503
 Sweden,SE,SWE,Europe,Europe & Central Asia,18.643501,60.128161
 Switzerland,CH,CHE,Europe,Europe & Central Asia,8.227512,46.818188
 Syria,SY,SYR,Asia,Middle East & North Africa,38.996815,34.802075
+Taiwan,TW,TWN,Asia,East Asia & Pacific,120.960515,23.69781
 "Taiwan, Province of China",TW,TWN,Asia,East Asia & Pacific,120.960515,23.69781
 Tajikistan,TJ,TJK,Asia,Europe & Central Asia,71.276093,38.861034
 Tanzania,TZ,TZA,Africa,Sub-Saharan Africa,34.888822,-6.369028
@@ -225,8 +240,11 @@ Tuvalu,TV,TUV,Oceania,East Asia & Pacific,177.64933,-7.109535
 Uganda,UG,UGA,Africa,Sub-Saharan Africa,32.290275,1.373333
 Ukraine,UA,UKR,Europe,Europe & Central Asia,31.16558,48.379433
 United Arab Emirates,AE,ARE,Asia,Middle East & North Africa,53.847818,23.424076
+UAE,AE,ARE,Asia,Middle East & North Africa,53.847818,23.424076
 United Kingdom,GB,GBR,Europe,Europe & Central Asia,-1.435973,52.378051
+UK,GB,GBR,Europe,Europe & Central Asia,-1.435973,52.378051
 United States,US,USA,North America,America,-95.712891,37.09024
+USA,US,USA,North America,America,-95.712891,37.09024
 United States Minor Outlying Islands,UM,UMI,Oceania,East Asia & Pacific,-167.594906,24.747346
 Uruguay,UY,URY,South America,America,-55.765835,-32.522779
 Uzbekistan,UZ,UZB,Asia,Europe & Central Asia,64.585262,41.377491
