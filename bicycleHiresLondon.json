@@ -803,5 +803,10 @@
    "Month": "2023-11",
    "NumberOfHires": 664981,
    "AvHireTime": 15
+ },
+ {
+   "Month": "2023-12",
+   "NumberOfHires": 558837,
+   "AvHireTime": 16
  }
 ]
