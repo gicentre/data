@@ -47,14 +47,19 @@ Colombia,CO,COL,South America,America,-74.297333,4.570868
 Comoros,KM,COM,Africa,Sub-Saharan Africa,43.872219,-11.875001
 "Congo, Rep.",CG,COG,Africa,Sub-Saharan Africa,15.827659,-0.228021
 "Congo, Republic",CG,COG,Africa,Sub-Saharan Africa,15.827659,-0.228021
+Congo (Brazzaville),CG,COG,Africa,Sub-Saharan Africa,15.827659,-0.228021
 "Congo, Dem. Rep.",CD,COD,Africa,Sub-Saharan Africa,15.827659,-0.228021
+Congo (Kinshasa),CD,COD,Africa,Sub-Saharan Africa,15.827659,-0.228021
 Cook Islands,CK,COK,Oceania,East Asia & Pacific,-159.777671,-21.236736
 Costa Rica,CR,CRI,North America,America,-83.753428,9.748917
+Ivory Coast,CI,CIV,Africa,Sub-Saharan Africa,-5.54708,7.539989
 Cote D'Ivoire,CI,CIV,Africa,Sub-Saharan Africa,-5.54708,7.539989
 Cote d'Ivoire,CI,CIV,Africa,Sub-Saharan Africa,-5.54708,7.539989
 Croatia,HR,HRV,Europe,Europe & Central Asia,15.2,45.1
 Cuba,CU,CUB,North America,America,-77.781167,21.521757
 Cyprus,CY,CYP,Europe,Europe & Central Asia,33.429859,35.126413
+North Cyprus,CY,CYP,Europe,Europe & Central Asia,33.429859,35.126413
+Czechia,CZ,CZE,Europe,Europe & Central Asia,15.472962,49.817492
 Czech Republic,CZ,CZE,Europe,Europe & Central Asia,15.472962,49.817492
 Denmark,DK,DNK,Europe,Europe & Central Asia,9.501785,56.26392
 Djibouti,DJ,DJI,Africa,Middle East & North Africa,42.590275,11.825138
@@ -95,6 +100,7 @@ Holy See,VA,VAT,Europe,Europe & Central Asia,12.452,41.911
 Holy See (Vatican City State),VA,VAT,Europe,Europe & Central Asia,12.452,41.911
 Honduras,HN,HND,North America,America,-86.241905,15.199999
 "Hong Kong, China",HK,HKG,Asia,East Asia & Pacific,114.109497,22.396428
+Hong Kong S.A.R. of China,HK,HKG,Asia,East Asia & Pacific,114.109497,22.396428
 Hungary,HU,HUN,Europe,Europe & Central Asia,19.503304,47.162494
 Iceland,IS,ISL,Europe,Europe & Central Asia,-19.020835,64.963051
 India,IN,IND,Asia,South Asia,78.96288,20.593684
@@ -132,6 +138,7 @@ Lithuania,LT,LTU,Europe,Europe & Central Asia,23.881275,55.169438
 Luxembourg,LU,LUX,Europe,Europe & Central Asia,6.129583,49.815273
 "Macao, China",MO,MAC,Asia,East Asia & Pacific,113.543873,22.198745
 North Macedonia,MK,MKD,Europe,Europe & Central Asia,21.745275,41.608635
+Macedonia,MK,MKD,Europe,Europe & Central Asia,21.745275,41.608635
 "Macedonia, FYR",MK,MKD,Europe,Europe & Central Asia,21.745275,41.608635
 Madagascar,MG,MDG,Africa,Sub-Saharan Africa,46.869107,-18.766947
 Malawi,MW,MWI,Africa,Sub-Saharan Africa,34.301525,-13.254308
@@ -171,7 +178,9 @@ Norway,NO,NOR,Europe,Europe & Central Asia,8.468946,60.472024
 Oman,OM,OMN,Asia,Middle East & North Africa,55.923255,21.512583
 Pakistan,PK,PAK,Asia,South Asia,69.345116,30.375321
 Palau,PW,PLW,Oceania,East Asia & Pacific,134.58252,7.51498
+Palestinian Territories,PS,PSE,Asia,Middle East & North Africa,17.266614,42.094445
 "Palestinian Territory, Occupied",PS,PSE,Asia,Middle East & North Africa,17.266614,42.094445
+State of Palestine,PS,PSE,Asia,Middle East & North Africa,17.266614,42.094445
 Palestine,PS,PSE,Asia,Middle East & North Africa,17.266614,42.094445
 Panama,PA,PAN,North America,America,-80.782127,8.537981
 Papua New Guinea,PG,PNG,Oceania,East Asia & Pacific,143.95555,-6.314993
@@ -207,11 +216,13 @@ Serbia and Montenegro,RS,SRB,Europe,Europe & Central Asia,21.005859,44.016521
 Seychelles,SC,SYC,Africa,Sub-Saharan Africa,55.491977,-4.679574
 Sierra Leone,SL,SLE,Africa,Sub-Saharan Africa,-11.779889,8.460555
 Singapore,SG,SGP,Asia,East Asia & Pacific,103.819836,1.352083
+Slovakia,SK,SVK,Europe,Europe & Central Asia,19.699024,48.669026
 Slovak republic,SK,SVK,Europe,Europe & Central Asia,19.699024,48.669026
 Slovak Republic,SK,SVK,Europe,Europe & Central Asia,19.699024,48.669026
 Slovenia,SI,SVN,Europe,Europe & Central Asia,14.995463,46.151241
 Solomon Islands,SB,SLB,Oceania,East Asia & Pacific,160.156194,-9.64571
 Somalia,SO,SOM,Africa,Sub-Saharan Africa,46.199616,5.152149
+Somaliland region,SO,SOM,Africa,Sub-Saharan Africa,46.199616,5.152149
 South Africa,ZA,ZAF,Africa,Sub-Saharan Africa,22.937506,-30.559482
 Spain,ES,ESP,Europe,Europe & Central Asia,-3.74922,40.463667
 Sri Lanka,LK,LKA,Asia,South Asia,80.771797,7.873054
@@ -220,11 +231,13 @@ South Sudan,SS,SSD,Africa,Sub-Saharan Africa,31.6,4.85
 Suriname,SR,SUR,South America,America,-56.027783,3.919305
 Svalbard and Jan Mayen,SJ,SJM,Europe,Europe & Central Asia,23.670272,77.553604
 Eswatini,SZ,SWZ,Africa,Sub-Saharan Africa,31.465866,-26.522503
+"Eswatini, Kingdom of",SZ,SWZ,Africa,Sub-Saharan Africa,31.465866,-26.522503
 Swaziland,SZ,SWZ,Africa,Sub-Saharan Africa,31.465866,-26.522503
 Sweden,SE,SWE,Europe,Europe & Central Asia,18.643501,60.128161
 Switzerland,CH,CHE,Europe,Europe & Central Asia,8.227512,46.818188
 Syria,SY,SYR,Asia,Middle East & North Africa,38.996815,34.802075
 Taiwan,TW,TWN,Asia,East Asia & Pacific,120.960515,23.69781
+Taiwan Province of China,TW,TWN,Asia,East Asia & Pacific,120.960515,23.69781
 "Taiwan, Province of China",TW,TWN,Asia,East Asia & Pacific,120.960515,23.69781
 Tajikistan,TJ,TJK,Asia,Europe & Central Asia,71.276093,38.861034
 Tanzania,TZ,TZA,Africa,Sub-Saharan Africa,34.888822,-6.369028
