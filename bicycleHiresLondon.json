@@ -808,5 +808,40 @@
    "Month": "2023-12",
    "NumberOfHires": 558837,
    "AvHireTime": 16
+ },
+ {
+   "Month": "2024-01",
+   "NumberOfHires": 558837,
+   "AvHireTime": 15
+ }, 
+ {
+   "Month": "2024-02",
+   "NumberOfHires": 568039,
+   "AvHireTime": 15
+ }, 
+ {
+   "Month": "2024-03",
+   "NumberOfHires": 647372,
+   "AvHireTime": 16
+ }, 
+ {
+   "Month": "2024-04",
+   "NumberOfHires": 685246,
+   "AvHireTime": 16
+ }, 
+ {
+   "Month": "2024-05",
+   "NumberOfHires": 822970,
+   "AvHireTime": 18
+ }, 
+ {
+   "Month": "2024-06",
+   "NumberOfHires": 869330,
+   "AvHireTime": 19
+ }, 
+ {
+   "Month": "2024-07",
+   "NumberOfHires": 883624,
+   "AvHireTime": 19
  }
 ]
