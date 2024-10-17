@@ -843,5 +843,10 @@
    "Month": "2024-07",
    "NumberOfHires": 883624,
    "AvHireTime": 19
+ },
+ {
+   "Month": "2024-08",
+   "NumberOfHires": 871999,
+   "AvHireTime": 19
  }
 ]
