@@ -1,4 +1,4 @@
-﻿countryName,a2,a3,continent,region,subRegion,longitude,latitude,gridCol,gridRow
+countryName,a2,a3,continent,region,subRegion,longitude,latitude,gridCol,gridRow
 Afghanistan,AF,AFG,Asia,Asia,Southern Asia,67.709953,33.93911,22,8
 Albania,AL,ALB,Europe,Europe,Southern Europe,20.168331,41.153332,15,9
 Algeria,DZ,DZA,Africa,Africa,Northern Africa,1.659626,28.033886,13,11
@@ -51,9 +51,11 @@ Comoros,KM,COM,Africa,Africa,Eastern Africa,43.872219,-11.875001,18,18
 "Congo, Dem. Rep.",CD,COD,Africa,Africa,Middle Africa,15.827659,-0.228021,15,15
 Cook Islands,CK,COK,Oceania,Oceania,Polynesia,-159.777671,-21.236736,-1,-1
 Costa Rica,CR,CRI,North America,Americas,Central America,-83.753428,9.748917,3,12
+Ivory Coast,CI,CIV,Africa,Africa,Western Africa,-5.54708,7.539989,12,15
 Cote D'Ivoire,CI,CIV,Africa,Africa,Western Africa,-5.54708,7.539989,12,15
 Croatia,HR,HRV,Europe,Europe,Southern Europe,15.2,45.1,14,7
 Cuba,CU,CUB,North America,Americas,Caribbean,-77.781167,21.521757,4,8
+Curacao,CW,CUW,North America,Americas,Caribbean,-68.933,12.117,-1,-1
 Cyprus,CY,CYP,Europe,Asia,Western Asia,33.429859,35.126413,16,10
 Czech Republic,CZ,CZE,Europe,Europe,Eastern Europe,15.472962,49.817492,15,5
 Denmark,DK,DNK,Europe,Europe,Northern Europe,9.501785,56.26392,14,3
@@ -113,8 +115,11 @@ Jordan,JO,JOR,Asia,Asia,Western Asia,36.238414,30.585164,18,8
 Kazakhstan,KZ,KAZ,Asia,Asia,Central Asia,66.923684,48.019573,24,5
 Kenya,KE,KEN,Africa,Africa,Eastern Africa,37.906193,-0.023559,17,15
 Kiribati,KI,KIR,Oceania,Oceania,Micronesia,-168.734039,-3.370417,27,17
+North Korea,KP,PRK,Asia,Asia,Eastern Asia,127,40,25,6
 "Korea, Dem. Republic",KP,PRK,Asia,Asia,Eastern Asia,127,40,25,6
+South Korea,KR,KOR,Asia,Asia,Eastern Asia,126.9667,37.55,25,7
 "Korea, Republic",KR,KOR,Asia,Asia,Eastern Asia,126.9667,37.55,25,7
+Kosovo,XK,XKX,Europe,Europe,Southern Europe,21.167,42.667,16,8
 Kuwait,KW,KWT,Asia,Asia,Western Asia,47.481766,29.31166,19,8
 Kyrgyzstan,KG,KGZ,Asia,Asia,Central Asia,74.766098,41.20438,23,6
 Laos,LA,LAO,Asia,Asia,South-Eastern Asia,102.495496,19.85627,25,9
@@ -185,7 +190,9 @@ Saint Barthelemy,BL,BLM,North America,Americas,Caribbean,-62.833,17.9,-1,-1
 "Saint Helena, Ascension and Tristan da Cunha",SH,SHN,Africa,Africa,Middle Africa,-10.030696,-24.143474,-1,-1
 Saint Kitts and Nevis,KN,KNA,North America,Americas,Caribbean,-62.782998,17.357822,6,10
 Saint Lucia,LC,LCA,North America,Americas,Caribbean,-60.978893,13.909444,7,10
-Saint Martin (French part),MF,MAF,North America,Americas,Caribbean,5.885031,43.589046,-1,-1
+Saint Martin,MF,MAF,North America,Americas,Caribbean,-63.137,18.12183,-1,-1
+Sint Maarten,SX,SXM,North America,Americas,Caribbean,-63.05,18.033,-1,-1
+Saint Martin (French part),MF,MAF,North America,Americas,Caribbean,-63.137,18.12183,-1,-1
 Saint Pierre and Miquelon,PM,SPM,North America,Americas,Northern America,-56.27111,46.941936,-1,-1
 Saint Vincent and the Grenadines,VC,VCT,North America,Americas,Caribbean,-61.287228,12.984305,7,11
 Samoa,WS,WSM,Oceania,Oceania,Polynesia,-172.104629,-13.759029,28,18
@@ -198,6 +205,7 @@ Serbia and Montenegro,RS,SRB,Europe,Europe,Southern Europe,21.005859,44.016521,1
 Seychelles,SC,SYC,Africa,Africa,Eastern Africa,55.491977,-4.679574,18,17
 Sierra Leone,SL,SLE,Africa,Africa,Western Africa,-11.779889,8.460555,12,13
 Singapore,SG,SGP,Asia,Asia,South-Eastern Asia,103.819836,1.352083,24,13
+Slovakia,SK,SVK,Europe,Europe,Eastern Europe,19.699024,48.669026,16,5
 Slovak republic,SK,SVK,Europe,Europe,Eastern Europe,19.699024,48.669026,16,5
 Slovenia,SI,SVN,Europe,Europe,Southern Europe,14.995463,46.151241,14,6
 Solomon Islands,SB,SLB,Oceania,Oceania,Melanesia,160.156194,-9.64571,26,18
@@ -213,10 +221,12 @@ Swaziland,SZ,SWZ,Africa,Africa,Southern Africa,31.465866,-26.522503,16,19
 Sweden,SE,SWE,Europe,Europe,Northern Europe,18.643501,60.128161,15,2
 Switzerland,CH,CHE,Europe,Europe,Western Europe,8.227512,46.818188,14,5
 Syria,SY,SYR,Asia,Asia,Western Asia,38.996815,34.802075,19,7
+Taiwan,TW,TWN,Asia,Asia,Eastern Asia,120.960515,23.69781,27,8
 "Taiwan, Province of China",TW,TWN,Asia,Asia,Eastern Asia,120.960515,23.69781,27,8
 Tajikistan,TJ,TJK,Asia,Asia,Central Asia,71.276093,38.861034,23,7
 Tanzania,TZ,TZA,Africa,Africa,Eastern Africa,34.888822,-6.369028,17,16
 Thailand,TH,THA,Asia,Asia,South-Eastern Asia,100.992541,15.870032,24,10
+East Timor,TL,TLS,Oceania,Asia,South-Eastern Asia,125.727539,-8.874217,25,14
 Timor-Leste,TL,TLS,Oceania,Asia,South-Eastern Asia,125.727539,-8.874217,25,14
 Togo,TG,TGO,Africa,Africa,Western Africa,0.824782,8.619543,14,14
 Tokelau,TK,TKL,Oceania,Oceania,Polynesia,-171.855881,-8.967363,-1,-1
@@ -239,6 +249,7 @@ Vanuatu,VU,VUT,Oceania,Oceania,Melanesia,166.959158,-15.376706,26,19
 Venezuela,VE,VEN,South America,Americas,South America,-66.58973,6.42375,6,14
 Vietnam,VN,VNM,Asia,Asia,South-Eastern Asia,108.277199,14.058324,26,9
 "Virgin Islands, British",VG,VGB,North America,Americas,Caribbean,-64.896335,18.335765,-1,-1
+"Virgin Islands, U.S.",VI,VIR,North America,Americas,Caribbean,-64.896335,18.335765,-1,-1
 Virgin Islands (U.S.),VI,VIR,North America,Americas,Caribbean,-64.896335,18.335765,-1,-1
 Wallis and Futuna,WF,WLF,Oceania,Oceania,Melanesia,-177.156097,-13.768752,-1,-1
 West Bank and Gaza,PS,PSE,Asia,Asia,Western Asia,35,32.33,17,10
