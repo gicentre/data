@@ -847,6 +847,21 @@
  {
    "Month": "2024-08",
    "NumberOfHires": 871999,
-   "AvHireTime": 19
+   "AvHireTime": 18
+ },
+ {
+   "Month": "2024-09",
+   "NumberOfHires": 791965,
+   "AvHireTime": 17
+ },
+ {
+   "Month": "2024-10",
+   "NumberOfHires": 830977,
+   "AvHireTime": 16
+ },
+ {
+   "Month": "2024-11",
+   "NumberOfHires": 711622,
+   "AvHireTime": 15
  }
 ]
