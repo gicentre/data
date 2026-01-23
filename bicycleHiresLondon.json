@@ -908,5 +908,25 @@
    "Month": "2025-08",
    "NumberOfHires": 804598,
    "AvHireTime": 20
+ },
+ {
+   "Month": "2025-09",
+   "NumberOfHires": 866359,
+   "AvHireTime": 18
+ },
+ {
+   "Month": "2025-10",
+   "NumberOfHires": 830472,
+   "AvHireTime": 18
+ },
+ {
+   "Month": "2025-11",
+   "NumberOfHires": 713012,
+   "AvHireTime": 16
+ },
+ {
+   "Month": "2025-12",
+   "NumberOfHires": 558556,
+   "AvHireTime": 16
  }
 ]
